@@ -11,7 +11,7 @@ import sys
 import urllib.parse
 import urllib.request
 import http.cookiejar
-from datetime import datetime, date, timezone
+from datetime import datetime, date, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 TZ = ZoneInfo("America/Los_Angeles")
@@ -199,7 +199,7 @@ def felton():
 
 # Breweries and bars mix bands with trivia, food pop-ups, etc. Drop the obvious non-music nights.
 NOT_MUSIC = re.compile(r"pizza|karaoke|line danc|belly danc|social dance|comedy|trivia|mixer|roll call|"
-                       r"keg of honor|bingo|food truck|yoga|run club|market", re.I)
+                       r"keg of honor|bingo|food truck|yoga|run club|market|art night|tie dye|game night|movie", re.I)
 
 
 def music_only(events):
@@ -272,6 +272,77 @@ def el_vaquero():
     return music_only(out)
 
 
+def _repeats(start, rule, horizon):
+    """Expand a Boom Calendar repeat rule into dates (start included)."""
+    kind, step = rule.get("type"), int(rule.get("interval") or 1)
+    if not kind:
+        return [start]
+    end = str(rule.get("end") or "")
+    until, count = (date.fromisoformat(end[:10]), None) if "-" in end else (horizon, int(end or 0) or None)
+    until = min(until, horizon)
+    nth = (start.day - 1) // 7  # e.g. 3rd Saturday -> 2
+    by_weekday = str(rule.get("advanced")).strip("[]'\" ") == "1"
+    out, i = [], 0
+    while True:
+        if kind == "Week":
+            d = start + timedelta(weeks=i * step)
+        else:
+            y, m = divmod(start.month - 1 + i * step, 12)
+            y, m = start.year + y, m + 1
+            if by_weekday:
+                first = date(y, m, 1)
+                d = first + timedelta(days=(start.weekday() - first.weekday()) % 7 + 7 * nth)
+                if d.month != m:
+                    i += 1
+                    continue
+            else:
+                try:
+                    d = date(y, m, start.day)
+                except ValueError:
+                    i += 1
+                    continue
+        if d > until or (count and i >= count):
+            break
+        out.append(d)
+        i += 1
+    skip = set(rule.get("exclude") or [])
+    extra = [date.fromisoformat(x[:10]) for x in rule.get("additionalDates") or []]
+    return [d for d in out if d.isoformat() not in skip] + extra
+
+
+def shanty_shack():
+    """Their Wix site embeds a Boom Calendar; its feed needs a per-visit Wix access token."""
+    get("https://www.shantyshackbrewing.com/events")
+    tokens = json.loads(get("https://www.shantyshackbrewing.com/_api/v1/access-tokens"))
+    instance = tokens["apps"]["13b4a028-00fa-7133-242f-4628106b8c91"]["instance"]
+    q = urllib.parse.urlencode({"comp_id": "comp-l323yc00", "instance": instance,
+                                "originCompId": "", "time_zone": "America/Los_Angeles"})
+    cal = json.loads(get("https://calendar.apiboomtech.com/api/published_calendar?" + q,
+                         headers={"Origin": "https://calendar.boomte.ch", "Referer": "https://calendar.boomte.ch/"}))
+    today = date.today()
+    horizon = date(today.year + 1, today.month, 1)
+    out = []
+    for e in cal.get("events", []):
+        start = datetime.fromisoformat(e["start"]) if "T" in e["start"] else datetime.fromisoformat(e["start"] + "T00:00")
+        rule = e.get("repeat") if isinstance(e.get("repeat"), dict) else {}
+        link = e.get("link") if str(e.get("link")).startswith("http") else "https://www.shantyshackbrewing.com/events"
+        info = clean(e.get("desc"))
+        for d in _repeats(start.date(), rule, horizon):
+            if d >= today:
+                out.append(event("Shanty Shack Brewing", clean(e.get("title")), d,
+                                 None if e.get("all_day") == "1" or "T" not in e["start"] else start.strftime("%H:%M"),
+                                 link, None, info or None, e.get("image")))
+    return music_only(out)
+
+
+def shanty_shack_with_fallback():
+    try:
+        return shanty_shack()
+    except Exception as ex:
+        print(f"  Shanty Shack calendar failed ({ex}); using LocalGroove", file=sys.stderr)
+        return localgroove("Shanty Shack Brewing", "/santa-cruz/venue/shanty-shack-brewing")
+
+
 VENUES = {
     "Catalyst": catalyst,
     "Moe's Alley": moes_alley,
@@ -285,7 +356,7 @@ VENUES = {
     "Discretion Brewing": discretion,
     "Mission West": mission_west,
     "El Vaquero Winery": el_vaquero,
-    "Shanty Shack": lambda: localgroove("Shanty Shack Brewing", "/santa-cruz/venue/shanty-shack-brewing"),
+    "Shanty Shack": shanty_shack_with_fallback,
 }
 
 

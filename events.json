@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T19:38-07:00",
+ "updated": "2026-09-28T19:44-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 20
+   "count": 31
   }
  ],
  "events": [
@@ -183,10 +183,10 @@
    "title": "Jug Band Jam with the Trolley Drops",
    "date": "2026-10-01",
    "time": "17:45",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-01-jug-band-jam-with-the-trolley-drops",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
    "venue": "Abbott Square",
@@ -197,16 +197,6 @@
    "price": null,
    "info": "Afrobeats Nite Santa Cruz is your bi-weekly dose of dance, rhythm, and pure vibes. Hosted by DJ Monk Earl at Abbott Square Market, it's…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1746040227117-OCPQZ129KMQRL7M3DUYT/1000000999.png"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Trianna Feruza & The Heavy Hitters",
-   "date": "2026-10-01",
-   "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-01-trianna-feruza-the-heavy-hitters",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Cat Alley Street",
@@ -313,10 +303,10 @@
    "title": "Arcane Lullaby",
    "date": "2026-10-02",
    "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-02-arcane-lullaby",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Arcane Lullaby is an original alternative rock band drawing inspiration from blues, goth, reggae, punk, funk, pop, prog, soul, metal,…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_57cc1ae998bd4030a1585712de032e30~mv2.jpg\"]"
   },
   {
    "venue": "Abbott Square",
@@ -433,10 +423,10 @@
    "title": "Krooked Jo",
    "date": "2026-10-03",
    "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-03-krooked-jo",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Krooked Jo is a jazz, funk, fusion band hailing from the Bay Area.",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_40d5560fdc134205a269b676ff9493a5~mv2.jpg\"]"
   },
   {
    "venue": "Mission West",
@@ -510,13 +500,13 @@
   },
   {
    "venue": "Shanty Shack Brewing",
-   "title": "CAYUGA JAZZ BAND",
+   "title": "Cayuga Jazz Band",
    "date": "2026-10-04",
    "time": "15:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-04-cayuga-jazz-band",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Cayuga Jazz Band Cayuga Jazz band plays classic jazz, swing and jazz standards, be-bop, bossa novas and other American improvisational…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_5a5eaeb00fb343728d766dd7dad11787~mv2.png\"]"
   },
   {
    "venue": "El Vaquero Winery",
@@ -779,6 +769,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_86d3dd353bec41ad84e8244c73d5434f~mv2.png"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Sick Behavior, Western Conflict, and BluntForceKarma",
+   "date": "2026-10-09",
+   "time": "18:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Punk rock triple bill. 6-9pm $8",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_34a9e61ddac748739679ac468ce029fc~mv2.jpg\"]"
+  },
+  {
    "venue": "Woodhouse",
    "title": "Brian Fitzgerald Jazz Trio",
    "date": "2026-10-09",
@@ -843,10 +843,10 @@
    "title": "The Jamissaries",
    "date": "2026-10-10",
    "time": "14:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-10-the-jamissaries",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "THE JAMISSARIES - Beer Brunch 2-5pm the 2nd Saturday of every month! Soulful Psychedelic, Funky Originals by Arindam Krishna Das and…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_bb95a50dbe2d42db93e68949d5586dda~mv2.jpg\"]"
   },
   {
    "venue": "Discretion Brewing",
@@ -883,10 +883,10 @@
    "title": "Rachel Spung & The Soul Service",
    "date": "2026-10-10",
    "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-10-rachel-spung-the-soul-service",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Rachel Spung & The Soul Service is a four-piece, female-fronted soul, pop, and RnB cover band featuring musicians from Monterey and San…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_c825dbe78df94bb9b54c29f915aa5723~mv2.jpg\"]"
   },
   {
    "venue": "Rio Theatre",
@@ -1003,10 +1003,10 @@
    "title": "Jahtiva with the Rudians",
    "date": "2026-10-11",
    "time": "15:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-11-jahtiva-with-the-rudians",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Jahtiva Mia Jativa, known as “Jahtiva” takes her semi-eponymous name from a clever play on words that translates to \"God's Flower.\" With…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_db61193115f949cb9b3f2e0c3a89a870~mv2.jpg\"]"
   },
   {
    "venue": "El Vaquero Winery",
@@ -1160,13 +1160,13 @@
   },
   {
    "venue": "Shanty Shack Brewing",
-   "title": "Heartfeast, War Extincion",
+   "title": "Heartfeast and War Extincion",
    "date": "2026-10-15",
    "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-15-heartfeast",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Heartfeast is an instrumental genre-fluid progressive rock and psychedelic chromesthesia rhythmic experience, War Extinction is an…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_3fc7e48dc9e541688d4641d7c9e243ea~mv2.jpg\"]"
   },
   {
    "venue": "Abbott Square",
@@ -1323,10 +1323,10 @@
    "title": "Rosebud",
    "date": "2026-10-17",
    "time": "14:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-17-rosebud",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Our monthly Grateful Dead night! Local favorite Rosebud also plays Bob Dylan, Neil Young, The Band, Van Morrison and more.",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
   },
   {
    "venue": "Discretion Brewing",
@@ -1350,13 +1350,13 @@
   },
   {
    "venue": "Shanty Shack Brewing",
-   "title": "Just Dandy, Problem Princess",
+   "title": "Just Dandy",
    "date": "2026-10-17",
    "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-17-just-dandy",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "EVERYBODY'S GONE is the latest album by local pop-punk/emo/jammy/rock band, JUST DANDY. It's a heavy, high energy, nostalgic, catchy,…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_769ef76fc49644c3a4c8e16acc27885c~mv2.jpg\"]"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -1443,10 +1443,10 @@
    "title": "The Upside",
    "date": "2026-10-18",
    "time": "15:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-18-the-upside",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Who We Are The Band: The Upside , a versatile cover band playing classic, highly recognizable hits from the 70's, 80s, 90s, and beyond.…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ce196e3853aa42d09fce862c29256ee7~mv2.jpg\"]"
   },
   {
    "venue": "El Vaquero Winery",
@@ -1633,10 +1633,10 @@
    "title": "The Beer Scouts",
    "date": "2026-10-22",
    "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-22-the-beer-scouts",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "The Beer Scouts are 3 great guys with 4 great chords! The Beer Scouts are an original act , but play lots of cover tunes as…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ee37dbbcd5c84712b399420676636909~mv2.jpeg\"]"
   },
   {
    "venue": "Abbott Square",
@@ -1720,13 +1720,13 @@
   },
   {
    "venue": "Shanty Shack Brewing",
-   "title": "Love Creek, The Jamissaries",
+   "title": "Love Creek with the Jamissaries",
    "date": "2026-10-23",
    "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-23-love-creek",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Local psychedelic rock band out of the Santa Cruz Mountains playing inventive originals and some well-known rock covers.",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_58fa464c33e34e79ba23f31a909d05c7~mv2.jpg\"]"
   },
   {
    "venue": "Abbott Square",
@@ -1790,13 +1790,13 @@
   },
   {
    "venue": "Shanty Shack Brewing",
-   "title": "Wartroll",
+   "title": "Orctoberfest 2026",
    "date": "2026-10-24",
    "time": "16:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-24-wartroll",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "On Saturday, October 24, 2026, 8 brutal metal and punk bands gather for the Ultimate Halloween Costume Party & Metal-Punk Concert with…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_5b2e638c132c4f9bb03e1559a2b64524~mv2.jpg\"]"
   },
   {
    "venue": "Discretion Brewing",
@@ -1893,10 +1893,10 @@
    "title": "Free To Be",
    "date": "2026-10-25",
    "time": "15:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-25-free-to-be",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Fee to Be is a genre-blending band from Santa Cruz, CA.",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_9060978083f249b691aed4816dfbb21a~mv2.webp\"]"
   },
   {
    "venue": "Woodhouse",
@@ -2123,10 +2123,10 @@
    "title": "Los Pendejos Imbéciles",
    "date": "2026-10-30",
    "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-10-30-los-pendejos-imbeciles",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "Los Pendejos Imbéciles don’t just play a show—they throw a party. This Santa Cruz rock outfit delivers an electric, highly visual…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_58fe639154c7424bb5bb27ae407894eb~mv2.jpeg\"]"
   },
   {
    "venue": "Abbott Square",
@@ -2453,20 +2453,10 @@
    "title": "Jug Band Jam with the Trolley Drops",
    "date": "2026-11-05",
    "time": "17:45",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-11-05-jug-band-jam-with-the-trolley-drops",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Trianna Feruza & The Heavy Hitters",
-   "date": "2026-11-05",
-   "time": "18:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-11-05-trianna-feruza-the-heavy-hitters",
-   "price": null,
-   "info": null,
-   "image": null
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -2803,10 +2793,10 @@
    "title": "The Jamissaries",
    "date": "2026-11-14",
    "time": "14:00",
-   "url": "https://www.localgroove.live/event/shanty-shack-brewing-2026-11-14-the-jamissaries",
+   "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": null,
-   "image": null
+   "info": "THE JAMISSARIES - Beer Brunch 2-5pm the 2nd Saturday of every month! Soulful Psychedelic, Funky Originals by Arindam Krishna Das and…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_bb95a50dbe2d42db93e68949d5586dda~mv2.jpg\"]"
   },
   {
    "venue": "Rio Theatre",
@@ -3027,6 +3017,16 @@
    "price": "$43",
    "info": "with Ivory Layne",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131412110"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "Rosebud",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Our monthly Grateful Dead night! Local favorite Rosebud also plays Bob Dylan, Neil Young, The Band, Van Morrison and more.",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
   },
   {
    "venue": "The Crepe Place",
@@ -3269,6 +3269,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788382269416-PVXK67KQY0DQIGE9S2QO/jug+band+at+crepe+Dec.pages.jpg"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2026-12-03",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Isaiah Sharkey",
    "date": "2026-12-03",
@@ -3509,6 +3519,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949029536807"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "The Jamissaries",
+   "date": "2026-12-12",
+   "time": "14:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "THE JAMISSARIES - Beer Brunch 2-5pm the 2nd Saturday of every month! Soulful Psychedelic, Funky Originals by Arindam Krishna Das and…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_bb95a50dbe2d42db93e68949d5586dda~mv2.jpg\"]"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Victor Wooten & the Wooten Brothers at the Rio Theatre",
    "date": "2026-12-12",
@@ -3629,6 +3649,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1762798284542-UISCJQN5P2ZGY23JEOSI/IMG_2266.jpg"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Rosebud",
+   "date": "2026-12-19",
+   "time": "14:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Our monthly Grateful Dead night! Local favorite Rosebud also plays Bob Dylan, Neil Young, The Band, Van Morrison and more.",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "The Jenny O'Leary Quartet",
    "date": "2026-12-19",
@@ -3667,6 +3697,16 @@
    "price": null,
    "info": "Doors 12:00 AM",
    "image": "https://i.ticketweb.com/i/00/13/03/10/44_Listings.jpg?v=5"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-01-07",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
    "venue": "Moe's Alley",
@@ -3849,6 +3889,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/the-cookers-cropped.jpg"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-02-04",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Nicole McCabe Quartet",
    "date": "2027-02-04",
@@ -4019,6 +4069,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/TYREEK_McDOLE-cropped.jpg"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-03-04",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "The Klezmatics",
    "date": "2027-03-05",
@@ -4089,6 +4149,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/cropped.jpg"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-04-01",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "FashionTeens 2027",
    "date": "2027-04-23",
@@ -4099,6 +4169,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1779301081386-XRWLJT73QGDLWJB9E367/riotheatre-51746988995179-6549607442521843628-Screenshot+2026-01-06+at+2.04.33%E2%80%AFPM.png"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-05-06",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Too Many Zooz: Audio Lipstick Tour",
    "date": "2027-05-10",
@@ -4107,6 +4187,36 @@
    "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007431354"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-06-03",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-07-01",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-08-05",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   }
  ]
 }
