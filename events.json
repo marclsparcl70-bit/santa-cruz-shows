@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T10:25-07:00",
+ "updated": "2026-09-29T10:26-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "venue": "Rio Theatre",
@@ -4017,6 +4017,16 @@
    "price": "$29",
    "info": "with Melissa Carper",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015629451"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Long Beach Dub Allstars",
+   "date": "2026-12-13",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/06/43/94_Listings.jpg?v=3"
   },
   {
    "venue": "Rio Theatre",
