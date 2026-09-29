@@ -1,0 +1,356 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+</head>
+<body>
+<title>Santa Cruz Shows</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;900&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@500&display=swap">
+<style>
+/* Layout: gig-listing column; each day is a row with a stamped date tab on the left and its shows stacked on the right. */
+:root {
+  --bg: #f3f1ec;
+  --paper: #fbfaf7;
+  --ink: #1d2733;
+  --muted: #5d6874;
+  --line: #d9d5cc;
+  --accent: #d2491f;       /* boardwalk sunset */
+  --sea: #1f6f78;
+  --v-catalyst: #b8321a;
+  --v-atrium: #c76a1b;
+  --v-moes: #6b4aa3;
+  --v-rio: #1f6f78;
+  --v-crepe: #3d7a2e;
+  --v-kuumbwa: #2c4f9e;
+  --v-felton: #8a5a2b;
+  --v-woodhouse: #7a6a12;
+  --v-abbott: #a8326e;
+  --v-discretion: #2f7d5b;
+  --v-mission: #4b5fb0;
+  --v-shanty: #9c4a3a;
+  --display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #141a20; --paper: #1b232b; --ink: #e9e6df; --muted: #9aa5b0; --line: #2d3843;
+  --accent: #f07a4c; --sea: #5fb7bf;
+  --v-catalyst: #f07a60; --v-atrium: #f0a55a; --v-moes: #b59ae8; --v-rio: #5fb7bf;
+  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; color-scheme: dark;
+} }
+:root[data-theme="dark"] {
+  --bg: #141a20; --paper: #1b232b; --ink: #e9e6df; --muted: #9aa5b0; --line: #2d3843;
+  --accent: #f07a4c; --sea: #5fb7bf;
+  --v-catalyst: #f07a60; --v-atrium: #f0a55a; --v-moes: #b59ae8; --v-rio: #5fb7bf;
+  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--body); }
+.wrap { max-width: 860px; margin: 0 auto; padding-inline: 16px; padding-block: 28px 64px; }
+
+header.top { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 8px 24px; padding-bottom: 14px; border-bottom: 3px solid var(--ink); }
+h1 { font: 900 clamp(44px, 9vw, 76px)/0.9 var(--display); text-transform: uppercase; letter-spacing: 0.01em; margin: 0; text-wrap: balance; }
+h1 span { color: var(--accent); }
+.meta { font: 500 12px/1.5 var(--mono); color: var(--muted); text-align: right; }
+.meta b { color: var(--ink); font-weight: 500; }
+
+.controls { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 12px; display: grid; gap: 10px; border-bottom: 1px solid var(--line); }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+#q { flex: 1 1 220px; min-width: 0; font: 500 15px var(--body); padding: 9px 12px; border: 1.5px solid var(--line); border-radius: 6px; background: var(--paper); color: var(--ink); }
+#q:focus-visible, button:focus-visible, a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.seg { display: inline-flex; border: 1.5px solid var(--ink); border-radius: 6px; overflow: hidden; }
+.seg button { font: 700 14px var(--display); letter-spacing: 0.08em; text-transform: uppercase; padding: 8px 12px; border: 0; background: transparent; color: var(--ink); cursor: pointer; }
+.seg button + button { border-left: 1.5px solid var(--ink); }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--bg); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { --c: var(--muted); font: 600 12.5px var(--body); padding: 5px 10px 5px 8px; border-radius: 999px; border: 1.5px solid var(--c); background: transparent; color: var(--ink); cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
+.chip::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.chip[aria-pressed="false"] { opacity: 0.45; border-style: dashed; }
+.chip .n { font: 500 11px var(--mono); color: var(--muted); }
+
+.day { display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: 16px; padding-block: 18px; border-bottom: 1px solid var(--line); }
+.stamp { text-align: center; align-self: start; position: sticky; top: calc(env(safe-area-inset-top, 0px) + var(--ctrl-h, 120px)); }
+.stamp .dow { font: 700 13px var(--display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); }
+.stamp .dnum { font: 900 44px/0.95 var(--display); }
+.stamp .mon { font: 700 13px var(--display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.stamp .rel { margin-top: 4px; font: 500 10px var(--mono); text-transform: uppercase; letter-spacing: 0.06em; color: var(--bg); background: var(--accent); border-radius: 3px; padding: 1px 4px; display: inline-block; }
+.shows { display: grid; gap: 4px; min-width: 0; }
+.show { display: grid; grid-template-columns: 58px minmax(0, 1fr); gap: 12px; padding: 8px 10px; border-radius: 6px; text-decoration: none; color: inherit; border-left: 3px solid var(--c, var(--muted)); background: var(--paper); }
+.show:hover { background: color-mix(in srgb, var(--c) 9%, var(--paper)); }
+.time { font: 500 13px/1.6 var(--mono); font-variant-numeric: tabular-nums; color: var(--muted); padding-top: 2px; }
+.title { font-weight: 600; font-size: 16px; line-height: 1.3; overflow-wrap: anywhere; }
+.sub { font-size: 13px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 2px 10px; margin-top: 2px; }
+.sub .v { color: var(--c); font-weight: 600; }
+.sub .p { font-family: var(--mono); font-size: 12px; }
+
+.viewseg button { padding-inline: 14px; }
+.calhead { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-block: 18px 10px; }
+.calhead h2 { font: 900 34px/1 var(--display); text-transform: uppercase; margin: 0; }
+.calhead h2 span { color: var(--muted); font-weight: 700; }
+.nav { display: flex; gap: 6px; }
+.nav button { font: 700 18px/1 var(--display); width: 38px; height: 34px; border: 1.5px solid var(--ink); border-radius: 6px; background: transparent; color: var(--ink); cursor: pointer; }
+.nav button:disabled { opacity: 0.3; cursor: default; }
+.grid { display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); border-top: 1.5px solid var(--ink); border-left: 1px solid var(--line); }
+.dh { font: 700 12px var(--display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); padding: 6px 6px 4px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.cell { min-height: 104px; padding: 5px 5px 6px; border-right: 1px solid var(--line); border-bottom: 1px solid var(--line); background: var(--paper); display: flex; flex-direction: column; gap: 3px; min-width: 0; text-align: left; font: inherit; color: inherit; border-top: 0; border-left: 0; cursor: pointer; }
+.cell.out { background: transparent; cursor: default; }
+.cell.past { opacity: 0.5; }
+.cell:not(.out):hover { background: color-mix(in srgb, var(--accent) 6%, var(--paper)); }
+.cell[aria-pressed="true"] { box-shadow: inset 0 0 0 2px var(--accent); }
+.cell .num { font: 700 17px/1 var(--display); display: flex; justify-content: space-between; align-items: baseline; }
+.cell.today .num { color: var(--accent); }
+.cell .cnt { font: 500 10px var(--mono); color: var(--muted); }
+.ev { font-size: 11.5px; line-height: 1.25; padding: 1px 4px; border-left: 2.5px solid var(--c); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.more { font: 500 10.5px var(--mono); color: var(--muted); padding-left: 4px; }
+.dots { display: none; flex-wrap: wrap; gap: 3px; }
+.dots i { width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
+.pickday { margin-top: 6px; }
+.pickday .day { border-bottom: 0; }
+@media (max-width: 640px) {
+  .cell { min-height: 58px; padding: 4px; }
+  .ev, .more { display: none; }
+  .dots { display: flex; }
+  .cell .cnt { display: none; }
+  .calhead h2 { font-size: 26px; }
+}
+
+.empty, .err { padding: 40px 0; text-align: center; color: var(--muted); }
+.err { color: var(--accent); }
+footer { margin-top: 28px; font-size: 12.5px; color: var(--muted); display: grid; gap: 4px; }
+footer .bad { color: var(--accent); }
+
+@media (max-width: 520px) {
+  .day { grid-template-columns: 1fr; gap: 8px; }
+  .stamp { position: static; display: flex; align-items: baseline; gap: 8px; text-align: left; }
+  .stamp .dnum { font-size: 30px; }
+  .show { grid-template-columns: 50px minmax(0, 1fr); gap: 8px; }
+  .meta { text-align: left; }
+}
+@media (prefers-reduced-motion: no-preference) { .show { transition: background 0.15s; } }
+</style>
+
+<div class="wrap">
+  <header class="top">
+    <h1>Santa Cruz <span>Shows</span></h1>
+    <div class="meta" id="meta">Loading listings…</div>
+  </header>
+
+  <div class="controls" id="controls">
+    <div class="row">
+      <input id="q" type="search" placeholder="Search bands or venues" aria-label="Search bands or venues" autocomplete="off">
+      <div class="seg viewseg" role="group" aria-label="View">
+        <button type="button" data-view="list" aria-pressed="true">List</button>
+        <button type="button" data-view="cal" aria-pressed="false">Calendar</button>
+      </div>
+      <div class="seg rangeseg" role="group" aria-label="Date range">
+        <button type="button" data-range="today" aria-pressed="false">Tonight</button>
+        <button type="button" data-range="week" aria-pressed="false">7 days</button>
+        <button type="button" data-range="month" aria-pressed="false">30 days</button>
+        <button type="button" data-range="all" aria-pressed="true">All</button>
+      </div>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Venues"></div>
+  </div>
+
+  <main id="list"><p class="empty">Loading shows…</p></main>
+  <footer id="foot"></footer>
+</div>
+
+<script>
+const VENUE_COLOR = {
+  "The Catalyst": "--v-catalyst", "Catalyst Atrium": "--v-atrium", "Moe's Alley": "--v-moes",
+  "Rio Theatre": "--v-rio", "The Crepe Place": "--v-crepe", "Kuumbwa Jazz": "--v-kuumbwa",
+  "Felton Music Hall": "--v-felton", "Woodhouse": "--v-woodhouse", "Abbott Square": "--v-abbott",
+  "Discretion Brewing": "--v-discretion", "Mission West": "--v-mission", "Shanty Shack Brewing": "--v-shanty",
+};
+const state = { q: "", range: "all", off: new Set(), view: "list", month: null, pick: null };
+try {
+  const saved = JSON.parse(localStorage.getItem("scshows") || "{}");
+  if (saved.range) state.range = saved.range;
+  if (saved.view) state.view = saved.view;
+  if (Array.isArray(saved.off)) state.off = new Set(saved.off);
+} catch (e) {}
+if (location.hash === "#calendar") state.view = "cal";
+const save = () => { try { localStorage.setItem("scshows", JSON.stringify({ range: state.range, view: state.view, off: [...state.off] })); } catch (e) {} };
+
+let DATA = null;
+const $ = (s) => document.querySelector(s);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const color = (v) => `var(${VENUE_COLOR[v] || "--muted"})`;
+
+function localISO(d) { return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; }
+function addDays(n) { const d = new Date(); d.setDate(d.getDate() + n); return localISO(d); }
+function fmtTime(t) {
+  if (!t) return "TBA";
+  let [h, m] = t.split(":").map(Number); const ap = h >= 12 ? "p" : "a"; h = h % 12 || 12;
+  return m ? `${h}:${String(m).padStart(2, "0")}${ap}` : `${h}${ap}`;
+}
+
+function render() {
+  const today = localISO(new Date());
+  const cal = state.view === "cal";
+  $(".rangeseg").hidden = cal;
+  const until = cal ? "9999" : { today: today, week: addDays(6), month: addDays(29), all: "9999" }[state.range];
+  const q = state.q.trim().toLowerCase();
+  const inRange = DATA.events.filter((e) => e.date >= today && e.date <= until);
+  const counts = {};
+  inRange.forEach((e) => (counts[e.venue] = (counts[e.venue] || 0) + 1));
+  renderChips(counts);
+
+  const shown = inRange.filter((e) => !state.off.has(e.venue) &&
+    (!q || `${e.title} ${e.venue} ${e.info || ""}`.toLowerCase().includes(q)));
+
+  const byDay = new Map();
+  shown.forEach((e) => { if (!byDay.has(e.date)) byDay.set(e.date, []); byDay.get(e.date).push(e); });
+
+  if (cal) return renderCal(byDay, today, q);
+
+  const list = $("#list");
+  if (!shown.length) {
+    list.innerHTML = `<p class="empty">No shows match${q ? ` “${esc(state.q)}”` : ""} in this range. Try "All" or turn more venues back on.</p>`;
+    return;
+  }
+  list.innerHTML = [...byDay].map(([day, evs]) => dayHTML(day, evs, today)).join("");
+}
+
+function dayHTML(day, evs, today) {
+  const d = new Date(day + "T12:00:00");
+  const rel = day === today ? "Tonight" : day === addDays(1) ? "Tomorrow" : "";
+  return `<section class="day" aria-label="${d.toDateString()}">
+    <div class="stamp">
+      <div class="dow">${d.toLocaleDateString("en-US", { weekday: "short" })}</div>
+      <div class="dnum">${d.getDate()}</div>
+      <div class="mon">${d.toLocaleDateString("en-US", { month: "short" })}</div>
+      ${rel ? `<div class="rel">${rel}</div>` : ""}
+    </div>
+    <div class="shows">${evs.map(showHTML).join("")}</div>
+  </section>`;
+}
+
+function renderCal(byDay, today, q) {
+  const first = today.slice(0, 7);
+  const last = DATA.events.length ? DATA.events[DATA.events.length - 1].date.slice(0, 7) : first;
+  if (!state.month || state.month < first) state.month = first;
+  if (state.month > last) state.month = last;
+  const [y, m] = state.month.split("-").map(Number);
+  const start = new Date(y, m - 1, 1);
+  const lead = start.getDay();
+  const daysIn = new Date(y, m, 0).getDate();
+  const cells = Math.ceil((lead + daysIn) / 7) * 7;
+  const MAX = 3;
+
+  let grid = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"].map((d) => `<div class="dh">${d}</div>`).join("");
+  let monthTotal = 0;
+  for (let i = 0; i < cells; i++) {
+    const n = i - lead + 1;
+    if (n < 1 || n > daysIn) { grid += `<div class="cell out" aria-hidden="true"></div>`; continue; }
+    const iso = `${state.month}-${String(n).padStart(2, "0")}`;
+    const evs = byDay.get(iso) || [];
+    monthTotal += evs.length;
+    const cls = ["cell", iso === today ? "today" : "", iso < today ? "past" : ""].join(" ");
+    grid += `<button type="button" class="${cls}" data-day="${iso}" aria-pressed="${state.pick === iso}" aria-label="${n}, ${evs.length} shows">
+      <span class="num">${n}${evs.length ? `<span class="cnt">${evs.length}</span>` : ""}</span>
+      ${evs.slice(0, MAX).map((e) => `<span class="ev" style="--c:${color(e.venue)}" title="${esc(e.title)} · ${esc(e.venue)}">${esc(e.title)}</span>`).join("")}
+      ${evs.length > MAX ? `<span class="more">+${evs.length - MAX} more</span>` : ""}
+      ${evs.length ? `<span class="dots">${evs.slice(0, 8).map((e) => `<i style="--c:${color(e.venue)}"></i>`).join("")}</span>` : ""}
+    </button>`;
+  }
+
+  if (state.pick && !state.pick.startsWith(state.month)) state.pick = null;
+  const pickEvs = state.pick ? byDay.get(state.pick) || [] : [];
+  const pickHTML = state.pick
+    ? (pickEvs.length ? dayHTML(state.pick, pickEvs, today) : `<p class="empty">No shows that day${q ? ` matching “${esc(state.q)}”` : ""}.</p>`)
+    : `<p class="empty">Tap a day to see its shows.</p>`;
+
+  $("#list").innerHTML = `
+    <div class="calhead">
+      <h2>${start.toLocaleDateString("en-US", { month: "long" })} <span>${y}</span></h2>
+      <div class="nav">
+        <button type="button" data-step="-1" aria-label="Previous month" ${state.month <= first ? "disabled" : ""}>‹</button>
+        <button type="button" data-step="1" aria-label="Next month" ${state.month >= last ? "disabled" : ""}>›</button>
+      </div>
+    </div>
+    <div class="grid">${grid}</div>
+    ${monthTotal ? "" : `<p class="empty">No shows match in ${start.toLocaleDateString("en-US", { month: "long" })}.</p>`}
+    <div class="pickday" id="pickday">${pickHTML}</div>`;
+}
+
+$("#list").addEventListener("click", (ev) => {
+  const step = ev.target.closest("[data-step]");
+  if (step) {
+    const [y, m] = state.month.split("-").map(Number);
+    const d = new Date(y, m - 1 + Number(step.dataset.step), 1);
+    state.month = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`;
+    state.pick = null; render(); return;
+  }
+  const cell = ev.target.closest(".cell[data-day]");
+  if (cell) {
+    state.pick = state.pick === cell.dataset.day ? null : cell.dataset.day;
+    render();
+    const p = document.getElementById("pickday");
+    if (p && state.pick) p.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "nearest" });
+  }
+});
+
+function showHTML(e) {
+  const tag = e.url ? "a" : "div";
+  const href = e.url ? ` href="${esc(e.url)}" target="_blank" rel="noopener"` : "";
+  return `<${tag} class="show" style="--c:${color(e.venue)}"${href}>
+    <div class="time">${fmtTime(e.time)}</div>
+    <div>
+      <div class="title">${esc(e.title)}</div>
+      <div class="sub"><span class="v">${esc(e.venue)}</span>${e.price ? `<span class="p">${esc(e.price)}</span>` : ""}${e.info ? `<span>${esc(e.info)}</span>` : ""}</div>
+    </div>
+  </${tag}>`;
+}
+
+function renderChips(counts) {
+  const venues = [...new Set(DATA.events.map((e) => e.venue))].sort();
+  $("#chips").innerHTML = venues.map((v) =>
+    `<button type="button" class="chip" style="--c:${color(v)}" data-venue="${esc(v)}" aria-pressed="${!state.off.has(v)}">${esc(v)} <span class="n">${counts[v] || 0}</span></button>`
+  ).join("");
+}
+
+function renderMeta() {
+  const upd = new Date(DATA.updated);
+  const ageDays = Math.floor((Date.now() - upd) / 864e5);
+  $("#meta").innerHTML = `<b>${DATA.events.length}</b> shows · ${new Set(DATA.events.map((e) => e.venue)).size} venues<br>updated ${upd.toLocaleDateString("en-US", { month: "short", day: "numeric" })}${ageDays > 7 ? ` (${ageDays} days ago)` : ""}`;
+  const bad = DATA.sources.filter((s) => !s.ok);
+  $("#foot").innerHTML = `<div>Pulled from each venue's own listings. Tap a show for tickets and details; always confirm on the venue site.</div>` +
+    (bad.length ? `<div class="bad">Couldn't reach on last update: ${bad.map((s) => esc(s.venue)).join(", ")}.</div>` : "");
+}
+
+function setCtrlHeight() { document.documentElement.style.setProperty("--ctrl-h", $("#controls").offsetHeight + 8 + "px"); }
+
+$(".rangeseg").addEventListener("click", (ev) => {
+  const b = ev.target.closest("button[data-range]"); if (!b) return;
+  state.range = b.dataset.range; save(); syncSeg(); render();
+});
+$(".viewseg").addEventListener("click", (ev) => {
+  const b = ev.target.closest("button[data-view]"); if (!b) return;
+  state.view = b.dataset.view; save(); syncSeg(); render(); setCtrlHeight();
+});
+function syncSeg() {
+  document.querySelectorAll(".rangeseg button").forEach((b) => b.setAttribute("aria-pressed", b.dataset.range === state.range));
+  document.querySelectorAll(".viewseg button").forEach((b) => b.setAttribute("aria-pressed", b.dataset.view === state.view));
+}
+$("#chips").addEventListener("click", (ev) => {
+  const b = ev.target.closest(".chip"); if (!b) return;
+  const v = b.dataset.venue; state.off.has(v) ? state.off.delete(v) : state.off.add(v); save(); render();
+});
+$("#q").addEventListener("input", (ev) => { state.q = ev.target.value; render(); });
+window.addEventListener("resize", setCtrlHeight);
+
+syncSeg();
+fetch("events.json", { cache: "no-cache" })
+  .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then((d) => { DATA = d; renderMeta(); render(); setCtrlHeight(); })
+  .catch(() => { $("#list").innerHTML = `<p class="err">The show list didn't load. Refresh the page to try again.</p>`; $("#meta").textContent = ""; });
+</script>
+
+</body>
+</html>
