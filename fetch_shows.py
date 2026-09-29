@@ -93,7 +93,7 @@ def catalyst():
             img = re.search(r'<img src="([^"]+)"', b)
             href = link.group(1) if link else None
             name = clean(title.group(1))
-            venue = "Catalyst Atrium" if (href and "atrium" in href) or name.lower().startswith("live in the atrium") else "The Catalyst"
+            venue = "Catalyst Atrium" if (href and "atrium" in href) or name.lower().startswith("live in the atrium") else "Catalyst Main Room"
             elsewhere = re.search(r"\*+\s*at ([^*]+?)\s*\*+", name, re.I)  # e.g. "Band **At Felton Music Hall**"
             if elsewhere:
                 venue = elsewhere.group(1).strip()
@@ -165,14 +165,15 @@ def tidy_crepe(title):
     return head or title, (price.group(1).upper() if price else None)
 
 
-def kuumbwa():
-    out, url = [], "https://www.kuumbwajazz.org/wp-json/tribe/events/v1/events?per_page=50"
+def tribe(venue, base):
+    """WordPress sites running The Events Calendar expose /wp-json/tribe/events/v1/events."""
+    out, url = [], base + "/wp-json/tribe/events/v1/events?per_page=50"
     while url:
         data = json.loads(get(url))
         for e in data.get("events", []):
             dt = datetime.strptime(e["start_date"], "%Y-%m-%d %H:%M:%S")
             img = (e.get("image") or {}).get("url") if isinstance(e.get("image"), dict) else None
-            out.append(event("Kuumbwa Jazz", clean(e.get("title")), dt.date(),
+            out.append(event(venue, clean(e.get("title")), dt.date(),
                              None if e.get("all_day") else dt.strftime("%H:%M"),
                              e.get("url"), clean(e.get("cost")) or None, None, img))
         url = data.get("next_rest_url")
@@ -272,11 +273,12 @@ def el_vaquero():
 
 
 VENUES = {
-    "The Catalyst": catalyst,
+    "Catalyst": catalyst,
     "Moe's Alley": moes_alley,
     "Rio Theatre": lambda: squarespace("Rio Theatre", "https://www.riotheatre.com", "/events-2"),
     "The Crepe Place": lambda: squarespace("The Crepe Place", "https://www.thecrepeplace.com", "/shows-list", tidy_crepe),
-    "Kuumbwa Jazz": kuumbwa,
+    "Kuumbwa Jazz": lambda: tribe("Kuumbwa Jazz", "https://www.kuumbwajazz.org"),
+    "Cat Alley Street": lambda: tribe("Cat Alley Street", "https://catalleystreet.com"),
     "Felton Music Hall": felton,
     "Woodhouse": lambda: music_only(squarespace("Woodhouse", "https://www.woodhousebrews.com", "/events")),
     "Abbott Square": lambda: music_only(squarespace("Abbott Square", "https://abbottsquaremarket.com", "/events")),

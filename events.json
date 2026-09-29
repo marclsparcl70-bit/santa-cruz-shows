@@ -1,8 +1,8 @@
 {
- "updated": "2026-09-28T19:26-07:00",
+ "updated": "2026-09-28T19:38-07:00",
  "sources": [
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst",
    "ok": true,
    "count": 18
   },
@@ -25,6 +25,11 @@
    "venue": "Kuumbwa Jazz",
    "ok": true,
    "count": 70
+  },
+  {
+   "venue": "Cat Alley Street",
+   "ok": true,
+   "count": 2
   },
   {
    "venue": "Felton Music Hall",
@@ -204,6 +209,16 @@
    "image": null
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Burner Happy Hour )'( Mr. Bounceman + Side69",
+   "date": "2026-10-01",
+   "time": "18:30",
+   "url": "https://catalleystreet.com/event/burner-happy-hour-mr-bounceman-side69/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/BHH-Oct.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "World Class Music Live Presents: El Khat",
    "date": "2026-10-01",
@@ -224,7 +239,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784080733045-BB5X7DZ0IP3CJKX5RDXU/1900x1900-000000-80-0-0.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "Steel Pulse – Reggae Against Racism Tour",
    "date": "2026-10-01",
    "time": "21:00",
@@ -334,6 +349,26 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1771874678681-BA65402PF6WNWKB0CE2W/SB_PRESS_HIRES_PhotobyAdamORegan.jpg"
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Ticketbooth and Red Hot Bev Takeover",
+   "date": "2026-10-02",
+   "time": "21:00",
+   "url": "https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-takeover/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/Ticket-Booth-Oct-2.jpg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "Twin Temple",
+   "date": "2026-10-02",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/twin-temple/the-catalyst/santa-cruz-california/",
+   "price": "$40.02",
+   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/07/10-2-26_TwinTemple_Web.jpg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Diggin Dirt (Night 1)",
    "date": "2026-10-02",
@@ -342,16 +377,6 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/12/93/26/54_Listings.jpg?v=4"
-  },
-  {
-   "venue": "The Catalyst",
-   "title": "Twin Temple",
-   "date": "2026-10-02",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/twin-temple/the-catalyst/santa-cruz-california/",
-   "price": "$40.02",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/07/10-2-26_TwinTemple_Web.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -784,6 +809,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779143878184-NTIE3EUVH3LXQQBLYK1G/Untitled-2026-04-20T213319.775.png"
   },
   {
+   "venue": "Catalyst Main Room",
+   "title": "It’s a 2000’s Party: Santa Cruz",
+   "date": "2026-10-09",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-catalyst/santa-cruz-california/",
+   "price": "$28.72 to $40.55",
+   "info": "Doors: 8 pm Show: 9 pm · Ages 18 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/08/its-a-2000s-party-santa-cruz.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: The Breaks",
    "date": "2026-10-09",
@@ -792,16 +827,6 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/59/64/03_Listings.jpg?v=4"
-  },
-  {
-   "venue": "The Catalyst",
-   "title": "It’s a 2000’s Party: Santa Cruz",
-   "date": "2026-10-09",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-catalyst/santa-cruz-california/",
-   "price": "$28.72 to $40.55",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 18 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/08/its-a-2000s-party-santa-cruz.jpeg"
   },
   {
    "venue": "Mission West",
@@ -904,6 +929,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/KUUMBWA-jpg.jpg"
   },
   {
+   "venue": "Catalyst Main Room",
+   "title": "DOMi & JD BECK – WHO ASKED? Tour",
+   "date": "2026-10-10",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/domi-jd-beck-who-asked-tour/the-catalyst/santa-cruz-california/",
+   "price": "$34.12",
+   "info": "Doors: 8 pm Show: 9 pm",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/07/domi-jd-beck-who-asked-tour.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Coffee Zombie Collective w/ Rabbit Truck",
    "date": "2026-10-10",
@@ -912,16 +947,6 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/03/65/94_Listings.jpg?v=4"
-  },
-  {
-   "venue": "The Catalyst",
-   "title": "DOMi & JD BECK – WHO ASKED? Tour",
-   "date": "2026-10-10",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/domi-jd-beck-who-asked-tour/the-catalyst/santa-cruz-california/",
-   "price": "$34.12",
-   "info": "Doors: 8 pm Show: 9 pm",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/07/domi-jd-beck-who-asked-tour.jpeg"
   },
   {
    "venue": "Felton Music Hall",
@@ -1254,6 +1279,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1755360634855-PEA5GJTCRYN0BONTGI0B/images.jpg"
   },
   {
+   "venue": "Catalyst Main Room",
+   "title": "XAVIER WULF PRESENTS: THE COOL WORLD TOUR",
+   "date": "2026-10-16",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/xavier-wulf-presents-the-cool-world-tour/the-catalyst/santa-cruz-california/",
+   "price": "$51.85",
+   "info": "Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/07/xavier-wulf-presents-the-cool-world-tour.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Young Dubliners w/ Ockham's Razor",
    "date": "2026-10-16",
@@ -1262,16 +1297,6 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/58/62/73_Listings.jpg?v=6"
-  },
-  {
-   "venue": "The Catalyst",
-   "title": "XAVIER WULF PRESENTS: THE COOL WORLD TOUR",
-   "date": "2026-10-16",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/xavier-wulf-presents-the-cool-world-tour/the-catalyst/santa-cruz-california/",
-   "price": "$51.85",
-   "info": "Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/07/xavier-wulf-presents-the-cool-world-tour.jpeg"
   },
   {
    "venue": "Felton Music Hall",
@@ -1364,7 +1389,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1742264896062-63FW07FM057GIWP9VQV8/MartyO%27Reilly.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "The Floozies",
    "date": "2026-10-17",
    "time": "20:00",
@@ -1504,7 +1529,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781801755208-QPOKNASTMUPAWDRDNTXQ/1781562597006_123_1.jpeg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "Last Dinosaurs",
    "date": "2026-10-19",
    "time": "20:00",
@@ -2754,7 +2779,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782916269103-9BL7E94D7CFV52XR90ZC/Artist.png"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "Andre Nickatina **Rescheduled from 6/27**",
    "date": "2026-11-13",
    "time": "21:00",
@@ -2794,7 +2819,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1786734771701-28CLGWS4HZRN1EGC886G/riotheatre-51746988995179-6625383243847044609-MF_Facebook_Event_Template.png"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "ISAIAH RASHAD: Lil Sunny’s Awful Road Trip",
    "date": "2026-11-14",
    "time": "20:00",
@@ -2844,7 +2869,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750962418971-NXL3FOZ54CS5BH2C7MLT/thumbnail_Image.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "THE CALIFORNIA HONEYDROPS – SWEET LIKE THAT TOUR 2026",
    "date": "2026-11-15",
    "time": "21:00",
@@ -2944,7 +2969,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781544048015-58YD081SO3RA5GHWBUKK/images.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "As I Lay Dying",
    "date": "2026-11-18",
    "time": "21:00",
@@ -3104,7 +3129,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1787254881832-CEX5O58J44UR1IP0W69T/9ec624_747946371fdd4f2599bf5545c5e0fa9b%7Emv2.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "Jackie Greene",
    "date": "2026-11-27",
    "time": "20:00",
@@ -3144,7 +3169,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790388865071-W6M8ITFDGGOA6O27Z875/rivets-and-rust-e1683328561774.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "DON CARLOS & JUNIOR TOOTS",
    "date": "2026-11-28",
    "time": "20:00",
@@ -3314,7 +3339,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1784831289547-3Z99LVTBJ8KW04MFJX7Q/4.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "The Expendables",
    "date": "2026-12-05",
    "time": "20:00",
@@ -3504,7 +3529,7 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1782498156478-CDC4X6N3OA9OAR1DU4EW/wooten-brothers-cropped.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Main Room",
    "title": "How The Grouch Stole Christmas Tour",
    "date": "2026-12-12",
    "time": "21:00",
