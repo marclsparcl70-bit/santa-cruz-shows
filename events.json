@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-29T09:58-07:00",
+ "updated": "2026-09-29T10:25-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "venue": "Moe's Alley",
@@ -34,7 +34,7 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 65
+   "count": 66
   },
   {
    "venue": "Woodhouse",
@@ -65,6 +65,16 @@
    "venue": "Shanty Shack",
    "ok": true,
    "count": 31
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "ok": true,
+   "count": 4
+  },
+  {
+   "venue": "Quarry Amphitheater",
+   "ok": true,
+   "count": 2
   },
   {
    "venue": "Henfling's Tavern",
@@ -379,6 +389,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1735431780939-TKORVJYAMRQPCW4R01DG/1000000769.jpg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "Fire & Grace & Flamenco with special guests Fanny Ara and Ian Scarfe",
+   "date": "2026-10-02",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/fireandgrace-10-02-2026/",
+   "price": null,
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/FGFanny-2_extended-canvas-scaled.jpg"
+  },
+  {
    "venue": "Henfling's Tavern",
    "title": "John Rybak & Friends",
    "date": "2026-10-02",
@@ -689,6 +709,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781801512758-CPCT7WTWI9XHW06E51M8/1781562597006_123_1.jpeg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "NYC’s BlackBox Ensemble—experimental music concert, featuring Morton Feldman",
+   "date": "2026-10-05",
+   "time": "19:00",
+   "url": "https://events.ucsc.edu/event/blackbox-10-05-26/",
+   "price": "Free",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/BlackBox-Ens_16x9-crop-scaled.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Hiromi – The Trio Project feat. James Genus & Simon Phillips – 9:00 PM",
    "date": "2026-10-05",
@@ -989,6 +1019,16 @@
    "image": "https://i.ticketweb.com/i/00/13/59/64/03_Listings.jpg?v=4"
   },
   {
+   "venue": "Quarry Amphitheater",
+   "title": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
+   "date": "2026-10-09",
+   "time": null,
+   "url": "https://www.ticketweb.com/event/beat-quarry-amphitheater-tickets/15002733?pl=BNQUARRY&amp;REFID=261009quarry",
+   "price": "$79",
+   "info": null,
+   "image": "https://cdn.prod.website-files.com/65e7d6b0c66b3ea9c263c665/6a7228873a5e1dc517e26f25_BEAT%20-%20564x564%20-%20Text%20Free.png"
+  },
+  {
    "venue": "Mission West",
    "title": "American Underdog",
    "date": "2026-10-10",
@@ -1069,6 +1109,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1780455350360-6WK00O8KLWSQD1CC5NCX/WT+NA-Banner-600x300_25.jpg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "Indian Classical Music—Nishat Khan, sitar, and Nitin Mitta, tabla",
+   "date": "2026-10-10",
+   "time": "19:00",
+   "url": "https://events.ucsc.edu/event/nishatkhan2026/",
+   "price": null,
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/JUJU_ini-39crop-e1788456967757.jpg"
+  },
+  {
    "venue": "Woodhouse",
    "title": "Bongo Sidibe",
    "date": "2026-10-10",
@@ -1137,6 +1187,16 @@
    "price": "$29",
    "info": "with St. Yuma",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949146222890"
+  },
+  {
+   "venue": "Quarry Amphitheater",
+   "title": "ACID BATH with High On Fire, Melvins, & Windhand",
+   "date": "2026-10-10",
+   "time": null,
+   "url": "https://www.ticketweb.com/event/acid-bath-with-high-on-quarry-amphitheater-tickets/14218004?pl=BNQUARRY&amp;REFID=261010artist",
+   "price": "$79",
+   "info": null,
+   "image": "https://cdn.prod.website-files.com/65e7d6b0c66b3ea9c263c665/6a3eac236b1b0a0df27985cd_ACID%20BATH%20SANTA%20CRUZ%204%20(1).png"
   },
   {
    "venue": "Mission West",
@@ -3489,6 +3549,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745725872059-JCAHK7F5OZ2DDAZXLHOY/Screenshot%2B2025-01-13%2Bat%2B11.52.46%E2%80%AFAM.png"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Symphony No. 5 in E minor, Op. 64",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/orchestra-fall-2026-27/",
+   "price": "Free – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/orchestra-photo_16x9-scaled.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "90s DJ NIGHT! With DJ JAHI & DJ WYZE1, 8PM TIL CLOSE! $10",
    "date": "2026-11-25",
@@ -4199,6 +4269,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1789756485692-9WG729C96W3PF5NUXBYN/1-22-27_TraeCrowder_8.5x11.jpg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "John McCutcheon",
+   "date": "2027-01-22",
+   "time": null,
+   "url": "https://www.prekindle.com/event/91265-john-mccutcheon-felton",
+   "price": "$40",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948998763123"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Vijay Iyer + Wadada Leo Smith: Defiant Life",
    "date": "2027-01-23",
@@ -4247,6 +4327,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/05/michel-petrucciani-cropped.jpg"
+  },
+  {
+   "venue": "Catalyst Atrium",
+   "title": "Youth Fountain",
+   "date": "2027-01-27",
+   "time": "20:00",
+   "url": "https://catalystclub.com/event/youth-fountain/the-catalyst-atrium/santa-cruz-california/",
+   "price": null,
+   "info": "Show: 8 pm · All Ages",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/09/youth-fountain.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",

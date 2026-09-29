@@ -165,9 +165,9 @@ def tidy_crepe(title):
     return head or title, (price.group(1).upper() if price else None)
 
 
-def tribe(venue, base):
+def tribe(venue, base, venue_id=None):
     """WordPress sites running The Events Calendar expose /wp-json/tribe/events/v1/events."""
-    out, url = [], base + "/wp-json/tribe/events/v1/events?per_page=50"
+    out, url = [], base + "/wp-json/tribe/events/v1/events?per_page=50" + (f"&venue={venue_id}" if venue_id else "")
     while url:
         body = get(url)
         data = json.loads(body[body.index("{"):])  # some sites print PHP warnings before the JSON
@@ -200,7 +200,8 @@ def felton():
 
 # Breweries and bars mix bands with trivia, food pop-ups, etc. Drop the obvious non-music nights.
 NOT_MUSIC = re.compile(r"pizza|karaoke|line danc|belly danc|social dance|comedy|trivia|mixer|roll call|"
-                       r"keg of honor|bingo|food truck|yoga|run club|market|art night|tie dye|game night|movie", re.I)
+                       r"keg of honor|bingo|food truck|yoga|run club|market|art night|tie dye|game night|movie|"
+                       r"film screening|a film by", re.I)
 
 
 def music_only(events):
@@ -242,6 +243,28 @@ def wix_events(venue, page):
                                  f"{page.rsplit('/', 1)[0]}/event-details-registration/{slug}" if slug else page,
                                  None, clean(e.get("description")) or None))
     return music_only([e for e in out if not re.search(r"closed|ribbon cutting|tasting!", e["title"], re.I)])
+
+
+def quarry():
+    """quarryamphitheater.com lists its shows as schema.org Events (dates like 'Oct 09, 2026')."""
+    h = get("https://www.quarryamphitheater.com/")
+    out = []
+    for block in re.findall(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', h, re.S):
+        try:
+            e = json.loads(block)
+        except ValueError:
+            continue
+        if "Event" not in str(e.get("@type")) or not e.get("startDate"):
+            continue
+        try:
+            day = datetime.strptime(e["startDate"].strip(), "%b %d, %Y").date()
+        except ValueError:
+            day = e["startDate"][:10]
+        offer = e.get("offers") if isinstance(e.get("offers"), dict) else {}
+        out.append(event("Quarry Amphitheater", clean(e.get("name")), day, None,
+                         offer.get("url") or "https://www.quarryamphitheater.com/",
+                         offer.get("price") or None, None, e.get("image")))
+    return music_only(out)
 
 
 def discretion():
@@ -387,6 +410,8 @@ VENUES = {
     "Mission West": mission_west,
     "El Vaquero Winery": el_vaquero,
     "Shanty Shack": shanty_shack_with_fallback,
+    "UCSC Recital Hall": lambda: tribe("UCSC Recital Hall", "https://events.ucsc.edu", 108),
+    "Quarry Amphitheater": quarry,
     "Henfling's Tavern": lambda: localgroove("Henflings Tavern", "/ben-lomond/venue/henflings-tavern", "Henfling's Tavern"),
     "Ugly Mug": lambda: music_only(squarespace("Ugly Mug", "https://www.cafeugly.com", "/live-music-the-mug", tidy_mug)),
     "The Sand Bar": lambda: tribe("The Sand Bar", "https://thesandbarcapitola.com"),

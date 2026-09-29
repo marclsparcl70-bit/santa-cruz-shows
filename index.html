@@ -38,6 +38,8 @@
   --v-uglymug: #6b4f3a;
   --v-sandbar: #1d7fa3;
   --v-corkfork: #8c2f3f;
+  --v-recital: #2b5f8a;
+  --v-quarry: #7a6230;
   --display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
   --body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
@@ -46,13 +48,13 @@
   --bg: #141a20; --paper: #1b232b; --ink: #e9e6df; --muted: #9aa5b0; --line: #2d3843;
   --accent: #f07a4c; --sea: #5fb7bf;
   --v-catalyst: #f07a60; --v-atrium: #f0a55a; --v-moes: #b59ae8; --v-rio: #5fb7bf;
-  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; --v-vaquero: #d898d2; --v-catalley: #f27aa6; --v-henflings: #b5d36e; --v-uglymug: #d2ae8f; --v-sandbar: #6cc4e6; --v-corkfork: #eb8a99; color-scheme: dark;
+  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; --v-vaquero: #d898d2; --v-catalley: #f27aa6; --v-henflings: #b5d36e; --v-uglymug: #d2ae8f; --v-sandbar: #6cc4e6; --v-corkfork: #eb8a99; --v-recital: #8ab8e0; --v-quarry: #d9bf85; color-scheme: dark;
 } }
 :root[data-theme="dark"] {
   --bg: #141a20; --paper: #1b232b; --ink: #e9e6df; --muted: #9aa5b0; --line: #2d3843;
   --accent: #f07a4c; --sea: #5fb7bf;
   --v-catalyst: #f07a60; --v-atrium: #f0a55a; --v-moes: #b59ae8; --v-rio: #5fb7bf;
-  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; --v-vaquero: #d898d2; --v-catalley: #f27aa6; --v-henflings: #b5d36e; --v-uglymug: #d2ae8f; --v-sandbar: #6cc4e6; --v-corkfork: #eb8a99; color-scheme: dark;
+  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; --v-vaquero: #d898d2; --v-catalley: #f27aa6; --v-henflings: #b5d36e; --v-uglymug: #d2ae8f; --v-sandbar: #6cc4e6; --v-corkfork: #eb8a99; --v-recital: #8ab8e0; --v-quarry: #d9bf85; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--body); }
@@ -193,6 +195,7 @@ const VENUE_COLOR = {
   "Discretion Brewing": "--v-discretion", "Mission West": "--v-mission", "Shanty Shack Brewing": "--v-shanty",
   "El Vaquero Winery": "--v-vaquero", "Cat Alley Street": "--v-catalley",
   "Henfling's Tavern": "--v-henflings", "Ugly Mug": "--v-uglymug", "The Sand Bar": "--v-sandbar", "Cork & Fork": "--v-corkfork",
+  "UCSC Recital Hall": "--v-recital", "Quarry Amphitheater": "--v-quarry",
 };
 const state = { q: "", range: "all", focus: null, venuesOpen: false, view: "list", month: null, pick: null };
 try {
