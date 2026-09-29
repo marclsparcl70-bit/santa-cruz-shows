@@ -81,6 +81,7 @@ h1 span { color: var(--accent); }
 .subbtn[aria-expanded="true"] { background: var(--accent); color: var(--bg); }
 .subpanel { display: grid; gap: 8px; padding: 12px; border: 1.5px solid var(--line); border-radius: 8px; background: var(--paper); }
 .subpanel p { margin: 0; }
+.subscope { justify-self: start; }
 .subtitle { font-size: 14px; }
 .subnote { font-size: 12.5px; color: var(--muted); }
 .subopt { font: 600 13.5px var(--body); padding: 8px 12px; border-radius: 6px; border: 1.5px solid var(--ink); background: var(--ink); color: var(--bg); text-decoration: none; cursor: pointer; }
@@ -193,13 +194,17 @@ footer .bad { color: var(--accent); }
       <button type="button" class="subbtn" id="subbtn" aria-expanded="false" aria-controls="subpanel">Subscribe</button>
     </div>
     <div class="subpanel" id="subpanel" hidden>
-      <p class="subtitle">Add <b id="subname">all shows</b> to your phone's calendar. It updates by itself.</p>
+      <p class="subtitle">Add shows to your phone's calendar. It updates by itself.</p>
+      <div class="seg subscope" id="subscope" role="group" aria-label="What to subscribe to">
+        <button type="button" data-scope="all" aria-pressed="true">All venues</button>
+        <button type="button" data-scope="one" aria-pressed="false" id="subone" hidden></button>
+      </div>
       <div class="row">
         <a class="subopt" id="sub-ios" href="#">iPhone · iPad · Mac</a>
         <a class="subopt" id="sub-google" href="#" target="_blank" rel="noopener">Android · Google Calendar</a>
         <button type="button" class="subopt" id="sub-copy">Copy link</button>
       </div>
-      <p class="subnote">Pick a venue first to subscribe to just that venue. Android: this opens Google Calendar in your browser; tap <b>Add</b> and it syncs to your phone within a few hours.</p>
+      <p class="subnote">Android: this opens Google Calendar in your browser; tap <b>Add</b> and it syncs to your phone within a few hours.</p>
       <code id="suburl"></code>
     </div>
     <div class="chips" id="chips" role="group" aria-label="Venues" hidden></div>
@@ -219,7 +224,7 @@ const VENUE_COLOR = {
   "Henfling's Tavern": "--v-henflings", "Ugly Mug": "--v-uglymug", "The Sand Bar": "--v-sandbar", "Cork & Fork": "--v-corkfork",
   "UCSC Recital Hall": "--v-recital", "Quarry Amphitheater": "--v-quarry",
 };
-const state = { q: "", range: "all", focus: null, venuesOpen: false, view: "list", month: null, pick: null };
+const state = { subAll: true, q: "", range: "all", focus: null, venuesOpen: false, view: "list", month: null, pick: null };
 try {
   const saved = JSON.parse(localStorage.getItem("scshows") || "{}");
   if (saved.range) state.range = saved.range;
@@ -377,11 +382,15 @@ function showHTML(e) {
 
 function feedURL() {
   const slug = (v) => v.toLowerCase().replace(/'/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
-  return new URL(state.focus ? `ics/${slug(state.focus)}.ics` : "events.ics", location.href).href;
+  const one = state.focus && !state.subAll;
+  return new URL(one ? `ics/${slug(state.focus)}.ics` : "events.ics", location.href).href;
 }
 function renderSub() {
   const https = feedURL(), webcal = https.replace(/^https?:/, "webcal:");
-  $("#subname").textContent = state.focus ? `${state.focus} shows` : "all shows";
+  $("#subone").hidden = !state.focus;
+  $("#subone").textContent = state.focus ? `Only ${state.focus}` : "";
+  document.querySelectorAll("#subscope button").forEach((b) =>
+    b.setAttribute("aria-pressed", (b.dataset.scope === "all") === (state.subAll || !state.focus)));
   $("#sub-ios").href = webcal;
   $("#sub-google").href = "https://calendar.google.com/calendar/render?cid=" + encodeURIComponent(webcal);
   $("#suburl").textContent = https;
@@ -389,6 +398,10 @@ function renderSub() {
 $("#subbtn").addEventListener("click", () => {
   const open = $("#subpanel").hidden;
   $("#subpanel").hidden = !open; $("#subbtn").setAttribute("aria-expanded", open); renderSub(); setCtrlHeight();
+});
+$("#subscope").addEventListener("click", (ev) => {
+  const b = ev.target.closest("button[data-scope]"); if (!b) return;
+  state.subAll = b.dataset.scope === "all"; renderSub();
 });
 $("#sub-copy").addEventListener("click", (ev) => {
   const b = ev.currentTarget, url = feedURL();
