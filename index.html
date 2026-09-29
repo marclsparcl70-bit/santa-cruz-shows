@@ -32,6 +32,7 @@
   --v-discretion: #2f7d5b;
   --v-mission: #4b5fb0;
   --v-shanty: #9c4a3a;
+  --v-vaquero: #8f3f8a;
   --display: "Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
   --body: "Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
   --mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
@@ -40,13 +41,13 @@
   --bg: #141a20; --paper: #1b232b; --ink: #e9e6df; --muted: #9aa5b0; --line: #2d3843;
   --accent: #f07a4c; --sea: #5fb7bf;
   --v-catalyst: #f07a60; --v-atrium: #f0a55a; --v-moes: #b59ae8; --v-rio: #5fb7bf;
-  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; color-scheme: dark;
+  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; --v-vaquero: #d898d2; color-scheme: dark;
 } }
 :root[data-theme="dark"] {
   --bg: #141a20; --paper: #1b232b; --ink: #e9e6df; --muted: #9aa5b0; --line: #2d3843;
   --accent: #f07a4c; --sea: #5fb7bf;
   --v-catalyst: #f07a60; --v-atrium: #f0a55a; --v-moes: #b59ae8; --v-rio: #5fb7bf;
-  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; color-scheme: dark;
+  --v-crepe: #86c56f; --v-kuumbwa: #88a8f0; --v-felton: #d6a26c; --v-woodhouse: #d4c25a; --v-abbott: #ec8cbc; --v-discretion: #7fd0a8; --v-mission: #a3b1f0; --v-shanty: #e39a88; --v-vaquero: #d898d2; color-scheme: dark;
 }
 * { box-sizing: border-box; }
 body { background: var(--bg); color: var(--ink); font: 15px/1.5 var(--body); }
@@ -166,6 +167,7 @@ const VENUE_COLOR = {
   "Rio Theatre": "--v-rio", "The Crepe Place": "--v-crepe", "Kuumbwa Jazz": "--v-kuumbwa",
   "Felton Music Hall": "--v-felton", "Woodhouse": "--v-woodhouse", "Abbott Square": "--v-abbott",
   "Discretion Brewing": "--v-discretion", "Mission West": "--v-mission", "Shanty Shack Brewing": "--v-shanty",
+  "El Vaquero Winery": "--v-vaquero",
 };
 const state = { q: "", range: "all", off: new Set(), view: "list", month: null, pick: null };
 try {

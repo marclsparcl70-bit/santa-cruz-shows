@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T17:45-07:00",
+ "updated": "2026-09-28T19:08-07:00",
  "sources": [
   {
    "venue": "The Catalyst",
@@ -50,6 +50,11 @@
    "venue": "Mission West",
    "ok": true,
    "count": 16
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "ok": true,
+   "count": 14
   },
   {
    "venue": "Shanty Shack",
@@ -269,6 +274,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784130628366-O7WO6MOP24QGMD3TAO3U/Slow+Coast+2.png"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Joint Chiefs",
+   "date": "2026-10-02",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6d72bbdc30cc2b430494102f9d2cfe0cc29ff73b",
+   "price": "$10",
+   "info": "Funk  · Food: SC Eatary",
+   "image": "https://static.wixstatic.com/media/cc50de_00959ad31b4743be961a58bb50b6e46d~mv2.png"
+  },
+  {
    "venue": "Mission West",
    "title": "Krooked Joe",
    "date": "2026-10-02",
@@ -477,6 +492,26 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Big Bad Wolf",
+   "date": "2026-10-04",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/828d63ebe48ba1520fec554eafdd3c8a8640308f",
+   "price": "$10",
+   "info": "Rock · Food: Chubby's tacos",
+   "image": "https://static.wixstatic.com/media/cc50de_22fa0e030f954a669d2e91d0845fd6ca~mv2.png"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Jefferson's Revival",
+   "date": "2026-10-04",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/e5dceb5bd7911b54fbe38caf56ed7567bf0a4085",
+   "price": "$10",
+   "info": "Rock, John Fogarty & CCR TRibute · Food: Chubby Tacos",
+   "image": "https://static.wixstatic.com/media/cc50de_67a597ba09c14db0870eacc929cf01c6~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -709,6 +744,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Not So Young",
+   "date": "2026-10-09",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/7641f388fa34f512482d250c7271b5688d83274c",
+   "price": "$10",
+   "info": "Rock, Cover Band",
+   "image": "https://static.wixstatic.com/media/cc50de_86d3dd353bec41ad84e8244c73d5434f~mv2.png"
+  },
+  {
    "venue": "Woodhouse",
    "title": "Brian Fitzgerald Jazz Trio",
    "date": "2026-10-09",
@@ -787,6 +832,16 @@
    "price": null,
    "info": "Live Music 3-5pm",
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "SPUN",
+   "date": "2026-10-10",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/f07637c0b899f603f59170a2f28e868189a2c2f0",
+   "price": "$10",
+   "info": "Party Rock",
+   "image": "https://static.wixstatic.com/media/cc50de_fd7ff06ec3bd4e3283c32567b4f24cf3~mv2.png"
   },
   {
    "venue": "The Crepe Place",
@@ -927,6 +982,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Bobby Mariano & Friends",
+   "date": "2026-10-11",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/c685b0b8b8e586193564c341fcc6ad0b8e3df0fd",
+   "price": "$10",
+   "info": "Rock, Funk",
+   "image": "https://static.wixstatic.com/media/cc50de_557a0c2fb5df481cb5e6f0dddae33a41~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -1119,24 +1184,14 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1755360181445-9J29DI04H4VFV68MT66E/a0091783257_16.jpg"
   },
   {
-   "venue": "The Catalyst",
-   "title": "Bumpin Uglies **At Felton Music Hall**",
+   "venue": "Felton Music Hall",
+   "title": "Bumpin Uglies",
    "date": "2026-10-15",
    "time": "21:00",
    "url": "https://catalystclub.com/event/bumpin-uglies-at-felton-music-hall/the-catalyst/santa-cruz-california/",
    "price": null,
    "info": "Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/07/bumpin-uglies-at-felton-music-hall.jpeg"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "Bumpin Uglies",
-   "date": "2026-10-15",
-   "time": null,
-   "url": "https://www.prekindle.com/event/39129-bumpin-uglies-felton",
-   "price": "$25",
-   "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015562908"
   },
   {
    "venue": "Discretion Brewing",
@@ -1229,8 +1284,8 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949075491053"
   },
   {
-   "venue": "The Catalyst",
-   "title": "Live in The Atrium: LUMINARIUM.IO PACIFICA",
+   "venue": "Catalyst Atrium",
+   "title": "LUMINARIUM.IO PACIFICA",
    "date": "2026-10-17",
    "time": "09:00",
    "url": "https://catalystclub.com/event/live-in-the-atrium-luminarium-io-pacifica/the-catalyst-atrium/santa-cruz-california/",
@@ -1367,6 +1422,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Bastard Sons of Johnny Cash",
+   "date": "2026-10-18",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/36660341b059824951adb3fce3c2bb1f9dfbaa34",
+   "price": "$10",
+   "info": "Rock",
+   "image": "https://static.wixstatic.com/media/cc50de_4ff5066407d14f4382c55c3b428961da~mv2.png"
   },
   {
    "venue": "Woodhouse",
@@ -1719,6 +1784,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Rosebud",
+   "date": "2026-10-24",
+   "time": "17:30",
+   "url": "https://reservations.elvaquerowinery.com/events/1c8eafc8fe68b1c68d37c1c3cf6da2b588b082f9",
+   "price": "$10",
+   "info": "Fun!",
+   "image": "https://static.wixstatic.com/media/cc50de_8c5123fbd25a4dc8875a37a5545e1967~mv2.jpg"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Big Bad Wolf",
    "date": "2026-10-24",
@@ -2009,6 +2084,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Juice of the Barley",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/25e67f6f333547f711c4f9e9df6e209f8f18b87c",
+   "price": "$10",
+   "info": "Irish",
+   "image": "https://static.wixstatic.com/media/cc50de_68703bf7f7804da2b6cabe63ad380c40~mv2.png"
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Los Pendejos Imbéciles",
    "date": "2026-10-30",
@@ -2079,6 +2164,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1787526616844-NO8MGPP5RNBFRE3M8LRM/Halloween+Event+Temporary+Poster.png"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Joint Chiefs Halloween Party",
+   "date": "2026-10-31",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/b4ddc18ee797b682083996631e4065565928a7e8",
+   "price": "$10",
+   "info": "Funk, Party · Food: Riot Bites",
+   "image": "https://static.wixstatic.com/media/cc50de_348f84eac4774505ac8b9a3710b22270~mv2.png"
+  },
+  {
    "venue": "Mission West",
    "title": "Halloween With Space Heater",
    "date": "2026-10-31",
@@ -2137,6 +2232,16 @@
    "price": null,
    "info": "Doors 2:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/58/59/93_Listings.jpg?v=5"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Alex Lucero",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/3d9af26a106c111efe27b87ce7510131f7debc45",
+   "price": "$10",
+   "info": "Originals, Rock · Food: Tacos El Jesse",
+   "image": "https://static.wixstatic.com/media/cc50de_4101f1d0b49b49b9b1899a8a476e82fd~mv2.png"
   },
   {
    "venue": "Rio Theatre",
@@ -2367,6 +2472,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781107076248-0SJUDYGQ5DAR5MQM4B6S/365786412_768144141984018_2311905768881774991_n-840x840.jpg"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "El Brick",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/2f5a606dee8adf60ff6316678dd3df0ae49f535e",
+   "price": "$10",
+   "info": "Rockabilly",
+   "image": "https://static.wixstatic.com/media/cc50de_ccd580e40dd2427a974ad6f48d7c4d47~mv2.png"
   },
   {
    "venue": "The Crepe Place",
@@ -2859,6 +2974,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031323794"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "James Durbin Revival",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/57be3f17d3a791bc9c6034d8425d450ef070add9",
+   "price": "$10",
+   "info": "Rock",
+   "image": "https://static.wixstatic.com/media/cc50de_1b47c3a1b258425888c3ebfb03166356~mv2.jpg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Kabaka Pyramid (Night 1)",
    "date": "2026-11-20",
@@ -2997,6 +3122,16 @@
    "price": null,
    "info": "Doors 7:30 PM",
    "image": "https://i.ticketweb.com/i/00/12/99/57/74_Listings.jpg?v=6"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Poor House Bistro",
+   "date": "2026-11-28",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/7f3586225ebdd5d647cf910704029fb46e69a369",
+   "price": "$10",
+   "info": "Motown, Staxx",
+   "image": "https://static.wixstatic.com/media/cc50de_0beac3117ece45adb714a616ccfabe43~mv2.png"
   },
   {
    "venue": "The Crepe Place",
@@ -3869,7 +4004,7 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/The-Klezmatic-cropped.jpg"
   },
   {
-   "venue": "The Catalyst",
+   "venue": "Catalyst Atrium",
    "title": "The Lemonheads: The Love Chant Tour",
    "date": "2027-03-06",
    "time": "20:30",

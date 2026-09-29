@@ -92,9 +92,15 @@ def catalyst():
             age = re.search(r'eventAgeRestriction[^>]*>(.*?)</div>', b, re.S)
             img = re.search(r'<img src="([^"]+)"', b)
             href = link.group(1) if link else None
-            venue = "Catalyst Atrium" if href and "/atrium/" in href else "The Catalyst"
+            name = clean(title.group(1))
+            venue = "Catalyst Atrium" if (href and "atrium" in href) or name.lower().startswith("live in the atrium") else "The Catalyst"
+            elsewhere = re.search(r"\*+\s*at ([^*]+?)\s*\*+", name, re.I)  # e.g. "Band **At Felton Music Hall**"
+            if elsewhere:
+                venue = elsewhere.group(1).strip()
+                name = name[:elsewhere.start()].strip()
+            name = re.sub(r"^live in the atrium:\s*", "", name, flags=re.I)
             info = " · ".join(x for x in [clean(sub.group(1)) if sub else "", times, clean(age.group(1)) if age else ""] if x)
-            out.append(event(venue, clean(title.group(1)), day,
+            out.append(event(venue, name, day,
                              parse_time(show.group(1) if show else times), href,
                              clean(cost.group(1)) if cost else None, info or None,
                              img.group(1) if img else None))
@@ -253,6 +259,18 @@ def localgroove(venue, path):
     return music_only(out)
 
 
+def el_vaquero():
+    out = []
+    for e in json.loads(get("https://reservations.elvaquerowinery.com/api/events")):
+        cents = e.get("ticket_price_cents")
+        info = " · ".join(x for x in [e.get("genre"), f"Food: {e['food_vendor']}" if (e.get("food_vendor") or "TBD").strip().upper() != "TBD" else ""] if x)
+        out.append(event("El Vaquero Winery", clean(e.get("title")), e["date"][:10], e.get("start_time") or None,
+                         f"https://reservations.elvaquerowinery.com/events/{e['_id']}",
+                         f"${int(cents) / 100:.0f}" if cents and cents != "0" else None, info or None,
+                         e.get("image_url")))
+    return music_only(out)
+
+
 VENUES = {
     "The Catalyst": catalyst,
     "Moe's Alley": moes_alley,
@@ -264,6 +282,7 @@ VENUES = {
     "Abbott Square": lambda: music_only(squarespace("Abbott Square", "https://abbottsquaremarket.com", "/events")),
     "Discretion Brewing": discretion,
     "Mission West": mission_west,
+    "El Vaquero Winery": el_vaquero,
     "Shanty Shack": lambda: localgroove("Shanty Shack Brewing", "/santa-cruz/venue/shanty-shack-brewing"),
 }
 
