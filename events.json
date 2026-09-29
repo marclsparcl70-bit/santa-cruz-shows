@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T07:15-07:00",
+ "updated": "2026-09-29T09:56-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -65,6 +65,26 @@
    "venue": "Shanty Shack",
    "ok": true,
    "count": 31
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "ok": true,
+   "count": 14
+  },
+  {
+   "venue": "Ugly Mug",
+   "ok": true,
+   "count": 12
+  },
+  {
+   "venue": "The Sand Bar",
+   "ok": true,
+   "count": 2
+  },
+  {
+   "venue": "Cork & Fork",
+   "ok": true,
+   "count": 10
   }
  ],
  "events": [
@@ -87,6 +107,16 @@
    "price": null,
    "info": "This is the place to be on Tuesday! This weekly jam fest features rotating bands, open jam sessions, vendors, activities and all the…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1790319444020-4PHURSJ3YEDL6YLYN5W8/BAZAAR+copy.jpg"
+  },
+  {
+   "venue": "The Sand Bar",
+   "title": "Dave DaSilva Jam Night",
+   "date": "2026-09-29",
+   "time": "19:00",
+   "url": "https://thesandbarcapitola.com/event/dave-dasilva-jam-night-19/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/01/dave-Dasilva.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -119,6 +149,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1775576991487-H05OKF1BYJGRA1F5LO33/E5F87844-822B-4793-B077-CA4BEB581771.png"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-09-30",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-09-30-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Cyrille Aimée Duo",
    "date": "2026-09-30",
@@ -127,6 +167,26 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/03/cyrille-aimee-cropped.jpg"
+  },
+  {
+   "venue": "The Sand Bar",
+   "title": "Ted Welty",
+   "date": "2026-09-30",
+   "time": "19:00",
+   "url": "https://thesandbarcapitola.com/event/ted-welty-5/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2025/09/ted-welty-1.jpeg"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Gráinne Hunt with Jules Stewart",
+   "date": "2026-09-30",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/9/30/grainne-hunt-and-jules-stewart",
+   "price": "Sold out",
+   "info": "Bi-Continental Queer Folk Duo Gráinne Hunt with Jules Stewart",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1785193972967-I2TVCMI4J40OZ6L40WL2/IMG_1121.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -269,6 +329,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784130628366-O7WO6MOP24QGMD3TAO3U/Slow+Coast+2.png"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Big Bad Wolf",
+   "date": "2026-10-02",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/big-bad-wolf-13",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "El Vaquero Winery",
    "title": "Joint Chiefs",
    "date": "2026-10-02",
@@ -307,6 +377,16 @@
    "price": null,
    "info": "Tropical Fusion, Afro Funk, Soukous, HiLife, Afro Reggae, Afro Beat AfroHiLife is a band formed in Santa Cruz CA - The band performs…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1735431780939-TKORVJYAMRQPCW4R01DG/1000000769.jpg"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "John Rybak & Friends",
+   "date": "2026-10-02",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-02-john-rybak-friends",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Rio Theatre",
@@ -429,6 +509,16 @@
    "image": null
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Understory",
+   "date": "2026-10-03",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/3/understory",
+   "price": "$30",
+   "info": "Funkadelic Evening Understory",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1789418453112-SP0RNFXTVWPW8T4SP89F/IMG_1178.jpeg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Mama's Broke, Maxwell Apra",
    "date": "2026-10-03",
@@ -499,6 +589,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_5a5eaeb00fb343728d766dd7dad11787~mv2.png\"]"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Vinny Johnson Blues Band",
+   "date": "2026-10-04",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/vinny-johnson-blues-band-2026-10-04-16-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "El Vaquero Winery",
    "title": "Big Bad Wolf",
    "date": "2026-10-04",
@@ -547,6 +647,16 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136689217"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Open Mic",
+   "date": "2026-10-05",
+   "time": "17:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/3w5hyl2zmky48hp-g472b-tjga9-86xwe-6y6lr",
+   "price": null,
+   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1659745768360-467A03DN65LT33H00XGW/CEF4DAC8-B6A7-4D4F-ABA4-33DBCBAA8835.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -649,6 +759,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784302984167-11I7LKDHZ9LD7TLJC02U/IMG_5716.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-10-07",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-10-07-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "(((folkYEAH!))) Presents - Y La Bamba",
    "date": "2026-10-07",
@@ -689,6 +809,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788307073745-21510KS7WORL7Z7XV6FG/GuitarsonistsStairsSq.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "The Blues Suspects",
+   "date": "2026-10-08",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/the-blues-suspects-3",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Abbott Square",
    "title": "Jazz Night",
    "date": "2026-10-08",
@@ -707,6 +837,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/ben-flocks-cropped.jpg"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Levyosn",
+   "date": "2026-10-08",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/8/levyosn-duo",
+   "price": "$30",
+   "info": "Adah Hetko and Lysander Jaffe Levyosn Duo",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1787932534226-3RE6XUVP7JPZX81OQC9M/IMG_1143.jpeg"
   },
   {
    "venue": "Rio Theatre",
@@ -749,6 +889,16 @@
    "image": null
   },
   {
+   "venue": "Cork & Fork",
+   "title": "The 10 O'Clock Lunch Band",
+   "date": "2026-10-09",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/the-10-oclock-lunch-band-2026-10-09-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "El Vaquero Winery",
    "title": "Not So Young",
    "date": "2026-10-09",
@@ -787,6 +937,26 @@
    "price": null,
    "info": "psychedelic funky jams out of Santa Cruz, CA",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1788538092779-FI4XWEJ6LEUTTQO5NXTK/518721683_743230128453331_1123989360750454287_n.jpg"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "The Rough Romance Tour",
+   "date": "2026-10-09",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/9-flagshipromance-theroughandtumble",
+   "price": "$30",
+   "info": "Two Duos on Tour Together Flagship Romance w/ The Rough & Tumble",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1785795113202-36OU1GPMH57NLR4ROYZ9/IMG_1133.jpeg"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "Dominique and the Diamonds",
+   "date": "2026-10-09",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-09-dominique-and-the-diamonds",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -869,6 +1039,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1769920371250-42KALUNTJXJL7M33ORVX/Jenny%2BO%2527Leary%2BQuartet%2B.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Absent Minds",
+   "date": "2026-10-10",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/absent-minds-2026-10-10-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Rachel Spung & The Soul Service",
    "date": "2026-10-10",
@@ -897,6 +1077,16 @@
    "price": null,
    "info": "Bongo Sidibe is a Traditional Drummer and Vocalist from Conakry Guinea, in West Africa. Bongo Sidibe uses his Traditional background as…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1784007684458-FYYYECIDQHHQ5W50TNS3/BONGO+SIDIBE.jpg"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "The Radio",
+   "date": "2026-10-10",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-10-the-radio",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -999,6 +1189,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_db61193115f949cb9b3f2e0c3a89a870~mv2.jpg\"]"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Alex Lucero Band",
+   "date": "2026-10-11",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/alex-lucero-band",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "El Vaquero Winery",
    "title": "Bobby Mariano & Friends",
    "date": "2026-10-11",
@@ -1037,6 +1237,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/yellowjackets-cropped.jpg"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Open Mic",
+   "date": "2026-10-12",
+   "time": "17:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/r35yjjw7te9s24c-gfwlm-ak9cb",
+   "price": null,
+   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1687974432968-UXVWZ4SD8RFRFP3FNL2M/IMG_9633.jpeg"
   },
   {
    "venue": "The Crepe Place",
@@ -1079,6 +1289,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1737066344818-HPE2P1BRPNT0YJSWIL9J/Screenshot+2025-01-13+at+11.52.46%E2%80%AFAM.png"
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Peppino D’Agostino",
+   "date": "2026-10-13",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/13/peppino-d-agostino",
+   "price": "$30",
+   "info": "Finger picking master Peppino D’Agostino",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1788920719849-SO5PYXKNOLJAKTMHTOFG/IMG_1171.webp"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Lakeview",
    "date": "2026-10-13",
@@ -1097,6 +1317,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1770916975433-JL0QUPA3X8JPA2OY5Q17/FEATURES_170219847_EP_-1_BOTYONULHVFZ.webp"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-10-14",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-10-14-18-00",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -1149,6 +1379,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1769664576647-EB42LPFUVMCL9I49YWM3/Rebecca+and+Nancy.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Blue Lightening",
+   "date": "2026-10-15",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/blue-lightening-10",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Heartfeast and War Extincion",
    "date": "2026-10-15",
@@ -1167,6 +1407,16 @@
    "price": null,
    "info": "Afrobeats Nite Santa Cruz is your bi-weekly dose of dance, rhythm, and pure vibes. Hosted by DJ Monk Earl at Abbott Square Market, it's…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1746040227117-OCPQZ129KMQRL7M3DUYT/1000000999.png"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Chevy D & Old Tree Ex?erience",
+   "date": "2026-10-15",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/15-chevy-d-old-tree-experience",
+   "price": "$10",
+   "info": "Chevy D and Old Tree Ex?erience",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790446384688-4C2JT1EJ71GVO704PT0X/IMG_4062.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -1259,6 +1509,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789315069420-E88P9P93MELX4W5M4CA2/7fdc5259-01dc-4108-a6de-c4aac917edbd.png"
   },
   {
+   "venue": "Henfling's Tavern",
+   "title": "Vito & Friends",
+   "date": "2026-10-16",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-16-vito-friends",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Poor Man's Whiskey",
    "date": "2026-10-16",
@@ -1307,6 +1567,16 @@
    "price": "$87.87 to $115.21",
    "info": "Show: 9 am",
    "image": "https://catalystclub.com/wp-content/uploads/2026/08/live-in-the-atrium-luminarium-io-pacifica.jpeg"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Hot Club Soquel",
+   "date": "2026-10-17",
+   "time": "11:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel",
+   "price": null,
+   "info": "Hot Club Soquel Live Django Jazz",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790447269682-EUL0WFGUBKOHSR16412R/IMG_4063.jpeg"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -1387,6 +1657,16 @@
    "price": "$28.72 to $34.12",
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/08/the-floozies.jpeg"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "Michael Gurley's UltraSound w/ Fossil",
+   "date": "2026-10-17",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-17-michael-gurley-s-ultrasound-w-fossil",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Moe's Alley",
@@ -1739,6 +2019,26 @@
    "image": null
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Michael McNevin with The Keller Sisters",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/8/24/michael-mcnevin-with-the-keller-sisters-fri-oct-23rd-7p-30adv",
+   "price": "$30",
+   "info": "a great evening of songwriting and story telling",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/ae451a3f-c95e-4af8-833c-8c4447e25a36/IMG_1150.PNG"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "Medicine Road",
+   "date": "2026-10-23",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-23-medicine-road",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Silver Tongued Devils",
    "date": "2026-10-23",
@@ -1837,6 +2137,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1786743961528-N5LDD693JDC8SWB3J0VI/ab676161000051743575bbea56c678714be20e83.jpg"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "Afrobeats Nite Halloween Edition w/ DJ Monk Earl",
+   "date": "2026-10-24",
+   "time": "21:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-24-afrobeats-nite-halloween-edition-w-dj-monk-earl",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Moe's Alley",
@@ -2134,6 +2444,16 @@
    "date": "2026-10-30",
    "time": "19:00",
    "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "Halloween Eve w/ American Underdog",
+   "date": "2026-10-30",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-30-halloween-eve-w-american-underdog",
    "price": null,
    "info": null,
    "image": null
@@ -2509,6 +2829,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1789704502686-VNC8GENSHVHBC0DAC8FH/Los+Pendejos.jpg"
   },
   {
+   "venue": "Henfling's Tavern",
+   "title": "The Bourbon Brothers Band",
+   "date": "2026-11-06",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-06-the-bourbon-brothers-band",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "ELIJAH SCOTT",
    "date": "2026-11-06",
@@ -2527,6 +2857,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/05/henry-diltz-cropped.jpg"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "Sound Decision",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-07-sound-decision",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -2739,6 +3079,16 @@
    "image": null
   },
   {
+   "venue": "Henfling's Tavern",
+   "title": "The Joint Chiefs Band",
+   "date": "2026-11-13",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-13-the-joint-chiefs-band",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Roger Clyne and PH Naffah",
    "date": "2026-11-13",
@@ -2807,6 +3157,16 @@
    "price": "$52.38 to $274.56",
    "info": "Doors: 7 pm Show: 8 pm · All Ages",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/isaiah-rashad-lil-sunnys-awful-road-trip-2.jpeg"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "Pulse",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-14-pulse",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Moe's Alley",
@@ -2989,6 +3349,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_1b47c3a1b258425888c3ebfb03166356~mv2.jpg"
   },
   {
+   "venue": "Henfling's Tavern",
+   "title": "Local Honey",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-20-local-honey",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Kabaka Pyramid (Night 1)",
    "date": "2026-11-20",
@@ -3017,6 +3387,16 @@
    "price": null,
    "info": "Our monthly Grateful Dead night! Local favorite Rosebud also plays Bob Dylan, Neil Young, The Band, Van Morrison and more.",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "The Bill Reiland Trio",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-21-the-bill-reiland-trio",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -3337,6 +3717,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1784831289547-3Z99LVTBJ8KW04MFJX7Q/4.jpg"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Sully Tuttle",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/12/5/sully-tuttle",
+   "price": "Sold out",
+   "info": "An intimate evening with Sully Tuttle",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1785091203857-2ZK54H2IDPTYGWG0UBC8/IMG_1120.jpg"
   },
   {
    "venue": "Catalyst Main Room",
@@ -3787,6 +4177,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/andy-mckee-croppeed.jpg"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Hot Club Holo",
+   "date": "2027-01-22",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2027/1/22/hot-club-holodiloff",
+   "price": "$30",
+   "info": "The Ugly Mug presents Dave Holodiloff’s “Hot Club Holo” Acoustic All Stars Gypsy Jazz Ensemble",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1789505488292-PGOJFALCFX9RZRGLGORV/IMG_1179.jpeg"
   },
   {
    "venue": "Rio Theatre",

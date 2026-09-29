@@ -169,7 +169,8 @@ def tribe(venue, base):
     """WordPress sites running The Events Calendar expose /wp-json/tribe/events/v1/events."""
     out, url = [], base + "/wp-json/tribe/events/v1/events?per_page=50"
     while url:
-        data = json.loads(get(url))
+        body = get(url)
+        data = json.loads(body[body.index("{"):])  # some sites print PHP warnings before the JSON
         for e in data.get("events", []):
             dt = datetime.strptime(e["start_date"], "%Y-%m-%d %H:%M:%S")
             img = (e.get("image") or {}).get("url") if isinstance(e.get("image"), dict) else None
@@ -214,6 +215,35 @@ def tidy_caps(title):
     return title, None
 
 
+def tidy_mug(title):
+    """'Understory · Sat 10/3, 7-9pm, $30' -> ('Understory', '$30')."""
+    head, _, rest = title.partition(" · ")
+    price = re.search(r"\$\d+(?:\s*/\s*\$\d+)?", rest)
+    if "sold out" in title.lower():
+        return head.strip(), "Sold out"
+    return head.strip() or title, price.group(0) if price else None
+
+
+def wix_events(venue, page):
+    """Wix Events calendars embed the visible month's events in the page's warmup data."""
+    h = get(page)
+    warm = json.loads(re.search(r'id="wix-warmup-data">(.*?)</script>', h, re.S).group(1))
+    out = []
+    for comps in warm.get("appsWarmupData", {}).values():
+        for comp in comps.values() if isinstance(comps, dict) else []:
+            evs = comp.get("events", {}).get("events") if isinstance(comp, dict) and isinstance(comp.get("events"), dict) else None
+            for e in evs or []:
+                cfg = e.get("scheduling", {}).get("config", {})
+                if not cfg.get("startDate"):
+                    continue
+                dt = datetime.fromisoformat(cfg["startDate"].replace("Z", "+00:00")).astimezone(TZ)
+                slug = e.get("slug")
+                out.append(event(venue, clean(e.get("title")), dt.date(), dt.strftime("%H:%M"),
+                                 f"{page.rsplit('/', 1)[0]}/event-details-registration/{slug}" if slug else page,
+                                 None, clean(e.get("description")) or None))
+    return music_only([e for e in out if not re.search(r"closed|ribbon cutting|tasting!", e["title"], re.I)])
+
+
 def discretion():
     h = get("https://www.discretionbrewing.com/events/")
     out = []
@@ -242,7 +272,7 @@ def mission_west():
     return music_only(out)
 
 
-def localgroove(venue, path):
+def localgroove(venue, path, label=None):
     """LocalGroove venue pages carry schema.org MusicEvent JSON-LD."""
     h = get("https://www.localgroove.live" + path)
     out = []
@@ -256,7 +286,7 @@ def localgroove(venue, path):
                 continue
             title = re.sub(r"\s+at\s+" + re.escape(venue) + r"\s*$", "", clean(e.get("name")), flags=re.I)
             s = e["startDate"]
-            out.append(event(venue, title, s[:10], s[11:16] if len(s) > 10 else None, e.get("url")))
+            out.append(event(label or venue, title, s[:10], s[11:16] if len(s) > 10 else None, e.get("url")))
     return music_only(out)
 
 
@@ -357,6 +387,10 @@ VENUES = {
     "Mission West": mission_west,
     "El Vaquero Winery": el_vaquero,
     "Shanty Shack": shanty_shack_with_fallback,
+    "Henfling's Tavern": lambda: localgroove("Henflings Tavern", "/ben-lomond/venue/henflings-tavern", "Henfling's Tavern"),
+    "Ugly Mug": lambda: music_only(squarespace("Ugly Mug", "https://www.cafeugly.com", "/live-music-the-mug", tidy_mug)),
+    "The Sand Bar": lambda: tribe("The Sand Bar", "https://thesandbarcapitola.com"),
+    "Cork & Fork": lambda: wix_events("Cork & Fork", "https://www.corkandforkcapitola.com/music-events"),
 }
 
 
