@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28T19:45-07:00",
+ "updated": "2026-09-29T07:15-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 89
+   "count": 88
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -68,16 +68,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "The Crepe Place",
-   "title": "Family Jam",
-   "date": "2026-09-28",
-   "time": "18:00",
-   "url": "https://www.thecrepeplace.com/shows-list/family-jam-monday-march-16-from-6-9pm-free",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1773345282683-82CHMDIUQGOTGH43NPJM/5AB28C2B-61B6-4812-A331-6081109B27C2.JPG"
-  },
   {
    "venue": "The Crepe Place",
    "title": "Jazz On The Rocks",
