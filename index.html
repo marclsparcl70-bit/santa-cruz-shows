@@ -70,7 +70,19 @@ h1 span { color: var(--accent); }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip { --c: var(--muted); font: 600 12.5px var(--body); padding: 5px 10px 5px 8px; border-radius: 999px; border: 1.5px solid var(--c); background: transparent; color: var(--ink); cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
 .chip::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
-.chip[aria-pressed="false"] { opacity: 0.45; border-style: dashed; }
+.venuetoggle { justify-self: start; display: inline-flex; align-items: center; gap: 8px; font: 600 13px var(--body); padding: 6px 12px 6px 10px; border: 1.5px solid var(--line); border-radius: 6px; background: var(--paper); color: var(--ink); cursor: pointer; }
+.venuetoggle .lbl { font: 700 12px var(--display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.venuetoggle .cur { color: var(--c, var(--ink)); }
+.venuetoggle .caret { width: 7px; height: 7px; border-right: 2px solid var(--muted); border-bottom: 2px solid var(--muted); transform: translateY(-2px) rotate(45deg); }
+.venuetoggle[aria-expanded="true"] .caret { transform: translateY(2px) rotate(-135deg); }
+@media (prefers-reduced-motion: no-preference) { .venuetoggle .caret { transition: transform 0.15s; } }
+.chips.focusing .chip[aria-pressed="false"] { opacity: 0.5; }
+.chip[aria-pressed="true"] { background: color-mix(in srgb, var(--c) 16%, transparent); }
+.chips.focusing .chip[aria-pressed="true"] { background: var(--c); color: var(--bg); }
+.chips.focusing .chip[aria-pressed="true"]::before { background: var(--bg); }
+.chips.focusing .chip[aria-pressed="true"] .n { color: var(--bg); }
+.chip.all { --c: var(--ink); }
+.chip.all::before { display: none; }
 .chip .n { font: 500 11px var(--mono); color: var(--muted); }
 
 .day { display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: 16px; padding-block: 18px; border-bottom: 1px solid var(--line); }
@@ -154,7 +166,10 @@ footer .bad { color: var(--accent); }
         <button type="button" data-range="all" aria-pressed="true">All</button>
       </div>
     </div>
-    <div class="chips" id="chips" role="group" aria-label="Venues"></div>
+    <button type="button" class="venuetoggle" id="venuetoggle" aria-expanded="false" aria-controls="chips">
+      <span class="lbl">Venue</span> <span class="cur">All venues</span> <span class="caret" aria-hidden="true"></span>
+    </button>
+    <div class="chips" id="chips" role="group" aria-label="Venues" hidden></div>
   </div>
 
   <main id="list"><p class="empty">Loading shows…</p></main>
@@ -169,15 +184,16 @@ const VENUE_COLOR = {
   "Discretion Brewing": "--v-discretion", "Mission West": "--v-mission", "Shanty Shack Brewing": "--v-shanty",
   "El Vaquero Winery": "--v-vaquero",
 };
-const state = { q: "", range: "all", off: new Set(), view: "list", month: null, pick: null };
+const state = { q: "", range: "all", focus: null, venuesOpen: false, view: "list", month: null, pick: null };
 try {
   const saved = JSON.parse(localStorage.getItem("scshows") || "{}");
   if (saved.range) state.range = saved.range;
   if (saved.view) state.view = saved.view;
-  if (Array.isArray(saved.off)) state.off = new Set(saved.off);
+  if (typeof saved.focus === "string") state.focus = saved.focus;
+  if (saved.venuesOpen) state.venuesOpen = true;
 } catch (e) {}
 if (location.hash === "#calendar") state.view = "cal";
-const save = () => { try { localStorage.setItem("scshows", JSON.stringify({ range: state.range, view: state.view, off: [...state.off] })); } catch (e) {} };
+const save = () => { try { localStorage.setItem("scshows", JSON.stringify({ range: state.range, view: state.view, focus: state.focus, venuesOpen: state.venuesOpen })); } catch (e) {} };
 
 let DATA = null;
 const $ = (s) => document.querySelector(s);
@@ -203,7 +219,7 @@ function render() {
   inRange.forEach((e) => (counts[e.venue] = (counts[e.venue] || 0) + 1));
   renderChips(counts);
 
-  const shown = inRange.filter((e) => !state.off.has(e.venue) &&
+  const shown = inRange.filter((e) => (!state.focus || state.focus === e.venue) &&
     (!q || `${e.title} ${e.venue} ${e.info || ""}`.toLowerCase().includes(q)));
 
   const byDay = new Map();
@@ -213,7 +229,7 @@ function render() {
 
   const list = $("#list");
   if (!shown.length) {
-    list.innerHTML = `<p class="empty">No shows match${q ? ` “${esc(state.q)}”` : ""} in this range. Try "All" or turn more venues back on.</p>`;
+    list.innerHTML = `<p class="empty">No shows match${q ? ` “${esc(state.q)}”` : ""} in this range. Try "All" dates or tap "All venues".</p>`;
     return;
   }
   list.innerHTML = [...byDay].map(([day, evs]) => dayHTML(day, evs, today)).join("");
@@ -312,9 +328,21 @@ function showHTML(e) {
 
 function renderChips(counts) {
   const venues = [...new Set(DATA.events.map((e) => e.venue))].sort();
-  $("#chips").innerHTML = venues.map((v) =>
-    `<button type="button" class="chip" style="--c:${color(v)}" data-venue="${esc(v)}" aria-pressed="${!state.off.has(v)}">${esc(v)} <span class="n">${counts[v] || 0}</span></button>`
-  ).join("");
+  if (state.focus && !venues.includes(state.focus)) state.focus = null;
+  const focusing = !!state.focus;
+  const vt = $("#venuetoggle");
+  vt.setAttribute("aria-expanded", state.venuesOpen);
+  vt.querySelector(".cur").textContent = state.focus || "All venues";
+  vt.querySelector(".cur").style.setProperty("--c", focusing ? color(state.focus) : "var(--ink)");
+  vt.classList.toggle("focusing", focusing);
+  $("#chips").hidden = !state.venuesOpen;
+  $("#chips").classList.toggle("focusing", focusing);
+  const total = Object.values(counts).reduce((a, b) => a + b, 0);
+  $("#chips").innerHTML =
+    `<button type="button" class="chip all" data-all aria-pressed="${!focusing}">All venues <span class="n">${total}</span></button>` +
+    venues.map((v) =>
+      `<button type="button" class="chip" style="--c:${color(v)}" data-venue="${esc(v)}" aria-pressed="${state.focus === v}">${esc(v)} <span class="n">${counts[v] || 0}</span></button>`
+    ).join("");
 }
 
 function renderMeta() {
@@ -342,7 +370,12 @@ function syncSeg() {
 }
 $("#chips").addEventListener("click", (ev) => {
   const b = ev.target.closest(".chip"); if (!b) return;
-  const v = b.dataset.venue; state.off.has(v) ? state.off.delete(v) : state.off.add(v); save(); render();
+  const v = b.dataset.venue;
+  state.focus = b.hasAttribute("data-all") || state.focus === v ? null : v;
+  save(); render(); setCtrlHeight();
+});
+$("#venuetoggle").addEventListener("click", () => {
+  state.venuesOpen = !state.venuesOpen; save(); render(); setCtrlHeight();
 });
 $("#q").addEventListener("input", (ev) => { state.q = ev.target.value; render(); });
 window.addEventListener("resize", setCtrlHeight);
