@@ -1,0 +1,397 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Shanty Shack Brewing (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:82734b549eaaf0d76458@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261001T174500
+DTEND;TZID=America/Los_Angeles:20261001T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:efec5a7ce72dfd117cc7@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261002T180000
+DTEND;TZID=America/Los_Angeles:20261002T210000
+SUMMARY:Arcane Lullaby @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Arcane Lullaby is an original alternative rock band drawing in
+ spiration from blues\, goth\, reggae\, punk\, funk\, pop\, prog\, soul\, 
+ metal\,…\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a4c2518eb26d9c7711@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261003T180000
+DTEND;TZID=America/Los_Angeles:20261003T210000
+SUMMARY:Krooked Jo @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Krooked Jo is a jazz\, funk\, fusion band hailing from the Bay
+  Area.\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:189d99c1fcb4dbaa3714@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261004T150000
+DTEND;TZID=America/Los_Angeles:20261004T180000
+SUMMARY:Cayuga Jazz Band @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Cayuga Jazz Band Cayuga Jazz band plays classic jazz\, swing a
+ nd jazz standards\, be-bop\, bossa novas and other American improvisation
+ al…\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:ff311e766f29bcd0fb3b@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261009T180000
+DTEND;TZID=America/Los_Angeles:20261009T210000
+SUMMARY:Sick Behavior\, Western Conflict\, and BluntForceKarma @ Shanty Sh
+ ack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Punk rock triple bill. 6-9pm $8\nhttps://www.shantyshackbrewin
+ g.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:1e2703602871812879a2@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261010T140000
+DTEND;TZID=America/Los_Angeles:20261010T170000
+SUMMARY:The Jamissaries @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:THE JAMISSARIES - Beer Brunch 2-5pm the 2nd Saturday of every 
+ month! Soulful Psychedelic\, Funky Originals by Arindam Krishna Das and
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:699942b14f06d25c813f@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261010T180000
+DTEND;TZID=America/Los_Angeles:20261010T210000
+SUMMARY:Rachel Spung & The Soul Service @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Rachel Spung & The Soul Service is a four-piece\, female-front
+ ed soul\, pop\, and RnB cover band featuring musicians from Monterey and 
+ San…\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:fc90840e2eb33a138496@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261011T150000
+DTEND;TZID=America/Los_Angeles:20261011T180000
+SUMMARY:Jahtiva with the Rudians @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Jahtiva Mia Jativa\, known as “Jahtiva” takes her semi-epo
+ nymous name from a clever play on words that translates to "God's Flower.
+ " With…\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:720ec5985aa27f9023eb@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261015T180000
+DTEND;TZID=America/Los_Angeles:20261015T210000
+SUMMARY:Heartfeast and War Extincion @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Heartfeast is an instrumental genre-fluid progressive rock and
+  psychedelic chromesthesia rhythmic experience\, War Extinction is an…\
+ nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:ccbf46cc53149c58f492@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261017T140000
+DTEND;TZID=America/Los_Angeles:20261017T170000
+SUMMARY:Rosebud @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Our monthly Grateful Dead night! Local favorite Rosebud also p
+ lays Bob Dylan\, Neil Young\, The Band\, Van Morrison and more.\nhttps://
+ www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:be84b78d48ba3bbf941b@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261017T180000
+DTEND;TZID=America/Los_Angeles:20261017T210000
+SUMMARY:Just Dandy @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:EVERYBODY'S GONE is the latest album by local pop-punk/emo/jam
+ my/rock band\, JUST DANDY. It's a heavy\, high energy\, nostalgic\, catch
+ y\,…\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:5c8be196bf87768dd6b9@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261018T150000
+DTEND;TZID=America/Los_Angeles:20261018T180000
+SUMMARY:The Upside @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Who We Are The Band: The Upside \, a versatile cover band play
+ ing classic\, highly recognizable hits from the 70's\, 80s\, 90s\, and be
+ yond.…\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:5c4ad21682de94a7fbc6@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261022T180000
+DTEND;TZID=America/Los_Angeles:20261022T210000
+SUMMARY:The Beer Scouts @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:The Beer Scouts are 3 great guys with 4 great chords! The Beer
+  Scouts are an original act \, but play lots of cover tunes as…\nhttps:
+ //www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e28e3e50bc8bb1ec18@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261023T180000
+DTEND;TZID=America/Los_Angeles:20261023T210000
+SUMMARY:Love Creek with the Jamissaries @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Local psychedelic rock band out of the Santa Cruz Mountains pl
+ aying inventive originals and some well-known rock covers.\nhttps://www.s
+ hantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:e927df54cb4221a97e45@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261024T160000
+DTEND;TZID=America/Los_Angeles:20261024T190000
+SUMMARY:Orctoberfest 2026 @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:On Saturday\, October 24\, 2026\, 8 brutal metal and punk band
+ s gather for the Ultimate Halloween Costume Party & Metal-Punk Concert wi
+ th…\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:41972a1867186fd650c3@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261025T150000
+DTEND;TZID=America/Los_Angeles:20261025T180000
+SUMMARY:Free To Be @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Fee to Be is a genre-blending band from Santa Cruz\, CA.\nhttp
+ s://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:1f13ad246b38ea7cb408@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261030T180000
+DTEND;TZID=America/Los_Angeles:20261030T210000
+SUMMARY:Los Pendejos Imbéciles @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Los Pendejos Imbéciles don’t just play a show—they throw 
+ a party. This Santa Cruz rock outfit delivers an electric\, highly visual
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:e9754149eba5cf0165b9@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261105T174500
+DTEND;TZID=America/Los_Angeles:20261105T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:56f088e00cb7359e097d@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261114T140000
+DTEND;TZID=America/Los_Angeles:20261114T170000
+SUMMARY:The Jamissaries @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:THE JAMISSARIES - Beer Brunch 2-5pm the 2nd Saturday of every 
+ month! Soulful Psychedelic\, Funky Originals by Arindam Krishna Das and
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0f9b102425c4d63431@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261121T140000
+DTEND;TZID=America/Los_Angeles:20261121T170000
+SUMMARY:Rosebud @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Our monthly Grateful Dead night! Local favorite Rosebud also p
+ lays Bob Dylan\, Neil Young\, The Band\, Van Morrison and more.\nhttps://
+ www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:633bcc29c4a2ebbefd49@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261203T174500
+DTEND;TZID=America/Los_Angeles:20261203T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:743e4ebafbbf6dbd60fb@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261212T140000
+DTEND;TZID=America/Los_Angeles:20261212T170000
+SUMMARY:The Jamissaries @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:THE JAMISSARIES - Beer Brunch 2-5pm the 2nd Saturday of every 
+ month! Soulful Psychedelic\, Funky Originals by Arindam Krishna Das and
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:920146ed80d548e96563@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261219T140000
+DTEND;TZID=America/Los_Angeles:20261219T170000
+SUMMARY:Rosebud @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Our monthly Grateful Dead night! Local favorite Rosebud also p
+ lays Bob Dylan\, Neil Young\, The Band\, Van Morrison and more.\nhttps://
+ www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:e92a9d82a192ddd41ab8@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270107T174500
+DTEND;TZID=America/Los_Angeles:20270107T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:dd32a8bd25f3c890fe3f@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270204T174500
+DTEND;TZID=America/Los_Angeles:20270204T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:b286233e8539d4cbed59@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270304T174500
+DTEND;TZID=America/Los_Angeles:20270304T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:e76aceea523dbb10f390@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270401T174500
+DTEND;TZID=America/Los_Angeles:20270401T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:ff16f4b918feeb396ce9@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270506T174500
+DTEND;TZID=America/Los_Angeles:20270506T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:1cb8b5f94809d87aae4b@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270603T174500
+DTEND;TZID=America/Los_Angeles:20270603T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:865a9660e97481ae0ad3@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270701T174500
+DTEND;TZID=America/Los_Angeles:20270701T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+BEGIN:VEVENT
+UID:d6f0de3a69940c6df405@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270805T174500
+DTEND;TZID=America/Los_Angeles:20270805T204500
+SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
+LOCATION:Shanty Shack Brewing
+DESCRIPTION:Grab your voices\, kazoos\, washboards\, and ukes and come on 
+ down to Shanty Shack for a jug band jam for everyone. Songbooks will be
+ …\nhttps://www.shantyshackbrewing.com/events
+URL:https://www.shantyshackbrewing.com/events
+END:VEVENT
+END:VCALENDAR

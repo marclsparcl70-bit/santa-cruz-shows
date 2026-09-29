@@ -1,0 +1,196 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:El Vaquero Winery (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:ca6a6b253d6cf5c37fb4@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261002T180000
+DTEND;TZID=America/Los_Angeles:20261002T210000
+SUMMARY:Joint Chiefs @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nFunk  · Food: SC Eatary\nhttps://reservations.elvaquerow
+ inery.com/events/6d72bbdc30cc2b430494102f9d2cfe0cc29ff73b
+URL:https://reservations.elvaquerowinery.com/events/6d72bbdc30cc2b43049410
+ 2f9d2cfe0cc29ff73b
+END:VEVENT
+BEGIN:VEVENT
+UID:200832371e0c74010f4b@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261004T160000
+DTEND;TZID=America/Los_Angeles:20261004T190000
+SUMMARY:Big Bad Wolf @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nRock · Food: Chubby's tacos\nhttps://reservations.elvaqu
+ erowinery.com/events/828d63ebe48ba1520fec554eafdd3c8a8640308f
+URL:https://reservations.elvaquerowinery.com/events/828d63ebe48ba1520fec55
+ 4eafdd3c8a8640308f
+END:VEVENT
+BEGIN:VEVENT
+UID:c50f1438974c513d430d@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261004T160000
+DTEND;TZID=America/Los_Angeles:20261004T190000
+SUMMARY:Jefferson's Revival @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nRock\, John Fogarty & CCR TRibute · Food: Chubby Tacos\n
+ https://reservations.elvaquerowinery.com/events/e5dceb5bd7911b54fbe38caf5
+ 6ed7567bf0a4085
+URL:https://reservations.elvaquerowinery.com/events/e5dceb5bd7911b54fbe38c
+ af56ed7567bf0a4085
+END:VEVENT
+BEGIN:VEVENT
+UID:96c86f748c558e44875e@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261009T180000
+DTEND;TZID=America/Los_Angeles:20261009T210000
+SUMMARY:Not So Young @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nRock\, Cover Band\nhttps://reservations.elvaquerowinery.c
+ om/events/7641f388fa34f512482d250c7271b5688d83274c
+URL:https://reservations.elvaquerowinery.com/events/7641f388fa34f512482d25
+ 0c7271b5688d83274c
+END:VEVENT
+BEGIN:VEVENT
+UID:3602be85de1d6c347509@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261010T170000
+DTEND;TZID=America/Los_Angeles:20261010T200000
+SUMMARY:SPUN @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nParty Rock\nhttps://reservations.elvaquerowinery.com/even
+ ts/f07637c0b899f603f59170a2f28e868189a2c2f0
+URL:https://reservations.elvaquerowinery.com/events/f07637c0b899f603f59170
+ a2f28e868189a2c2f0
+END:VEVENT
+BEGIN:VEVENT
+UID:f01e5e39c70424a9f23c@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261011T160000
+DTEND;TZID=America/Los_Angeles:20261011T190000
+SUMMARY:Bobby Mariano & Friends @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nRock\, Funk\nhttps://reservations.elvaquerowinery.com/eve
+ nts/c685b0b8b8e586193564c341fcc6ad0b8e3df0fd
+URL:https://reservations.elvaquerowinery.com/events/c685b0b8b8e586193564c3
+ 41fcc6ad0b8e3df0fd
+END:VEVENT
+BEGIN:VEVENT
+UID:8e55faaf8dd202a83f07@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261018T160000
+DTEND;TZID=America/Los_Angeles:20261018T190000
+SUMMARY:Bastard Sons of Johnny Cash @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nRock\nhttps://reservations.elvaquerowinery.com/events/366
+ 60341b059824951adb3fce3c2bb1f9dfbaa34
+URL:https://reservations.elvaquerowinery.com/events/36660341b059824951adb3
+ fce3c2bb1f9dfbaa34
+END:VEVENT
+BEGIN:VEVENT
+UID:eb9fddb4a5bc4a7bc1bb@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261024T173000
+DTEND;TZID=America/Los_Angeles:20261024T203000
+SUMMARY:Rosebud @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nFun!\nhttps://reservations.elvaquerowinery.com/events/1c8
+ eafc8fe68b1c68d37c1c3cf6da2b588b082f9
+URL:https://reservations.elvaquerowinery.com/events/1c8eafc8fe68b1c68d37c1
+ c3cf6da2b588b082f9
+END:VEVENT
+BEGIN:VEVENT
+UID:f2d09694c2604e47f97f@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261030T180000
+DTEND;TZID=America/Los_Angeles:20261030T210000
+SUMMARY:Juice of the Barley @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nIrish\nhttps://reservations.elvaquerowinery.com/events/25
+ e67f6f333547f711c4f9e9df6e209f8f18b87c
+URL:https://reservations.elvaquerowinery.com/events/25e67f6f333547f711c4f9
+ e9df6e209f8f18b87c
+END:VEVENT
+BEGIN:VEVENT
+UID:89798ae2dca3a981aea3@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261031T170000
+DTEND;TZID=America/Los_Angeles:20261031T200000
+SUMMARY:Joint Chiefs Halloween Party @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nFunk\, Party · Food: Riot Bites\nhttps://reservations.el
+ vaquerowinery.com/events/b4ddc18ee797b682083996631e4065565928a7e8
+URL:https://reservations.elvaquerowinery.com/events/b4ddc18ee797b682083996
+ 631e4065565928a7e8
+END:VEVENT
+BEGIN:VEVENT
+UID:07bada106a01e8ec866a@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261101T160000
+DTEND;TZID=America/Los_Angeles:20261101T190000
+SUMMARY:Alex Lucero @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nOriginals\, Rock · Food: Tacos El Jesse\nhttps://reserva
+ tions.elvaquerowinery.com/events/3d9af26a106c111efe27b87ce7510131f7debc45
+URL:https://reservations.elvaquerowinery.com/events/3d9af26a106c111efe27b8
+ 7ce7510131f7debc45
+END:VEVENT
+BEGIN:VEVENT
+UID:608749947c23dc445f36@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261106T180000
+DTEND;TZID=America/Los_Angeles:20261106T210000
+SUMMARY:El Brick @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nRockabilly\nhttps://reservations.elvaquerowinery.com/even
+ ts/2f5a606dee8adf60ff6316678dd3df0ae49f535e
+URL:https://reservations.elvaquerowinery.com/events/2f5a606dee8adf60ff6316
+ 678dd3df0ae49f535e
+END:VEVENT
+BEGIN:VEVENT
+UID:8dec4628e23cdb75cbb7@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261120T180000
+DTEND;TZID=America/Los_Angeles:20261120T210000
+SUMMARY:James Durbin Revival @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nRock\nhttps://reservations.elvaquerowinery.com/events/57b
+ e3f17d3a791bc9c6034d8425d450ef070add9
+URL:https://reservations.elvaquerowinery.com/events/57be3f17d3a791bc9c6034
+ d8425d450ef070add9
+END:VEVENT
+BEGIN:VEVENT
+UID:b44545de6cf447404cec@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261128T170000
+DTEND;TZID=America/Los_Angeles:20261128T200000
+SUMMARY:Poor House Bistro @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nMotown\, Staxx\nhttps://reservations.elvaquerowinery.com/
+ events/7f3586225ebdd5d647cf910704029fb46e69a369
+URL:https://reservations.elvaquerowinery.com/events/7f3586225ebdd5d647cf91
+ 0704029fb46e69a369
+END:VEVENT
+END:VCALENDAR

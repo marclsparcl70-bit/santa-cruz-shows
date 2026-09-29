@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T10:26-07:00",
+ "updated": "2026-09-29T11:08-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -89,7 +89,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "venue": "Cork & Fork",
@@ -177,16 +177,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/03/cyrille-aimee-cropped.jpg"
-  },
-  {
-   "venue": "The Sand Bar",
-   "title": "Ted Welty",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "url": "https://thesandbarcapitola.com/event/ted-welty-5/",
-   "price": null,
-   "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2025/09/ted-welty-1.jpeg"
   },
   {
    "venue": "Ugly Mug",

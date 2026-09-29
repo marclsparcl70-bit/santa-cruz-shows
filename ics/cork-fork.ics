@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cork & Fork (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4503cc81f3ba15ae5087@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20260930T180000
+DTEND;TZID=America/Los_Angeles:20260930T210000
+SUMMARY:Open Mic @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /open-mic-2026-09-30-18-00
+URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
+ c-2026-09-30-18-00
+END:VEVENT
+BEGIN:VEVENT
+UID:0f503c44aa17788a57d3@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261002T180000
+DTEND;TZID=America/Los_Angeles:20261002T210000
+SUMMARY:Big Bad Wolf @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /big-bad-wolf-13
+URL:https://www.corkandforkcapitola.com/event-details-registration/big-bad
+ -wolf-13
+END:VEVENT
+BEGIN:VEVENT
+UID:2b7796a7d67be95da3e2@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261004T160000
+DTEND;TZID=America/Los_Angeles:20261004T190000
+SUMMARY:Vinny Johnson Blues Band @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /vinny-johnson-blues-band-2026-10-04-16-00
+URL:https://www.corkandforkcapitola.com/event-details-registration/vinny-j
+ ohnson-blues-band-2026-10-04-16-00
+END:VEVENT
+BEGIN:VEVENT
+UID:12c70714fd78d13986a2@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261007T180000
+DTEND;TZID=America/Los_Angeles:20261007T210000
+SUMMARY:Open Mic @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /open-mic-2026-10-07-18-00
+URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
+ c-2026-10-07-18-00
+END:VEVENT
+BEGIN:VEVENT
+UID:1cf8cfd40298c11e7367@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261008T180000
+DTEND;TZID=America/Los_Angeles:20261008T210000
+SUMMARY:The Blues Suspects @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /the-blues-suspects-3
+URL:https://www.corkandforkcapitola.com/event-details-registration/the-blu
+ es-suspects-3
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b44b5c333a95d54ca4@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261009T180000
+DTEND;TZID=America/Los_Angeles:20261009T210000
+SUMMARY:The 10 O'Clock Lunch Band @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /the-10-oclock-lunch-band-2026-10-09-18-00
+URL:https://www.corkandforkcapitola.com/event-details-registration/the-10-
+ oclock-lunch-band-2026-10-09-18-00
+END:VEVENT
+BEGIN:VEVENT
+UID:446c548aaddad353ecd0@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261010T180000
+DTEND;TZID=America/Los_Angeles:20261010T210000
+SUMMARY:Absent Minds @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /absent-minds-2026-10-10-18-00
+URL:https://www.corkandforkcapitola.com/event-details-registration/absent-
+ minds-2026-10-10-18-00
+END:VEVENT
+BEGIN:VEVENT
+UID:89c90c6039419fce8b08@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261011T160000
+DTEND;TZID=America/Los_Angeles:20261011T190000
+SUMMARY:Alex Lucero Band @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /alex-lucero-band
+URL:https://www.corkandforkcapitola.com/event-details-registration/alex-lu
+ cero-band
+END:VEVENT
+BEGIN:VEVENT
+UID:4072178f7a4e7be3428b@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261014T180000
+DTEND;TZID=America/Los_Angeles:20261014T210000
+SUMMARY:Open Mic @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /open-mic-2026-10-14-18-00
+URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
+ c-2026-10-14-18-00
+END:VEVENT
+BEGIN:VEVENT
+UID:bd11074b6f45ca659504@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261015T180000
+DTEND;TZID=America/Los_Angeles:20261015T210000
+SUMMARY:Blue Lightening @ Cork & Fork
+LOCATION:Cork & Fork
+DESCRIPTION:https://www.corkandforkcapitola.com/event-details-registration
+ /blue-lightening-10
+URL:https://www.corkandforkcapitola.com/event-details-registration/blue-li
+ ghtening-10
+END:VEVENT
+END:VCALENDAR

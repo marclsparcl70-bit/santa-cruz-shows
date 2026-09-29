@@ -1,0 +1,127 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Woodhouse (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bea9454593ff0304e3d1@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20260929T180000
+DTEND;TZID=America/Los_Angeles:20260929T210000
+SUMMARY:Tuesday JAM! @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:This is the place to be on Tuesday! This weekly jam fest featu
+ res rotating bands\, open jam sessions\, vendors\, activities and all the
+ …\nhttps://www.woodhousebrews.com/events/2026/9/29/tuesday-jam
+URL:https://www.woodhousebrews.com/events/2026/9/29/tuesday-jam
+END:VEVENT
+BEGIN:VEVENT
+UID:af859242d1073d311e7d@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261009T180000
+DTEND;TZID=America/Los_Angeles:20261009T210000
+SUMMARY:Brian Fitzgerald Jazz Trio @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:https://www.woodhousebrews.com/events/2026/6/25/brian-fitzgera
+ ld-jazz-trio
+URL:https://www.woodhousebrews.com/events/2026/6/25/brian-fitzgerald-jazz-
+ trio
+END:VEVENT
+BEGIN:VEVENT
+UID:388358b10c4e6221a4e0@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261010T190000
+DTEND;TZID=America/Los_Angeles:20261010T220000
+SUMMARY:Bongo Sidibe @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:Bongo Sidibe is a Traditional Drummer and Vocalist from Conakr
+ y Guinea\, in West Africa. Bongo Sidibe uses his Traditional background a
+ s…\nhttps://www.woodhousebrews.com/events/2026/7/18/bongo-sidibe
+URL:https://www.woodhousebrews.com/events/2026/7/18/bongo-sidibe
+END:VEVENT
+BEGIN:VEVENT
+UID:05632d601e21d5b012e3@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261018T160000
+DTEND;TZID=America/Los_Angeles:20261018T190000
+SUMMARY:BLVK H3RO LIVE & THE 3PEAT BAND + SELECTA 7 @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:Santa Cruz\, get ready. BLVK H3RO LIVE with THE 3PEAT BAND * S
+ ELECTA 7 Grab your tickets here!! One of Jamaica’s most exciting new vo
+ ices…\nhttps://www.eventbrite.com/e/blvk-h3ro-live-the-3peat-band-selec
+ ta-7-sound-at-woodhouse-santa-cruz-tickets-1999747465501
+URL:https://www.eventbrite.com/e/blvk-h3ro-live-the-3peat-band-selecta-7-s
+ ound-at-woodhouse-santa-cruz-tickets-1999747465501
+END:VEVENT
+BEGIN:VEVENT
+UID:db75f0686709a8c5da3b@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261025T150000
+DTEND;TZID=America/Los_Angeles:20261025T180000
+SUMMARY:Edge of the West & Taylor Rae's Lemongrass @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:FRONTIER SUNDAY 🌵 Tickets available now! Sunday\, October 2
+ 5th | 3–7PM Woodhouse Blending & Brewing Spend Sunday afternoon at Wood
+ house…\nhttps://www.woodhousebrews.com/events/2026/10/25/d4tywb5u1tnagn
+ nda04h2iys1h4wsv
+URL:https://www.woodhousebrews.com/events/2026/10/25/d4tywb5u1tnagnnda04h2
+ iys1h4wsv
+END:VEVENT
+BEGIN:VEVENT
+UID:60f433ac4dd43b944b60@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261106T190000
+DTEND;TZID=America/Los_Angeles:20261106T220000
+SUMMARY:Los Pendejos Imbeciles Band @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:https://www.woodhousebrews.com/events/2026/11/6/los-pendejos-i
+ mbeciles-band
+URL:https://www.woodhousebrews.com/events/2026/11/6/los-pendejos-imbeciles
+ -band
+END:VEVENT
+BEGIN:VEVENT
+UID:14c1ca1716fed147e2e8@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261204T190000
+DTEND;TZID=America/Los_Angeles:20261204T220000
+SUMMARY:1970's Rock Revue @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:1970’s Jazz-Rock Revue If you wish the era of 1970’s jazz-
+ rock and progressive rock never ended\, then this is the band for you! Jo
+ shua…\nhttps://www.woodhousebrews.com/events/2026/12/4/1970s-rock-revue
+URL:https://www.woodhousebrews.com/events/2026/12/4/1970s-rock-revue
+END:VEVENT
+BEGIN:VEVENT
+UID:75af1d722c858bc758ba@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261206T170000
+DTEND;TZID=America/Los_Angeles:20261206T200000
+SUMMARY:Horse Feathers @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:There are bands you listen to\, and then there are bands you e
+ xperience. Horse Feathers has spent nearly two decades crafting songs tha
+ t…\nhttps://www.eventbrite.com/e/horse-feathers-tickets-1993861278758
+URL:https://www.eventbrite.com/e/horse-feathers-tickets-1993861278758
+END:VEVENT
+END:VCALENDAR

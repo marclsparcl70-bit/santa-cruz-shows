@@ -1,0 +1,50 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Cat Alley Street (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f179a712cc23d80d2b53@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261001T183000
+DTEND;TZID=America/Los_Angeles:20261001T213000
+SUMMARY:Burner Happy Hour )'( Mr. Bounceman + Side69 @ Cat Alley Street
+LOCATION:Cat Alley Street
+DESCRIPTION:https://catalleystreet.com/event/burner-happy-hour-mr-bouncema
+ n-side69/
+URL:https://catalleystreet.com/event/burner-happy-hour-mr-bounceman-side69
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:f5913f81b27278eaa880@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261002T210000
+DTEND;TZID=America/Los_Angeles:20261003T000000
+SUMMARY:Ticketbooth and Red Hot Bev Takeover @ Cat Alley Street
+LOCATION:Cat Alley Street
+DESCRIPTION:https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-t
+ akeover/
+URL:https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-takeover/
+END:VEVENT
+END:VCALENDAR

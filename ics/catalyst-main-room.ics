@@ -1,0 +1,219 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Catalyst Main Room (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4065b9d4fe6d8751d6e7@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261001T210000
+DTEND;TZID=America/Los_Angeles:20261002T000000
+SUMMARY:Steel Pulse – Reggae Against Racism Tour @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$50.22\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nhttps://cata
+ lystclub.com/event/steel-pulse-reggae-against-racism-tour/the-catalyst/sa
+ nta-cruz-california/
+URL:https://catalystclub.com/event/steel-pulse-reggae-against-racism-tour/
+ the-catalyst/santa-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:fdbaf12bbf9cfa4d1426@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261002T210000
+DTEND;TZID=America/Los_Angeles:20261003T000000
+SUMMARY:Twin Temple @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$40.02\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nhttps://cata
+ lystclub.com/event/twin-temple/the-catalyst/santa-cruz-california/
+URL:https://catalystclub.com/event/twin-temple/the-catalyst/santa-cruz-cal
+ ifornia/
+END:VEVENT
+BEGIN:VEVENT
+UID:91acd1d1edeb31b54756@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261009T210000
+DTEND;TZID=America/Los_Angeles:20261010T000000
+SUMMARY:It’s a 2000’s Party: Santa Cruz @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$28.72 to $40.55\nDoors: 8 pm Show: 9 pm · Ages 18 and up\nht
+ tps://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-catalyst/
+ santa-cruz-california/
+URL:https://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-cata
+ lyst/santa-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a1bbc068829a74fc28@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261010T210000
+DTEND;TZID=America/Los_Angeles:20261011T000000
+SUMMARY:DOMi & JD BECK – WHO ASKED? Tour @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$34.12\nDoors: 8 pm Show: 9 pm\nhttps://catalystclub.com/event
+ /domi-jd-beck-who-asked-tour/the-catalyst/santa-cruz-california/
+URL:https://catalystclub.com/event/domi-jd-beck-who-asked-tour/the-catalys
+ t/santa-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:ae1b8f29be0f412fd29a@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261016T210000
+DTEND;TZID=America/Los_Angeles:20261017T000000
+SUMMARY:XAVIER WULF PRESENTS: THE COOL WORLD TOUR @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$51.85\nShow: 9 pm · Ages 16 and up\nhttps://catalystclub.com
+ /event/xavier-wulf-presents-the-cool-world-tour/the-catalyst/santa-cruz-c
+ alifornia/
+URL:https://catalystclub.com/event/xavier-wulf-presents-the-cool-world-tou
+ r/the-catalyst/santa-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:6e99b96b86d551f1dc0a@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261017T200000
+DTEND;TZID=America/Los_Angeles:20261017T230000
+SUMMARY:The Floozies @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$28.72 to $34.12\nDoors: 7 pm Show: 8 pm · Ages 16 and up\nht
+ tps://catalystclub.com/event/the-floozies/the-catalyst/santa-cruz-califor
+ nia/
+URL:https://catalystclub.com/event/the-floozies/the-catalyst/santa-cruz-ca
+ lifornia/
+END:VEVENT
+BEGIN:VEVENT
+UID:749cb1279c82df8363d1@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261019T200000
+DTEND;TZID=America/Los_Angeles:20261019T230000
+SUMMARY:Last Dinosaurs @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$28.72 to $30.88\nDoors: 7 pm Show: 8 pm · Ages 16 and up\nht
+ tps://catalystclub.com/event/last-dinosaurs/the-catalyst/santa-cruz-calif
+ ornia/
+URL:https://catalystclub.com/event/last-dinosaurs/the-catalyst/santa-cruz-
+ california/
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3b690bfa13696d050d@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261113T210000
+DTEND;TZID=America/Los_Angeles:20261114T000000
+SUMMARY:Andre Nickatina **Rescheduled from 6/27** @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$82.47 to $93.27\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nht
+ tps://catalystclub.com/event/andre-nickatina-rescheduled-from-6-27/the-ca
+ talyst/santa-cruz-california/
+URL:https://catalystclub.com/event/andre-nickatina-rescheduled-from-6-27/t
+ he-catalyst/santa-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:94513f2653510bd35de8@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261114T200000
+DTEND;TZID=America/Los_Angeles:20261114T230000
+SUMMARY:ISAIAH RASHAD: Lil Sunny’s Awful Road Trip @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$52.38 to $274.56\nDoors: 7 pm Show: 8 pm · All Ages\nhttps:/
+ /catalystclub.com/event/isaiah-rashad-lil-sunnys-awful-road-trip/the-cata
+ lyst/santa-cruz-california/
+URL:https://catalystclub.com/event/isaiah-rashad-lil-sunnys-awful-road-tri
+ p/the-catalyst/santa-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:4449310e3b4bef2e726a@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261115T210000
+DTEND;TZID=America/Los_Angeles:20261116T000000
+SUMMARY:THE CALIFORNIA HONEYDROPS – SWEET LIKE THAT TOUR 2026 @ Catalyst
+  Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$55.08\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nhttps://cata
+ lystclub.com/event/the-california-honeydrops-sweet-like-that-tour-2026/th
+ e-catalyst/santa-cruz-california/
+URL:https://catalystclub.com/event/the-california-honeydrops-sweet-like-th
+ at-tour-2026/the-catalyst/santa-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:395dad69c8e0672f49ae@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261118T210000
+DTEND;TZID=America/Los_Angeles:20261119T000000
+SUMMARY:As I Lay Dying @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$40.02 to $45.41\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nht
+ tps://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz-calif
+ ornia/
+URL:https://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz-
+ california/
+END:VEVENT
+BEGIN:VEVENT
+UID:8d13c51e1a7ae856b9c2@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261127T200000
+DTEND;TZID=America/Los_Angeles:20261127T230000
+SUMMARY:Jackie Greene @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$40.55\nDoors: 7 pm Show: 8 pm\nhttps://catalystclub.com/event
+ /jackie-greene/the-catalyst/santa-cruz-california/
+URL:https://catalystclub.com/event/jackie-greene/the-catalyst/santa-cruz-c
+ alifornia/
+END:VEVENT
+BEGIN:VEVENT
+UID:8a1bc7f6e189ffc748d1@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261128T200000
+DTEND;TZID=America/Los_Angeles:20261128T230000
+SUMMARY:DON CARLOS & JUNIOR TOOTS @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$57.78\nDoors: 7 pm Show: 8 pm · Ages 16 and up\nhttps://cata
+ lystclub.com/event/don-carlos-junior-toots/the-catalyst/santa-cruz-califo
+ rnia/
+URL:https://catalystclub.com/event/don-carlos-junior-toots/the-catalyst/sa
+ nta-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:f78965fcc922f7b6fc8e@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261205T200000
+DTEND;TZID=America/Los_Angeles:20261205T230000
+SUMMARY:The Expendables @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$43.26\nDoors: 7 pm Show: 8 pm · Ages 16 and up\nhttps://cata
+ lystclub.com/event/the-expendables-3/the-catalyst/santa-cruz-california/
+URL:https://catalystclub.com/event/the-expendables-3/the-catalyst/santa-cr
+ uz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:75adb7c7a854c34f9dd4@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261212T210000
+DTEND;TZID=America/Los_Angeles:20261213T000000
+SUMMARY:How The Grouch Stole Christmas Tour @ Catalyst Main Room
+LOCATION:Catalyst Main Room
+DESCRIPTION:$34.12 to $51.85\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nht
+ tps://catalystclub.com/event/how-the-grouch-stole-christmas-tour/the-cata
+ lyst/santa-cruz-california/
+URL:https://catalystclub.com/event/how-the-grouch-stole-christmas-tour/the
+ -catalyst/santa-cruz-california/
+END:VEVENT
+END:VCALENDAR

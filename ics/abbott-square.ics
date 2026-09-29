@@ -1,0 +1,242 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Abbott Square (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:93716df64930229e4167@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261001T180000
+DTEND;TZID=America/Los_Angeles:20261001T210000
+SUMMARY:Afrobeats Nite SC @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Afrobeats Nite Santa Cruz is your bi-weekly dose of dance\, rh
+ ythm\, and pure vibes. Hosted by DJ Monk Earl at Abbott Square Market\, i
+ t's…\nhttps://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd98
+ 2da-r5x8y-yknwn-3t992-rsfxk-hkdrm
+URL:https://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd982da-r
+ 5x8y-yknwn-3t992-rsfxk-hkdrm
+END:VEVENT
+BEGIN:VEVENT
+UID:bda8e370665740ffd870@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261002T190000
+DTEND;TZID=America/Los_Angeles:20261002T220000
+SUMMARY:Afro HiLife @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Tropical Fusion\, Afro Funk\, Soukous\, HiLife\, Afro Reggae\,
+  Afro Beat AfroHiLife is a band formed in Santa Cruz CA - The band perfor
+ ms…\nhttps://abbottsquaremarket.com/events/afro-hilife-2-aewzr
+URL:https://abbottsquaremarket.com/events/afro-hilife-2-aewzr
+END:VEVENT
+BEGIN:VEVENT
+UID:d2fdbea60484f9bbc628@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261003T120000
+DTEND;TZID=America/Los_Angeles:20261003T150000
+SUMMARY:Santa Cruz Porchfest @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:1st Annual Santa Cruz Porchfest is a free\, all-ages\, one-day
+  music event that turns downtown porches into stages\, Our stage will inc
+ lude…\nhttps://abbottsquaremarket.com/events/santa-cruz-porchfest
+URL:https://abbottsquaremarket.com/events/santa-cruz-porchfest
+END:VEVENT
+BEGIN:VEVENT
+UID:05cc48a3aaea48771c6a@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261004T130000
+DTEND;TZID=America/Los_Angeles:20261004T160000
+SUMMARY:The Trolley Drops - 1st Sundays @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:The Trolley Drops play hokum blues and novelty tunes from the 
+ 20s and 30s. Vocally rich\, carefree\, and infectiously fun\, this good t
+ ime…\nhttps://abbottsquaremarket.com/events/the-trolley-drops-1st-sunda
+ ys-9z3td
+URL:https://abbottsquaremarket.com/events/the-trolley-drops-1st-sundays-9z
+ 3td
+END:VEVENT
+BEGIN:VEVENT
+UID:358c95d285779262b763@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261004T180000
+DTEND;TZID=America/Los_Angeles:20261004T210000
+SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Every Sunday evening join us for the Salsa by The Sea Afterpar
+ ty. Featuring various local DJ’s.\nhttps://abbottsquaremarket.com/event
+ s/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n
+URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
+ 89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb9679a99996bd95756@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261008T183000
+DTEND;TZID=America/Los_Angeles:20261008T213000
+SUMMARY:Jazz Night @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-c
+ xemg
+URL:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg
+END:VEVENT
+BEGIN:VEVENT
+UID:751c507bfb92ba0c5421@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261009T190000
+DTEND;TZID=America/Los_Angeles:20261009T220000
+SUMMARY:Love Creek @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:psychedelic funky jams out of Santa Cruz\, CA\nhttps://abbotts
+ quaremarket.com/events/love-creek1
+URL:https://abbottsquaremarket.com/events/love-creek1
+END:VEVENT
+BEGIN:VEVENT
+UID:331340676ba5fa7b7ba9@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261011T180000
+DTEND;TZID=America/Los_Angeles:20261011T210000
+SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Every Sunday evening join us for the Salsa by The Sea Afterpar
+ ty. Featuring various local DJ’s.\nhttps://abbottsquaremarket.com/event
+ s/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n
+ -s8jnt
+URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
+ 89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-s8jnt
+END:VEVENT
+BEGIN:VEVENT
+UID:323ff2c4d33774f32e17@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261015T183000
+DTEND;TZID=America/Los_Angeles:20261015T213000
+SUMMARY:Afrobeats Nite SC @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Afrobeats Nite Santa Cruz is your bi-weekly dose of dance\, rh
+ ythm\, and pure vibes. Hosted by DJ Monk Earl at Abbott Square Market\, i
+ t's…\nhttps://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd98
+ 2da-r5x8y-yknwn-3t992-rsfxk
+URL:https://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd982da-r
+ 5x8y-yknwn-3t992-rsfxk
+END:VEVENT
+BEGIN:VEVENT
+UID:f273bee29b1b607f3c10@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261016T190000
+DTEND;TZID=America/Los_Angeles:20261016T220000
+SUMMARY:Man in Black @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Man In Black performs classicJohnny Cash songs interpreted thr
+ ough an Americana style.\nhttps://abbottsquaremarket.com/events/man-in-bl
+ ack
+URL:https://abbottsquaremarket.com/events/man-in-black
+END:VEVENT
+BEGIN:VEVENT
+UID:8f9a0f078dedf47e061f@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261018T180000
+DTEND;TZID=America/Los_Angeles:20261018T210000
+SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Every Sunday evening join us for the Salsa by The Sea Afterpar
+ ty. Featuring various local DJ’s.\nhttps://abbottsquaremarket.com/event
+ s/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n
+ -s8jnt-mxx5e
+URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
+ 89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-s8jnt-mxx5e
+END:VEVENT
+BEGIN:VEVENT
+UID:1a518ccfc096b7d4374c@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261022T183000
+DTEND;TZID=America/Los_Angeles:20261022T213000
+SUMMARY:Jazz Night @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-c
+ xemg-twz5y
+URL:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz
+ 5y
+END:VEVENT
+BEGIN:VEVENT
+UID:09b6d9bb91d93d5a583a@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261023T190000
+DTEND;TZID=America/Los_Angeles:20261023T220000
+SUMMARY:El Brick @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Santa Cruz Rockabilly! It’s the last Friday of the YEAR! We 
+ would love for you to spend it with us. Come check out El brick\, bring t
+ he…\nhttps://abbottsquaremarket.com/events/el-brick
+URL:https://abbottsquaremarket.com/events/el-brick
+END:VEVENT
+BEGIN:VEVENT
+UID:65a58a0a3b678a2f3b57@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261024T190000
+DTEND;TZID=America/Los_Angeles:20261024T220000
+SUMMARY:Big Bad Wolf @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Enjoy live music from Big Bad Wolf out in Abbott Square. Grab 
+ a tasty meal or delicious beverage in Abbott Square Market. Explore the
+ …\nhttps://abbottsquaremarket.com/events/big-bad-wolf-3
+URL:https://abbottsquaremarket.com/events/big-bad-wolf-3
+END:VEVENT
+BEGIN:VEVENT
+UID:27b1984ac91760d26499@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261025T180000
+DTEND;TZID=America/Los_Angeles:20261025T210000
+SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Every Sunday evening join us for the Salsa by The Sea Afterpar
+ ty. Featuring various local DJ’s.\nhttps://abbottsquaremarket.com/event
+ s/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n
+ -s8jnt-mxx5e-735bp
+URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
+ 89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-s8jnt-mxx5e-735bp
+END:VEVENT
+BEGIN:VEVENT
+UID:af8736d63a1c6555c29c@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261030T190000
+DTEND;TZID=America/Los_Angeles:20261030T220000
+SUMMARY:Sweet Voodoo @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:Sweet VooDoo is a solid band of seasoned players bringing supe
+ r danceable rock-n-funk-n-jams to the party. The voodoo that WE do will
+ …\nhttps://abbottsquaremarket.com/events/sweet-voodoo-1
+URL:https://abbottsquaremarket.com/events/sweet-voodoo-1
+END:VEVENT
+BEGIN:VEVENT
+UID:45d9f0c75695d7a554f9@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261031T160000
+DTEND;TZID=America/Los_Angeles:20261031T190000
+SUMMARY:Afrobeats and more Halloween party @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:More info coming soon.\nhttps://abbottsquaremarket.com/events/
+ afrobeats-and-more-halloween-party
+URL:https://abbottsquaremarket.com/events/afrobeats-and-more-halloween-par
+ ty
+END:VEVENT
+END:VCALENDAR

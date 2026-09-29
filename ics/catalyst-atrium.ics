@@ -1,0 +1,65 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Catalyst Atrium (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:65ccd89f2442d63d570f@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20261017T090000
+DTEND;TZID=America/Los_Angeles:20261017T120000
+SUMMARY:LUMINARIUM.IO PACIFICA @ Catalyst Atrium
+LOCATION:Catalyst Atrium
+DESCRIPTION:$87.87 to $115.21\nShow: 9 am\nhttps://catalystclub.com/event/
+ live-in-the-atrium-luminarium-io-pacifica/the-catalyst-atrium/santa-cruz-
+ california/
+URL:https://catalystclub.com/event/live-in-the-atrium-luminarium-io-pacifi
+ ca/the-catalyst-atrium/santa-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:5db4b26ea7e97cafe1a3@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270127T200000
+DTEND;TZID=America/Los_Angeles:20270127T230000
+SUMMARY:Youth Fountain @ Catalyst Atrium
+LOCATION:Catalyst Atrium
+DESCRIPTION:Show: 8 pm · All Ages\nhttps://catalystclub.com/event/youth-f
+ ountain/the-catalyst-atrium/santa-cruz-california/
+URL:https://catalystclub.com/event/youth-fountain/the-catalyst-atrium/sant
+ a-cruz-california/
+END:VEVENT
+BEGIN:VEVENT
+UID:64063469040a81aed00b@santa-cruz-shows
+DTSTAMP:20260929T180857Z
+DTSTART;TZID=America/Los_Angeles:20270306T203000
+DTEND;TZID=America/Los_Angeles:20270306T233000
+SUMMARY:The Lemonheads: The Love Chant Tour @ Catalyst Atrium
+LOCATION:Catalyst Atrium
+DESCRIPTION:$45.95\nDoors: 7:30 pm Show: 8:30 pm · All Ages\nhttps://cata
+ lystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium
+ /santa-cruz-california/
+URL:https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-
+ catalyst-atrium/santa-cruz-california/
+END:VEVENT
+END:VCALENDAR

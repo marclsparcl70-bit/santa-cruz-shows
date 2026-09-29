@@ -4,7 +4,9 @@
 Standard library only. Run:  python3 fetch_shows.py [output_path]
 Each venue is scraped independently; one broken site never stops the others.
 """
+import hashlib
 import html
+import os
 import json
 import re
 import sys
@@ -419,6 +421,74 @@ VENUES = {
 }
 
 
+# ---------- calendar feeds (.ics) ----------
+
+VTIMEZONE = """BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE"""
+
+
+def slugify(name):
+    return re.sub(r"[^a-z0-9]+", "-", name.lower().replace("'", "")).strip("-")
+
+
+def _ics_text(s):
+    return str(s).replace("\\", "\\\\").replace(";", "\\;").replace(",", "\\,").replace("\n", "\\n")
+
+
+def _fold(line):
+    """RFC 5545: lines over 75 bytes continue on the next line after a space."""
+    out, cur = [], ""
+    for ch in line:
+        if len((cur + ch).encode()) > 74:
+            out.append(cur)
+            cur = " "
+        cur += ch
+    return "\r\n".join(out + [cur])
+
+
+def write_ics(events, path, name):
+    stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//Santa Cruz Shows//EN", "CALSCALE:GREGORIAN",
+             "METHOD:PUBLISH", f"X-WR-CALNAME:{_ics_text(name)}", "X-WR-TIMEZONE:America/Los_Angeles",
+             "REFRESH-INTERVAL;VALUE=DURATION:PT12H", "X-PUBLISHED-TTL:PT12H"] + VTIMEZONE.splitlines()
+    for e in events:
+        uid = hashlib.sha1(f"{e['venue']}|{e['date']}|{e['title']}".encode()).hexdigest()[:20]
+        day = date.fromisoformat(e["date"])
+        lines += ["BEGIN:VEVENT", f"UID:{uid}@santa-cruz-shows", f"DTSTAMP:{stamp}"]
+        if e.get("time"):
+            start = datetime.combine(day, datetime.strptime(e["time"], "%H:%M").time())
+            end = start + timedelta(hours=3)
+            lines += [f"DTSTART;TZID=America/Los_Angeles:{start:%Y%m%dT%H%M%S}",
+                      f"DTEND;TZID=America/Los_Angeles:{end:%Y%m%dT%H%M%S}"]
+        else:
+            lines += [f"DTSTART;VALUE=DATE:{day:%Y%m%d}", f"DTEND;VALUE=DATE:{day + timedelta(days=1):%Y%m%d}"]
+        desc = "\n".join(x for x in [e.get("price"), e.get("info"), e.get("url")] if x)
+        lines += [f"SUMMARY:{_ics_text(e['title'] + ' @ ' + e['venue'])}", f"LOCATION:{_ics_text(e['venue'])}"]
+        if desc:
+            lines.append(f"DESCRIPTION:{_ics_text(desc)}")
+        if e.get("url"):
+            lines.append(f"URL:{e['url']}")
+        lines.append("END:VEVENT")
+    lines.append("END:VCALENDAR")
+    with open(path, "w", newline="") as f:
+        f.write("\r\n".join(_fold(l) for l in lines) + "\r\n")
+
+
 def main():
     out_path = sys.argv[1] if len(sys.argv) > 1 else "events.json"
     today = date.today().isoformat()
@@ -442,6 +512,14 @@ def main():
     with open(out_path, "w") as f:
         json.dump(doc, f, indent=1, ensure_ascii=False)
     print(f"Wrote {len(uniq)} events to {out_path}", file=sys.stderr)
+
+    # Subscribable calendars: everything, plus one per venue.
+    base = os.path.dirname(os.path.abspath(out_path))
+    os.makedirs(os.path.join(base, "ics"), exist_ok=True)
+    write_ics(uniq, os.path.join(base, "events.ics"), "Santa Cruz Shows")
+    for v in sorted({e["venue"] for e in uniq}):
+        write_ics([e for e in uniq if e["venue"] == v], os.path.join(base, "ics", slugify(v) + ".ics"), f"{v} (Santa Cruz Shows)")
+    print(f"Wrote events.ics and {len({e['venue'] for e in uniq})} venue calendars", file=sys.stderr)
 
 
 if __name__ == "__main__":
