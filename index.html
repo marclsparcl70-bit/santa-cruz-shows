@@ -123,6 +123,10 @@ h1 span { color: var(--accent); }
 .dots { display: none; flex-wrap: wrap; gap: 3px; }
 .dots i { width: 7px; height: 7px; border-radius: 50%; background: var(--c); }
 .pickday { margin-top: 6px; }
+.daynav { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-block: 14px 4px; }
+.daynav span { font: 700 20px/1.1 var(--display); text-transform: uppercase; letter-spacing: 0.04em; text-align: center; text-wrap: balance; }
+.daynav button { font: 700 22px/1 var(--display); width: 44px; height: 40px; flex: none; border: 1.5px solid var(--ink); border-radius: 6px; background: transparent; color: var(--ink); cursor: pointer; }
+.daynav button:disabled { opacity: 0.3; cursor: default; }
 .pickday .day { border-bottom: 0; }
 @media (max-width: 640px) {
   .cell { min-height: 58px; padding: 4px; }
@@ -281,8 +285,14 @@ function renderCal(byDay, today, q) {
 
   if (state.pick && !state.pick.startsWith(state.month)) state.pick = null;
   const pickEvs = state.pick ? byDay.get(state.pick) || [] : [];
+  const lastDay = DATA.events.length ? DATA.events[DATA.events.length - 1].date : today;
   const pickHTML = state.pick
-    ? (pickEvs.length ? dayHTML(state.pick, pickEvs, today) : `<p class="empty">No shows that day${q ? ` matching “${esc(state.q)}”` : ""}.</p>`)
+    ? `<div class="daynav">
+        <button type="button" data-daystep="-1" aria-label="Previous day" ${state.pick <= today ? "disabled" : ""}>‹</button>
+        <span>${new Date(state.pick + "T12:00:00").toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" })}</span>
+        <button type="button" data-daystep="1" aria-label="Next day" ${state.pick >= lastDay ? "disabled" : ""}>›</button>
+      </div>` +
+      (pickEvs.length ? dayHTML(state.pick, pickEvs, today) : `<p class="empty">No shows that day${q ? ` matching “${esc(state.q)}”` : ""}.</p>`)
     : `<p class="empty">Tap a day to see its shows.</p>`;
 
   $("#list").innerHTML = `
@@ -305,6 +315,14 @@ $("#list").addEventListener("click", (ev) => {
     const d = new Date(y, m - 1 + Number(step.dataset.step), 1);
     state.month = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}`;
     state.pick = null; render(); return;
+  }
+  const ds = ev.target.closest("[data-daystep]");
+  if (ds) {
+    const d = new Date(state.pick + "T12:00:00");
+    d.setDate(d.getDate() + Number(ds.dataset.daystep));
+    state.pick = localISO(d);
+    state.month = state.pick.slice(0, 7);
+    render(); return;
   }
   const cell = ev.target.closest(".cell[data-day]");
   if (cell) {
