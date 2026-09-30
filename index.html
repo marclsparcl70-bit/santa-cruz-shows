@@ -4,6 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <style>body{margin:0}img{max-width:100%}[hidden]{display:none!important}</style>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#1d2733">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="SC Shows">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 </head>
 <body>
 <title>Santa Cruz Shows</title>
@@ -77,6 +85,10 @@ h1 span { color: var(--accent); }
 .chips { display: flex; flex-wrap: wrap; gap: 6px; }
 .chip { --c: var(--muted); font: 600 12.5px var(--body); padding: 5px 10px 5px 8px; border-radius: 999px; border: 1.5px solid var(--c); background: transparent; color: var(--ink); cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
 .chip::before { content: ""; width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.install { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; margin-top: 12px; padding: 10px 12px; border-radius: 8px; background: var(--ink); color: var(--bg); font-size: 13.5px; }
+.install span { flex: 1 1 200px; min-width: 0; }
+.install button { font: 700 13px var(--display); letter-spacing: 0.1em; text-transform: uppercase; padding: 6px 12px; border-radius: 6px; border: 1.5px solid var(--bg); background: var(--bg); color: var(--ink); cursor: pointer; }
+.install #install-x { background: transparent; color: var(--bg); border-color: transparent; padding-inline: 6px; }
 .subbtn { font: 700 13px var(--display); letter-spacing: 0.12em; text-transform: uppercase; padding: 7px 12px; border: 1.5px solid var(--accent); border-radius: 6px; background: transparent; color: var(--accent); cursor: pointer; }
 .subbtn[aria-expanded="true"] { background: var(--accent); color: var(--bg); }
 .subpanel { display: grid; gap: 8px; padding: 12px; border: 1.5px solid var(--line); border-radius: 8px; background: var(--paper); }
@@ -172,6 +184,12 @@ footer .bad { color: var(--accent); }
     <h1>Santa Cruz <span>Shows</span></h1>
     <div class="meta" id="meta">Loading listings…</div>
   </header>
+
+  <div class="install" id="install" hidden>
+    <span id="install-msg">Put SC Shows on your home screen.</span>
+    <button type="button" id="install-go" hidden>Install</button>
+    <button type="button" id="install-x" aria-label="Dismiss">✕</button>
+  </div>
 
   <div class="controls" id="controls">
     <div class="row">
@@ -463,6 +481,35 @@ $("#venuetoggle").addEventListener("click", () => {
 });
 $("#q").addEventListener("input", (ev) => { state.q = ev.target.value; render(); });
 window.addEventListener("resize", setCtrlHeight);
+
+// Home-screen app: offline support plus an install hint.
+if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
+(function installHint() {
+  const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone;
+  let dismissed = false;
+  try { dismissed = localStorage.getItem("scshows-install-x") === "1"; } catch (e) {}
+  if (standalone || dismissed) return;
+  const box = $("#install");
+  const ios = /iphone|ipad|ipod/i.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  if (ios) {
+    $("#install-msg").innerHTML = "Get SC Shows as an app: tap <b>Share</b> then <b>Add to Home Screen</b>.";
+    box.hidden = false;
+  }
+  let deferred = null;
+  window.addEventListener("beforeinstallprompt", (ev) => {
+    ev.preventDefault(); deferred = ev;
+    $("#install-msg").textContent = "Get SC Shows as an app on this device.";
+    $("#install-go").hidden = false; box.hidden = false; setCtrlHeight();
+  });
+  $("#install-go").addEventListener("click", async () => {
+    if (!deferred) return;
+    deferred.prompt(); await deferred.userChoice.catch(() => {}); deferred = null; box.hidden = true;
+  });
+  window.addEventListener("appinstalled", () => { box.hidden = true; });
+  $("#install-x").addEventListener("click", () => {
+    box.hidden = true; try { localStorage.setItem("scshows-install-x", "1"); } catch (e) {}
+  });
+})();
 
 syncSeg();
 fetch("events.json", { cache: "no-cache" })
