@@ -26,18 +26,18 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:6a300282d1bf0e3b1dde@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Raynes @ Felton Music Hall
 LOCATION:Felton Music Hall
-DESCRIPTION:$20\nwith David Wimbish\, The Collection\nhttps://www.prekindl
+DESCRIPTION:$25\nwith David Wimbish\, The Collection\nhttps://www.prekindl
  e.com/event/39757-raynes-felton
 URL:https://www.prekindle.com/event/39757-raynes-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:fe97ecd605427b1ce349@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Groundation @ Felton Music Hall
@@ -48,7 +48,7 @@ URL:https://www.prekindle.com/event/18668-groundation-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:617d9c3da1e9d15cda0b@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Lost + Found 3: Chmura\, zero point and WET PANTHER @ Felton Music
@@ -60,7 +60,7 @@ URL:https://www.prekindle.com/event/75727-lost-and-found-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:bf5d49df23f6d5871cb4@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:The Bends @ Felton Music Hall
@@ -70,7 +70,7 @@ URL:https://www.prekindle.com/event/87347-the-bends-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:f8b9f447a4fe121ce7a4@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Mike Dawes | Fully Seated @ Felton Music Hall
@@ -81,7 +81,7 @@ URL:https://www.prekindle.com/event/54952-mike-dawes-fully-seated-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:e46799974fa0e0394c75@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Lou Hazel @ Felton Music Hall
@@ -91,7 +91,7 @@ URL:https://www.prekindle.com/event/85636-lou-hazel-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:eab24177f65640d97370@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:An Evening of Music and Comedy w / Creed Bratton From The Office (
@@ -104,17 +104,17 @@ URL:https://www.prekindle.com/event/16819-an-evening-of-music-and-comedy-w
 END:VEVENT
 BEGIN:VEVENT
 UID:f92e947bfc17c6e004de@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Analog Dog @ Felton Music Hall
 LOCATION:Felton Music Hall
-DESCRIPTION:$16\nhttps://www.prekindle.com/event/29513-analog-dog-felton
+DESCRIPTION:$10\nhttps://www.prekindle.com/event/29513-analog-dog-felton
 URL:https://www.prekindle.com/event/29513-analog-dog-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:579eed772ed1fa0cde38@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Damien Jurado @ Felton Music Hall
@@ -125,7 +125,7 @@ URL:https://www.prekindle.com/event/85774-damien-jurado-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:bf982a1ac60e8655acc3@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Nekrogoblikon @ Felton Music Hall
@@ -136,7 +136,7 @@ URL:https://www.prekindle.com/event/19862-nekrogoblikon-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:f3ba13cef1dd085a3233@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Lakeview @ Felton Music Hall
@@ -146,7 +146,7 @@ URL:https://www.prekindle.com/event/98232-lakeview-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:30486592f6332200fc4e@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Jay Buchanan @ Felton Music Hall
@@ -156,7 +156,7 @@ URL:https://www.prekindle.com/event/59488-jay-buchanan-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:d4b9f71a000cc22d7340@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261015T210000
 DTEND;TZID=America/Los_Angeles:20261016T000000
 SUMMARY:Bumpin Uglies @ Felton Music Hall
@@ -168,7 +168,7 @@ URL:https://catalystclub.com/event/bumpin-uglies-at-felton-music-hall/the-
 END:VEVENT
 BEGIN:VEVENT
 UID:d44d377e0935f17f8318@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:David Starfire @ Felton Music Hall
@@ -179,7 +179,7 @@ URL:https://www.prekindle.com/event/44292-david-starfire-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:bdd2a7e0f4d46b1275f3@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Amélie Farren\, Lilith Max\, Rabbitology - The Three Wishes Tour 
@@ -193,7 +193,7 @@ URL:https://www.prekindle.com/event/62387-amlie-farren-lilith-max-rabbitol
 END:VEVENT
 BEGIN:VEVENT
 UID:7646d0d5cbe6903b1b9c@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Nep @ Felton Music Hall
@@ -204,7 +204,7 @@ URL:https://www.prekindle.com/event/38396-nep-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:d8e97f3d3b8472c733cf@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:She Wants Revenge @ Felton Music Hall
@@ -215,7 +215,7 @@ URL:https://www.prekindle.com/event/83988-she-wants-revenge-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:4e93a6a4ddd14d4b3fd5@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:The Jerry Douglas Band @ Felton Music Hall
@@ -226,7 +226,7 @@ URL:https://www.prekindle.com/event/31727-the-jerry-douglas-band-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:a28dd8141f5b88160df7@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Los Hermanos Mendoza @ Felton Music Hall
@@ -237,7 +237,7 @@ URL:https://www.prekindle.com/event/13973-los-hermanos-mendoza-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:58deafa805e95253d05a@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Black Flag @ Felton Music Hall
@@ -247,7 +247,7 @@ URL:https://www.prekindle.com/event/93351-black-flag-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:d4427e88a42cb12a1323@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:BALTHVS @ Felton Music Hall
@@ -257,7 +257,7 @@ URL:https://www.prekindle.com/event/36113-balthvs-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:d72b870a33e5eb41746e@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Jesse Daniel @ Felton Music Hall
@@ -267,7 +267,7 @@ URL:https://www.prekindle.com/event/99118-jesse-daniel-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:d483b328736560faaccd@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Great Lake Swimmers: Caught Light Tour 2026 @ Felton Music Hall
@@ -279,7 +279,7 @@ URL:https://www.prekindle.com/event/24586-great-lake-swimmers-caught-light
 END:VEVENT
 BEGIN:VEVENT
 UID:2e3bdc00bc757c574b11@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:The Bridge City Sinners @ Felton Music Hall
@@ -290,7 +290,7 @@ URL:https://www.prekindle.com/event/57117-the-bridge-city-sinners-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:d54c9f43e69304144810@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:The Wildwoods @ Felton Music Hall
@@ -301,7 +301,7 @@ URL:https://www.prekindle.com/event/55276-the-wildwoods-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:95ddec93b38ad7264881@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Jerry's Middle Finger - Halloween Ball @ Felton Music Hall
@@ -312,7 +312,7 @@ URL:https://www.prekindle.com/event/88127-jerrys-middle-finger-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:d6b87a37d8b9cd153b1c@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Stanley Simmons @ Felton Music Hall
@@ -323,7 +323,7 @@ URL:https://www.prekindle.com/event/38484-stanley-simmons-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:c1b2fbbdc35bcfd9d729@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Los Gaiteros de San Jacinto\, Fruko y sus Tesos\, and Carmelo Torr
@@ -336,7 +336,7 @@ URL:https://www.prekindle.com/event/56962-los-gaiteros-de-san-jacinto-felt
 END:VEVENT
 BEGIN:VEVENT
 UID:7c6deff4e5ed2bf8902c@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Strawberry Fuzz @ Felton Music Hall
@@ -347,7 +347,7 @@ URL:https://www.prekindle.com/event/68192-strawberry-fuzz-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:bd8c4f35f6a1862ddeb1@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:ELIJAH SCOTT @ Felton Music Hall
@@ -357,7 +357,7 @@ URL:https://www.prekindle.com/event/94723-elijah-scott-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:f3699dba7dac7b2c72d7@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Jeffrey Foucault @ Felton Music Hall
@@ -368,7 +368,7 @@ URL:https://www.prekindle.com/event/15388-jeffrey-foucault-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:ecabfbbdc0fc2d9eea12@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Peach Tree Rascals @ Felton Music Hall
@@ -379,7 +379,7 @@ URL:https://www.prekindle.com/event/88144-peach-tree-rascals-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:9b0ef63458ba65c50259@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Jeffrey Martin @ Felton Music Hall
@@ -390,7 +390,7 @@ URL:https://www.prekindle.com/event/89816-jeffery-martin-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:93f8f7402239215c1e4a@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:They Are Gutting a Body of Water @ Felton Music Hall
@@ -402,7 +402,7 @@ URL:https://www.prekindle.com/event/59369-they-are-gutting-a-body-of-water
 END:VEVENT
 BEGIN:VEVENT
 UID:6a91c67fb1b29fea1226@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Jake Xerxes Fussell @ Felton Music Hall
@@ -413,7 +413,7 @@ URL:https://www.prekindle.com/event/38882-jake-xerxes-fussell-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:1968e7d767941e5496f1@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Shakedown Citi @ Felton Music Hall
@@ -424,7 +424,7 @@ URL:https://www.prekindle.com/event/77388-shakedown-citi-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:00a7d8a7a2973e6e91df@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Nick Shoulders @ Felton Music Hall
@@ -435,7 +435,7 @@ URL:https://www.prekindle.com/event/35595-nick-shoulders-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:e1bfdec7f62599685eb3@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:The Cactus Blossoms @ Felton Music Hall
@@ -446,7 +446,7 @@ URL:https://www.prekindle.com/event/47511-the-cactus-blossoms-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa64d7fa36df89649e0@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Rosebud & Shaky Feelin' @ Felton Music Hall
@@ -457,7 +457,7 @@ URL:https://www.prekindle.com/event/89535-rosebud-and-shaky-feelin-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:424ee79f3c682996171f@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:An evening with Andrew McMahon and his piano @ Felton Music Hall
@@ -468,7 +468,7 @@ URL:https://www.prekindle.com/event/94528-andrew-mcmahon-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:201c7de7817b26b5943e@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Valerie: A Tribute to Amy Winehouse @ Felton Music Hall
@@ -480,7 +480,7 @@ URL:https://www.prekindle.com/event/87744-valerie-a-tribute-to-amy-winehou
 END:VEVENT
 BEGIN:VEVENT
 UID:467aa612744f9b64ea9a@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Agriculture @ Felton Music Hall
@@ -491,7 +491,7 @@ URL:https://www.prekindle.com/event/33948-agriculture-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:12d810f1d9ca4d1c5852@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:THE RESIDENTS – ESKIMO LIVE @ Felton Music Hall
@@ -502,7 +502,7 @@ URL:https://www.prekindle.com/event/76833-the-residents-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:37dfca75499209c91391@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Coffis Brothers @ Felton Music Hall
@@ -513,7 +513,7 @@ URL:https://www.prekindle.com/event/79815-the-coffis-brothers-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:f2c48f40b8695c613289@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:The Heeters @ Felton Music Hall
@@ -523,7 +523,7 @@ URL:https://www.prekindle.com/event/67636-the-heeters-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:bdc531084dd0df57cb84@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Niko Rubio: late night swim in california tour @ Felton Music Hall
@@ -535,7 +535,7 @@ URL:https://www.prekindle.com/event/52557-niko-rubio-late-night-swim-in-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:c412bd0c148603f42d20@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Save Ferris "Happy Skalidays Tour" @ Felton Music Hall
@@ -547,7 +547,7 @@ URL:https://www.prekindle.com/event/59943-save-ferris-happy-skalidays-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:963d1e070e268439204f@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Mike Renwick @ Felton Music Hall
@@ -557,7 +557,7 @@ URL:https://www.prekindle.com/event/49253-mike-renwick-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:0901b2313a1af9b051af@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Larry Campbell & Teresa Williams @ Felton Music Hall
@@ -569,7 +569,7 @@ URL:https://www.prekindle.com/event/64234-larry-campbell-and-teresa-willia
 END:VEVENT
 BEGIN:VEVENT
 UID:e7afe12c016880718f47@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Stinkfoot Orchestra featuring Napoleon Murphy Brock @ Felton M
@@ -581,7 +581,7 @@ URL:https://www.prekindle.com/event/12333-stinkfoot-orchestra-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:09fc0caa22fdc3823d12@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:JD McPherson - SOCKS: A Rock N’ Roll Christmas Tour @ Felton Mus
@@ -594,7 +594,7 @@ URL:https://www.prekindle.com/event/71694-jd-mcpherson-socks-a-rock-n-roll
 END:VEVENT
 BEGIN:VEVENT
 UID:c1663b56a462d1016e7a@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Labiahead - California Tour 2026 @ Felton Music Hall
@@ -604,7 +604,7 @@ URL:https://www.prekindle.com/event/38918-labiahead-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:e3100c74b7ede63c74f2@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Willi Carlisle @ Felton Music Hall
@@ -615,7 +615,7 @@ URL:https://www.prekindle.com/event/56647-willi-carlisle-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:50e05789dd3c4122ca16@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Pokey LaFarge @ Felton Music Hall
@@ -626,7 +626,7 @@ URL:https://www.prekindle.com/event/16375-pokey-lafarge-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:8163460ea368aff33663@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:A John Prine Christmas with the Jenner Fox Band - Early Show @ Fel
@@ -639,7 +639,7 @@ URL:https://www.prekindle.com/event/25742-a-john-prine-christmas-with-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:be5612bd6bb4c6569583@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:A John Prine Christmas with the Jenner Fox Band - Late Show @ Felt
@@ -652,7 +652,7 @@ URL:https://www.prekindle.com/event/83884-a-john-prine-christmas-with-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:c06665b1b830162db0c0@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Arturo Vaca @ Felton Music Hall
@@ -662,7 +662,7 @@ URL:https://www.prekindle.com/event/27318-arturo-vaca-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:7644ca4d8a8e0f6fc2b3@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:John McCutcheon @ Felton Music Hall
@@ -673,7 +673,7 @@ URL:https://www.prekindle.com/event/91265-john-mccutcheon-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:0e121b2810c1a44f0bb9@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Fruition @ Felton Music Hall
@@ -683,7 +683,7 @@ URL:https://www.prekindle.com/event/16477-fruition-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:5d6bd775f5b53bba58ae@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Brandy Clark: Take Flight World Tour @ Felton Music Hall
@@ -695,7 +695,7 @@ URL:https://www.prekindle.com/event/98341-brandy-clark-take-flight-world-t
 END:VEVENT
 BEGIN:VEVENT
 UID:546e2c6f2638b524534c@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Steve Poltz @ Felton Music Hall
@@ -705,7 +705,7 @@ URL:https://www.prekindle.com/event/17224-steve-poltz-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:e97ac305e15ba2d60284@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Andy Falco & Travis Book Jerry Garcia @ Felton Music Hall
@@ -717,7 +717,7 @@ URL:https://www.prekindle.com/event/62717-andy-falco-and-travis-book-jerry
 END:VEVENT
 BEGIN:VEVENT
 UID:c15d2d90d220e2eee74b@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Fink @ Felton Music Hall
@@ -727,7 +727,7 @@ URL:https://www.prekindle.com/event/58391-fink-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:33c60d921c7a804c3df0@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Tophouse @ Felton Music Hall
@@ -737,7 +737,7 @@ URL:https://www.prekindle.com/event/88677-tophouse-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:dc6e87a433a003a35546@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:Dan and Peggy Reeder @ Felton Music Hall
@@ -748,7 +748,7 @@ URL:https://www.prekindle.com/event/35128-dan-and-peggy-reeder-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:49806c337155558c747d@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 SUMMARY:Too Many Zooz: Audio Lipstick Tour @ Felton Music Hall

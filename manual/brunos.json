@@ -1,0 +1,9 @@
+{
+  "venue": "Bruno's Bar & Grill",
+  "note": "Entered by hand from Bruno's monthly events flyer (PDF on brunosbarandgrill.com/events). Music nights only.",
+  "flyer": "https://www.brunosbarandgrill.com/_files/ugd/3c0bbd_d6e3e90056c44d88826bc3012b6b4290.pdf",
+  "month": "2026-09",
+  "events": [
+    {"date": "2026-09-30", "time": "18:00", "title": "Nick DiSalvo", "info": "Whiskey & Wings night · 6–9pm"}
+  ]
+}

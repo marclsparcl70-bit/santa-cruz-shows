@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:93716df64930229e4167@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261001T180000
 DTEND;TZID=America/Los_Angeles:20261001T210000
 SUMMARY:Afrobeats Nite SC @ Abbott Square
@@ -40,7 +40,7 @@ URL:https://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd982da-r
 END:VEVENT
 BEGIN:VEVENT
 UID:bda8e370665740ffd870@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261002T190000
 DTEND;TZID=America/Los_Angeles:20261002T220000
 SUMMARY:Afro HiLife @ Abbott Square
@@ -52,7 +52,7 @@ URL:https://abbottsquaremarket.com/events/afro-hilife-2-aewzr
 END:VEVENT
 BEGIN:VEVENT
 UID:d2fdbea60484f9bbc628@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261003T120000
 DTEND;TZID=America/Los_Angeles:20261003T150000
 SUMMARY:Santa Cruz Porchfest @ Abbott Square
@@ -64,7 +64,7 @@ URL:https://abbottsquaremarket.com/events/santa-cruz-porchfest
 END:VEVENT
 BEGIN:VEVENT
 UID:05cc48a3aaea48771c6a@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261004T130000
 DTEND;TZID=America/Los_Angeles:20261004T160000
 SUMMARY:The Trolley Drops - 1st Sundays @ Abbott Square
@@ -78,7 +78,7 @@ URL:https://abbottsquaremarket.com/events/the-trolley-drops-1st-sundays-9z
 END:VEVENT
 BEGIN:VEVENT
 UID:358c95d285779262b763@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261004T180000
 DTEND;TZID=America/Los_Angeles:20261004T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -91,7 +91,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:adab7ba145ab7cbca859@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261006T100000
 DTEND;TZID=America/Los_Angeles:20261006T130000
 SUMMARY:Lookout Santa Cruz Mobile Newsroom @ Abbott Square
@@ -103,7 +103,7 @@ URL:https://abbottsquaremarket.com/events/lookout-santa-cruz-mobile-newsro
 END:VEVENT
 BEGIN:VEVENT
 UID:8bb9679a99996bd95756@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261008T183000
 DTEND;TZID=America/Los_Angeles:20261008T213000
 SUMMARY:Jazz Night @ Abbott Square
@@ -114,7 +114,7 @@ URL:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg
 END:VEVENT
 BEGIN:VEVENT
 UID:751c507bfb92ba0c5421@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261009T190000
 DTEND;TZID=America/Los_Angeles:20261009T220000
 SUMMARY:Love Creek @ Abbott Square
@@ -125,7 +125,7 @@ URL:https://abbottsquaremarket.com/events/love-creek1
 END:VEVENT
 BEGIN:VEVENT
 UID:331340676ba5fa7b7ba9@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261011T180000
 DTEND;TZID=America/Los_Angeles:20261011T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -139,7 +139,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:323ff2c4d33774f32e17@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261015T183000
 DTEND;TZID=America/Los_Angeles:20261015T213000
 SUMMARY:Afrobeats Nite SC @ Abbott Square
@@ -153,7 +153,7 @@ URL:https://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd982da-r
 END:VEVENT
 BEGIN:VEVENT
 UID:f273bee29b1b607f3c10@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T220000
 SUMMARY:Man in Black @ Abbott Square
@@ -165,7 +165,7 @@ URL:https://abbottsquaremarket.com/events/man-in-black
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9a0f078dedf47e061f@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261018T180000
 DTEND;TZID=America/Los_Angeles:20261018T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -179,7 +179,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:1a518ccfc096b7d4374c@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261022T183000
 DTEND;TZID=America/Los_Angeles:20261022T213000
 SUMMARY:Jazz Night @ Abbott Square
@@ -191,7 +191,7 @@ URL:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz
 END:VEVENT
 BEGIN:VEVENT
 UID:09b6d9bb91d93d5a583a@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T220000
 SUMMARY:El Brick @ Abbott Square
@@ -203,7 +203,7 @@ URL:https://abbottsquaremarket.com/events/el-brick
 END:VEVENT
 BEGIN:VEVENT
 UID:65a58a0a3b678a2f3b57@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T220000
 SUMMARY:Big Bad Wolf @ Abbott Square
@@ -215,7 +215,7 @@ URL:https://abbottsquaremarket.com/events/big-bad-wolf-3
 END:VEVENT
 BEGIN:VEVENT
 UID:27b1984ac91760d26499@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -229,7 +229,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:af8736d63a1c6555c29c@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T220000
 SUMMARY:Sweet Voodoo @ Abbott Square
@@ -241,7 +241,7 @@ URL:https://abbottsquaremarket.com/events/sweet-voodoo-1
 END:VEVENT
 BEGIN:VEVENT
 UID:45d9f0c75695d7a554f9@santa-cruz-shows
-DTSTAMP:20260930T141753Z
+DTSTAMP:20260930T200058Z
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T190000
 SUMMARY:Afrobeats and more Halloween party @ Abbott Square

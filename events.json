@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T07:17-07:00",
+ "updated": "2026-09-30T13:00-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,12 +9,12 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 44
+   "count": 45
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "venue": "The Crepe Place",
@@ -24,12 +24,12 @@
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 69
+   "count": 70
   },
   {
    "venue": "Cat Alley Street",
-   "ok": false,
-   "error": "<urlopen error [Errno 101] Network is unreachable>"
+   "ok": true,
+   "count": 3
   },
   {
    "venue": "Felton Music Hall",
@@ -77,6 +77,11 @@
    "count": 2
   },
   {
+   "venue": "Bruno's Bar & Grill",
+   "ok": true,
+   "count": 1
+  },
+  {
    "venue": "Henfling's Tavern",
    "ok": true,
    "count": 14
@@ -107,6 +112,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1775576991487-H05OKF1BYJGRA1F5LO33/E5F87844-822B-4793-B077-CA4BEB581771.png"
+  },
+  {
+   "venue": "Bruno's Bar & Grill",
+   "title": "Nick DiSalvo",
+   "date": "2026-09-30",
+   "time": "18:00",
+   "url": "https://www.brunosbarandgrill.com/events",
+   "price": null,
+   "info": "Whiskey & Wings night · 6–9pm",
+   "image": null
   },
   {
    "venue": "Cork & Fork",
@@ -164,7 +179,7 @@
    "date": "2026-09-30",
    "time": null,
    "url": "https://www.prekindle.com/event/39757-raynes-felton",
-   "price": "$20",
+   "price": "$25",
    "info": "with David Wimbish, The Collection",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123963204"
   },
@@ -197,6 +212,16 @@
    "price": null,
    "info": "Afrobeats Nite Santa Cruz is your bi-weekly dose of dance, rhythm, and pure vibes. Hosted by DJ Monk Earl at Abbott Square Market, it's…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1746040227117-OCPQZ129KMQRL7M3DUYT/1000000999.png"
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "Burner Happy Hour )'( Mr. Bounceman + Side69",
+   "date": "2026-10-01",
+   "time": "18:30",
+   "url": "https://catalleystreet.com/event/burner-happy-hour-mr-bounceman-side69/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/BHH-Oct.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -359,6 +384,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1771874678681-BA65402PF6WNWKB0CE2W/SB_PRESS_HIRES_PhotobyAdamORegan.jpg"
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Ticketbooth and Red Hot Bev Takeover",
+   "date": "2026-10-02",
+   "time": "21:00",
+   "url": "https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-takeover/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/Ticket-Booth-Oct-2.jpg"
+  },
+  {
    "venue": "Catalyst Main Room",
    "title": "Twin Temple",
    "date": "2026-10-02",
@@ -469,14 +504,24 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782754810756-NB00MKZW700CGIFWUTA7/Photo+by+Emma+Ledgerwood.JPG"
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Lost In SBASS",
+   "date": "2026-10-03",
+   "time": "21:00",
+   "url": "https://catalleystreet.com/event/lost-in-sbass-30/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/LOST-in-SBASS-100326.png"
+  },
+  {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Diggin Dirt (Night 2)",
+   "title": "Moe's Alley Presents: Diggin Dirt (Night 2) w/ Slingshot Improv Trio",
    "date": "2026-10-03",
    "time": "21:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/93/26/64_Listings.jpg?v=5"
+   "image": "https://i.ticketweb.com/i/00/12/93/26/64_Listings.jpg?v=7"
   },
   {
    "venue": "Felton Music Hall",
@@ -730,13 +775,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents - Y La Bamba",
+   "title": "(((folkYEAH!))) Presents - Y La Bamba w/ Vanessa Zamora",
    "date": "2026-10-07",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/64/50/93_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/13/64/50/93_Listings.jpg?v=5"
   },
   {
    "venue": "Felton Music Hall",
@@ -834,7 +879,7 @@
    "date": "2026-10-08",
    "time": null,
    "url": "https://www.prekindle.com/event/29513-analog-dog-felton",
-   "price": "$16",
+   "price": "$10",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949056766787"
   },
@@ -1737,6 +1782,16 @@
    "price": null,
    "info": "Santa Cruz, get ready. BLVK H3RO LIVE with THE 3PEAT BAND * SELECTA 7 Grab your tickets here!! One of Jamaica’s most exciting new voices…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1788934786408-PAT6E5HNIO57LQC19CM5/Blvk.png"
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "Film: My Name is Gitta",
+   "date": "2026-10-18",
+   "time": "17:00",
+   "url": "https://www.riotheatre.com/events-2/2026/10/18/mynameisgitta",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1790796007560-YXVPOYSDLYHF37SV7D5O/IMG_1964.jpeg"
   },
   {
    "venue": "Abbott Square",
@@ -4149,6 +4204,16 @@
    "image": "https://i.ticketweb.com/i/00/13/02/37/44_Listings.jpg?v=3"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "Nora Brown with Stephanie Coleman",
+   "date": "2027-01-11",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/nora-brown-with-stephanie-coleman-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Nora-Brown-and-Stephanie-Coleman-cropped.jpg"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "Sunny Rae",
    "date": "2027-01-14",
@@ -4327,6 +4392,16 @@
    "price": "$20",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789141716593-1C5K173UV6N19MPLQWMB/elephant+stone+sq.png"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Keller Williams",
+   "date": "2027-01-30",
+   "time": "21:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 8:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/06/74/34_Listings.jpg?v=4"
   },
   {
    "venue": "Kuumbwa Jazz",

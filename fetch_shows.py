@@ -398,6 +398,16 @@ def shanty_shack_with_fallback():
         return localgroove("Shanty Shack Brewing", "/santa-cruz/venue/shanty-shack-brewing")
 
 
+def manual(path):
+    """Listings typed in by hand (e.g. from a venue's monthly PDF flyer)."""
+    here = os.path.dirname(os.path.abspath(__file__))
+    with open(os.path.join(here, path)) as f:
+        data = json.load(f)
+    default_url = "https://www.brunosbarandgrill.com/events" if "brunos" in path else None
+    return [event(data["venue"], e["title"], e["date"], e.get("time"), e.get("url") or default_url,
+                  e.get("price"), e.get("info")) for e in data["events"]]
+
+
 VENUES = {
     "Catalyst": catalyst,
     "Moe's Alley": moes_alley,
@@ -414,6 +424,7 @@ VENUES = {
     "Shanty Shack": shanty_shack_with_fallback,
     "UCSC Recital Hall": lambda: tribe("UCSC Recital Hall", "https://events.ucsc.edu", 108),
     "Quarry Amphitheater": quarry,
+    "Bruno's Bar & Grill": lambda: manual("manual/brunos.json"),
     "Henfling's Tavern": lambda: localgroove("Henflings Tavern", "/ben-lomond/venue/henflings-tavern", "Henfling's Tavern"),
     "Ugly Mug": lambda: music_only(squarespace("Ugly Mug", "https://www.cafeugly.com", "/live-music-the-mug", tidy_mug)),
     "The Sand Bar": lambda: tribe("The Sand Bar", "https://thesandbarcapitola.com"),
