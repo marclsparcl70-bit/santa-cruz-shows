@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:4065b9d4fe6d8751d6e7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261001T210000
 DTEND;TZID=America/Los_Angeles:20261002T000000
 SUMMARY:Steel Pulse – Reggae Against Racism Tour @ Catalyst Main Room
@@ -39,7 +39,7 @@ URL:https://catalystclub.com/event/steel-pulse-reggae-against-racism-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:fdbaf12bbf9cfa4d1426@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T210000
 DTEND;TZID=America/Los_Angeles:20261003T000000
 SUMMARY:Twin Temple @ Catalyst Main Room
@@ -51,7 +51,7 @@ URL:https://catalystclub.com/event/twin-temple/the-catalyst/santa-cruz-cal
 END:VEVENT
 BEGIN:VEVENT
 UID:91acd1d1edeb31b54756@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T210000
 DTEND;TZID=America/Los_Angeles:20261010T000000
 SUMMARY:It’s a 2000’s Party: Santa Cruz @ Catalyst Main Room
@@ -64,7 +64,7 @@ URL:https://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-cata
 END:VEVENT
 BEGIN:VEVENT
 UID:f0a1bbc068829a74fc28@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T210000
 DTEND;TZID=America/Los_Angeles:20261011T000000
 SUMMARY:DOMi & JD BECK – WHO ASKED? Tour @ Catalyst Main Room
@@ -76,7 +76,7 @@ URL:https://catalystclub.com/event/domi-jd-beck-who-asked-tour/the-catalys
 END:VEVENT
 BEGIN:VEVENT
 UID:ae1b8f29be0f412fd29a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T210000
 DTEND;TZID=America/Los_Angeles:20261017T000000
 SUMMARY:XAVIER WULF PRESENTS: THE COOL WORLD TOUR @ Catalyst Main Room
@@ -89,7 +89,7 @@ URL:https://catalystclub.com/event/xavier-wulf-presents-the-cool-world-tou
 END:VEVENT
 BEGIN:VEVENT
 UID:6e99b96b86d551f1dc0a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T230000
 SUMMARY:The Floozies @ Catalyst Main Room
@@ -102,7 +102,7 @@ URL:https://catalystclub.com/event/the-floozies/the-catalyst/santa-cruz-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:749cb1279c82df8363d1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261019T200000
 DTEND;TZID=America/Los_Angeles:20261019T230000
 SUMMARY:Last Dinosaurs @ Catalyst Main Room
@@ -115,7 +115,7 @@ URL:https://catalystclub.com/event/last-dinosaurs/the-catalyst/santa-cruz-
 END:VEVENT
 BEGIN:VEVENT
 UID:ad3b690bfa13696d050d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261113T210000
 DTEND;TZID=America/Los_Angeles:20261114T000000
 SUMMARY:Andre Nickatina **Rescheduled from 6/27** @ Catalyst Main Room
@@ -128,7 +128,7 @@ URL:https://catalystclub.com/event/andre-nickatina-rescheduled-from-6-27/t
 END:VEVENT
 BEGIN:VEVENT
 UID:94513f2653510bd35de8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261114T200000
 DTEND;TZID=America/Los_Angeles:20261114T230000
 SUMMARY:ISAIAH RASHAD: Lil Sunny’s Awful Road Trip @ Catalyst Main Room
@@ -141,7 +141,7 @@ URL:https://catalystclub.com/event/isaiah-rashad-lil-sunnys-awful-road-tri
 END:VEVENT
 BEGIN:VEVENT
 UID:4449310e3b4bef2e726a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261115T210000
 DTEND;TZID=America/Los_Angeles:20261116T000000
 SUMMARY:THE CALIFORNIA HONEYDROPS – SWEET LIKE THAT TOUR 2026 @ Catalyst
@@ -155,7 +155,7 @@ URL:https://catalystclub.com/event/the-california-honeydrops-sweet-like-th
 END:VEVENT
 BEGIN:VEVENT
 UID:395dad69c8e0672f49ae@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261118T210000
 DTEND;TZID=America/Los_Angeles:20261119T000000
 SUMMARY:As I Lay Dying @ Catalyst Main Room
@@ -168,7 +168,7 @@ URL:https://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz-
 END:VEVENT
 BEGIN:VEVENT
 UID:8d13c51e1a7ae856b9c2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261127T200000
 DTEND;TZID=America/Los_Angeles:20261127T230000
 SUMMARY:Jackie Greene @ Catalyst Main Room
@@ -180,7 +180,7 @@ URL:https://catalystclub.com/event/jackie-greene/the-catalyst/santa-cruz-c
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1bc7f6e189ffc748d1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261128T200000
 DTEND;TZID=America/Los_Angeles:20261128T230000
 SUMMARY:DON CARLOS & JUNIOR TOOTS @ Catalyst Main Room
@@ -193,7 +193,7 @@ URL:https://catalystclub.com/event/don-carlos-junior-toots/the-catalyst/sa
 END:VEVENT
 BEGIN:VEVENT
 UID:f78965fcc922f7b6fc8e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261205T200000
 DTEND;TZID=America/Los_Angeles:20261205T230000
 SUMMARY:The Expendables @ Catalyst Main Room
@@ -205,7 +205,7 @@ URL:https://catalystclub.com/event/the-expendables-3/the-catalyst/santa-cr
 END:VEVENT
 BEGIN:VEVENT
 UID:75adb7c7a854c34f9dd4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261212T210000
 DTEND;TZID=America/Los_Angeles:20261213T000000
 SUMMARY:How The Grouch Stole Christmas Tour @ Catalyst Main Room

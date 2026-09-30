@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29T11:08-07:00",
+ "updated": "2026-09-30T07:17-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -14,22 +14,22 @@
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 88
+   "count": 89
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 70
+   "count": 69
   },
   {
    "venue": "Cat Alley Street",
-   "ok": true,
-   "count": 2
+   "ok": false,
+   "error": "<urlopen error [Errno 101] Network is unreachable>"
   },
   {
    "venue": "Felton Music Hall",
@@ -39,12 +39,12 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "venue": "Discretion Brewing",
@@ -59,7 +59,7 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 14
+   "count": 15
   },
   {
    "venue": "Shanty Shack",
@@ -89,7 +89,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "venue": "Cork & Fork",
@@ -98,56 +98,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "The Crepe Place",
-   "title": "Jazz On The Rocks",
-   "date": "2026-09-29",
-   "time": "17:30",
-   "url": "https://www.thecrepeplace.com/shows-list/4b5sf6ktets5hscz9ha442kacsx5y9-r8779-2hpb2-wjk9t-5j98t",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1737066344818-HPE2P1BRPNT0YJSWIL9J/Screenshot+2025-01-13+at+11.52.46%E2%80%AFAM.png"
-  },
-  {
-   "venue": "Woodhouse",
-   "title": "Tuesday JAM!",
-   "date": "2026-09-29",
-   "time": "18:00",
-   "url": "https://www.woodhousebrews.com/events/2026/9/29/tuesday-jam",
-   "price": null,
-   "info": "This is the place to be on Tuesday! This weekly jam fest features rotating bands, open jam sessions, vendors, activities and all the…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1790319444020-4PHURSJ3YEDL6YLYN5W8/BAZAAR+copy.jpg"
-  },
-  {
-   "venue": "The Sand Bar",
-   "title": "Dave DaSilva Jam Night",
-   "date": "2026-09-29",
-   "time": "19:00",
-   "url": "https://thesandbarcapitola.com/event/dave-dasilva-jam-night-19/",
-   "price": null,
-   "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/01/dave-Dasilva.jpg"
-  },
-  {
-   "venue": "Kuumbwa Jazz",
-   "title": "Téada",
-   "date": "2026-09-29",
-   "time": "19:30",
-   "url": "https://www.kuumbwajazz.org/calendar/teada-2/",
-   "price": null,
-   "info": null,
-   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/teada-jpg.jpg"
-  },
-  {
-   "venue": "Rio Theatre",
-   "title": "Aldous Harding",
-   "date": "2026-09-29",
-   "time": "20:00",
-   "url": "https://www.riotheatre.com/events-2/2026/9/29/aldousharding",
-   "price": null,
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1772583004090-4KFYCBQQPNV8WZ6FF8CN/riotheatre-51746988995179-6482807041017998421-Screen+Shot+2026-03-02+at+9.04.59+AM.png"
-  },
   {
    "venue": "The Crepe Place",
    "title": "Two Of Us, Live Jazz",
@@ -247,16 +197,6 @@
    "price": null,
    "info": "Afrobeats Nite Santa Cruz is your bi-weekly dose of dance, rhythm, and pure vibes. Hosted by DJ Monk Earl at Abbott Square Market, it's…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1746040227117-OCPQZ129KMQRL7M3DUYT/1000000999.png"
-  },
-  {
-   "venue": "Cat Alley Street",
-   "title": "Burner Happy Hour )'( Mr. Bounceman + Side69",
-   "date": "2026-10-01",
-   "time": "18:30",
-   "url": "https://catalleystreet.com/event/burner-happy-hour-mr-bounceman-side69/",
-   "price": null,
-   "info": null,
-   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/BHH-Oct.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -417,16 +357,6 @@
    "price": "$20",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1771874678681-BA65402PF6WNWKB0CE2W/SB_PRESS_HIRES_PhotobyAdamORegan.jpg"
-  },
-  {
-   "venue": "Cat Alley Street",
-   "title": "Ticketbooth and Red Hot Bev Takeover",
-   "date": "2026-10-02",
-   "time": "21:00",
-   "url": "https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-takeover/",
-   "price": null,
-   "info": null,
-   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/Ticket-Booth-Oct-2.jpg"
   },
   {
    "venue": "Catalyst Main Room",
@@ -729,6 +659,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949056552837"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Lookout Santa Cruz Mobile Newsroom",
+   "date": "2026-10-06",
+   "time": "10:00",
+   "url": "https://abbottsquaremarket.com/events/lookout-santa-cruz-mobile-newsroom",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6abc47a50d3bca26c05629d5/1790724166090/"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Jazz The Dog: Free Show In The Garden",
    "date": "2026-10-06",
@@ -804,7 +744,7 @@
    "date": "2026-10-07",
    "time": null,
    "url": "https://www.prekindle.com/event/16819-an-evening-of-music-and-comedy-with-creed-bratton-from-the-office-us-felton",
-   "price": "$24",
+   "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949048850587"
   },
@@ -1519,6 +1459,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Swag Tones",
+   "date": "2026-10-16",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/8da167377c3b188c6fe779050feb03d519919cc2",
+   "price": "$10",
+   "info": "Rock",
+   "image": "https://static.wixstatic.com/media/cc50de_297527e87185462780490bd2c37d5069~mv2.png"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Man in Black",
    "date": "2026-10-16",
@@ -1670,7 +1620,7 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "13th Annual Santa Cruz Comedy Festival – All Star Comedy Show",
+   "title": "13th Annual Santa Cruz Comedy Festival: All-Star Comedy Show",
    "date": "2026-10-17",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/13th-annual-santa-cruz-comedy-festival-all-star-comedy-show/",
@@ -2157,6 +2107,16 @@
    "price": "$10",
    "info": "Fun!",
    "image": "https://static.wixstatic.com/media/cc50de_8c5123fbd25a4dc8875a37a5545e1967~mv2.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Casanostra",
+   "date": "2026-10-24",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/casanostra-thursday-january-15-from-530-to-730pm-on-the-garden-stage-free-show",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1767378996260-NHK5V0WE1R94MVZGM8AX/event_post__Casanostra-Gypsy-Jazz_1753329774_3_fitbox_1000x600.jpg"
   },
   {
    "venue": "Abbott Square",
@@ -3797,6 +3757,16 @@
    "price": "$43.26",
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/08/the-expendables.jpeg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Splendor",
+   "date": "2026-12-05",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/splendor-thursday-september-24-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781367069415-CPBPQ3JQ8CRGD81390H7/C9F17583-8B9C-4857-BC87-21700E1356DD.jpeg"
   },
   {
    "venue": "Moe's Alley",

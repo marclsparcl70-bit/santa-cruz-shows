@@ -25,63 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:46ddef17171735e02753@santa-cruz-shows
-DTSTAMP:20260929T180857Z
-DTSTART;TZID=America/Los_Angeles:20260929T173000
-DTEND;TZID=America/Los_Angeles:20260929T203000
-SUMMARY:Jazz On The Rocks @ The Crepe Place
-LOCATION:The Crepe Place
-DESCRIPTION:FREE\nhttps://www.thecrepeplace.com/shows-list/4b5sf6ktets5hsc
- z9ha442kacsx5y9-r8779-2hpb2-wjk9t-5j98t
-URL:https://www.thecrepeplace.com/shows-list/4b5sf6ktets5hscz9ha442kacsx5y
- 9-r8779-2hpb2-wjk9t-5j98t
-END:VEVENT
-BEGIN:VEVENT
-UID:bea9454593ff0304e3d1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
-DTSTART;TZID=America/Los_Angeles:20260929T180000
-DTEND;TZID=America/Los_Angeles:20260929T210000
-SUMMARY:Tuesday JAM! @ Woodhouse
-LOCATION:Woodhouse
-DESCRIPTION:This is the place to be on Tuesday! This weekly jam fest featu
- res rotating bands\, open jam sessions\, vendors\, activities and all the
- …\nhttps://www.woodhousebrews.com/events/2026/9/29/tuesday-jam
-URL:https://www.woodhousebrews.com/events/2026/9/29/tuesday-jam
-END:VEVENT
-BEGIN:VEVENT
-UID:7cfd15db83c0857172bf@santa-cruz-shows
-DTSTAMP:20260929T180857Z
-DTSTART;TZID=America/Los_Angeles:20260929T190000
-DTEND;TZID=America/Los_Angeles:20260929T220000
-SUMMARY:Dave DaSilva Jam Night @ The Sand Bar
-LOCATION:The Sand Bar
-DESCRIPTION:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-19
- /
-URL:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-19/
-END:VEVENT
-BEGIN:VEVENT
-UID:6f789f8a6daa5e45ca24@santa-cruz-shows
-DTSTAMP:20260929T180857Z
-DTSTART;TZID=America/Los_Angeles:20260929T193000
-DTEND;TZID=America/Los_Angeles:20260929T223000
-SUMMARY:Téada @ Kuumbwa Jazz
-LOCATION:Kuumbwa Jazz
-DESCRIPTION:https://www.kuumbwajazz.org/calendar/teada-2/
-URL:https://www.kuumbwajazz.org/calendar/teada-2/
-END:VEVENT
-BEGIN:VEVENT
-UID:87fee9eaf2fd11eb75d4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
-DTSTART;TZID=America/Los_Angeles:20260929T200000
-DTEND;TZID=America/Los_Angeles:20260929T230000
-SUMMARY:Aldous Harding @ Rio Theatre
-LOCATION:Rio Theatre
-DESCRIPTION:https://www.riotheatre.com/events-2/2026/9/29/aldousharding
-URL:https://www.riotheatre.com/events-2/2026/9/29/aldousharding
-END:VEVENT
-BEGIN:VEVENT
 UID:e3559b2a76f7ad172299@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20260930T173000
 DTEND;TZID=America/Los_Angeles:20260930T203000
 SUMMARY:Two Of Us\, Live Jazz @ The Crepe Place
@@ -93,7 +38,7 @@ URL:https://www.thecrepeplace.com/shows-list/two-of-us-live-jazz-on-the-ga
 END:VEVENT
 BEGIN:VEVENT
 UID:4503cc81f3ba15ae5087@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20260930T180000
 DTEND;TZID=America/Los_Angeles:20260930T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -105,7 +50,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:af65f4aac1ecb4dabfe7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20260930T190000
 DTEND;TZID=America/Los_Angeles:20260930T220000
 SUMMARY:Cyrille Aimée Duo @ Kuumbwa Jazz
@@ -115,7 +60,7 @@ URL:https://www.kuumbwajazz.org/calendar/cyrille-aimee-duo-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:89107c2517ca1c4dd103@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20260930T190000
 DTEND;TZID=America/Los_Angeles:20260930T220000
 SUMMARY:Gráinne Hunt with Jules Stewart @ Ugly Mug
@@ -128,7 +73,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/9/30/grainne-hunt-and
 END:VEVENT
 BEGIN:VEVENT
 UID:fa6529b4f1c626cfd715@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20260930T200000
 DTEND;TZID=America/Los_Angeles:20260930T230000
 SUMMARY:Thelma & The Sleaze w/ Micah Schnabel & Vanessa Jean Speckman @ Mo
@@ -139,7 +84,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f8e3e60c952fa43278c6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20260930T200000
 DTEND;TZID=America/Los_Angeles:20260930T230000
 SUMMARY:The Rat Utopia Experiment\, Universe @ The Crepe Place
@@ -151,7 +96,7 @@ URL:https://www.ticketweb.com/event/the-rat-utopia-experiment-the-crepe-pl
 END:VEVENT
 BEGIN:VEVENT
 UID:6a300282d1bf0e3b1dde@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Raynes @ Felton Music Hall
@@ -162,7 +107,7 @@ URL:https://www.prekindle.com/event/39757-raynes-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:6388f24e11aa9b680811@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261001T170000
 DTEND;TZID=America/Los_Angeles:20261001T200000
 SUMMARY:Open Acoustic Jam @ Mission West
@@ -174,7 +119,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:82734b549eaaf0d76458@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261001T174500
 DTEND;TZID=America/Los_Angeles:20261001T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -186,7 +131,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:93716df64930229e4167@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261001T180000
 DTEND;TZID=America/Los_Angeles:20261001T210000
 SUMMARY:Afrobeats Nite SC @ Abbott Square
@@ -199,20 +144,8 @@ URL:https://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd982da-r
  5x8y-yknwn-3t992-rsfxk-hkdrm
 END:VEVENT
 BEGIN:VEVENT
-UID:f179a712cc23d80d2b53@santa-cruz-shows
-DTSTAMP:20260929T180857Z
-DTSTART;TZID=America/Los_Angeles:20261001T183000
-DTEND;TZID=America/Los_Angeles:20261001T213000
-SUMMARY:Burner Happy Hour )'( Mr. Bounceman + Side69 @ Cat Alley Street
-LOCATION:Cat Alley Street
-DESCRIPTION:https://catalleystreet.com/event/burner-happy-hour-mr-bouncema
- n-side69/
-URL:https://catalleystreet.com/event/burner-happy-hour-mr-bounceman-side69
- /
-END:VEVENT
-BEGIN:VEVENT
 UID:699ee7577ed4c65ecb8e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261001T190000
 DTEND;TZID=America/Los_Angeles:20261001T220000
 SUMMARY:World Class Music Live Presents: El Khat @ Kuumbwa Jazz
@@ -224,7 +157,7 @@ URL:https://www.kuumbwajazz.org/calendar/world-class-music-live-presents-e
 END:VEVENT
 BEGIN:VEVENT
 UID:e11ab4d67c5ec072ab40@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261001T190000
 DTEND;TZID=America/Los_Angeles:20261001T220000
 SUMMARY:(((folkYEAH))) Presents: PEARL & THE OYSTERS\, MAE POWELL @ The Cr
@@ -237,7 +170,7 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-pearl-and-the-crepe-
 END:VEVENT
 BEGIN:VEVENT
 UID:4065b9d4fe6d8751d6e7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261001T210000
 DTEND;TZID=America/Los_Angeles:20261002T000000
 SUMMARY:Steel Pulse – Reggae Against Racism Tour @ Catalyst Main Room
@@ -250,7 +183,7 @@ URL:https://catalystclub.com/event/steel-pulse-reggae-against-racism-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:4d7e6ac361bad270693d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261001T210000
 DTEND;TZID=America/Los_Angeles:20261002T000000
 SUMMARY:(((folkYEAH))) Presents: COLOR GREEN\, COLD WATER LAW FIRM @ The C
@@ -263,7 +196,7 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-color-green-the-crep
 END:VEVENT
 BEGIN:VEVENT
 UID:fe97ecd605427b1ce349@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Groundation @ Felton Music Hall
@@ -274,7 +207,7 @@ URL:https://www.prekindle.com/event/18668-groundation-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:005966b6baae54632a6d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T173000
 DTEND;TZID=America/Los_Angeles:20261002T203000
 SUMMARY:1st Friday w/ Local Honey @ Discretion Brewing
@@ -285,7 +218,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:aff10de3de9e6e500688@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T173000
 DTEND;TZID=America/Los_Angeles:20261002T203000
 SUMMARY:Slow Coast @ The Crepe Place
@@ -297,7 +230,7 @@ URL:https://www.thecrepeplace.com/shows-list/slow-coast-tuesday-august-18-
 END:VEVENT
 BEGIN:VEVENT
 UID:0f503c44aa17788a57d3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T180000
 DTEND;TZID=America/Los_Angeles:20261002T210000
 SUMMARY:Big Bad Wolf @ Cork & Fork
@@ -309,7 +242,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/big-bad
 END:VEVENT
 BEGIN:VEVENT
 UID:ca6a6b253d6cf5c37fb4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T180000
 DTEND;TZID=America/Los_Angeles:20261002T210000
 SUMMARY:Joint Chiefs @ El Vaquero Winery
@@ -321,7 +254,7 @@ URL:https://reservations.elvaquerowinery.com/events/6d72bbdc30cc2b43049410
 END:VEVENT
 BEGIN:VEVENT
 UID:32b019b4ccc24f42a99c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T180000
 DTEND;TZID=America/Los_Angeles:20261002T210000
 SUMMARY:Krooked Joe @ Mission West
@@ -333,7 +266,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:efec5a7ce72dfd117cc7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T180000
 DTEND;TZID=America/Los_Angeles:20261002T210000
 SUMMARY:Arcane Lullaby @ Shanty Shack Brewing
@@ -345,7 +278,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:bda8e370665740ffd870@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T190000
 DTEND;TZID=America/Los_Angeles:20261002T220000
 SUMMARY:Afro HiLife @ Abbott Square
@@ -357,7 +290,7 @@ URL:https://abbottsquaremarket.com/events/afro-hilife-2-aewzr
 END:VEVENT
 BEGIN:VEVENT
 UID:919ebcd90b648bd60b8a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T193000
 DTEND;TZID=America/Los_Angeles:20261002T223000
 SUMMARY:Fire & Grace & Flamenco with special guests Fanny Ara and Ian Scar
@@ -368,7 +301,7 @@ URL:https://events.ucsc.edu/event/fireandgrace-10-02-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:5e24e53931da9f62cc50@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T200000
 DTEND;TZID=America/Los_Angeles:20261002T230000
 SUMMARY:John Rybak & Friends @ Henfling's Tavern
@@ -380,7 +313,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-02-john-rybak-fri
 END:VEVENT
 BEGIN:VEVENT
 UID:1285a5cbfb8ec367e8e1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T200000
 DTEND;TZID=America/Los_Angeles:20261002T230000
 SUMMARY:Fruit Bats (with band) @ Rio Theatre
@@ -390,7 +323,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/2/fruitbats
 END:VEVENT
 BEGIN:VEVENT
 UID:d5fd2e34dda09aae7e6d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T200000
 DTEND;TZID=America/Los_Angeles:20261002T230000
 SUMMARY:(((folkYEAH))) Presents: SODA BLONDE @ The Crepe Place
@@ -401,19 +334,8 @@ URL:https://www.thecrepeplace.com/shows-list/folkyeah-presents-soda-blonde
  -friday-october-2-7pm-20
 END:VEVENT
 BEGIN:VEVENT
-UID:f5913f81b27278eaa880@santa-cruz-shows
-DTSTAMP:20260929T180857Z
-DTSTART;TZID=America/Los_Angeles:20261002T210000
-DTEND;TZID=America/Los_Angeles:20261003T000000
-SUMMARY:Ticketbooth and Red Hot Bev Takeover @ Cat Alley Street
-LOCATION:Cat Alley Street
-DESCRIPTION:https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-t
- akeover/
-URL:https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-takeover/
-END:VEVENT
-BEGIN:VEVENT
 UID:fdbaf12bbf9cfa4d1426@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T210000
 DTEND;TZID=America/Los_Angeles:20261003T000000
 SUMMARY:Twin Temple @ Catalyst Main Room
@@ -425,7 +347,7 @@ URL:https://catalystclub.com/event/twin-temple/the-catalyst/santa-cruz-cal
 END:VEVENT
 BEGIN:VEVENT
 UID:3059e0f633f909489f49@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261002T210000
 DTEND;TZID=America/Los_Angeles:20261003T000000
 SUMMARY:Moe's Alley Presents: Diggin Dirt (Night 1) @ Moe's Alley
@@ -435,7 +357,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:617d9c3da1e9d15cda0b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261002
 DTEND;VALUE=DATE:20261003
 SUMMARY:Lost + Found 3: Chmura\, zero point and WET PANTHER @ Felton Music
@@ -447,7 +369,7 @@ URL:https://www.prekindle.com/event/75727-lost-and-found-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:e8324d633b5fefa43554@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T110000
 DTEND;TZID=America/Los_Angeles:20261003T140000
 SUMMARY:Buffalo Blues Trio\, Free Brunch Show On The Garden Stage @ The Cr
@@ -460,7 +382,7 @@ URL:https://www.thecrepeplace.com/shows-list/buffalo-blues-trio-free-brunc
 END:VEVENT
 BEGIN:VEVENT
 UID:d2fdbea60484f9bbc628@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T120000
 DTEND;TZID=America/Los_Angeles:20261003T150000
 SUMMARY:Santa Cruz Porchfest @ Abbott Square
@@ -472,7 +394,7 @@ URL:https://abbottsquaremarket.com/events/santa-cruz-porchfest
 END:VEVENT
 BEGIN:VEVENT
 UID:f78162aaab52167515f4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T170000
 DTEND;TZID=America/Los_Angeles:20261003T200000
 SUMMARY:Michael Martyn\, Patti Maxine & Good Medicine @ The Crepe Place
@@ -484,7 +406,7 @@ URL:https://www.thecrepeplace.com/shows-list/michael-martyn-patti-maxine-g
 END:VEVENT
 BEGIN:VEVENT
 UID:1619b7f92aad210a3bc0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T173000
 DTEND;TZID=America/Los_Angeles:20261003T203000
 SUMMARY:Love Creek @ Discretion Brewing
@@ -495,7 +417,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:f3a4c2518eb26d9c7711@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T180000
 DTEND;TZID=America/Los_Angeles:20261003T210000
 SUMMARY:Krooked Jo @ Shanty Shack Brewing
@@ -506,7 +428,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:877c0880e8d0d76f0d8b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T220000
 SUMMARY:El Brick @ Mission West
@@ -518,7 +440,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:ed0c3c3c8f51bdd54ca3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T220000
 SUMMARY:Understory @ Ugly Mug
@@ -529,7 +451,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/3/understory
 END:VEVENT
 BEGIN:VEVENT
 UID:58066a597a336913a708@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T200000
 DTEND;TZID=America/Los_Angeles:20261003T230000
 SUMMARY:Mama's Broke\, Maxwell Apra @ The Crepe Place
@@ -541,7 +463,7 @@ URL:https://www.ticketweb.com/event/mamas-broke-the-crepe-place-tickets/14
 END:VEVENT
 BEGIN:VEVENT
 UID:f5446c56e1534856acf1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261003T210000
 DTEND;TZID=America/Los_Angeles:20261004T000000
 SUMMARY:Moe's Alley Presents: Diggin Dirt (Night 2) @ Moe's Alley
@@ -551,7 +473,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:bf5d49df23f6d5871cb4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:The Bends @ Felton Music Hall
@@ -561,7 +483,7 @@ URL:https://www.prekindle.com/event/87347-the-bends-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:05cc48a3aaea48771c6a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T130000
 DTEND;TZID=America/Los_Angeles:20261004T160000
 SUMMARY:The Trolley Drops - 1st Sundays @ Abbott Square
@@ -575,7 +497,7 @@ URL:https://abbottsquaremarket.com/events/the-trolley-drops-1st-sundays-9z
 END:VEVENT
 BEGIN:VEVENT
 UID:8c7e54c9e8f01655831a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T140000
 DTEND;TZID=America/Los_Angeles:20261004T170000
 SUMMARY:Sasupake @ Mission West
@@ -587,7 +509,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:bd1bddfdac40093977a5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T150000
 DTEND;TZID=America/Los_Angeles:20261004T180000
 SUMMARY:The Back Porch Boys @ Discretion Brewing
@@ -597,7 +519,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:189d99c1fcb4dbaa3714@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T150000
 DTEND;TZID=America/Los_Angeles:20261004T180000
 SUMMARY:Cayuga Jazz Band @ Shanty Shack Brewing
@@ -609,7 +531,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:2b7796a7d67be95da3e2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T160000
 DTEND;TZID=America/Los_Angeles:20261004T190000
 SUMMARY:Vinny Johnson Blues Band @ Cork & Fork
@@ -621,7 +543,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/vinny-j
 END:VEVENT
 BEGIN:VEVENT
 UID:200832371e0c74010f4b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T160000
 DTEND;TZID=America/Los_Angeles:20261004T190000
 SUMMARY:Big Bad Wolf @ El Vaquero Winery
@@ -633,7 +555,7 @@ URL:https://reservations.elvaquerowinery.com/events/828d63ebe48ba1520fec55
 END:VEVENT
 BEGIN:VEVENT
 UID:c50f1438974c513d430d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T160000
 DTEND;TZID=America/Los_Angeles:20261004T190000
 SUMMARY:Jefferson's Revival @ El Vaquero Winery
@@ -646,7 +568,7 @@ URL:https://reservations.elvaquerowinery.com/events/e5dceb5bd7911b54fbe38c
 END:VEVENT
 BEGIN:VEVENT
 UID:358c95d285779262b763@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T180000
 DTEND;TZID=America/Los_Angeles:20261004T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -659,7 +581,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:f628a73e6be968491b27@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261004T180000
 DTEND;TZID=America/Los_Angeles:20261004T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -673,7 +595,7 @@ URL:https://www.thecrepeplace.com/shows-list/sunday-march-16-6-9pm-in-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:f8b9f447a4fe121ce7a4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261004
 DTEND;VALUE=DATE:20261005
 SUMMARY:Mike Dawes | Fully Seated @ Felton Music Hall
@@ -684,7 +606,7 @@ URL:https://www.prekindle.com/event/54952-mike-dawes-fully-seated-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:6b3d32aa44550ec53438@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261005T170000
 DTEND;TZID=America/Los_Angeles:20261005T200000
 SUMMARY:Open Mic @ Ugly Mug
@@ -697,7 +619,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/3w5hyl2zmky48hp-g472b-tjga
 END:VEVENT
 BEGIN:VEVENT
 UID:baf3ca522d79495e42a5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261005T180000
 DTEND;TZID=America/Los_Angeles:20261005T210000
 SUMMARY:Science On Tap @ The Crepe Place
@@ -709,7 +631,7 @@ URL:https://www.thecrepeplace.com/shows-list/science-on-tap-730pm-in-the-g
 END:VEVENT
 BEGIN:VEVENT
 UID:b7f60fc58e6137df5d07@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261005T190000
 DTEND;TZID=America/Los_Angeles:20261005T220000
 SUMMARY:Hiromi – The Trio Project feat. James Genus & Simon Phillips –
@@ -722,7 +644,7 @@ URL:https://www.kuumbwajazz.org/calendar/hiromi-the-trio-project-feat-jame
 END:VEVENT
 BEGIN:VEVENT
 UID:1da5ddd97897dc7eae15@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261005T190000
 DTEND;TZID=America/Los_Angeles:20261005T220000
 SUMMARY:Open Mic @ The Crepe Place
@@ -734,7 +656,7 @@ URL:https://www.thecrepeplace.com/shows-list/open-mic-monday-august-11-7-1
 END:VEVENT
 BEGIN:VEVENT
 UID:aa7f508b98d01828a283@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261005T190000
 DTEND;TZID=America/Los_Angeles:20261005T220000
 SUMMARY:NYC’s BlackBox Ensemble—experimental music concert\, featuring
@@ -745,7 +667,7 @@ URL:https://events.ucsc.edu/event/blackbox-10-05-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:52383d0c1bc68f9afcc0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261005T210000
 DTEND;TZID=America/Los_Angeles:20261006T000000
 SUMMARY:Hiromi – The Trio Project feat. James Genus & Simon Phillips –
@@ -758,7 +680,7 @@ URL:https://www.kuumbwajazz.org/calendar/hiromi-the-trio-project-feat-jame
 END:VEVENT
 BEGIN:VEVENT
 UID:e46799974fa0e0394c75@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Lou Hazel @ Felton Music Hall
@@ -767,8 +689,20 @@ DESCRIPTION:$18\nhttps://www.prekindle.com/event/85636-lou-hazel-felton
 URL:https://www.prekindle.com/event/85636-lou-hazel-felton
 END:VEVENT
 BEGIN:VEVENT
+UID:adab7ba145ab7cbca859@santa-cruz-shows
+DTSTAMP:20260930T141753Z
+DTSTART;TZID=America/Los_Angeles:20261006T100000
+DTEND;TZID=America/Los_Angeles:20261006T130000
+SUMMARY:Lookout Santa Cruz Mobile Newsroom @ Abbott Square
+LOCATION:Abbott Square
+DESCRIPTION:https://abbottsquaremarket.com/events/lookout-santa-cruz-mobil
+ e-newsroom
+URL:https://abbottsquaremarket.com/events/lookout-santa-cruz-mobile-newsro
+ om
+END:VEVENT
+BEGIN:VEVENT
 UID:5318d7fc50583729a810@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261006T173000
 DTEND;TZID=America/Los_Angeles:20261006T203000
 SUMMARY:Jazz The Dog: Free Show In The Garden @ The Crepe Place
@@ -780,7 +714,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-the-dog-free-show-in-the
 END:VEVENT
 BEGIN:VEVENT
 UID:6547c8fad3ec39a91eaf@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261006T200000
 DTEND;TZID=America/Los_Angeles:20261006T230000
 SUMMARY:Moe's Alley Presents: The Animeros w/ Flaco el Jandro y Los Perros
@@ -791,7 +725,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:0a7018236de1abe54715@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261006T200000
 DTEND;TZID=America/Los_Angeles:20261006T230000
 SUMMARY:Kishi Bashi @ Rio Theatre
@@ -801,7 +735,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/6/kishibanshi
 END:VEVENT
 BEGIN:VEVENT
 UID:1f96069e0ce030521f81@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261006T200000
 DTEND;TZID=America/Los_Angeles:20261006T230000
 SUMMARY:Strange Relationship: Matt Hartle & Mike Owens Funk Band @ The Cre
@@ -814,7 +748,7 @@ URL:https://www.thecrepeplace.com/shows-list/matt-hartle-mike-owens-funk-b
 END:VEVENT
 BEGIN:VEVENT
 UID:62538f58cd8cc32addb8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261007T173000
 DTEND;TZID=America/Los_Angeles:20261007T203000
 SUMMARY:Bob O'Neill's Absent Minds @ The Crepe Place
@@ -827,7 +761,7 @@ URL:https://www.thecrepeplace.com/shows-list/bob-oneills-absent-minds-wedn
 END:VEVENT
 BEGIN:VEVENT
 UID:12c70714fd78d13986a2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261007T180000
 DTEND;TZID=America/Los_Angeles:20261007T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -839,7 +773,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:3b2a51026ff5018609c2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T230000
 SUMMARY:(((folkYEAH!))) Presents - Y La Bamba @ Moe's Alley
@@ -849,20 +783,20 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:eab24177f65640d97370@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:An Evening of Music and Comedy w / Creed Bratton From The Office (
  US) @ Felton Music Hall
 LOCATION:Felton Music Hall
-DESCRIPTION:$24\nhttps://www.prekindle.com/event/16819-an-evening-of-music
+DESCRIPTION:$20\nhttps://www.prekindle.com/event/16819-an-evening-of-music
  -and-comedy-with-creed-bratton-from-the-office-us-felton
 URL:https://www.prekindle.com/event/16819-an-evening-of-music-and-comedy-w
  ith-creed-bratton-from-the-office-us-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:603f6051663f3a3b8baa@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261008T173000
 DTEND;TZID=America/Los_Angeles:20261008T203000
 SUMMARY:Blue Lemonade @ Discretion Brewing
@@ -873,7 +807,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:67c7abbdaaf20ee922a3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261008T173000
 DTEND;TZID=America/Los_Angeles:20261008T203000
 SUMMARY:The Guitarsonists With Mighty Mike Schermer @ The Crepe Place
@@ -887,7 +821,7 @@ URL:https://www.thecrepeplace.com/shows-list/alice-wallace-with-mighty-mik
 END:VEVENT
 BEGIN:VEVENT
 UID:1cf8cfd40298c11e7367@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261008T180000
 DTEND;TZID=America/Los_Angeles:20261008T210000
 SUMMARY:The Blues Suspects @ Cork & Fork
@@ -899,7 +833,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/the-blu
 END:VEVENT
 BEGIN:VEVENT
 UID:8bb9679a99996bd95756@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261008T183000
 DTEND;TZID=America/Los_Angeles:20261008T213000
 SUMMARY:Jazz Night @ Abbott Square
@@ -910,7 +844,7 @@ URL:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg
 END:VEVENT
 BEGIN:VEVENT
 UID:8e9af6f6d823ae081f6d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T220000
 SUMMARY:Ben Flocks Trio @ Kuumbwa Jazz
@@ -920,7 +854,7 @@ URL:https://www.kuumbwajazz.org/calendar/ben-flocks-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:ebeba73f6662abcc699e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T220000
 SUMMARY:Levyosn @ Ugly Mug
@@ -931,7 +865,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/8/levyosn-duo
 END:VEVENT
 BEGIN:VEVENT
 UID:9efba443f3698a8fe16b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261008T200000
 DTEND;TZID=America/Los_Angeles:20261008T230000
 SUMMARY:Rickie Lee Jones @ Rio Theatre
@@ -941,7 +875,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/8/rickieleejones
 END:VEVENT
 BEGIN:VEVENT
 UID:1bc7052e5734ab32fe19@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261008T200000
 DTEND;TZID=America/Los_Angeles:20261008T230000
 SUMMARY:Slingshot Improv Trio @ The Crepe Place
@@ -953,7 +887,7 @@ URL:https://www.thecrepeplace.com/shows-list/slingshot-thursday-october-8-
 END:VEVENT
 BEGIN:VEVENT
 UID:f92e947bfc17c6e004de@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Analog Dog @ Felton Music Hall
@@ -963,7 +897,7 @@ URL:https://www.prekindle.com/event/29513-analog-dog-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:39f137d9972dd174fd51@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T173000
 DTEND;TZID=America/Los_Angeles:20261009T203000
 SUMMARY:Shawn & Matt ~ Nothin’ But The Blues @ Discretion Brewing
@@ -974,7 +908,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:b0b44b5c333a95d54ca4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T210000
 SUMMARY:The 10 O'Clock Lunch Band @ Cork & Fork
@@ -986,7 +920,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/the-10-
 END:VEVENT
 BEGIN:VEVENT
 UID:96c86f748c558e44875e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T210000
 SUMMARY:Not So Young @ El Vaquero Winery
@@ -998,7 +932,7 @@ URL:https://reservations.elvaquerowinery.com/events/7641f388fa34f512482d25
 END:VEVENT
 BEGIN:VEVENT
 UID:ff311e766f29bcd0fb3b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T210000
 SUMMARY:Sick Behavior\, Western Conflict\, and BluntForceKarma @ Shanty Sh
@@ -1010,7 +944,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:af859242d1073d311e7d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T210000
 SUMMARY:Brian Fitzgerald Jazz Trio @ Woodhouse
@@ -1022,7 +956,7 @@ URL:https://www.woodhousebrews.com/events/2026/6/25/brian-fitzgerald-jazz-
 END:VEVENT
 BEGIN:VEVENT
 UID:751c507bfb92ba0c5421@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T190000
 DTEND;TZID=America/Los_Angeles:20261009T220000
 SUMMARY:Love Creek @ Abbott Square
@@ -1033,7 +967,7 @@ URL:https://abbottsquaremarket.com/events/love-creek1
 END:VEVENT
 BEGIN:VEVENT
 UID:8bb6ffca84acaeba9899@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T190000
 DTEND;TZID=America/Los_Angeles:20261009T220000
 SUMMARY:The Rough Romance Tour @ Ugly Mug
@@ -1046,7 +980,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/9-flagshipromance-
 END:VEVENT
 BEGIN:VEVENT
 UID:471e513e2e82cb6132a6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T200000
 DTEND;TZID=America/Los_Angeles:20261009T230000
 SUMMARY:Dominique and the Diamonds @ Henfling's Tavern
@@ -1058,7 +992,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-09-dominique-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:9dc876ecc32b867fba1a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T200000
 DTEND;TZID=America/Los_Angeles:20261009T230000
 SUMMARY:Pete Sawyer And The Left Hand Monkey Wrench Gang @ The Crepe Place
@@ -1070,7 +1004,7 @@ URL:https://www.thecrepeplace.com/shows-list/pete-sawyer-and-left-handed-m
 END:VEVENT
 BEGIN:VEVENT
 UID:91acd1d1edeb31b54756@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T210000
 DTEND;TZID=America/Los_Angeles:20261010T000000
 SUMMARY:It’s a 2000’s Party: Santa Cruz @ Catalyst Main Room
@@ -1083,7 +1017,7 @@ URL:https://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-cata
 END:VEVENT
 BEGIN:VEVENT
 UID:fad9b2745973e5525b15@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261009T210000
 DTEND;TZID=America/Los_Angeles:20261010T000000
 SUMMARY:Moe's Alley Presents: The Breaks @ Moe's Alley
@@ -1093,7 +1027,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:615447915cbc85487335@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON 
@@ -1106,7 +1040,7 @@ URL:https://www.ticketweb.com/event/beat-quarry-amphitheater-tickets/15002
 END:VEVENT
 BEGIN:VEVENT
 UID:301853c9a44587fb97e5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T140000
 DTEND;TZID=America/Los_Angeles:20261010T170000
 SUMMARY:American Underdog @ Mission West
@@ -1118,7 +1052,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:1e2703602871812879a2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T140000
 DTEND;TZID=America/Los_Angeles:20261010T170000
 SUMMARY:The Jamissaries @ Shanty Shack Brewing
@@ -1130,7 +1064,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:304c8251da79edf82dc5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T150000
 DTEND;TZID=America/Los_Angeles:20261010T180000
 SUMMARY:Bill Reiland Trio @ Discretion Brewing
@@ -1140,7 +1074,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:3602be85de1d6c347509@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T200000
 SUMMARY:SPUN @ El Vaquero Winery
@@ -1152,7 +1086,7 @@ URL:https://reservations.elvaquerowinery.com/events/f07637c0b899f603f59170
 END:VEVENT
 BEGIN:VEVENT
 UID:f17b0df672ad063bfe4c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T200000
 SUMMARY:The Jenny O'Leary Quartet @ The Crepe Place
@@ -1165,7 +1099,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-jennu-oleary-quartet-wedn
 END:VEVENT
 BEGIN:VEVENT
 UID:446c548aaddad353ecd0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T180000
 DTEND;TZID=America/Los_Angeles:20261010T210000
 SUMMARY:Absent Minds @ Cork & Fork
@@ -1177,7 +1111,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/absent-
 END:VEVENT
 BEGIN:VEVENT
 UID:699942b14f06d25c813f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T180000
 DTEND;TZID=America/Los_Angeles:20261010T210000
 SUMMARY:Rachel Spung & The Soul Service @ Shanty Shack Brewing
@@ -1189,7 +1123,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:ab2c655ad999e45fff0b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Banff Centre Mountain Film Festival Word Tour @ Rio Theatre
@@ -1200,7 +1134,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/10/banffcentremountain
 END:VEVENT
 BEGIN:VEVENT
 UID:eed067a81f466c4c50b1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Indian Classical Music—Nishat Khan\, sitar\, and Nitin Mitta\, t
@@ -1211,7 +1145,7 @@ URL:https://events.ucsc.edu/event/nishatkhan2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:388358b10c4e6221a4e0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Bongo Sidibe @ Woodhouse
@@ -1223,7 +1157,7 @@ URL:https://www.woodhousebrews.com/events/2026/7/18/bongo-sidibe
 END:VEVENT
 BEGIN:VEVENT
 UID:9f73095ab030ae81d7ce@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T200000
 DTEND;TZID=America/Los_Angeles:20261010T230000
 SUMMARY:The Radio @ Henfling's Tavern
@@ -1234,7 +1168,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-10-the-radio
 END:VEVENT
 BEGIN:VEVENT
 UID:4c243b220b2f0125a28d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T200000
 DTEND;TZID=America/Los_Angeles:20261010T230000
 SUMMARY:90s DJ NIGHT! With DJ JAHI & DJ WYZE1\, 8PM TIL CLOSE! $10 @ The C
@@ -1247,7 +1181,7 @@ URL:https://www.thecrepeplace.com/shows-list/90s-dj-night-with-dj-jahi-dj-
 END:VEVENT
 BEGIN:VEVENT
 UID:3ff11f9fc0eb7a8dac42@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T203000
 DTEND;TZID=America/Los_Angeles:20261010T233000
 SUMMARY:Sin Sisters Burlesque & Drag – Halloween Show @ Kuumbwa Jazz
@@ -1259,7 +1193,7 @@ URL:https://www.kuumbwajazz.org/calendar/sin-sisters-burlesque-drag-hallow
 END:VEVENT
 BEGIN:VEVENT
 UID:f0a1bbc068829a74fc28@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T210000
 DTEND;TZID=America/Los_Angeles:20261011T000000
 SUMMARY:DOMi & JD BECK – WHO ASKED? Tour @ Catalyst Main Room
@@ -1271,7 +1205,7 @@ URL:https://catalystclub.com/event/domi-jd-beck-who-asked-tour/the-catalys
 END:VEVENT
 BEGIN:VEVENT
 UID:99ebdeaabdb3b7cb1be3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261010T210000
 DTEND;TZID=America/Los_Angeles:20261011T000000
 SUMMARY:Moe's Alley Presents: Coffee Zombie Collective w/ Rabbit Truck @ M
@@ -1282,7 +1216,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:579eed772ed1fa0cde38@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:Damien Jurado @ Felton Music Hall
@@ -1293,7 +1227,7 @@ URL:https://www.prekindle.com/event/85774-damien-jurado-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:b5e9018cbabc9ab143cf@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:ACID BATH with High On Fire\, Melvins\, & Windhand @ Quarry Amphit
@@ -1306,7 +1240,7 @@ URL:https://www.ticketweb.com/event/acid-bath-with-high-on-quarry-amphithe
 END:VEVENT
 BEGIN:VEVENT
 UID:ae31dcbb84dca09054fa@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T170000
 SUMMARY:Scarlett Fyre @ Mission West
@@ -1318,7 +1252,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:9b5e04941b301d41a04d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T170000
 SUMMARY:AC Myles & Band: Stratocaster Masters @ Moe's Alley
@@ -1328,7 +1262,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6494ad6941802d26b27f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T170000
 SUMMARY:Bookshop Santa Cruz presents: Min Jin Lee | AMERICAN HAGWON @ Rio 
@@ -1339,7 +1273,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/11/minjinlee
 END:VEVENT
 BEGIN:VEVENT
 UID:68988aa48967bc1c315e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T150000
 DTEND;TZID=America/Los_Angeles:20261011T180000
 SUMMARY:The Owls @ Discretion Brewing
@@ -1349,7 +1283,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:fc90840e2eb33a138496@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T150000
 DTEND;TZID=America/Los_Angeles:20261011T180000
 SUMMARY:Jahtiva with the Rudians @ Shanty Shack Brewing
@@ -1361,7 +1295,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:89c90c6039419fce8b08@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T160000
 DTEND;TZID=America/Los_Angeles:20261011T190000
 SUMMARY:Alex Lucero Band @ Cork & Fork
@@ -1373,7 +1307,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/alex-lu
 END:VEVENT
 BEGIN:VEVENT
 UID:f01e5e39c70424a9f23c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T160000
 DTEND;TZID=America/Los_Angeles:20261011T190000
 SUMMARY:Bobby Mariano & Friends @ El Vaquero Winery
@@ -1385,7 +1319,7 @@ URL:https://reservations.elvaquerowinery.com/events/c685b0b8b8e586193564c3
 END:VEVENT
 BEGIN:VEVENT
 UID:331340676ba5fa7b7ba9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T180000
 DTEND;TZID=America/Los_Angeles:20261011T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -1399,7 +1333,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:00429c0aaf0d7a1f5327@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T180000
 DTEND;TZID=America/Los_Angeles:20261011T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -1412,7 +1346,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:9a56a295ba89226cfbd8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261011T190000
 DTEND;TZID=America/Los_Angeles:20261011T220000
 SUMMARY:Yellowjackets @ Kuumbwa Jazz
@@ -1422,7 +1356,7 @@ URL:https://www.kuumbwajazz.org/calendar/yellowjackets-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:344ef65977e3618b7310@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261012T170000
 DTEND;TZID=America/Los_Angeles:20261012T200000
 SUMMARY:Open Mic @ Ugly Mug
@@ -1435,7 +1369,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/r35yjjw7te9s24c-gfwlm-ak9c
 END:VEVENT
 BEGIN:VEVENT
 UID:06853cad5b12a741a924@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261012T180000
 DTEND;TZID=America/Los_Angeles:20261012T210000
 SUMMARY:Crepe Place Family Jam\, 6 To 9Pm On The Bar Stage\, Free @ The Cr
@@ -1448,7 +1382,7 @@ URL:https://www.thecrepeplace.com/shows-list/crepe-place-family-jam-6-to-9
 END:VEVENT
 BEGIN:VEVENT
 UID:8c460f98f03a8732ce2f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261012T190000
 DTEND;TZID=America/Los_Angeles:20261012T220000
 SUMMARY:Somi @ Kuumbwa Jazz
@@ -1458,7 +1392,7 @@ URL:https://www.kuumbwajazz.org/calendar/somi/
 END:VEVENT
 BEGIN:VEVENT
 UID:bf982a1ac60e8655acc3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Nekrogoblikon @ Felton Music Hall
@@ -1469,7 +1403,7 @@ URL:https://www.prekindle.com/event/19862-nekrogoblikon-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:bac34e637844b635e496@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261013T173000
 DTEND;TZID=America/Los_Angeles:20261013T203000
 SUMMARY:Jazz On The Rocks @ The Crepe Place
@@ -1481,7 +1415,7 @@ URL:https://www.thecrepeplace.com/shows-list/4b5sf6ktets5hscz9ha442kacsx5y
 END:VEVENT
 BEGIN:VEVENT
 UID:182c105cce17952759fd@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261013T190000
 DTEND;TZID=America/Los_Angeles:20261013T220000
 SUMMARY:Peppino D’Agostino @ Ugly Mug
@@ -1493,7 +1427,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/13/peppino-d-agost
 END:VEVENT
 BEGIN:VEVENT
 UID:f3ba13cef1dd085a3233@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Lakeview @ Felton Music Hall
@@ -1503,7 +1437,7 @@ URL:https://www.prekindle.com/event/98232-lakeview-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:9406fb77a83699ed6afd@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261014T173000
 DTEND;TZID=America/Los_Angeles:20261014T203000
 SUMMARY:Patti Maxine And Phil Marsh @ The Crepe Place
@@ -1516,7 +1450,7 @@ URL:https://www.thecrepeplace.com/shows-list/patti-maxine-and-phil-marsh-t
 END:VEVENT
 BEGIN:VEVENT
 UID:4072178f7a4e7be3428b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261014T180000
 DTEND;TZID=America/Los_Angeles:20261014T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -1528,7 +1462,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:f1d7d0fc7306042a6fa9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261014T190000
 DTEND;TZID=America/Los_Angeles:20261014T220000
 SUMMARY:An Evening with Acoustic Alchemy @ Kuumbwa Jazz
@@ -1538,7 +1472,7 @@ URL:https://www.kuumbwajazz.org/calendar/acoustic-alchemy/
 END:VEVENT
 BEGIN:VEVENT
 UID:b1804e755b3791bc0a9e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261014T200000
 DTEND;TZID=America/Los_Angeles:20261014T230000
 SUMMARY:Moe's Alley Presents: Alborosie & Shengen Clan w/ Rise Up + Select
@@ -1549,7 +1483,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:30486592f6332200fc4e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Jay Buchanan @ Felton Music Hall
@@ -1559,7 +1493,7 @@ URL:https://www.prekindle.com/event/59488-jay-buchanan-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:f651e4b37466c6044cd7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T173000
 DTEND;TZID=America/Los_Angeles:20261015T203000
 SUMMARY:Bionic Squid @ Discretion Brewing
@@ -1570,7 +1504,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:1f9ef564f65bcc89bea1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T173000
 DTEND;TZID=America/Los_Angeles:20261015T203000
 SUMMARY:Two Of Us\, Live Jazz On The Garden Stage @ The Crepe Place
@@ -1582,7 +1516,7 @@ URL:https://www.thecrepeplace.com/shows-list/two-of-us-live-jazz-on-the-ga
 END:VEVENT
 BEGIN:VEVENT
 UID:bd11074b6f45ca659504@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T180000
 DTEND;TZID=America/Los_Angeles:20261015T210000
 SUMMARY:Blue Lightening @ Cork & Fork
@@ -1594,7 +1528,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/blue-li
 END:VEVENT
 BEGIN:VEVENT
 UID:720ec5985aa27f9023eb@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T180000
 DTEND;TZID=America/Los_Angeles:20261015T210000
 SUMMARY:Heartfeast and War Extincion @ Shanty Shack Brewing
@@ -1606,7 +1540,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:323ff2c4d33774f32e17@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T183000
 DTEND;TZID=America/Los_Angeles:20261015T213000
 SUMMARY:Afrobeats Nite SC @ Abbott Square
@@ -1620,7 +1554,7 @@ URL:https://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd982da-r
 END:VEVENT
 BEGIN:VEVENT
 UID:6e0137e78e3598866af8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T220000
 SUMMARY:Chevy D & Old Tree Ex?erience @ Ugly Mug
@@ -1632,7 +1566,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/15-chevy-d-old-tre
 END:VEVENT
 BEGIN:VEVENT
 UID:de042746d336fa6a4a9a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T200000
 DTEND;TZID=America/Los_Angeles:20261015T230000
 SUMMARY:Dos Santos @ Kuumbwa Jazz
@@ -1642,7 +1576,7 @@ URL:https://www.kuumbwajazz.org/calendar/dos-santos/
 END:VEVENT
 BEGIN:VEVENT
 UID:edd5d4fc92d904452d61@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T200000
 DTEND;TZID=America/Los_Angeles:20261015T230000
 SUMMARY:Andre Cruz & The Black Diamond Rhythm Band w/ Trianna Feruza & The
@@ -1653,7 +1587,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:93c19c72a4b27616cb14@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T200000
 DTEND;TZID=America/Los_Angeles:20261015T230000
 SUMMARY:Supernaut\, Guthook\, Angoris @ The Crepe Place
@@ -1665,7 +1599,7 @@ URL:https://www.thecrepeplace.com/shows-list/supernaut-dark-satellite-satu
 END:VEVENT
 BEGIN:VEVENT
 UID:d4b9f71a000cc22d7340@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261015T210000
 DTEND;TZID=America/Los_Angeles:20261016T000000
 SUMMARY:Bumpin Uglies @ Felton Music Hall
@@ -1677,7 +1611,7 @@ URL:https://catalystclub.com/event/bumpin-uglies-at-felton-music-hall/the-
 END:VEVENT
 BEGIN:VEVENT
 UID:a536eb32d2c466119d4d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T173000
 DTEND;TZID=America/Los_Angeles:20261016T203000
 SUMMARY:Pattie Gilbert & Good Company Trio @ Discretion Brewing
@@ -1687,8 +1621,20 @@ DESCRIPTION:Live Music 5:30-7:30pm\nhttps://www.discretionbrewing.com/even
 URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
+UID:50b82d34f6b62285cdfd@santa-cruz-shows
+DTSTAMP:20260930T141753Z
+DTSTART;TZID=America/Los_Angeles:20261016T180000
+DTEND;TZID=America/Los_Angeles:20261016T210000
+SUMMARY:Swag Tones @ El Vaquero Winery
+LOCATION:El Vaquero Winery
+DESCRIPTION:$10\nRock\nhttps://reservations.elvaquerowinery.com/events/8da
+ 167377c3b188c6fe779050feb03d519919cc2
+URL:https://reservations.elvaquerowinery.com/events/8da167377c3b188c6fe779
+ 050feb03d519919cc2
+END:VEVENT
+BEGIN:VEVENT
 UID:f273bee29b1b607f3c10@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T220000
 SUMMARY:Man in Black @ Abbott Square
@@ -1700,7 +1646,7 @@ URL:https://abbottsquaremarket.com/events/man-in-black
 END:VEVENT
 BEGIN:VEVENT
 UID:c9395d5284146d051625@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T220000
 SUMMARY:Dead Kampers @ Mission West
@@ -1712,7 +1658,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:0a2e4e1b2916627c380b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T193000
 DTEND;TZID=America/Los_Angeles:20261016T223000
 SUMMARY:Film: Frankenstein with live score @ Rio Theatre
@@ -1722,7 +1668,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/16/sleepbomb
 END:VEVENT
 BEGIN:VEVENT
 UID:9aa5f0fd06cc73b901b0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T193000
 DTEND;TZID=America/Los_Angeles:20261016T223000
 SUMMARY:Frankenstein (1931) With Live Score By Sleepbomb @ The Crepe Place
@@ -1734,7 +1680,7 @@ URL:https://www.ticketweb.com/event/frankenstein-with-live-score-by-rio-th
 END:VEVENT
 BEGIN:VEVENT
 UID:94ae31e8f410c3f2da23@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T230000
 SUMMARY:Vito & Friends @ Henfling's Tavern
@@ -1745,7 +1691,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-16-vito-friends
 END:VEVENT
 BEGIN:VEVENT
 UID:86e539142c3dee8ac0ac@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T230000
 SUMMARY:Poor Man's Whiskey @ The Crepe Place
@@ -1757,7 +1703,7 @@ URL:https://www.thecrepeplace.com/shows-list/poor-mans-whiskey-saturday-no
 END:VEVENT
 BEGIN:VEVENT
 UID:ae1b8f29be0f412fd29a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T210000
 DTEND;TZID=America/Los_Angeles:20261017T000000
 SUMMARY:XAVIER WULF PRESENTS: THE COOL WORLD TOUR @ Catalyst Main Room
@@ -1770,7 +1716,7 @@ URL:https://catalystclub.com/event/xavier-wulf-presents-the-cool-world-tou
 END:VEVENT
 BEGIN:VEVENT
 UID:37f0c13367a09c6fc6fe@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261016T210000
 DTEND;TZID=America/Los_Angeles:20261017T000000
 SUMMARY:Moe's Alley Presents: Young Dubliners w/ Ockham's Razor @ Moe's Al
@@ -1781,7 +1727,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:d44d377e0935f17f8318@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:David Starfire @ Felton Music Hall
@@ -1792,7 +1738,7 @@ URL:https://www.prekindle.com/event/44292-david-starfire-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:65ccd89f2442d63d570f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T120000
 SUMMARY:LUMINARIUM.IO PACIFICA @ Catalyst Atrium
@@ -1805,7 +1751,7 @@ URL:https://catalystclub.com/event/live-in-the-atrium-luminarium-io-pacifi
 END:VEVENT
 BEGIN:VEVENT
 UID:33a1ed12031ac9c2b23e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T140000
 SUMMARY:Hot Club Soquel @ Ugly Mug
@@ -1816,7 +1762,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel
 END:VEVENT
 BEGIN:VEVENT
 UID:ccbf46cc53149c58f492@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T140000
 DTEND;TZID=America/Los_Angeles:20261017T170000
 SUMMARY:Rosebud @ Shanty Shack Brewing
@@ -1828,7 +1774,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:6d505cb3539c1ba76615@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T173000
 DTEND;TZID=America/Los_Angeles:20261017T203000
 SUMMARY:Ashley Lloyd @ Discretion Brewing
@@ -1839,7 +1785,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:4b52b8a2a0861239a411@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261017T210000
 SUMMARY:Kollateral Damage @ Mission West
@@ -1851,7 +1797,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:be84b78d48ba3bbf941b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261017T210000
 SUMMARY:Just Dandy @ Shanty Shack Brewing
@@ -1862,12 +1808,12 @@ DESCRIPTION:EVERYBODY'S GONE is the latest album by local pop-punk/emo/jam
 URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
-UID:0367b5534afa6a5d12af@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+UID:5eb54285e4988861b881@santa-cruz-shows
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T220000
-SUMMARY:13th Annual Santa Cruz Comedy Festival – All Star Comedy Show @ 
- Kuumbwa Jazz
+SUMMARY:13th Annual Santa Cruz Comedy Festival: All-Star Comedy Show @ Kuu
+ mbwa Jazz
 LOCATION:Kuumbwa Jazz
 DESCRIPTION:https://www.kuumbwajazz.org/calendar/13th-annual-santa-cruz-co
  medy-festival-all-star-comedy-show/
@@ -1876,7 +1822,7 @@ URL:https://www.kuumbwajazz.org/calendar/13th-annual-santa-cruz-comedy-fes
 END:VEVENT
 BEGIN:VEVENT
 UID:4570e335829949cd364c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T220000
 SUMMARY:Megan Woods - The Truth Tour @ Rio Theatre
@@ -1886,7 +1832,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/17/meganwoods
 END:VEVENT
 BEGIN:VEVENT
 UID:bb54afe91ca9c2d69faa@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T220000
 SUMMARY:An Evening With Marty O'Reilly @ The Crepe Place
@@ -1898,7 +1844,7 @@ URL:https://www.ticketweb.com/event/marty-oreilly-the-crepe-place-tickets/
 END:VEVENT
 BEGIN:VEVENT
 UID:6e99b96b86d551f1dc0a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T230000
 SUMMARY:The Floozies @ Catalyst Main Room
@@ -1911,7 +1857,7 @@ URL:https://catalystclub.com/event/the-floozies/the-catalyst/santa-cruz-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:fe7b41e8d8308a63e7d9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T230000
 SUMMARY:Michael Gurley's UltraSound w/ Fossil @ Henfling's Tavern
@@ -1923,7 +1869,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-17-michael-gurley
 END:VEVENT
 BEGIN:VEVENT
 UID:a85d73a938fb217e5306@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261017T210000
 DTEND;TZID=America/Los_Angeles:20261018T000000
 SUMMARY:Moe's Alley Presents: B-Side Players w/ Elijah Emanuel @ Moe's All
@@ -1934,7 +1880,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:bdd2a7e0f4d46b1275f3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:Amélie Farren\, Lilith Max\, Rabbitology - The Three Wishes Tour 
@@ -1948,7 +1894,7 @@ URL:https://www.prekindle.com/event/62387-amlie-farren-lilith-max-rabbitol
 END:VEVENT
 BEGIN:VEVENT
 UID:0dff3de92fcd97834f31@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261018T140000
 DTEND;TZID=America/Los_Angeles:20261018T170000
 SUMMARY:Dead On Deck @ Mission West
@@ -1960,7 +1906,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:989e8ad2db818f1d2986@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261018T150000
 DTEND;TZID=America/Los_Angeles:20261018T180000
 SUMMARY:Dos Bros @ Discretion Brewing
@@ -1970,7 +1916,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c8be196bf87768dd6b9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261018T150000
 DTEND;TZID=America/Los_Angeles:20261018T180000
 SUMMARY:The Upside @ Shanty Shack Brewing
@@ -1982,7 +1928,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:8e55faaf8dd202a83f07@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261018T160000
 DTEND;TZID=America/Los_Angeles:20261018T190000
 SUMMARY:Bastard Sons of Johnny Cash @ El Vaquero Winery
@@ -1994,7 +1940,7 @@ URL:https://reservations.elvaquerowinery.com/events/36660341b059824951adb3
 END:VEVENT
 BEGIN:VEVENT
 UID:05632d601e21d5b012e3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261018T160000
 DTEND;TZID=America/Los_Angeles:20261018T190000
 SUMMARY:BLVK H3RO LIVE & THE 3PEAT BAND + SELECTA 7 @ Woodhouse
@@ -2008,7 +1954,7 @@ URL:https://www.eventbrite.com/e/blvk-h3ro-live-the-3peat-band-selecta-7-s
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9a0f078dedf47e061f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261018T180000
 DTEND;TZID=America/Los_Angeles:20261018T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -2022,7 +1968,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:98ed6f67ee3a80d52c4b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261018T180000
 DTEND;TZID=America/Los_Angeles:20261018T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -2035,7 +1981,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:4807ece95a1f7e2b88dd@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261018T203000
 DTEND;TZID=America/Los_Angeles:20261018T233000
 SUMMARY:Moe's Alley Presents: Sqwerv @ Moe's Alley
@@ -2045,7 +1991,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:7646d0d5cbe6903b1b9c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 SUMMARY:Nep @ Felton Music Hall
@@ -2056,7 +2002,7 @@ URL:https://www.prekindle.com/event/38396-nep-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:89627d159aed7987e314@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261019T190000
 DTEND;TZID=America/Los_Angeles:20261019T220000
 SUMMARY:Buster Williams Trio @ Kuumbwa Jazz
@@ -2066,7 +2012,7 @@ URL:https://www.kuumbwajazz.org/calendar/buster-williams-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:b1d4be77a98f2066f2d0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261019T190000
 DTEND;TZID=America/Los_Angeles:20261019T220000
 SUMMARY:Open Mic @ The Crepe Place
@@ -2078,7 +2024,7 @@ URL:https://www.thecrepeplace.com/shows-list/open-mic-monday-july-14-7-10p
 END:VEVENT
 BEGIN:VEVENT
 UID:749cb1279c82df8363d1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261019T200000
 DTEND;TZID=America/Los_Angeles:20261019T230000
 SUMMARY:Last Dinosaurs @ Catalyst Main Room
@@ -2091,7 +2037,7 @@ URL:https://catalystclub.com/event/last-dinosaurs/the-catalyst/santa-cruz-
 END:VEVENT
 BEGIN:VEVENT
 UID:d8e97f3d3b8472c733cf@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:She Wants Revenge @ Felton Music Hall
@@ -2102,7 +2048,7 @@ URL:https://www.prekindle.com/event/83988-she-wants-revenge-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:8d89c04b9cbe26c1ea21@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261020T173000
 DTEND;TZID=America/Los_Angeles:20261020T203000
 SUMMARY:Shirley’S Gig: Dave Egan\, Patti Maxine\, Bob Basa\, Paul Tarant
@@ -2117,7 +2063,7 @@ URL:https://www.thecrepeplace.com/shows-list/shirleys-gig-dave-egan-patti-
 END:VEVENT
 BEGIN:VEVENT
 UID:6c774c401b88cc4458fc@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261020T210000
 DTEND;TZID=America/Los_Angeles:20261021T000000
 SUMMARY:Dig It! Funk Night At The Crepe Place With Trianna Feruza And The 
@@ -2132,7 +2078,7 @@ URL:https://www.thecrepeplace.com/shows-list/dig-it-funk-night-at-the-crep
 END:VEVENT
 BEGIN:VEVENT
 UID:984552db9dabffbae265@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261021T173000
 DTEND;TZID=America/Los_Angeles:20261021T203000
 SUMMARY:Joe Ferrara @ The Crepe Place
@@ -2144,7 +2090,7 @@ URL:https://www.thecrepeplace.com/shows-list/joe-ferrara-thursday-august-2
 END:VEVENT
 BEGIN:VEVENT
 UID:ee752b995c885d419472@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261021T193000
 DTEND;TZID=America/Los_Angeles:20261021T223000
 SUMMARY:Western Wednesday #95: Henry Warde x The Farmer & Adele @ Moe's Al
@@ -2155,7 +2101,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:a58fe8767fa60e7f46f0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261021T200000
 DTEND;TZID=America/Los_Angeles:20261021T230000
 SUMMARY:HANNAH MAYREE (Record Release Show)\, MAXWELL APRA @ The Crepe Pla
@@ -2168,7 +2114,7 @@ URL:https://www.ticketweb.com/event/hannah-mayree-record-release-show-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:4e93a6a4ddd14d4b3fd5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:The Jerry Douglas Band @ Felton Music Hall
@@ -2179,7 +2125,7 @@ URL:https://www.prekindle.com/event/31727-the-jerry-douglas-band-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:020ccc9acdd00f7d3dfd@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261022T173000
 DTEND;TZID=America/Los_Angeles:20261022T203000
 SUMMARY:The Fintztones @ Discretion Brewing
@@ -2190,7 +2136,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:11b607fa85539ad51ffd@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261022T173000
 DTEND;TZID=America/Los_Angeles:20261022T203000
 SUMMARY:Justin Raudebush With Special Guest Lizzy Smith @ The Crepe Place
@@ -2204,7 +2150,7 @@ URL:https://www.thecrepeplace.com/shows-list/justin-raudebush-with-special
 END:VEVENT
 BEGIN:VEVENT
 UID:5c4ad21682de94a7fbc6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261022T180000
 DTEND;TZID=America/Los_Angeles:20261022T210000
 SUMMARY:The Beer Scouts @ Shanty Shack Brewing
@@ -2216,7 +2162,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:1a518ccfc096b7d4374c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261022T183000
 DTEND;TZID=America/Los_Angeles:20261022T213000
 SUMMARY:Jazz Night @ Abbott Square
@@ -2228,7 +2174,7 @@ URL:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz
 END:VEVENT
 BEGIN:VEVENT
 UID:d3f905c0424014ba0b93@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T220000
 SUMMARY:Joel Frahm Trio @ Kuumbwa Jazz
@@ -2238,7 +2184,7 @@ URL:https://www.kuumbwajazz.org/calendar/joel-frahm-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:5c7eb9a911f30e2c830e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T230000
 SUMMARY:Moe's Alley Presents: Dusk Dept. @ Moe's Alley
@@ -2248,7 +2194,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:017378b930467e93be3d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T230000
 SUMMARY:TODD RUNDGREN @ Rio Theatre
@@ -2258,7 +2204,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/22/toddrundgren
 END:VEVENT
 BEGIN:VEVENT
 UID:9c0c8e6f90be1352e153@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T230000
 SUMMARY:Empire Grade @ The Crepe Place
@@ -2270,7 +2216,7 @@ URL:https://www.thecrepeplace.com/shows-list/empire-grade-plus-tbd-friday-
 END:VEVENT
 BEGIN:VEVENT
 UID:a28dd8141f5b88160df7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Los Hermanos Mendoza @ Felton Music Hall
@@ -2281,7 +2227,7 @@ URL:https://www.prekindle.com/event/13973-los-hermanos-mendoza-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:08885e08d17745d91981@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T173000
 DTEND;TZID=America/Los_Angeles:20261023T203000
 SUMMARY:Down Home Blues Duo w/ Joe Blan Jr. @ Discretion Brewing
@@ -2292,7 +2238,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:554e2edb3285794352d0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T173000
 DTEND;TZID=America/Los_Angeles:20261023T203000
 SUMMARY:Death And Saxes @ The Crepe Place
@@ -2304,7 +2250,7 @@ URL:https://www.thecrepeplace.com/shows-list/death-and-saxes-friday-august
 END:VEVENT
 BEGIN:VEVENT
 UID:a5e28e3e50bc8bb1ec18@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T180000
 DTEND;TZID=America/Los_Angeles:20261023T210000
 SUMMARY:Love Creek with the Jamissaries @ Shanty Shack Brewing
@@ -2316,7 +2262,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:09b6d9bb91d93d5a583a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T220000
 SUMMARY:El Brick @ Abbott Square
@@ -2328,7 +2274,7 @@ URL:https://abbottsquaremarket.com/events/el-brick
 END:VEVENT
 BEGIN:VEVENT
 UID:fa1334aca90c4486bcf4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T220000
 SUMMARY:Trestles/ Not Yet\, Old Dog/ Slider @ Mission West
@@ -2340,7 +2286,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e7b24590c0b7577601@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T220000
 SUMMARY:Michael McNevin with The Keller Sisters @ Ugly Mug
@@ -2353,7 +2299,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/8/24/michael-mcnevin-
 END:VEVENT
 BEGIN:VEVENT
 UID:b6f82324c2adc0e3c428@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T230000
 SUMMARY:Medicine Road @ Henfling's Tavern
@@ -2364,7 +2310,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-23-medicine-road
 END:VEVENT
 BEGIN:VEVENT
 UID:9dd4e565c6ae4bba0983@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T230000
 SUMMARY:Silver Tongued Devils @ The Crepe Place
@@ -2376,7 +2322,7 @@ URL:https://www.thecrepeplace.com/shows-list/silver-tongued-devils-friday-
 END:VEVENT
 BEGIN:VEVENT
 UID:b18828d89c99483bddc5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261024T000000
 SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
@@ -2387,7 +2333,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:58deafa805e95253d05a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Black Flag @ Felton Music Hall
@@ -2397,7 +2343,7 @@ URL:https://www.prekindle.com/event/93351-black-flag-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:0b23e9ed5a1d5fb73c6c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T150000
 DTEND;TZID=America/Los_Angeles:20261024T180000
 SUMMARY:Bellydance Community Showcase @ The Crepe Place
@@ -2409,7 +2355,7 @@ URL:https://www.thecrepeplace.com/shows-list/bellydance-community-showcase
 END:VEVENT
 BEGIN:VEVENT
 UID:e927df54cb4221a97e45@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T160000
 DTEND;TZID=America/Los_Angeles:20261024T190000
 SUMMARY:Orctoberfest 2026 @ Shanty Shack Brewing
@@ -2421,7 +2367,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:745ffcb1e847f293b636@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T173000
 DTEND;TZID=America/Los_Angeles:20261024T203000
 SUMMARY:Kavanaugh Brothers Celtic Experience @ Discretion Brewing
@@ -2432,7 +2378,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:eb9fddb4a5bc4a7bc1bb@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T173000
 DTEND;TZID=America/Los_Angeles:20261024T203000
 SUMMARY:Rosebud @ El Vaquero Winery
@@ -2443,8 +2389,20 @@ URL:https://reservations.elvaquerowinery.com/events/1c8eafc8fe68b1c68d37c1
  c3cf6da2b588b082f9
 END:VEVENT
 BEGIN:VEVENT
+UID:b92c4ef50aff138bc491@santa-cruz-shows
+DTSTAMP:20260930T141753Z
+DTSTART;TZID=America/Los_Angeles:20261024T173000
+DTEND;TZID=America/Los_Angeles:20261024T203000
+SUMMARY:Casanostra @ The Crepe Place
+LOCATION:The Crepe Place
+DESCRIPTION:FREE\nhttps://www.thecrepeplace.com/shows-list/casanostra-thur
+ sday-january-15-from-530-to-730pm-on-the-garden-stage-free-show
+URL:https://www.thecrepeplace.com/shows-list/casanostra-thursday-january-1
+ 5-from-530-to-730pm-on-the-garden-stage-free-show
+END:VEVENT
+BEGIN:VEVENT
 UID:65a58a0a3b678a2f3b57@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T220000
 SUMMARY:Big Bad Wolf @ Abbott Square
@@ -2456,7 +2414,7 @@ URL:https://abbottsquaremarket.com/events/big-bad-wolf-3
 END:VEVENT
 BEGIN:VEVENT
 UID:4cbca40e0f5b8ed9d0f7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T193000
 DTEND;TZID=America/Los_Angeles:20261024T223000
 SUMMARY:Return to Laurel Canyon @ Kuumbwa Jazz
@@ -2467,7 +2425,7 @@ URL:https://www.kuumbwajazz.org/calendar/return-to-laurel-canyon-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:035c4199df2324a5fc9a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T200000
 DTEND;TZID=America/Los_Angeles:20261024T230000
 SUMMARY:THE RUMBA MADRE\, SUIKA T.\, MOTHERSHIP CONNECTION DJs @ The Crepe
@@ -2480,7 +2438,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-rumba-madre-eyes-like-lan
 END:VEVENT
 BEGIN:VEVENT
 UID:57f5ccba45be29fff8b8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T000000
 SUMMARY:Afrobeats Nite Halloween Edition w/ DJ Monk Earl @ Henfling's Tave
@@ -2493,7 +2451,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-24-afrobeats-nite
 END:VEVENT
 BEGIN:VEVENT
 UID:1a9c549f4c63570e85a3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T000000
 SUMMARY:Moe's Alley Presents: Zepparella (Saturday Night Show) @ Moe's All
@@ -2504,7 +2462,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:d4427e88a42cb12a1323@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261025
 SUMMARY:BALTHVS @ Felton Music Hall
@@ -2514,7 +2472,7 @@ URL:https://www.prekindle.com/event/36113-balthvs-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:94d221441b1c9995bfea@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261025T140000
 DTEND;TZID=America/Los_Angeles:20261025T170000
 SUMMARY:Shannon Plays The Dead @ Mission West
@@ -2526,7 +2484,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:67fa4e5a372074e7d45a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261025T150000
 DTEND;TZID=America/Los_Angeles:20261025T180000
 SUMMARY:The Jenny O’Leary Quartet @ Discretion Brewing
@@ -2536,7 +2494,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:41972a1867186fd650c3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261025T150000
 DTEND;TZID=America/Los_Angeles:20261025T180000
 SUMMARY:Free To Be @ Shanty Shack Brewing
@@ -2547,7 +2505,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:db75f0686709a8c5da3b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261025T150000
 DTEND;TZID=America/Los_Angeles:20261025T180000
 SUMMARY:Edge of the West & Taylor Rae's Lemongrass @ Woodhouse
@@ -2561,7 +2519,7 @@ URL:https://www.woodhousebrews.com/events/2026/10/25/d4tywb5u1tnagnnda04h2
 END:VEVENT
 BEGIN:VEVENT
 UID:497e465b4ba208f6cd03@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261025T160000
 DTEND;TZID=America/Los_Angeles:20261025T190000
 SUMMARY:Moe's Alley Presents: Zepparella (Sunday Matinee Show) @ Moe's All
@@ -2572,7 +2530,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:85a07e86923468a7a519@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261025T170000
 DTEND;TZID=America/Los_Angeles:20261025T200000
 SUMMARY:Musical Soulmates Performers Collaborative: Let The Caged Bird Sin
@@ -2585,7 +2543,7 @@ URL:https://www.kuumbwajazz.org/calendar/musical-soulmates-performers-coll
 END:VEVENT
 BEGIN:VEVENT
 UID:27b1984ac91760d26499@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -2599,7 +2557,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:4538a66584b79251b544@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -2612,7 +2570,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:d72b870a33e5eb41746e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
 SUMMARY:Jesse Daniel @ Felton Music Hall
@@ -2622,7 +2580,7 @@ URL:https://www.prekindle.com/event/99118-jesse-daniel-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:20e42084605704f83b02@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261026T180000
 DTEND;TZID=America/Los_Angeles:20261026T210000
 SUMMARY:Crepe Place Family Jam\, 6 To 9Pm On The Bar Stage\, Free @ The Cr
@@ -2635,7 +2593,7 @@ URL:https://www.thecrepeplace.com/shows-list/crepe-place-family-jam-6-to-9
 END:VEVENT
 BEGIN:VEVENT
 UID:8ede5db625084b31de66@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261026T190000
 DTEND;TZID=America/Los_Angeles:20261026T220000
 SUMMARY:Fonville x Fribush @ Kuumbwa Jazz
@@ -2645,7 +2603,7 @@ URL:https://www.kuumbwajazz.org/calendar/fonville-x-fribush/
 END:VEVENT
 BEGIN:VEVENT
 UID:f579da90bda1959ae6d4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261027T173000
 DTEND;TZID=America/Los_Angeles:20261027T203000
 SUMMARY:Jazz On The Rocks @ The Crepe Place
@@ -2657,7 +2615,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-on-the-rocks-530pm-730pm
 END:VEVENT
 BEGIN:VEVENT
 UID:ccc1105ed5dc77e9507a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261027T190000
 DTEND;TZID=America/Los_Angeles:20261027T220000
 SUMMARY:Master Class: Susan Muscarella – The Piano Trios of Bud Powell\,
@@ -2670,7 +2628,7 @@ URL:https://www.kuumbwajazz.org/calendar/master-class-susan-muscarella-the
 END:VEVENT
 BEGIN:VEVENT
 UID:5e47d90a869961d90d49@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261027T200000
 DTEND;TZID=America/Los_Angeles:20261027T230000
 SUMMARY:Moe's Alley Presents: Wine Lips w/ Buddy Wynkoop @ Moe's Alley
@@ -2680,7 +2638,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:d483b328736560faaccd@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261028
 SUMMARY:Great Lake Swimmers: Caught Light Tour 2026 @ Felton Music Hall
@@ -2692,7 +2650,7 @@ URL:https://www.prekindle.com/event/24586-great-lake-swimmers-caught-light
 END:VEVENT
 BEGIN:VEVENT
 UID:5f4366fd26d8b60ebde3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261028T173000
 DTEND;TZID=America/Los_Angeles:20261028T203000
 SUMMARY:Cayuga Jazz Band @ The Crepe Place
@@ -2704,7 +2662,7 @@ URL:https://www.thecrepeplace.com/shows-list/cayuga-jazz-band-saturday-aug
 END:VEVENT
 BEGIN:VEVENT
 UID:b728b6b33159d1c63d4e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261028T190000
 DTEND;TZID=America/Los_Angeles:20261028T220000
 SUMMARY:Honey Disposition @ Mission West
@@ -2716,7 +2674,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:2e3bdc00bc757c574b11@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:The Bridge City Sinners @ Felton Music Hall
@@ -2727,7 +2685,7 @@ URL:https://www.prekindle.com/event/57117-the-bridge-city-sinners-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:bdb857f5b88230e60ed9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261029T173000
 DTEND;TZID=America/Los_Angeles:20261029T203000
 SUMMARY:Skippy & The Devil’s Friends @ Discretion Brewing
@@ -2738,7 +2696,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:85be1ad98468e90ffe92@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261029T190000
 DTEND;TZID=America/Los_Angeles:20261029T220000
 SUMMARY:Laura Anglade @ Kuumbwa Jazz
@@ -2748,7 +2706,7 @@ URL:https://www.kuumbwajazz.org/calendar/laura-anglade/
 END:VEVENT
 BEGIN:VEVENT
 UID:95cbee4489d2d5d9ede2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261029T190000
 DTEND;TZID=America/Los_Angeles:20261029T220000
 SUMMARY:Michael Franti Trio @ Rio Theatre
@@ -2758,7 +2716,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/29/michaelfranti
 END:VEVENT
 BEGIN:VEVENT
 UID:7fa7a3b68ece1abd681c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261029T200000
 DTEND;TZID=America/Los_Angeles:20261029T230000
 SUMMARY:No-Brainer Productions Presents: Wasabi @ The Crepe Place
@@ -2770,7 +2728,7 @@ URL:https://www.ticketweb.com/event/no-brainer-productions-presents-wasabi
 END:VEVENT
 BEGIN:VEVENT
 UID:d54c9f43e69304144810@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 SUMMARY:The Wildwoods @ Felton Music Hall
@@ -2781,7 +2739,7 @@ URL:https://www.prekindle.com/event/55276-the-wildwoods-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:80775d0c5a3c47a69cab@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261030T173000
 DTEND;TZID=America/Los_Angeles:20261030T203000
 SUMMARY:Cruz Control @ Discretion Brewing
@@ -2792,7 +2750,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:f2d09694c2604e47f97f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261030T180000
 DTEND;TZID=America/Los_Angeles:20261030T210000
 SUMMARY:Juice of the Barley @ El Vaquero Winery
@@ -2804,7 +2762,7 @@ URL:https://reservations.elvaquerowinery.com/events/25e67f6f333547f711c4f9
 END:VEVENT
 BEGIN:VEVENT
 UID:1f13ad246b38ea7cb408@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261030T180000
 DTEND;TZID=America/Los_Angeles:20261030T210000
 SUMMARY:Los Pendejos Imbéciles @ Shanty Shack Brewing
@@ -2816,7 +2774,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:af8736d63a1c6555c29c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T220000
 SUMMARY:Sweet Voodoo @ Abbott Square
@@ -2828,7 +2786,7 @@ URL:https://abbottsquaremarket.com/events/sweet-voodoo-1
 END:VEVENT
 BEGIN:VEVENT
 UID:8004851cf7393e1e626d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T220000
 SUMMARY:Los Darks And Beast @ Mission West
@@ -2840,7 +2798,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:10dbc9fa9edf338fafad@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261030T200000
 DTEND;TZID=America/Los_Angeles:20261030T230000
 SUMMARY:Halloween Eve w/ American Underdog @ Henfling's Tavern
@@ -2852,7 +2810,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-30-halloween-eve-
 END:VEVENT
 BEGIN:VEVENT
 UID:0afaf0df879cba085f3d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261030T200000
 DTEND;TZID=America/Los_Angeles:20261030T230000
 SUMMARY:CREPE-O-WEEN! NIGHT #1: HARRY & THE HITMEN as HALL & OATES\, BOUNC
@@ -2866,7 +2824,7 @@ URL:https://www.ticketweb.com/event/crepe-o-ween-night-1-the-crepe-place-t
 END:VEVENT
 BEGIN:VEVENT
 UID:04dd29db9cb9aae1048a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261030T210000
 DTEND;TZID=America/Los_Angeles:20261031T000000
 SUMMARY:(((folkYEAH!))) Presents - The Mother Hips @ Moe's Alley
@@ -2876,7 +2834,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:95ddec93b38ad7264881@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Jerry's Middle Finger - Halloween Ball @ Felton Music Hall
@@ -2887,7 +2845,7 @@ URL:https://www.prekindle.com/event/88127-jerrys-middle-finger-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:45d9f0c75695d7a554f9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T190000
 SUMMARY:Afrobeats and more Halloween party @ Abbott Square
@@ -2899,7 +2857,7 @@ URL:https://abbottsquaremarket.com/events/afrobeats-and-more-halloween-par
 END:VEVENT
 BEGIN:VEVENT
 UID:89798ae2dca3a981aea3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Joint Chiefs Halloween Party @ El Vaquero Winery
@@ -2911,7 +2869,7 @@ URL:https://reservations.elvaquerowinery.com/events/b4ddc18ee797b682083996
 END:VEVENT
 BEGIN:VEVENT
 UID:f73806639717a76d9c8b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Halloween With Space Heater @ Mission West
@@ -2923,7 +2881,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:45a121a2ce41e1f7ce82@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261031T200000
 DTEND;TZID=America/Los_Angeles:20261031T230000
 SUMMARY:AJ Lee & Blue Summit: Pirates Ball @ Rio Theatre
@@ -2933,7 +2891,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/31/ajlee
 END:VEVENT
 BEGIN:VEVENT
 UID:5c179ff98d49a2e6e8c9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261031T200000
 DTEND;TZID=America/Los_Angeles:20261031T230000
 SUMMARY:CREPE-O-WEEN! NIGHT #2: KENTUCKY MULE as CREEDENCE CLEARWATER REVI
@@ -2947,7 +2905,7 @@ URL:https://www.ticketweb.com/event/halloween-crepe-o-ween-night-the-crepe
 END:VEVENT
 BEGIN:VEVENT
 UID:7fe4a1ccc9b2b1286b6c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261031T210000
 DTEND;TZID=America/Los_Angeles:20261101T000000
 SUMMARY:Moe's Alley Halloween Bash with High Step Society + Floratura @ Mo
@@ -2958,7 +2916,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:8c58550323d21976f7e7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261101T150000
 DTEND;TZID=America/Los_Angeles:20261101T180000
 SUMMARY:The Back Porch Boys @ Discretion Brewing
@@ -2968,7 +2926,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:6f93268f485f0b93ceba@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261101T150000
 DTEND;TZID=America/Los_Angeles:20261101T180000
 SUMMARY:Moe's Alley Presents: Andrew Duhon Trio (Matinee Show) @ Moe's All
@@ -2979,7 +2937,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:07bada106a01e8ec866a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261101T160000
 DTEND;TZID=America/Los_Angeles:20261101T190000
 SUMMARY:Alex Lucero @ El Vaquero Winery
@@ -2991,7 +2949,7 @@ URL:https://reservations.elvaquerowinery.com/events/3d9af26a106c111efe27b8
 END:VEVENT
 BEGIN:VEVENT
 UID:c121616ea79c980979e1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261101T170000
 DTEND;TZID=America/Los_Angeles:20261101T200000
 SUMMARY:Warren Miller's Days Off @ Rio Theatre
@@ -3002,7 +2960,7 @@ URL:https://www.riotheatre.com/events-2/2026/11/1/warrenmillerddaysoff
 END:VEVENT
 BEGIN:VEVENT
 UID:d6a2a9868cc144a37239@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261101T180000
 DTEND;TZID=America/Los_Angeles:20261101T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -3015,7 +2973,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:03cae44b6c96e34ccc4a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T220000
 SUMMARY:Alexandr Misko – The International Guitar Sensation – with Spe
@@ -3028,7 +2986,7 @@ URL:https://www.kuumbwajazz.org/calendar/alexandr-misko-the-international-
 END:VEVENT
 BEGIN:VEVENT
 UID:59ab9b665a1391c7f0db@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261101T200000
 DTEND;TZID=America/Los_Angeles:20261101T230000
 SUMMARY:Moe's Alley Presents: Parlor Greens @ Moe's Alley
@@ -3038,7 +2996,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:d6b87a37d8b9cd153b1c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Stanley Simmons @ Felton Music Hall
@@ -3049,7 +3007,7 @@ URL:https://www.prekindle.com/event/38484-stanley-simmons-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:cf190942d0a6f29943ad@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Rosebud @ Mission West
@@ -3061,7 +3019,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:ac5a5e4491c0a4d15be6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T210000
 SUMMARY:Science On Tap\, 6Pm In The Garden\, Free Event @ The Crepe Place
@@ -3073,7 +3031,7 @@ URL:https://www.thecrepeplace.com/shows-list/science-on-tap-7pm-in-the-gar
 END:VEVENT
 BEGIN:VEVENT
 UID:ca7f2b07784e45e54964@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261102T190000
 DTEND;TZID=America/Los_Angeles:20261102T220000
 SUMMARY:Helen Sung Quartet @ Kuumbwa Jazz
@@ -3083,7 +3041,7 @@ URL:https://www.kuumbwajazz.org/calendar/helen-sung-quartet/
 END:VEVENT
 BEGIN:VEVENT
 UID:1f21140aafc12ae4ff90@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261102T190000
 DTEND;TZID=America/Los_Angeles:20261102T220000
 SUMMARY:Open Mic @ The Crepe Place
@@ -3093,7 +3051,7 @@ URL:https://www.thecrepeplace.com/shows-list/open-mic
 END:VEVENT
 BEGIN:VEVENT
 UID:140bef709afdc59ae5d3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261103T173000
 DTEND;TZID=America/Los_Angeles:20261103T203000
 SUMMARY:JAZZ THE DOG\, In the Garden\, 5:30 to @ The Crepe Place
@@ -3105,7 +3063,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-the-dog-dinner-show-jlmp
 END:VEVENT
 BEGIN:VEVENT
 UID:82b46c11447f115847f3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261103T200000
 DTEND;TZID=America/Los_Angeles:20261103T230000
 SUMMARY:Richard Tripps\, D.O.G.S. @ The Crepe Place
@@ -3117,7 +3075,7 @@ URL:https://www.thecrepeplace.com/shows-list/brown-dog-richard-tripps-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:c1b2fbbdc35bcfd9d729@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
 SUMMARY:Los Gaiteros de San Jacinto\, Fruko y sus Tesos\, and Carmelo Torr
@@ -3130,7 +3088,7 @@ URL:https://www.prekindle.com/event/56962-los-gaiteros-de-san-jacinto-felt
 END:VEVENT
 BEGIN:VEVENT
 UID:4633d1cff1af4647d47d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261104T173000
 DTEND;TZID=America/Los_Angeles:20261104T203000
 SUMMARY:Bob O'Neill's Absent Minds @ The Crepe Place
@@ -3142,7 +3100,7 @@ URL:https://www.thecrepeplace.com/shows-list/bob-oneills-absent-minds-thur
 END:VEVENT
 BEGIN:VEVENT
 UID:cf0f7c1ad6ae4648c57a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261104T190000
 DTEND;TZID=America/Los_Angeles:20261104T220000
 SUMMARY:Joshua Redman Quartet – 7:00 PM @ Kuumbwa Jazz
@@ -3153,7 +3111,7 @@ URL:https://www.kuumbwajazz.org/calendar/joshua-redman-quartet-700-pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a3294f5d4447da56a2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261104T200000
 DTEND;TZID=America/Los_Angeles:20261104T230000
 SUMMARY:The Faux Paws @ The Crepe Place
@@ -3165,7 +3123,7 @@ URL:https://www.ticketweb.com/event/the-faux-paws-the-crepe-place-tickets/
 END:VEVENT
 BEGIN:VEVENT
 UID:14c365b3afc37119315a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261104T210000
 DTEND;TZID=America/Los_Angeles:20261105T000000
 SUMMARY:Joshua Redman Quartet – 9:00 PM @ Kuumbwa Jazz
@@ -3176,7 +3134,7 @@ URL:https://www.kuumbwajazz.org/calendar/joshua-redman-quartet-900-pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:7c6deff4e5ed2bf8902c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Strawberry Fuzz @ Felton Music Hall
@@ -3187,7 +3145,7 @@ URL:https://www.prekindle.com/event/68192-strawberry-fuzz-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:a44cdc1be27a72768da7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261105T173000
 DTEND;TZID=America/Los_Angeles:20261105T203000
 SUMMARY:JUG BAND JAM Hosted By THE TROLLEY DROPS JUG BAND @ The Crepe Plac
@@ -3202,7 +3160,7 @@ URL:https://www.thecrepeplace.com/shows-list/jug-band-jam-hosted-by-the-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:e9754149eba5cf0165b9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261105T174500
 DTEND;TZID=America/Los_Angeles:20261105T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -3214,7 +3172,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:e49641fd50de7c30f5db@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T220000
 SUMMARY:Gabrielle Cavassa @ Kuumbwa Jazz
@@ -3224,7 +3182,7 @@ URL:https://www.kuumbwajazz.org/calendar/gabrielle-cavassa/
 END:VEVENT
 BEGIN:VEVENT
 UID:1b79255483cf83bf2e04@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261105T200000
 DTEND;TZID=America/Los_Angeles:20261105T230000
 SUMMARY:Moe's Alley Presents: Clay Street Unit w/ Blue Dream @ Moe's Alley
@@ -3234,7 +3192,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:a91d852c164f8b91b080@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261105T200000
 DTEND;TZID=America/Los_Angeles:20261105T230000
 SUMMARY:Medicine Road @ The Crepe Place
@@ -3246,7 +3204,7 @@ URL:https://www.ticketweb.com/event/the-faux-paws-the-crepe-place-tickets/
 END:VEVENT
 BEGIN:VEVENT
 UID:608749947c23dc445f36@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261106T180000
 DTEND;TZID=America/Los_Angeles:20261106T210000
 SUMMARY:El Brick @ El Vaquero Winery
@@ -3258,7 +3216,7 @@ URL:https://reservations.elvaquerowinery.com/events/2f5a606dee8adf60ff6316
 END:VEVENT
 BEGIN:VEVENT
 UID:2af0eaff86c4442e60fc@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T220000
 SUMMARY:Matt Hartle And The Hartle Gold Band @ The Crepe Place
@@ -3270,7 +3228,7 @@ URL:https://www.thecrepeplace.com/shows-list/matt-hartle-and-the-hartle-go
 END:VEVENT
 BEGIN:VEVENT
 UID:60f433ac4dd43b944b60@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T220000
 SUMMARY:Los Pendejos Imbeciles Band @ Woodhouse
@@ -3282,7 +3240,7 @@ URL:https://www.woodhousebrews.com/events/2026/11/6/los-pendejos-imbeciles
 END:VEVENT
 BEGIN:VEVENT
 UID:03567639d42eafa7e16e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261106T200000
 DTEND;TZID=America/Los_Angeles:20261106T230000
 SUMMARY:The Bourbon Brothers Band @ Henfling's Tavern
@@ -3294,7 +3252,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-06-the-bourbon-br
 END:VEVENT
 BEGIN:VEVENT
 UID:bd8c4f35f6a1862ddeb1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
 SUMMARY:ELIJAH SCOTT @ Felton Music Hall
@@ -3304,7 +3262,7 @@ URL:https://www.prekindle.com/event/94723-elijah-scott-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:6ccaed7e4596d9e45621@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T220000
 SUMMARY:Henry Diltz – Behind the Lens @ Kuumbwa Jazz
@@ -3315,7 +3273,7 @@ URL:https://www.kuumbwajazz.org/calendar/henry-diltz-behind-the-lens/
 END:VEVENT
 BEGIN:VEVENT
 UID:c4fcdb384d45dad657c6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261107T200000
 DTEND;TZID=America/Los_Angeles:20261107T230000
 SUMMARY:Sound Decision @ Henfling's Tavern
@@ -3326,7 +3284,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-07-sound-decision
 END:VEVENT
 BEGIN:VEVENT
 UID:32df7615c2a37df76dc1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261107T200000
 DTEND;TZID=America/Los_Angeles:20261107T230000
 SUMMARY:Chris Acker\, Maxwell Apra @ The Crepe Place
@@ -3338,7 +3296,7 @@ URL:https://www.ticketweb.com/event/chris-acker-the-crepe-place-tickets/15
 END:VEVENT
 BEGIN:VEVENT
 UID:fe0db18c7cf7c89b0584@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261107T210000
 DTEND;TZID=America/Los_Angeles:20261108T000000
 SUMMARY:(((folkYEAH!))) Presents - Legend Zeppelin @ Moe's Alley
@@ -3348,7 +3306,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f3699dba7dac7b2c72d7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 SUMMARY:Jeffrey Foucault @ Felton Music Hall
@@ -3359,7 +3317,7 @@ URL:https://www.prekindle.com/event/15388-jeffrey-foucault-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:13468755eb9c9d5eba58@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261108T180000
 DTEND;TZID=America/Los_Angeles:20261108T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -3371,7 +3329,7 @@ URL:https://www.thecrepeplace.com/shows-list/pya74htdydmpjcg6r39nrgll9dyce
 END:VEVENT
 BEGIN:VEVENT
 UID:6004ed6a9241fa17689a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T220000
 SUMMARY:Moe's Alley Presents: Southern Culture On The Skids @ Moe's Alley
@@ -3381,7 +3339,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ecabfbbdc0fc2d9eea12@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Peach Tree Rascals @ Felton Music Hall
@@ -3392,7 +3350,7 @@ URL:https://www.prekindle.com/event/88144-peach-tree-rascals-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:88fef847347a740d0b6e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T220000
 SUMMARY:Marcus Shelby Nonet – Birth of the Cool: Revisited @ Kuumbwa Jaz
@@ -3405,7 +3363,7 @@ URL:https://www.kuumbwajazz.org/calendar/marcus-shelby-nonet-birth-of-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:b4bf3ec68063b6f32354@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T220000
 SUMMARY:(((folkYEAH))) PRESENTS: ALEX CAMERON @ The Crepe Place
@@ -3417,7 +3375,7 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-alex-cameron-the-cre
 END:VEVENT
 BEGIN:VEVENT
 UID:5f282b1687f51bfea25f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261110T173000
 DTEND;TZID=America/Los_Angeles:20261110T203000
 SUMMARY:Jazz On The Rocks @ The Crepe Place
@@ -3429,7 +3387,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-on-the-rocks-july-22-530
 END:VEVENT
 BEGIN:VEVENT
 UID:a39747d5a67261fed058@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261110T190000
 DTEND;TZID=America/Los_Angeles:20261110T220000
 SUMMARY:Master Class: Diane Bock – Music Matters! Beyond the Notes @ Kuu
@@ -3442,7 +3400,7 @@ URL:https://www.kuumbwajazz.org/calendar/master-class-diane-bock-music-mat
 END:VEVENT
 BEGIN:VEVENT
 UID:e5c7ade840301bf7ebef@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T230000
 SUMMARY:(((folkYEAH!))) Presents: Holy Wave @ Moe's Alley
@@ -3452,7 +3410,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ddd02d2e3dcc7c97cb58@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T230000
 SUMMARY:Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreit
@@ -3463,7 +3421,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:90215d62c65e05a6ba5c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T230000
 SUMMARY:Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathe
@@ -3475,7 +3433,7 @@ URL:https://www.riotheatre.com/events-2/2026/9/10/donavonfrankenreiter
 END:VEVENT
 BEGIN:VEVENT
 UID:9b0ef63458ba65c50259@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Jeffrey Martin @ Felton Music Hall
@@ -3486,7 +3444,7 @@ URL:https://www.prekindle.com/event/89816-jeffery-martin-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:c8c9d78637ce639c53cf@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261111T193000
 DTEND;TZID=America/Los_Angeles:20261111T223000
 SUMMARY:Pierre Bensusan – The Infinite Guitar @ Kuumbwa Jazz
@@ -3498,7 +3456,7 @@ URL:https://www.kuumbwajazz.org/calendar/pierre-bensusan-the-infinite-guit
 END:VEVENT
 BEGIN:VEVENT
 UID:c0bbf5f4dfb71e4cd1ec@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T230000
 SUMMARY:The Wind Ups\, Cold Water Law Firm @ The Crepe Place
@@ -3510,7 +3468,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-wind-ups-cold-water-law-f
 END:VEVENT
 BEGIN:VEVENT
 UID:93f8f7402239215c1e4a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:They Are Gutting a Body of Water @ Felton Music Hall
@@ -3522,7 +3480,7 @@ URL:https://www.prekindle.com/event/59369-they-are-gutting-a-body-of-water
 END:VEVENT
 BEGIN:VEVENT
 UID:5f8da98ea0546d400a0d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T220000
 SUMMARY:Ken Okada Group feat. YOYOKA @ Kuumbwa Jazz
@@ -3533,7 +3491,7 @@ URL:https://www.kuumbwajazz.org/calendar/ken-okada-group-feat-yoyoka/
 END:VEVENT
 BEGIN:VEVENT
 UID:6a91c67fb1b29fea1226@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Jake Xerxes Fussell @ Felton Music Hall
@@ -3544,7 +3502,7 @@ URL:https://www.prekindle.com/event/38882-jake-xerxes-fussell-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:90b1c5b262a615b1bae5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T220000
 SUMMARY:World Class Music Live Presents: Pipo Romero @ Kuumbwa Jazz
@@ -3556,7 +3514,7 @@ URL:https://www.kuumbwajazz.org/calendar/world-class-music-live-presents-p
 END:VEVENT
 BEGIN:VEVENT
 UID:94307b0fe41727da9704@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T220000
 SUMMARY:Heartfeast @ Mission West
@@ -3568,7 +3526,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:142d8f1ce5ad904dc1c5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T230000
 SUMMARY:The Joint Chiefs Band @ Henfling's Tavern
@@ -3580,7 +3538,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-13-the-joint-chie
 END:VEVENT
 BEGIN:VEVENT
 UID:9d2a3b8bc030f413a0d6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T230000
 SUMMARY:Moe's Alley Presents: Roger Clyne and PH Naffah @ Moe's Alley
@@ -3590,7 +3548,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f7831c5880dc857d0cc2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T230000
 SUMMARY:Flat Sun Society\, Rio And The Soup @ The Crepe Place
@@ -3602,7 +3560,7 @@ URL:https://www.thecrepeplace.com/shows-list/flat-sun-society-friday-novem
 END:VEVENT
 BEGIN:VEVENT
 UID:ad3b690bfa13696d050d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261113T210000
 DTEND;TZID=America/Los_Angeles:20261114T000000
 SUMMARY:Andre Nickatina **Rescheduled from 6/27** @ Catalyst Main Room
@@ -3615,7 +3573,7 @@ URL:https://catalystclub.com/event/andre-nickatina-rescheduled-from-6-27/t
 END:VEVENT
 BEGIN:VEVENT
 UID:1968e7d767941e5496f1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261113
 DTEND;VALUE=DATE:20261114
 SUMMARY:Shakedown Citi @ Felton Music Hall
@@ -3626,7 +3584,7 @@ URL:https://www.prekindle.com/event/77388-shakedown-citi-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:56f088e00cb7359e097d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261114T140000
 DTEND;TZID=America/Los_Angeles:20261114T170000
 SUMMARY:The Jamissaries @ Shanty Shack Brewing
@@ -3638,7 +3596,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d8e787695f3320d3003b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T220000
 SUMMARY:Mountainfilm on Tour Santa Cruz @ Rio Theatre
@@ -3648,7 +3606,7 @@ URL:https://www.riotheatre.com/events-2/2026/11/14/mountainfilm
 END:VEVENT
 BEGIN:VEVENT
 UID:94513f2653510bd35de8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261114T200000
 DTEND;TZID=America/Los_Angeles:20261114T230000
 SUMMARY:ISAIAH RASHAD: Lil Sunny’s Awful Road Trip @ Catalyst Main Room
@@ -3661,7 +3619,7 @@ URL:https://catalystclub.com/event/isaiah-rashad-lil-sunnys-awful-road-tri
 END:VEVENT
 BEGIN:VEVENT
 UID:b6cdd643212fb23ec31c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261114T200000
 DTEND;TZID=America/Los_Angeles:20261114T230000
 SUMMARY:Pulse @ Henfling's Tavern
@@ -3671,7 +3629,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-14-pulse
 END:VEVENT
 BEGIN:VEVENT
 UID:4390c86349ab6142f2ee@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261114T210000
 DTEND;TZID=America/Los_Angeles:20261115T000000
 SUMMARY:Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Archive 6
@@ -3682,7 +3640,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:00a7d8a7a2973e6e91df@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
 SUMMARY:Nick Shoulders @ Felton Music Hall
@@ -3693,7 +3651,7 @@ URL:https://www.prekindle.com/event/35595-nick-shoulders-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:b7f2b3fa79652044b196@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261115T160000
 DTEND;TZID=America/Los_Angeles:20261115T190000
 SUMMARY:Moe's Alley Presents: Drag The River - 30th Anniversary Tour @ Moe
@@ -3704,7 +3662,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:67d2ebc93f28788c7d76@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261115T180000
 DTEND;TZID=America/Los_Angeles:20261115T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -3716,7 +3674,7 @@ URL:https://www.thecrepeplace.com/shows-list/3psamk86a3dc368nafxpc57ceypg2
 END:VEVENT
 BEGIN:VEVENT
 UID:4449310e3b4bef2e726a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261115T210000
 DTEND;TZID=America/Los_Angeles:20261116T000000
 SUMMARY:THE CALIFORNIA HONEYDROPS – SWEET LIKE THAT TOUR 2026 @ Catalyst
@@ -3730,7 +3688,7 @@ URL:https://catalystclub.com/event/the-california-honeydrops-sweet-like-th
 END:VEVENT
 BEGIN:VEVENT
 UID:e1bfdec7f62599685eb3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:The Cactus Blossoms @ Felton Music Hall
@@ -3741,7 +3699,7 @@ URL:https://www.prekindle.com/event/47511-the-cactus-blossoms-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:ebc119ed7946b3f123d8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261116T190000
 DTEND;TZID=America/Los_Angeles:20261116T220000
 SUMMARY:Las Migas @ Kuumbwa Jazz
@@ -3751,7 +3709,7 @@ URL:https://www.kuumbwajazz.org/calendar/las-migas/
 END:VEVENT
 BEGIN:VEVENT
 UID:d7fab66950a68a4f9a37@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261116T190000
 DTEND;TZID=America/Los_Angeles:20261116T220000
 SUMMARY:Open Mic @ The Crepe Place
@@ -3763,7 +3721,7 @@ URL:https://www.thecrepeplace.com/shows-list/open-mic-monday-august-25-7-1
 END:VEVENT
 BEGIN:VEVENT
 UID:31f21ca167a8002efc48@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261117T173000
 DTEND;TZID=America/Los_Angeles:20261117T203000
 SUMMARY:Shirley’S Gig: Dave Egan\, Patti Maxine\, Bob Basa\, Paul Tarant
@@ -3778,7 +3736,7 @@ URL:https://www.thecrepeplace.com/shows-list/shirleys-gig-dave-egan-patti-
 END:VEVENT
 BEGIN:VEVENT
 UID:dd098838e0139ecff350@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261117T193000
 DTEND;TZID=America/Los_Angeles:20261117T223000
 SUMMARY:(((folkYEAH!))) Presents: John Carroll Kirby @ Kuumbwa Jazz
@@ -3790,7 +3748,7 @@ URL:https://www.kuumbwajazz.org/calendar/folkyeah-presents-john-carroll-ki
 END:VEVENT
 BEGIN:VEVENT
 UID:3026f3c77bae2eba9f00@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261117T200000
 DTEND;TZID=America/Los_Angeles:20261117T230000
 SUMMARY:The Goddamn Gallows w/ King Sickabilly @ Moe's Alley
@@ -3800,7 +3758,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:22f385b4eb5f8c775d51@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261117T200000
 DTEND;TZID=America/Los_Angeles:20261117T230000
 SUMMARY:David Dondero\, Dan Potthast\, Hod Hulphers @ The Crepe Place
@@ -3812,7 +3770,7 @@ URL:https://www.thecrepeplace.com/shows-list/david-dondero-dan-potthast-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:1f44902d975a0fbd921d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261118T190000
 DTEND;TZID=America/Los_Angeles:20261118T220000
 SUMMARY:(((folkYEAH))) Presents: MICHAEL NAU\, BREEZERS @ The Crepe Place
@@ -3824,7 +3782,7 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-michael-nau-breezers
 END:VEVENT
 BEGIN:VEVENT
 UID:741d996fa070bb7064b2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261118T200000
 DTEND;TZID=America/Los_Angeles:20261118T230000
 SUMMARY:Mr Vale's Math Class\, El Duo @ The Crepe Place
@@ -3836,7 +3794,7 @@ URL:https://www.thecrepeplace.com/shows-list/mr-vales-math-class-wednesday
 END:VEVENT
 BEGIN:VEVENT
 UID:395dad69c8e0672f49ae@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261118T210000
 DTEND;TZID=America/Los_Angeles:20261119T000000
 SUMMARY:As I Lay Dying @ Catalyst Main Room
@@ -3849,7 +3807,7 @@ URL:https://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz-
 END:VEVENT
 BEGIN:VEVENT
 UID:2aad2efa3c676b6b311d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261119T190000
 DTEND;TZID=America/Los_Angeles:20261119T220000
 SUMMARY:James Gordon Williams @ Kuumbwa Jazz
@@ -3859,7 +3817,7 @@ URL:https://www.kuumbwajazz.org/calendar/james-gordon-williams/
 END:VEVENT
 BEGIN:VEVENT
 UID:6aa64d7fa36df89649e0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:Rosebud & Shaky Feelin' @ Felton Music Hall
@@ -3870,7 +3828,7 @@ URL:https://www.prekindle.com/event/89535-rosebud-and-shaky-feelin-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:8dec4628e23cdb75cbb7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261120T180000
 DTEND;TZID=America/Los_Angeles:20261120T210000
 SUMMARY:James Durbin Revival @ El Vaquero Winery
@@ -3882,7 +3840,7 @@ URL:https://reservations.elvaquerowinery.com/events/57be3f17d3a791bc9c6034
 END:VEVENT
 BEGIN:VEVENT
 UID:1930e6f43b2cd8d39874@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261120T200000
 DTEND;TZID=America/Los_Angeles:20261120T230000
 SUMMARY:Local Honey @ Henfling's Tavern
@@ -3893,7 +3851,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-20-local-honey
 END:VEVENT
 BEGIN:VEVENT
 UID:a6de12b3ebbb23bcc75b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261120T210000
 DTEND;TZID=America/Los_Angeles:20261121T000000
 SUMMARY:Moe's Alley Presents: Kabaka Pyramid (Night 1) @ Moe's Alley
@@ -3903,7 +3861,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:424ee79f3c682996171f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:An evening with Andrew McMahon and his piano @ Felton Music Hall
@@ -3914,7 +3872,7 @@ URL:https://www.prekindle.com/event/94528-andrew-mcmahon-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:6a0f9b102425c4d63431@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261121T140000
 DTEND;TZID=America/Los_Angeles:20261121T170000
 SUMMARY:Rosebud @ Shanty Shack Brewing
@@ -3926,7 +3884,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d3b379d228a234b10b25@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261121T200000
 DTEND;TZID=America/Los_Angeles:20261121T230000
 SUMMARY:The Bill Reiland Trio @ Henfling's Tavern
@@ -3938,7 +3896,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-21-the-bill-reila
 END:VEVENT
 BEGIN:VEVENT
 UID:8d2d72609585435c4690@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261121T200000
 DTEND;TZID=America/Los_Angeles:20261121T230000
 SUMMARY:Jason Beard's Bring Joy @ The Crepe Place
@@ -3950,7 +3908,7 @@ URL:https://www.thecrepeplace.com/shows-list/jason-beards-bring-joy-saturd
 END:VEVENT
 BEGIN:VEVENT
 UID:1899b83d58d2b7ef82b6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261121T210000
 DTEND;TZID=America/Los_Angeles:20261122T000000
 SUMMARY:Moe's Alley Presents: Kabaka Pyramid (Night 2) @ Moe's Alley
@@ -3960,7 +3918,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:201c7de7817b26b5943e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 SUMMARY:Valerie: A Tribute to Amy Winehouse @ Felton Music Hall
@@ -3972,7 +3930,7 @@ URL:https://www.prekindle.com/event/87744-valerie-a-tribute-to-amy-winehou
 END:VEVENT
 BEGIN:VEVENT
 UID:7dc22235e51daf7bfce6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261122T180000
 DTEND;TZID=America/Los_Angeles:20261122T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -3984,7 +3942,7 @@ URL:https://www.thecrepeplace.com/shows-list/7cbsw7m4a9bt49ekhycyeh57c8fe4
 END:VEVENT
 BEGIN:VEVENT
 UID:467aa612744f9b64ea9a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 SUMMARY:Agriculture @ Felton Music Hall
@@ -3995,7 +3953,7 @@ URL:https://www.prekindle.com/event/33948-agriculture-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:8b390cb7eededb8ac3b0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261123T180000
 DTEND;TZID=America/Los_Angeles:20261123T210000
 SUMMARY:Taco Night And Family Jam @ The Crepe Place
@@ -4007,7 +3965,7 @@ URL:https://www.thecrepeplace.com/shows-list/taco-night-and-family-jam-mon
 END:VEVENT
 BEGIN:VEVENT
 UID:f4e31b678d7a8c0309bc@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261123T190000
 DTEND;TZID=America/Los_Angeles:20261123T220000
 SUMMARY:Brian Blade & The Fellowship Band @ Kuumbwa Jazz
@@ -4019,7 +3977,7 @@ URL:https://www.kuumbwajazz.org/calendar/brian-blade-and-the-fellowship-ba
 END:VEVENT
 BEGIN:VEVENT
 UID:12d810f1d9ca4d1c5852@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:THE RESIDENTS – ESKIMO LIVE @ Felton Music Hall
@@ -4030,7 +3988,7 @@ URL:https://www.prekindle.com/event/76833-the-residents-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:8dd2ea924a20f9b2929c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261124T173000
 DTEND;TZID=America/Los_Angeles:20261124T203000
 SUMMARY:Jazz On The Rocks @ The Crepe Place
@@ -4042,7 +4000,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-on-the-rocks-530pm-730pm
 END:VEVENT
 BEGIN:VEVENT
 UID:20bc63135cb83ce121d6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261124T193000
 DTEND;TZID=America/Los_Angeles:20261124T223000
 SUMMARY:UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Sym
@@ -4054,7 +4012,7 @@ URL:https://events.ucsc.edu/event/orchestra-fall-2026-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:7d051b308ad1f8a89c63@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261125T200000
 DTEND;TZID=America/Los_Angeles:20261125T230000
 SUMMARY:90s DJ NIGHT! With DJ JAHI & DJ WYZE1\, 8PM TIL CLOSE! $10 @ The C
@@ -4067,7 +4025,7 @@ URL:https://www.thecrepeplace.com/shows-list/90s-dj-night-with-dj-jahi-dj-
 END:VEVENT
 BEGIN:VEVENT
 UID:8d13c51e1a7ae856b9c2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261127T200000
 DTEND;TZID=America/Los_Angeles:20261127T230000
 SUMMARY:Jackie Greene @ Catalyst Main Room
@@ -4079,7 +4037,7 @@ URL:https://catalystclub.com/event/jackie-greene/the-catalyst/santa-cruz-c
 END:VEVENT
 BEGIN:VEVENT
 UID:03ea415c4fb8e763f030@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261127T203000
 DTEND;TZID=America/Los_Angeles:20261127T233000
 SUMMARY:The Inciters w/ A-100s + Txe Fit @ Moe's Alley
@@ -4089,7 +4047,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:b44545de6cf447404cec@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261128T170000
 DTEND;TZID=America/Los_Angeles:20261128T200000
 SUMMARY:Poor House Bistro @ El Vaquero Winery
@@ -4101,7 +4059,7 @@ URL:https://reservations.elvaquerowinery.com/events/7f3586225ebdd5d647cf91
 END:VEVENT
 BEGIN:VEVENT
 UID:575dba29fb4059823ba9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261128T170000
 DTEND;TZID=America/Los_Angeles:20261128T200000
 SUMMARY:Rivets & Rust @ The Crepe Place
@@ -4113,7 +4071,7 @@ URL:https://www.thecrepeplace.com/shows-list/rivets-rust-saturday-november
 END:VEVENT
 BEGIN:VEVENT
 UID:8a1bc7f6e189ffc748d1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261128T200000
 DTEND;TZID=America/Los_Angeles:20261128T230000
 SUMMARY:DON CARLOS & JUNIOR TOOTS @ Catalyst Main Room
@@ -4126,7 +4084,7 @@ URL:https://catalystclub.com/event/don-carlos-junior-toots/the-catalyst/sa
 END:VEVENT
 BEGIN:VEVENT
 UID:37dfca75499209c91391@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 SUMMARY:The Coffis Brothers @ Felton Music Hall
@@ -4137,7 +4095,7 @@ URL:https://www.prekindle.com/event/79815-the-coffis-brothers-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:12397157e02b9b7b5810@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261129T180000
 DTEND;TZID=America/Los_Angeles:20261129T210000
 SUMMARY:Sunday\, 6-9pm in the Garden Grateful Sunday with MATT HARTLE AND 
@@ -4152,7 +4110,7 @@ URL:https://www.thecrepeplace.com/shows-list/sunday-march-16-6-9pm-in-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:97343fca5de57ff4aa58@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261129T190000
 DTEND;TZID=America/Los_Angeles:20261129T220000
 SUMMARY:SANDRA BERNHARD @ Rio Theatre
@@ -4162,7 +4120,7 @@ URL:https://www.riotheatre.com/events-2/2026/11/29/sandrabernhard
 END:VEVENT
 BEGIN:VEVENT
 UID:93b3ebb854c50871b3db@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261130T190000
 DTEND;TZID=America/Los_Angeles:20261130T220000
 SUMMARY:Benny Green @ Kuumbwa Jazz
@@ -4172,7 +4130,7 @@ URL:https://www.kuumbwajazz.org/calendar/benny-green/
 END:VEVENT
 BEGIN:VEVENT
 UID:70c5b67a62a485c50f43@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261201T173000
 DTEND;TZID=America/Los_Angeles:20261201T203000
 SUMMARY:JAZZ THE DOG\, FREE SHOW IN THE GARDEN\, 5:30 to @ The Crepe Place
@@ -4184,7 +4142,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-the-dog-free-show-in-the
 END:VEVENT
 BEGIN:VEVENT
 UID:a6aa9d3b30aee9812f38@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261201T190000
 DTEND;TZID=America/Los_Angeles:20261201T220000
 SUMMARY:Master Class: Ricardo Peixoto – Brazilian Guitar @ Kuumbwa Jazz
@@ -4196,7 +4154,7 @@ URL:https://www.kuumbwajazz.org/calendar/master-class-ricardo-peixoto-braz
 END:VEVENT
 BEGIN:VEVENT
 UID:ec92403049679b37433f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261202T190000
 DTEND;TZID=America/Los_Angeles:20261202T220000
 SUMMARY:Kassa Overall @ Kuumbwa Jazz
@@ -4206,7 +4164,7 @@ URL:https://www.kuumbwajazz.org/calendar/kassa-overall/
 END:VEVENT
 BEGIN:VEVENT
 UID:6ff8208eb75d5c4b88c2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261202T190000
 DTEND;TZID=America/Los_Angeles:20261202T220000
 SUMMARY:(((folkYEAH))) Presents: JESSICA LEA MAYFIELD\, HORSEPOWER @ The C
@@ -4219,7 +4177,7 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-mayfield
 END:VEVENT
 BEGIN:VEVENT
 UID:34db960fd51d82bcb48f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261203T173000
 DTEND;TZID=America/Los_Angeles:20261203T203000
 SUMMARY:TWISTMAS CAROLING Hosted By TROLLEY DROPS JUG BAND @ The Crepe Pla
@@ -4234,7 +4192,7 @@ URL:https://www.thecrepeplace.com/shows-list/twistmas-caroling-hosted-by-t
 END:VEVENT
 BEGIN:VEVENT
 UID:633bcc29c4a2ebbefd49@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261203T174500
 DTEND;TZID=America/Los_Angeles:20261203T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -4246,7 +4204,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:36b767d08dc2e910b594@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T220000
 SUMMARY:Isaiah Sharkey @ Kuumbwa Jazz
@@ -4256,7 +4214,7 @@ URL:https://www.kuumbwajazz.org/calendar/isaiah-sharkey/
 END:VEVENT
 BEGIN:VEVENT
 UID:c20a7f1d7b3d187da415@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T220000
 SUMMARY:Storytellers In The Bar @ The Crepe Place
@@ -4268,7 +4226,7 @@ URL:https://www.thecrepeplace.com/shows-list/storytellers-in-the-bar-wedne
 END:VEVENT
 BEGIN:VEVENT
 UID:14c1ca1716fed147e2e8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261204T190000
 DTEND;TZID=America/Los_Angeles:20261204T220000
 SUMMARY:1970's Rock Revue @ Woodhouse
@@ -4280,7 +4238,7 @@ URL:https://www.woodhousebrews.com/events/2026/12/4/1970s-rock-revue
 END:VEVENT
 BEGIN:VEVENT
 UID:21e329fd787c9174f03c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261204T200000
 DTEND;TZID=America/Los_Angeles:20261204T230000
 SUMMARY:The Suitcase Junket @ The Crepe Place
@@ -4292,7 +4250,7 @@ URL:https://www.ticketweb.com/event/the-suitcase-junket-the-crepe-place-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:6094623f0589c6cab512@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261204T210000
 DTEND;TZID=America/Los_Angeles:20261205T000000
 SUMMARY:Moe's Alley Presents: Dragon Smoke w/ Andre Cruz & Chris Lujan @ M
@@ -4303,7 +4261,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f2c48f40b8695c613289@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 SUMMARY:The Heeters @ Felton Music Hall
@@ -4313,7 +4271,7 @@ URL:https://www.prekindle.com/event/67636-the-heeters-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:c786776a96656c7c7632@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T220000
 SUMMARY:Teton Gravity Research presents 'Actually\, It Is Rocket Science' 
@@ -4324,7 +4282,7 @@ URL:https://www.riotheatre.com/events-2/2026/12/5/tetongravity
 END:VEVENT
 BEGIN:VEVENT
 UID:b328bdc3e4420f141201@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T220000
 SUMMARY:Sully Tuttle @ Ugly Mug
@@ -4335,7 +4293,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/12/5/sully-tuttle
 END:VEVENT
 BEGIN:VEVENT
 UID:f78965fcc922f7b6fc8e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261205T200000
 DTEND;TZID=America/Los_Angeles:20261205T230000
 SUMMARY:The Expendables @ Catalyst Main Room
@@ -4346,8 +4304,20 @@ URL:https://catalystclub.com/event/the-expendables-3/the-catalyst/santa-cr
  uz-california/
 END:VEVENT
 BEGIN:VEVENT
+UID:8306767f1ee62a4f8c72@santa-cruz-shows
+DTSTAMP:20260930T141753Z
+DTSTART;TZID=America/Los_Angeles:20261205T200000
+DTEND;TZID=America/Los_Angeles:20261205T230000
+SUMMARY:Splendor @ The Crepe Place
+LOCATION:The Crepe Place
+DESCRIPTION:$10\nhttps://www.thecrepeplace.com/shows-list/splendor-thursda
+ y-september-24-8pm-10
+URL:https://www.thecrepeplace.com/shows-list/splendor-thursday-september-2
+ 4-8pm-10
+END:VEVENT
+BEGIN:VEVENT
 UID:719adf642bba48abb0c3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261205T210000
 DTEND;TZID=America/Los_Angeles:20261206T000000
 SUMMARY:Hell's Belles - World Famous All-Female AC/DC Tribute Band w/ murd
@@ -4358,7 +4328,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:bdc531084dd0df57cb84@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Niko Rubio: late night swim in california tour @ Felton Music Hall
@@ -4370,7 +4340,7 @@ URL:https://www.prekindle.com/event/52557-niko-rubio-late-night-swim-in-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:75af1d722c858bc758ba@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261206T170000
 DTEND;TZID=America/Los_Angeles:20261206T200000
 SUMMARY:Horse Feathers @ Woodhouse
@@ -4382,7 +4352,7 @@ URL:https://www.eventbrite.com/e/horse-feathers-tickets-1993861278758
 END:VEVENT
 BEGIN:VEVENT
 UID:c412bd0c148603f42d20@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 SUMMARY:Save Ferris "Happy Skalidays Tour" @ Felton Music Hall
@@ -4394,7 +4364,7 @@ URL:https://www.prekindle.com/event/59943-save-ferris-happy-skalidays-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:0a6162b99221a4d5478c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261207T190000
 DTEND;TZID=America/Los_Angeles:20261207T220000
 SUMMARY:The Bad Plus – Farewell Tour @ Kuumbwa Jazz
@@ -4405,7 +4375,7 @@ URL:https://www.kuumbwajazz.org/calendar/the-bad-plus-farewell-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:f8b4cf213e9281898001@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261208T190000
 DTEND;TZID=America/Los_Angeles:20261208T220000
 SUMMARY:Isaiah J. Thompson – A Guaraldi Holiday @ Kuumbwa Jazz
@@ -4417,7 +4387,7 @@ URL:https://www.kuumbwajazz.org/calendar/isaiah-j-thompson-a-guaraldi-holi
 END:VEVENT
 BEGIN:VEVENT
 UID:c3b7abe4cbf930f7526a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261208T200000
 DTEND;TZID=America/Los_Angeles:20261208T230000
 SUMMARY:(((folkYEAH!))) Presents - Buck Meek w/ Kisser @ Moe's Alley
@@ -4427,7 +4397,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:7a5ce984f72f7ba807fb@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261209T200000
 DTEND;TZID=America/Los_Angeles:20261209T230000
 SUMMARY:Moe's Alley Presents: The James Hunter Six "Off The Fence Tour" @ 
@@ -4438,7 +4408,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:963d1e070e268439204f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Mike Renwick @ Felton Music Hall
@@ -4448,7 +4418,7 @@ URL:https://www.prekindle.com/event/49253-mike-renwick-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:574f32d4a23d711f4056@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261210T190000
 DTEND;TZID=America/Los_Angeles:20261210T220000
 SUMMARY:Spanish Harlem Orchestra – Salsa Navidad – 7:00 PM @ Kuumbwa J
@@ -4461,7 +4431,7 @@ URL:https://www.kuumbwajazz.org/calendar/spanish-harlem-orchestra-salsa-na
 END:VEVENT
 BEGIN:VEVENT
 UID:e26048f651b9b5dfb3dc@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261210T200000
 DTEND;TZID=America/Los_Angeles:20261210T230000
 SUMMARY:Moe's Alley Presents: The Slackers @ Moe's Alley
@@ -4471,7 +4441,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:4ba88b2f227ae2e8660d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261210T210000
 DTEND;TZID=America/Los_Angeles:20261211T000000
 SUMMARY:Spanish Harlem Orchestra – Salsa Navidad – 9:00 PM @ Kuumbwa J
@@ -4484,7 +4454,7 @@ URL:https://www.kuumbwajazz.org/calendar/spanish-harlem-orchestra-salsa-na
 END:VEVENT
 BEGIN:VEVENT
 UID:0901b2313a1af9b051af@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 SUMMARY:Larry Campbell & Teresa Williams @ Felton Music Hall
@@ -4496,7 +4466,7 @@ URL:https://www.prekindle.com/event/64234-larry-campbell-and-teresa-willia
 END:VEVENT
 BEGIN:VEVENT
 UID:c521168873edc305d6bb@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261211T200000
 DTEND;TZID=America/Los_Angeles:20261211T230000
 SUMMARY:LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the dr
@@ -4507,7 +4477,7 @@ URL:https://www.riotheatre.com/events-2/2026/12/11/jonathanrichman
 END:VEVENT
 BEGIN:VEVENT
 UID:edd3670e07475bb6b03b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261211T200000
 DTEND;TZID=America/Los_Angeles:20261211T230000
 SUMMARY:The Flamin' Groovies @ The Crepe Place
@@ -4519,7 +4489,7 @@ URL:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-place-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:e7afe12c016880718f47@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 SUMMARY:The Stinkfoot Orchestra featuring Napoleon Murphy Brock @ Felton M
@@ -4531,7 +4501,7 @@ URL:https://www.prekindle.com/event/12333-stinkfoot-orchestra-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:743e4ebafbbf6dbd60fb@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261212T140000
 DTEND;TZID=America/Los_Angeles:20261212T170000
 SUMMARY:The Jamissaries @ Shanty Shack Brewing
@@ -4543,7 +4513,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c9021b66a578a4df5289@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261212T193000
 DTEND;TZID=America/Los_Angeles:20261212T223000
 SUMMARY:Victor Wooten & the Wooten Brothers at the Rio Theatre @ Kuumbwa J
@@ -4556,7 +4526,7 @@ URL:https://www.kuumbwajazz.org/calendar/the-wooten-brothers-at-the-rio-th
 END:VEVENT
 BEGIN:VEVENT
 UID:51c3740d367c0649ace5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261212T193000
 DTEND;TZID=America/Los_Angeles:20261212T223000
 SUMMARY:Victor Wooten & the Wooten Brothers @ Rio Theatre
@@ -4566,7 +4536,7 @@ URL:https://www.riotheatre.com/events-2/2026/12/12/wootenbrothers
 END:VEVENT
 BEGIN:VEVENT
 UID:75adb7c7a854c34f9dd4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261212T210000
 DTEND;TZID=America/Los_Angeles:20261213T000000
 SUMMARY:How The Grouch Stole Christmas Tour @ Catalyst Main Room
@@ -4579,7 +4549,7 @@ URL:https://catalystclub.com/event/how-the-grouch-stole-christmas-tour/the
 END:VEVENT
 BEGIN:VEVENT
 UID:09fc0caa22fdc3823d12@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 SUMMARY:JD McPherson - SOCKS: A Rock N’ Roll Christmas Tour @ Felton Mus
@@ -4592,7 +4562,7 @@ URL:https://www.prekindle.com/event/71694-jd-mcpherson-socks-a-rock-n-roll
 END:VEVENT
 BEGIN:VEVENT
 UID:1fc98508232f5ba75dc6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261213T200000
 DTEND;TZID=America/Los_Angeles:20261213T230000
 SUMMARY:Moe's Alley Presents: Long Beach Dub Allstars @ Moe's Alley
@@ -4602,7 +4572,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ce77ff9851999369693d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261213T200000
 DTEND;TZID=America/Los_Angeles:20261213T230000
 SUMMARY:An evening with Garrison Keilor\, Heather Masse & Richard Dworsky 
@@ -4613,7 +4583,7 @@ URL:https://www.riotheatre.com/events-2/2026/12/13/garrison
 END:VEVENT
 BEGIN:VEVENT
 UID:c1663b56a462d1016e7a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 SUMMARY:Labiahead - California Tour 2026 @ Felton Music Hall
@@ -4623,7 +4593,7 @@ URL:https://www.prekindle.com/event/38918-labiahead-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:fe8e76a6f1b1d8e4bb2b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261214T190000
 DTEND;TZID=America/Los_Angeles:20261214T220000
 SUMMARY:Christian Sands Trio @ Kuumbwa Jazz
@@ -4633,7 +4603,7 @@ URL:https://www.kuumbwajazz.org/calendar/christian-sands-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:2819f45a511d32df29a1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261215T173000
 DTEND;TZID=America/Los_Angeles:20261215T203000
 SUMMARY:Shirley’S Gig: Dave Egan\, Patti Maxine\, Bob Basa\, Paul Tarant
@@ -4648,7 +4618,7 @@ URL:https://www.thecrepeplace.com/shows-list/shirleys-gig-dave-egan-patti-
 END:VEVENT
 BEGIN:VEVENT
 UID:e3100c74b7ede63c74f2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Willi Carlisle @ Felton Music Hall
@@ -4659,7 +4629,7 @@ URL:https://www.prekindle.com/event/56647-willi-carlisle-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:81909346ee7f78ec1307@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261217T190000
 DTEND;TZID=America/Los_Angeles:20261217T220000
 SUMMARY:Skylar Tang Quartet @ Kuumbwa Jazz
@@ -4669,7 +4639,7 @@ URL:https://www.kuumbwajazz.org/calendar/skylar-tang-quartet/
 END:VEVENT
 BEGIN:VEVENT
 UID:50e05789dd3c4122ca16@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 SUMMARY:Pokey LaFarge @ Felton Music Hall
@@ -4680,7 +4650,7 @@ URL:https://www.prekindle.com/event/16375-pokey-lafarge-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:e8b6b7bcec18fbe7cbf1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261218T173000
 DTEND;TZID=America/Los_Angeles:20261218T203000
 SUMMARY:The X-Mas Banditos @ The Crepe Place
@@ -4692,7 +4662,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-x-mas-banditos-friday-dec
 END:VEVENT
 BEGIN:VEVENT
 UID:920146ed80d548e96563@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261219T140000
 DTEND;TZID=America/Los_Angeles:20261219T170000
 SUMMARY:Rosebud @ Shanty Shack Brewing
@@ -4704,7 +4674,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:768a7a6f2f0421e82799@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261219T170000
 DTEND;TZID=America/Los_Angeles:20261219T200000
 SUMMARY:The Jenny O'Leary Quartet @ The Crepe Place
@@ -4716,7 +4686,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-jenny-oleary-quartet-satu
 END:VEVENT
 BEGIN:VEVENT
 UID:8163460ea368aff33663@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:A John Prine Christmas with the Jenner Fox Band - Early Show @ Fel
@@ -4729,7 +4699,7 @@ URL:https://www.prekindle.com/event/25742-a-john-prine-christmas-with-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:be5612bd6bb4c6569583@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 SUMMARY:A John Prine Christmas with the Jenner Fox Band - Late Show @ Felt
@@ -4742,7 +4712,7 @@ URL:https://www.prekindle.com/event/83884-a-john-prine-christmas-with-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:ad49eef3dedc18539841@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20261231T210000
 DTEND;TZID=America/Los_Angeles:20270101T000000
 SUMMARY:Moe's Alley's NYE Bash with Wooster! @ Moe's Alley
@@ -4752,7 +4722,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e92a9d82a192ddd41ab8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270107T174500
 DTEND;TZID=America/Los_Angeles:20270107T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -4764,7 +4734,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:7c649a71e832859b5278@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270108T210000
 DTEND;TZID=America/Los_Angeles:20270109T000000
 SUMMARY:Moe's Alley Presents: The Westones + Floratura @ Moe's Alley
@@ -4774,7 +4744,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:069995ef34395be94c3c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270110T190000
 DTEND;TZID=America/Los_Angeles:20270110T220000
 SUMMARY:Moe's Alley Presents: Ana Popovic @ Moe's Alley
@@ -4784,7 +4754,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ab328b32937dd066c1b2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270114T173000
 DTEND;TZID=America/Los_Angeles:20270114T203000
 SUMMARY:Sunny Rae @ Discretion Brewing
@@ -4795,7 +4765,7 @@ URL:https://www.discretionbrewing.com/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:eae4f0f7bb2c2f9cf984@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270115T190000
 DTEND;TZID=America/Los_Angeles:20270115T220000
 SUMMARY:Kurt Rosenwinkel & Gerald Clayton @ Kuumbwa Jazz
@@ -4806,7 +4776,7 @@ URL:https://www.kuumbwajazz.org/calendar/gerald-clayton-kurt-rosenwinkel/
 END:VEVENT
 BEGIN:VEVENT
 UID:c06665b1b830162db0c0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Arturo Vaca @ Felton Music Hall
@@ -4816,7 +4786,7 @@ URL:https://www.prekindle.com/event/27318-arturo-vaca-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:b64b9d83d05cf3075637@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270116T190000
 DTEND;TZID=America/Los_Angeles:20270116T220000
 SUMMARY:Arun Ramamurthy Trio @ Kuumbwa Jazz
@@ -4826,7 +4796,7 @@ URL:https://www.kuumbwajazz.org/calendar/arun-ramamurthy-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8a7bc91d412c532d0e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270118T190000
 DTEND;TZID=America/Los_Angeles:20270118T220000
 SUMMARY:Goldings/Bernstein/Stewart Organ Trio @ Kuumbwa Jazz
@@ -4838,7 +4808,7 @@ URL:https://www.kuumbwajazz.org/calendar/goldings-bernstein-stewart-organ-
 END:VEVENT
 BEGIN:VEVENT
 UID:3ac9cf8cc03be319e6f5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270121T193000
 DTEND;TZID=America/Los_Angeles:20270121T223000
 SUMMARY:Jesse Cook @ Rio Theatre
@@ -4848,7 +4818,7 @@ URL:https://www.riotheatre.com/events-2/2027/1/21/jessecook
 END:VEVENT
 BEGIN:VEVENT
 UID:6f8064f54966213d1361@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270122T190000
 DTEND;TZID=America/Los_Angeles:20270122T220000
 SUMMARY:Andy McKee @ Kuumbwa Jazz
@@ -4858,7 +4828,7 @@ URL:https://www.kuumbwajazz.org/calendar/andy-mckee/
 END:VEVENT
 BEGIN:VEVENT
 UID:b074d09353139a82f03a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270122T190000
 DTEND;TZID=America/Los_Angeles:20270122T220000
 SUMMARY:Hot Club Holo @ Ugly Mug
@@ -4871,7 +4841,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2027/1/22/hot-club-holodil
 END:VEVENT
 BEGIN:VEVENT
 UID:bb53bb8b6ec2fc88a6b2@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270122T200000
 DTEND;TZID=America/Los_Angeles:20270122T230000
 SUMMARY:Trae Crowder @ Rio Theatre
@@ -4881,7 +4851,7 @@ URL:https://www.riotheatre.com/events-2/2027/1/22/traecrowder
 END:VEVENT
 BEGIN:VEVENT
 UID:7644ca4d8a8e0f6fc2b3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:John McCutcheon @ Felton Music Hall
@@ -4892,7 +4862,7 @@ URL:https://www.prekindle.com/event/91265-john-mccutcheon-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:7b6546f7bd7141cdfc17@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270123T190000
 DTEND;TZID=America/Los_Angeles:20270123T220000
 SUMMARY:Vijay Iyer + Wadada Leo Smith: Defiant Life @ Kuumbwa Jazz
@@ -4903,7 +4873,7 @@ URL:https://www.kuumbwajazz.org/calendar/vijay-iyer-wadada-leo-smith/
 END:VEVENT
 BEGIN:VEVENT
 UID:0e121b2810c1a44f0bb9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 SUMMARY:Fruition @ Felton Music Hall
@@ -4913,7 +4883,7 @@ URL:https://www.prekindle.com/event/16477-fruition-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:5d6bd775f5b53bba58ae@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 SUMMARY:Brandy Clark: Take Flight World Tour @ Felton Music Hall
@@ -4925,7 +4895,7 @@ URL:https://www.prekindle.com/event/98341-brandy-clark-take-flight-world-t
 END:VEVENT
 BEGIN:VEVENT
 UID:52810785c67fbf3e6033@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270125T190000
 DTEND;TZID=America/Los_Angeles:20270125T220000
 SUMMARY:Camille Thurman with the Darrell Green Quartet @ Kuumbwa Jazz
@@ -4937,7 +4907,7 @@ URL:https://www.kuumbwajazz.org/calendar/camille-thurman-with-the-darrell-
 END:VEVENT
 BEGIN:VEVENT
 UID:af8927aab1d24fed83c3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270126T190000
 DTEND;TZID=America/Los_Angeles:20270126T220000
 SUMMARY:Master Class: Michel Petrucciani’s ‘Kuumbwa’ – The Story B
@@ -4950,7 +4920,7 @@ URL:https://www.kuumbwajazz.org/calendar/master-class-michel-petruccianis-
 END:VEVENT
 BEGIN:VEVENT
 UID:5db4b26ea7e97cafe1a3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270127T200000
 DTEND;TZID=America/Los_Angeles:20270127T230000
 SUMMARY:Youth Fountain @ Catalyst Atrium
@@ -4962,7 +4932,7 @@ URL:https://catalystclub.com/event/youth-fountain/the-catalyst-atrium/sant
 END:VEVENT
 BEGIN:VEVENT
 UID:25a0bc4b59ba52512b5f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270128T190000
 DTEND;TZID=America/Los_Angeles:20270128T220000
 SUMMARY:Chris Cain Band @ Kuumbwa Jazz
@@ -4972,7 +4942,7 @@ URL:https://www.kuumbwajazz.org/calendar/chris-cain-band-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:8e9c691bda761e0bcca3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270130T190000
 DTEND;TZID=America/Los_Angeles:20270130T220000
 SUMMARY:(((folkYEAH))) Presents: ELEPHANT STONE @ The Crepe Place
@@ -4984,7 +4954,7 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-elephant-stone-the-c
 END:VEVENT
 BEGIN:VEVENT
 UID:4381d1d8b95eb86d97cb@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270201T190000
 DTEND;TZID=America/Los_Angeles:20270201T220000
 SUMMARY:The Cookers – 20th Anniversary @ Kuumbwa Jazz
@@ -4995,7 +4965,7 @@ URL:https://www.kuumbwajazz.org/calendar/the-cookers-20th-anniversary/
 END:VEVENT
 BEGIN:VEVENT
 UID:dd32a8bd25f3c890fe3f@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270204T174500
 DTEND;TZID=America/Los_Angeles:20270204T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -5007,7 +4977,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:c8f9cbfcf4efe14a97a5@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270204T190000
 DTEND;TZID=America/Los_Angeles:20270204T220000
 SUMMARY:Nicole McCabe Quartet @ Kuumbwa Jazz
@@ -5017,7 +4987,7 @@ URL:https://www.kuumbwajazz.org/calendar/nicole-mccabe-quartet-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:16ae9991facf6fd57022@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270205T190000
 DTEND;TZID=America/Los_Angeles:20270205T220000
 SUMMARY:Champian Fulton @ Kuumbwa Jazz
@@ -5027,7 +4997,7 @@ URL:https://www.kuumbwajazz.org/calendar/champian-fulton-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:546e2c6f2638b524534c@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 SUMMARY:Steve Poltz @ Felton Music Hall
@@ -5037,7 +5007,7 @@ URL:https://www.prekindle.com/event/17224-steve-poltz-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:e97ac305e15ba2d60284@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 SUMMARY:Andy Falco & Travis Book Jerry Garcia @ Felton Music Hall
@@ -5049,7 +5019,7 @@ URL:https://www.prekindle.com/event/62717-andy-falco-and-travis-book-jerry
 END:VEVENT
 BEGIN:VEVENT
 UID:cb21f5e6643b163a1b72@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270208T190000
 DTEND;TZID=America/Los_Angeles:20270208T220000
 SUMMARY:Kenny Barron Trio @ Kuumbwa Jazz
@@ -5059,7 +5029,7 @@ URL:https://www.kuumbwajazz.org/calendar/kenny-barron-trio-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:6b5a96e9bf478388fa82@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270210T193000
 DTEND;TZID=America/Los_Angeles:20270210T223000
 SUMMARY:Ladysmith Black Mambazo at the Rio Theatre @ Kuumbwa Jazz
@@ -5071,7 +5041,7 @@ URL:https://www.kuumbwajazz.org/calendar/ladysmith-black-mambazo-at-the-ri
 END:VEVENT
 BEGIN:VEVENT
 UID:cb2736de84ece611c39b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270210T193000
 DTEND;TZID=America/Los_Angeles:20270210T223000
 SUMMARY:Ladysmith Black Mambazo @ Rio Theatre
@@ -5081,7 +5051,7 @@ URL:https://www.riotheatre.com/events-2/2027/2/10/ladysmith
 END:VEVENT
 BEGIN:VEVENT
 UID:a1efc3ae17aed1388016@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270211T190000
 DTEND;TZID=America/Los_Angeles:20270211T220000
 SUMMARY:Nella @ Kuumbwa Jazz
@@ -5091,7 +5061,7 @@ URL:https://www.kuumbwajazz.org/calendar/nella/
 END:VEVENT
 BEGIN:VEVENT
 UID:603903397ff78237a0f7@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270215T190000
 DTEND;TZID=America/Los_Angeles:20270215T220000
 SUMMARY:Hamilton de Holanda Trio @ Kuumbwa Jazz
@@ -5102,7 +5072,7 @@ URL:https://www.kuumbwajazz.org/calendar/hamilton-de-holanda-trio-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e6667bcbf928ec9c17d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270216T190000
 DTEND;TZID=America/Los_Angeles:20270216T220000
 SUMMARY:Charlie Hunter & Ella Feingold – 7:00 PM @ Kuumbwa Jazz
@@ -5114,7 +5084,7 @@ URL:https://www.kuumbwajazz.org/calendar/charlie-hunter-ella-feingold-700-
 END:VEVENT
 BEGIN:VEVENT
 UID:03a9de2eab0e740d55bd@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270216T210000
 DTEND;TZID=America/Los_Angeles:20270217T000000
 SUMMARY:Charlie Hunter & Ella Feingold – 9:00 PM @ Kuumbwa Jazz
@@ -5126,7 +5096,7 @@ URL:https://www.kuumbwajazz.org/calendar/charlie-hunter-ella-feingold-900-
 END:VEVENT
 BEGIN:VEVENT
 UID:18ae61edf06fd12d3eb1@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270219T190000
 DTEND;TZID=America/Los_Angeles:20270219T220000
 SUMMARY:Matthew Whitaker Quintet @ Kuumbwa Jazz
@@ -5136,7 +5106,7 @@ URL:https://www.kuumbwajazz.org/calendar/matthew-whitaker-quintet/
 END:VEVENT
 BEGIN:VEVENT
 UID:c15d2d90d220e2eee74b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 SUMMARY:Fink @ Felton Music Hall
@@ -5146,7 +5116,7 @@ URL:https://www.prekindle.com/event/58391-fink-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:c33c5ea9a6c3d1784461@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270222T190000
 DTEND;TZID=America/Los_Angeles:20270222T220000
 SUMMARY:Linda May Han Oh @ Kuumbwa Jazz
@@ -5156,7 +5126,7 @@ URL:https://www.kuumbwajazz.org/calendar/linda-may-han-oh/
 END:VEVENT
 BEGIN:VEVENT
 UID:296e38fc599323480ef6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270225T190000
 DTEND;TZID=America/Los_Angeles:20270225T220000
 SUMMARY:Claudia Villela & Romero Lubambo – 100 Years of Jobim @ Kuumbwa 
@@ -5168,7 +5138,7 @@ URL:https://www.kuumbwajazz.org/calendar/claudia-villela-romero-lubambo/
 END:VEVENT
 BEGIN:VEVENT
 UID:33c60d921c7a804c3df0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 SUMMARY:Tophouse @ Felton Music Hall
@@ -5178,7 +5148,7 @@ URL:https://www.prekindle.com/event/88677-tophouse-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:ad1c3e20d4b7a50738a0@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270301T190000
 DTEND;TZID=America/Los_Angeles:20270301T220000
 SUMMARY:Tyreek McDole @ Kuumbwa Jazz
@@ -5188,7 +5158,7 @@ URL:https://www.kuumbwajazz.org/calendar/tyreek-mcdole-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:b286233e8539d4cbed59@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270304T174500
 DTEND;TZID=America/Los_Angeles:20270304T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -5200,7 +5170,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:8d672ff2dc81594431e6@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270305T190000
 DTEND;TZID=America/Los_Angeles:20270305T220000
 SUMMARY:The Klezmatics @ Kuumbwa Jazz
@@ -5210,7 +5180,7 @@ URL:https://www.kuumbwajazz.org/calendar/the-klezmatics/
 END:VEVENT
 BEGIN:VEVENT
 UID:64063469040a81aed00b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270306T203000
 DTEND;TZID=America/Los_Angeles:20270306T233000
 SUMMARY:The Lemonheads: The Love Chant Tour @ Catalyst Atrium
@@ -5223,7 +5193,7 @@ URL:https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-
 END:VEVENT
 BEGIN:VEVENT
 UID:3dbd7df7f50f6bc6935a@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270314T200000
 DTEND;TZID=America/Los_Angeles:20270314T230000
 SUMMARY:Alok @ Rio Theatre
@@ -5233,7 +5203,7 @@ URL:https://www.riotheatre.com/events-2/2027/3/14/alok
 END:VEVENT
 BEGIN:VEVENT
 UID:4b3aaccc280122017a82@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270322T190000
 DTEND;TZID=America/Los_Angeles:20270322T220000
 SUMMARY:Dee Dee Bridgewater Trio – 7:00 PM @ Kuumbwa Jazz
@@ -5243,7 +5213,7 @@ URL:https://www.kuumbwajazz.org/calendar/dee-dee-bridgewater-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:f48423c9200d765aaff8@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270322T210000
 DTEND;TZID=America/Los_Angeles:20270323T000000
 SUMMARY:Dee Dee Bridgewater Trio – 9:00 PM @ Kuumbwa Jazz
@@ -5254,7 +5224,7 @@ URL:https://www.kuumbwajazz.org/calendar/dee-dee-bridgewater-trio-9-pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:dc6e87a433a003a35546@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 SUMMARY:Dan and Peggy Reeder @ Felton Music Hall
@@ -5265,7 +5235,7 @@ URL:https://www.prekindle.com/event/35128-dan-and-peggy-reeder-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:ee6e5b9c5e72d5421da4@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270326T193000
 DTEND;TZID=America/Los_Angeles:20270326T223000
 SUMMARY:David Nihill – Taking Tangents Tour @ Kuumbwa Jazz
@@ -5277,7 +5247,7 @@ URL:https://www.kuumbwajazz.org/calendar/david-nihill-taking-tangents-tour
 END:VEVENT
 BEGIN:VEVENT
 UID:e76aceea523dbb10f390@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270401T174500
 DTEND;TZID=America/Los_Angeles:20270401T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -5289,7 +5259,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:de7073624e3e5fd1931e@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270423T183000
 DTEND;TZID=America/Los_Angeles:20270423T213000
 SUMMARY:FashionTeens 2027 @ Rio Theatre
@@ -5299,7 +5269,7 @@ URL:https://www.riotheatre.com/events-2/2027/4/23/fashionteens
 END:VEVENT
 BEGIN:VEVENT
 UID:ff16f4b918feeb396ce9@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270506T174500
 DTEND;TZID=America/Los_Angeles:20270506T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -5311,7 +5281,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:49806c337155558c747d@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 SUMMARY:Too Many Zooz: Audio Lipstick Tour @ Felton Music Hall
@@ -5322,7 +5292,7 @@ URL:https://www.prekindle.com/event/49514-too-many-zooz-felton
 END:VEVENT
 BEGIN:VEVENT
 UID:1cb8b5f94809d87aae4b@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270603T174500
 DTEND;TZID=America/Los_Angeles:20270603T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -5334,7 +5304,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:865a9660e97481ae0ad3@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270701T174500
 DTEND;TZID=America/Los_Angeles:20270701T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
@@ -5346,7 +5316,7 @@ URL:https://www.shantyshackbrewing.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:d6f0de3a69940c6df405@santa-cruz-shows
-DTSTAMP:20260929T180857Z
+DTSTAMP:20260930T141753Z
 DTSTART;TZID=America/Los_Angeles:20270805T174500
 DTEND;TZID=America/Los_Angeles:20270805T204500
 SUMMARY:Jug Band Jam with the Trolley Drops @ Shanty Shack Brewing
