@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30T13:00-07:00",
+ "updated": "2026-10-01T07:16-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 45
+   "count": 44
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 89
+   "count": 88
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 70
+   "count": 69
   },
   {
    "venue": "Cat Alley Street",
@@ -34,7 +34,7 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 66
+   "count": 65
   },
   {
    "venue": "Woodhouse",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 31
+   "count": 32
   },
   {
    "venue": "UCSC Recital Hall",
@@ -79,7 +79,7 @@
   {
    "venue": "Bruno's Bar & Grill",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "venue": "Henfling's Tavern",
@@ -89,7 +89,7 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "The Sand Bar",
@@ -99,90 +99,10 @@
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 10
+   "count": 26
   }
  ],
  "events": [
-  {
-   "venue": "The Crepe Place",
-   "title": "Two Of Us, Live Jazz",
-   "date": "2026-09-30",
-   "time": "17:30",
-   "url": "https://www.thecrepeplace.com/shows-list/two-of-us-live-jazz-on-the-garden-stage-saturday-may-30-from-5-to-7pm-free-event",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1775576991487-H05OKF1BYJGRA1F5LO33/E5F87844-822B-4793-B077-CA4BEB581771.png"
-  },
-  {
-   "venue": "Bruno's Bar & Grill",
-   "title": "Nick DiSalvo",
-   "date": "2026-09-30",
-   "time": "18:00",
-   "url": "https://www.brunosbarandgrill.com/events",
-   "price": null,
-   "info": "Whiskey & Wings night · 6–9pm",
-   "image": null
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Open Mic",
-   "date": "2026-09-30",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-09-30-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Kuumbwa Jazz",
-   "title": "Cyrille Aimée Duo",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "url": "https://www.kuumbwajazz.org/calendar/cyrille-aimee-duo-2/",
-   "price": null,
-   "info": null,
-   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/03/cyrille-aimee-cropped.jpg"
-  },
-  {
-   "venue": "Ugly Mug",
-   "title": "Gráinne Hunt with Jules Stewart",
-   "date": "2026-09-30",
-   "time": "19:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/2026/9/30/grainne-hunt-and-jules-stewart",
-   "price": "Sold out",
-   "info": "Bi-Continental Queer Folk Duo Gráinne Hunt with Jules Stewart",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1785193972967-I2TVCMI4J40OZ6L40WL2/IMG_1121.jpg"
-  },
-  {
-   "venue": "Moe's Alley",
-   "title": "Thelma & The Sleaze w/ Micah Schnabel & Vanessa Jean Speckman",
-   "date": "2026-09-30",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/00/85/04_Listings.jpg?v=2"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "The Rat Utopia Experiment, Universe",
-   "date": "2026-09-30",
-   "time": "20:00",
-   "url": "https://www.ticketweb.com/event/the-rat-utopia-experiment-the-crepe-place-tickets/15024283?pl=thecrepeplace",
-   "price": "$15",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1786543713169-53KXDEBLC2AAYLTZG93G/uiudRg9w.jpg"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "Raynes",
-   "date": "2026-09-30",
-   "time": null,
-   "url": "https://www.prekindle.com/event/39757-raynes-felton",
-   "price": "$25",
-   "info": "with David Wimbish, The Collection",
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949123963204"
-  },
   {
    "venue": "Mission West",
    "title": "Open Acoustic Jam",
@@ -405,13 +325,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Diggin Dirt (Night 1)",
+   "title": "Moe's Alley Presents: Diggin Dirt (Night 1) w/ Rachel Spung & The Soul Service",
    "date": "2026-10-02",
    "time": "21:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/93/26/54_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/12/93/26/54_Listings.jpg?v=5"
   },
   {
    "venue": "Felton Music Hall",
@@ -1089,7 +1009,7 @@
    "date": "2026-10-10",
    "time": "19:00",
    "url": "https://events.ucsc.edu/event/nishatkhan2026/",
-   "price": null,
+   "price": "Free – $29",
    "info": null,
    "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/JUJU_ini-39crop-e1788456967757.jpg"
   },
@@ -1504,6 +1424,16 @@
    "image": null
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Tsunami - Toms Birthday Bash!",
+   "date": "2026-10-16",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/tsunami-toms-birthday-bash",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "El Vaquero Winery",
    "title": "Swag Tones",
    "date": "2026-10-16",
@@ -1634,6 +1564,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Eddie Hayes - Solo",
+   "date": "2026-10-17",
+   "time": "14:30",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/eddie-hayes-solo",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "Ashley Lloyd",
    "date": "2026-10-17",
@@ -1641,6 +1581,16 @@
    "url": "https://www.discretionbrewing.com/events/",
    "price": null,
    "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Leroy & Friends",
+   "date": "2026-10-17",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/leroy-friends-2026-10-17-18-00",
+   "price": null,
+   "info": null,
    "image": null
   },
   {
@@ -1762,6 +1712,16 @@
    "price": null,
    "info": "Who We Are The Band: The Upside , a versatile cover band playing classic, highly recognizable hits from the 70's, 80s, 90s, and beyond.…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ce196e3853aa42d09fce862c29256ee7~mv2.jpg\"]"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Paperback Ryders",
+   "date": "2026-10-18",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/paperback-ryders",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "El Vaquero Winery",
@@ -1904,6 +1864,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784001252223-RC0KAHCO2644JM4POQ15/FEATURES_150909927_AR_0_DQDZXPUFAZPM.webp"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-10-21",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-10-21-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Western Wednesday #95: Henry Warde x The Farmer & Adele",
    "date": "2026-10-21",
@@ -2044,6 +2014,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1783092314422-DKWIM6OVB1SGXX76Q201/3608.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Shawn and Matt",
+   "date": "2026-10-23",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/shawn-and-matt-2026-10-23-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Love Creek with the Jamissaries",
    "date": "2026-10-23",
@@ -2174,6 +2154,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1767378996260-NHK5V0WE1R94MVZGM8AX/event_post__Casanostra-Gypsy-Jazz_1753329774_3_fitbox_1000x600.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Vinny Johnson Blues Band",
+   "date": "2026-10-24",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/vinny-johnson-blues-band-2026-10-24-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Abbott Square",
    "title": "Big Bad Wolf",
    "date": "2026-10-24",
@@ -2272,6 +2262,16 @@
    "price": null,
    "info": "FRONTIER SUNDAY 🌵 Tickets available now! Sunday, October 25th | 3–7PM Woodhouse Blending & Brewing Spend Sunday afternoon at Woodhouse…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1790548841593-YZB0VWHXONW8YPD4K4Q1/Frontier+Sunday+-+Post+Size.JPG"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Bonny June & Bonfire",
+   "date": "2026-10-25",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/bonny-june-bonfire-2026-10-25-16-00",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Moe's Alley",
@@ -2394,6 +2394,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1783014351911-DT6G98NNC2QC1XBMEKWD/CJB+Crepe+Place+260429_007.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-10-28",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-10-28-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Mission West",
    "title": "Honey Disposition",
    "date": "2026-10-28",
@@ -2421,6 +2431,16 @@
    "url": "https://www.discretionbrewing.com/events/",
    "price": null,
    "info": "Live Music 5:30-8:00pm",
+   "image": null
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Ukulele Night",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/ukulele-night-2026-10-29-18-00",
+   "price": null,
+   "info": null,
    "image": null
   },
   {
@@ -2471,6 +2491,16 @@
    "url": "https://www.discretionbrewing.com/events/",
    "price": null,
    "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Absent Minds - Pre-Halloween Party!",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/absent-minds-pre-halloween-party",
+   "price": null,
+   "info": null,
    "image": null
   },
   {
@@ -2579,6 +2609,16 @@
    "date": "2026-10-31",
    "time": "17:00",
    "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Big Bad Wolf",
+   "date": "2026-10-31",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/big-bad-wolf-2026-10-31-18-00",
    "price": null,
    "info": null,
    "image": null
@@ -2774,6 +2814,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781648509301-N9RLBNRS7J0XO5ZRALHB/IMG_5716.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-11-04",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-11-04-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Joshua Redman Quartet – 7:00 PM",
    "date": "2026-11-04",
@@ -2964,6 +3014,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949067055056"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "The Messiahs",
+   "date": "2026-11-08",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/the-messiahs-2026-11-08-16-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-11-08",
@@ -3074,6 +3134,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949072153639"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-11-11",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-11-11-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Pierre Bensusan – The Infinite Guitar",
    "date": "2026-11-11",
@@ -3122,6 +3192,16 @@
    "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155950107"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Billy Reese & Malakai Lawton",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/billy-reese-malakai-lawton",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -3204,6 +3284,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_bb95a50dbe2d42db93e68949d5586dda~mv2.jpg\"]"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Bands For Bobcats Boogie",
+   "date": "2026-11-14",
+   "time": "16:00",
+   "url": "https://www.thecrepeplace.com/shows-list/bands-for-bobcats-boogie-saturday-november-14-from-4-to-10pm",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790822024252-RACVQLJJ43TVX8CZ848M/BandsforBobcatsBoogieSavetheDateFINAL-01.jpg"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "Mountainfilm on Tour Santa Cruz",
    "date": "2026-11-14",
@@ -3252,6 +3342,16 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177754343"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Stormin’ Norman and the Cyclones",
+   "date": "2026-11-15",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/stormin-norman-and-the-cyclones-1",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Moe's Alley",
@@ -4737,6 +4837,16 @@
    "venue": "Shanty Shack Brewing",
    "title": "Jug Band Jam with the Trolley Drops",
    "date": "2027-08-05",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-09-02",
    "time": "17:45",
    "url": "https://www.shantyshackbrewing.com/events",
    "price": null,

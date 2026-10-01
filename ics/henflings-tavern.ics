@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:5e24e53931da9f62cc50@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261002T200000
 DTEND;TZID=America/Los_Angeles:20261002T230000
 SUMMARY:John Rybak & Friends @ Henfling's Tavern
@@ -38,7 +38,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-02-john-rybak-fri
 END:VEVENT
 BEGIN:VEVENT
 UID:471e513e2e82cb6132a6@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261009T200000
 DTEND;TZID=America/Los_Angeles:20261009T230000
 SUMMARY:Dominique and the Diamonds @ Henfling's Tavern
@@ -50,7 +50,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-09-dominique-and-
 END:VEVENT
 BEGIN:VEVENT
 UID:9f73095ab030ae81d7ce@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261010T200000
 DTEND;TZID=America/Los_Angeles:20261010T230000
 SUMMARY:The Radio @ Henfling's Tavern
@@ -61,7 +61,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-10-the-radio
 END:VEVENT
 BEGIN:VEVENT
 UID:94ae31e8f410c3f2da23@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T230000
 SUMMARY:Vito & Friends @ Henfling's Tavern
@@ -72,7 +72,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-16-vito-friends
 END:VEVENT
 BEGIN:VEVENT
 UID:fe7b41e8d8308a63e7d9@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T230000
 SUMMARY:Michael Gurley's UltraSound w/ Fossil @ Henfling's Tavern
@@ -84,7 +84,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-17-michael-gurley
 END:VEVENT
 BEGIN:VEVENT
 UID:b6f82324c2adc0e3c428@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T230000
 SUMMARY:Medicine Road @ Henfling's Tavern
@@ -95,7 +95,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-23-medicine-road
 END:VEVENT
 BEGIN:VEVENT
 UID:57f5ccba45be29fff8b8@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T000000
 SUMMARY:Afrobeats Nite Halloween Edition w/ DJ Monk Earl @ Henfling's Tave
@@ -108,7 +108,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-24-afrobeats-nite
 END:VEVENT
 BEGIN:VEVENT
 UID:10dbc9fa9edf338fafad@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261030T200000
 DTEND;TZID=America/Los_Angeles:20261030T230000
 SUMMARY:Halloween Eve w/ American Underdog @ Henfling's Tavern
@@ -120,7 +120,7 @@ URL:https://www.localgroove.live/event/henflings-2026-10-30-halloween-eve-
 END:VEVENT
 BEGIN:VEVENT
 UID:03567639d42eafa7e16e@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261106T200000
 DTEND;TZID=America/Los_Angeles:20261106T230000
 SUMMARY:The Bourbon Brothers Band @ Henfling's Tavern
@@ -132,7 +132,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-06-the-bourbon-br
 END:VEVENT
 BEGIN:VEVENT
 UID:c4fcdb384d45dad657c6@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261107T200000
 DTEND;TZID=America/Los_Angeles:20261107T230000
 SUMMARY:Sound Decision @ Henfling's Tavern
@@ -143,7 +143,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-07-sound-decision
 END:VEVENT
 BEGIN:VEVENT
 UID:142d8f1ce5ad904dc1c5@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T230000
 SUMMARY:The Joint Chiefs Band @ Henfling's Tavern
@@ -155,7 +155,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-13-the-joint-chie
 END:VEVENT
 BEGIN:VEVENT
 UID:b6cdd643212fb23ec31c@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261114T200000
 DTEND;TZID=America/Los_Angeles:20261114T230000
 SUMMARY:Pulse @ Henfling's Tavern
@@ -165,7 +165,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-14-pulse
 END:VEVENT
 BEGIN:VEVENT
 UID:1930e6f43b2cd8d39874@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261120T200000
 DTEND;TZID=America/Los_Angeles:20261120T230000
 SUMMARY:Local Honey @ Henfling's Tavern
@@ -176,7 +176,7 @@ URL:https://www.localgroove.live/event/henflings-2026-11-20-local-honey
 END:VEVENT
 BEGIN:VEVENT
 UID:d3b379d228a234b10b25@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261121T200000
 DTEND;TZID=America/Los_Angeles:20261121T230000
 SUMMARY:The Bill Reiland Trio @ Henfling's Tavern

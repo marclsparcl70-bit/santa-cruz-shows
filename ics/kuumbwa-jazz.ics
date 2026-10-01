@@ -25,18 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:af65f4aac1ecb4dabfe7@santa-cruz-shows
-DTSTAMP:20260930T200058Z
-DTSTART;TZID=America/Los_Angeles:20260930T190000
-DTEND;TZID=America/Los_Angeles:20260930T220000
-SUMMARY:Cyrille Aimée Duo @ Kuumbwa Jazz
-LOCATION:Kuumbwa Jazz
-DESCRIPTION:https://www.kuumbwajazz.org/calendar/cyrille-aimee-duo-2/
-URL:https://www.kuumbwajazz.org/calendar/cyrille-aimee-duo-2/
-END:VEVENT
-BEGIN:VEVENT
 UID:699ee7577ed4c65ecb8e@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261001T190000
 DTEND;TZID=America/Los_Angeles:20261001T220000
 SUMMARY:World Class Music Live Presents: El Khat @ Kuumbwa Jazz
@@ -48,7 +38,7 @@ URL:https://www.kuumbwajazz.org/calendar/world-class-music-live-presents-e
 END:VEVENT
 BEGIN:VEVENT
 UID:b7f60fc58e6137df5d07@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261005T190000
 DTEND;TZID=America/Los_Angeles:20261005T220000
 SUMMARY:Hiromi – The Trio Project feat. James Genus & Simon Phillips –
@@ -61,7 +51,7 @@ URL:https://www.kuumbwajazz.org/calendar/hiromi-the-trio-project-feat-jame
 END:VEVENT
 BEGIN:VEVENT
 UID:52383d0c1bc68f9afcc0@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261005T210000
 DTEND;TZID=America/Los_Angeles:20261006T000000
 SUMMARY:Hiromi – The Trio Project feat. James Genus & Simon Phillips –
@@ -74,7 +64,7 @@ URL:https://www.kuumbwajazz.org/calendar/hiromi-the-trio-project-feat-jame
 END:VEVENT
 BEGIN:VEVENT
 UID:8e9af6f6d823ae081f6d@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T220000
 SUMMARY:Ben Flocks Trio @ Kuumbwa Jazz
@@ -84,7 +74,7 @@ URL:https://www.kuumbwajazz.org/calendar/ben-flocks-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:3ff11f9fc0eb7a8dac42@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261010T203000
 DTEND;TZID=America/Los_Angeles:20261010T233000
 SUMMARY:Sin Sisters Burlesque & Drag – Halloween Show @ Kuumbwa Jazz
@@ -96,7 +86,7 @@ URL:https://www.kuumbwajazz.org/calendar/sin-sisters-burlesque-drag-hallow
 END:VEVENT
 BEGIN:VEVENT
 UID:9a56a295ba89226cfbd8@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261011T190000
 DTEND;TZID=America/Los_Angeles:20261011T220000
 SUMMARY:Yellowjackets @ Kuumbwa Jazz
@@ -106,7 +96,7 @@ URL:https://www.kuumbwajazz.org/calendar/yellowjackets-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:8c460f98f03a8732ce2f@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261012T190000
 DTEND;TZID=America/Los_Angeles:20261012T220000
 SUMMARY:Somi @ Kuumbwa Jazz
@@ -116,7 +106,7 @@ URL:https://www.kuumbwajazz.org/calendar/somi/
 END:VEVENT
 BEGIN:VEVENT
 UID:f1d7d0fc7306042a6fa9@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261014T190000
 DTEND;TZID=America/Los_Angeles:20261014T220000
 SUMMARY:An Evening with Acoustic Alchemy @ Kuumbwa Jazz
@@ -126,7 +116,7 @@ URL:https://www.kuumbwajazz.org/calendar/acoustic-alchemy/
 END:VEVENT
 BEGIN:VEVENT
 UID:de042746d336fa6a4a9a@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261015T200000
 DTEND;TZID=America/Los_Angeles:20261015T230000
 SUMMARY:Dos Santos @ Kuumbwa Jazz
@@ -136,7 +126,7 @@ URL:https://www.kuumbwajazz.org/calendar/dos-santos/
 END:VEVENT
 BEGIN:VEVENT
 UID:5eb54285e4988861b881@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T220000
 SUMMARY:13th Annual Santa Cruz Comedy Festival: All-Star Comedy Show @ Kuu
@@ -149,7 +139,7 @@ URL:https://www.kuumbwajazz.org/calendar/13th-annual-santa-cruz-comedy-fes
 END:VEVENT
 BEGIN:VEVENT
 UID:89627d159aed7987e314@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261019T190000
 DTEND;TZID=America/Los_Angeles:20261019T220000
 SUMMARY:Buster Williams Trio @ Kuumbwa Jazz
@@ -159,7 +149,7 @@ URL:https://www.kuumbwajazz.org/calendar/buster-williams-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:d3f905c0424014ba0b93@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T220000
 SUMMARY:Joel Frahm Trio @ Kuumbwa Jazz
@@ -169,7 +159,7 @@ URL:https://www.kuumbwajazz.org/calendar/joel-frahm-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:4cbca40e0f5b8ed9d0f7@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261024T193000
 DTEND;TZID=America/Los_Angeles:20261024T223000
 SUMMARY:Return to Laurel Canyon @ Kuumbwa Jazz
@@ -180,7 +170,7 @@ URL:https://www.kuumbwajazz.org/calendar/return-to-laurel-canyon-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:85a07e86923468a7a519@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261025T170000
 DTEND;TZID=America/Los_Angeles:20261025T200000
 SUMMARY:Musical Soulmates Performers Collaborative: Let The Caged Bird Sin
@@ -193,7 +183,7 @@ URL:https://www.kuumbwajazz.org/calendar/musical-soulmates-performers-coll
 END:VEVENT
 BEGIN:VEVENT
 UID:8ede5db625084b31de66@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261026T190000
 DTEND;TZID=America/Los_Angeles:20261026T220000
 SUMMARY:Fonville x Fribush @ Kuumbwa Jazz
@@ -203,7 +193,7 @@ URL:https://www.kuumbwajazz.org/calendar/fonville-x-fribush/
 END:VEVENT
 BEGIN:VEVENT
 UID:ccc1105ed5dc77e9507a@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261027T190000
 DTEND;TZID=America/Los_Angeles:20261027T220000
 SUMMARY:Master Class: Susan Muscarella – The Piano Trios of Bud Powell\,
@@ -216,7 +206,7 @@ URL:https://www.kuumbwajazz.org/calendar/master-class-susan-muscarella-the
 END:VEVENT
 BEGIN:VEVENT
 UID:85be1ad98468e90ffe92@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261029T190000
 DTEND;TZID=America/Los_Angeles:20261029T220000
 SUMMARY:Laura Anglade @ Kuumbwa Jazz
@@ -226,7 +216,7 @@ URL:https://www.kuumbwajazz.org/calendar/laura-anglade/
 END:VEVENT
 BEGIN:VEVENT
 UID:03cae44b6c96e34ccc4a@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261101T190000
 DTEND;TZID=America/Los_Angeles:20261101T220000
 SUMMARY:Alexandr Misko – The International Guitar Sensation – with Spe
@@ -239,7 +229,7 @@ URL:https://www.kuumbwajazz.org/calendar/alexandr-misko-the-international-
 END:VEVENT
 BEGIN:VEVENT
 UID:ca7f2b07784e45e54964@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261102T190000
 DTEND;TZID=America/Los_Angeles:20261102T220000
 SUMMARY:Helen Sung Quartet @ Kuumbwa Jazz
@@ -249,7 +239,7 @@ URL:https://www.kuumbwajazz.org/calendar/helen-sung-quartet/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf0f7c1ad6ae4648c57a@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261104T190000
 DTEND;TZID=America/Los_Angeles:20261104T220000
 SUMMARY:Joshua Redman Quartet – 7:00 PM @ Kuumbwa Jazz
@@ -260,7 +250,7 @@ URL:https://www.kuumbwajazz.org/calendar/joshua-redman-quartet-700-pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:14c365b3afc37119315a@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261104T210000
 DTEND;TZID=America/Los_Angeles:20261105T000000
 SUMMARY:Joshua Redman Quartet – 9:00 PM @ Kuumbwa Jazz
@@ -271,7 +261,7 @@ URL:https://www.kuumbwajazz.org/calendar/joshua-redman-quartet-900-pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:e49641fd50de7c30f5db@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261105T190000
 DTEND;TZID=America/Los_Angeles:20261105T220000
 SUMMARY:Gabrielle Cavassa @ Kuumbwa Jazz
@@ -281,7 +271,7 @@ URL:https://www.kuumbwajazz.org/calendar/gabrielle-cavassa/
 END:VEVENT
 BEGIN:VEVENT
 UID:6ccaed7e4596d9e45621@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T220000
 SUMMARY:Henry Diltz – Behind the Lens @ Kuumbwa Jazz
@@ -292,7 +282,7 @@ URL:https://www.kuumbwajazz.org/calendar/henry-diltz-behind-the-lens/
 END:VEVENT
 BEGIN:VEVENT
 UID:88fef847347a740d0b6e@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T220000
 SUMMARY:Marcus Shelby Nonet – Birth of the Cool: Revisited @ Kuumbwa Jaz
@@ -305,7 +295,7 @@ URL:https://www.kuumbwajazz.org/calendar/marcus-shelby-nonet-birth-of-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:a39747d5a67261fed058@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261110T190000
 DTEND;TZID=America/Los_Angeles:20261110T220000
 SUMMARY:Master Class: Diane Bock – Music Matters! Beyond the Notes @ Kuu
@@ -318,7 +308,7 @@ URL:https://www.kuumbwajazz.org/calendar/master-class-diane-bock-music-mat
 END:VEVENT
 BEGIN:VEVENT
 UID:c8c9d78637ce639c53cf@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261111T193000
 DTEND;TZID=America/Los_Angeles:20261111T223000
 SUMMARY:Pierre Bensusan – The Infinite Guitar @ Kuumbwa Jazz
@@ -330,7 +320,7 @@ URL:https://www.kuumbwajazz.org/calendar/pierre-bensusan-the-infinite-guit
 END:VEVENT
 BEGIN:VEVENT
 UID:5f8da98ea0546d400a0d@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T220000
 SUMMARY:Ken Okada Group feat. YOYOKA @ Kuumbwa Jazz
@@ -341,7 +331,7 @@ URL:https://www.kuumbwajazz.org/calendar/ken-okada-group-feat-yoyoka/
 END:VEVENT
 BEGIN:VEVENT
 UID:90b1c5b262a615b1bae5@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T220000
 SUMMARY:World Class Music Live Presents: Pipo Romero @ Kuumbwa Jazz
@@ -353,7 +343,7 @@ URL:https://www.kuumbwajazz.org/calendar/world-class-music-live-presents-p
 END:VEVENT
 BEGIN:VEVENT
 UID:ebc119ed7946b3f123d8@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261116T190000
 DTEND;TZID=America/Los_Angeles:20261116T220000
 SUMMARY:Las Migas @ Kuumbwa Jazz
@@ -363,7 +353,7 @@ URL:https://www.kuumbwajazz.org/calendar/las-migas/
 END:VEVENT
 BEGIN:VEVENT
 UID:dd098838e0139ecff350@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261117T193000
 DTEND;TZID=America/Los_Angeles:20261117T223000
 SUMMARY:(((folkYEAH!))) Presents: John Carroll Kirby @ Kuumbwa Jazz
@@ -375,7 +365,7 @@ URL:https://www.kuumbwajazz.org/calendar/folkyeah-presents-john-carroll-ki
 END:VEVENT
 BEGIN:VEVENT
 UID:2aad2efa3c676b6b311d@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261119T190000
 DTEND;TZID=America/Los_Angeles:20261119T220000
 SUMMARY:James Gordon Williams @ Kuumbwa Jazz
@@ -385,7 +375,7 @@ URL:https://www.kuumbwajazz.org/calendar/james-gordon-williams/
 END:VEVENT
 BEGIN:VEVENT
 UID:f4e31b678d7a8c0309bc@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261123T190000
 DTEND;TZID=America/Los_Angeles:20261123T220000
 SUMMARY:Brian Blade & The Fellowship Band @ Kuumbwa Jazz
@@ -397,7 +387,7 @@ URL:https://www.kuumbwajazz.org/calendar/brian-blade-and-the-fellowship-ba
 END:VEVENT
 BEGIN:VEVENT
 UID:93b3ebb854c50871b3db@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261130T190000
 DTEND;TZID=America/Los_Angeles:20261130T220000
 SUMMARY:Benny Green @ Kuumbwa Jazz
@@ -407,7 +397,7 @@ URL:https://www.kuumbwajazz.org/calendar/benny-green/
 END:VEVENT
 BEGIN:VEVENT
 UID:a6aa9d3b30aee9812f38@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261201T190000
 DTEND;TZID=America/Los_Angeles:20261201T220000
 SUMMARY:Master Class: Ricardo Peixoto – Brazilian Guitar @ Kuumbwa Jazz
@@ -419,7 +409,7 @@ URL:https://www.kuumbwajazz.org/calendar/master-class-ricardo-peixoto-braz
 END:VEVENT
 BEGIN:VEVENT
 UID:ec92403049679b37433f@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261202T190000
 DTEND;TZID=America/Los_Angeles:20261202T220000
 SUMMARY:Kassa Overall @ Kuumbwa Jazz
@@ -429,7 +419,7 @@ URL:https://www.kuumbwajazz.org/calendar/kassa-overall/
 END:VEVENT
 BEGIN:VEVENT
 UID:36b767d08dc2e910b594@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T220000
 SUMMARY:Isaiah Sharkey @ Kuumbwa Jazz
@@ -439,7 +429,7 @@ URL:https://www.kuumbwajazz.org/calendar/isaiah-sharkey/
 END:VEVENT
 BEGIN:VEVENT
 UID:0a6162b99221a4d5478c@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261207T190000
 DTEND;TZID=America/Los_Angeles:20261207T220000
 SUMMARY:The Bad Plus – Farewell Tour @ Kuumbwa Jazz
@@ -450,7 +440,7 @@ URL:https://www.kuumbwajazz.org/calendar/the-bad-plus-farewell-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:f8b4cf213e9281898001@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261208T190000
 DTEND;TZID=America/Los_Angeles:20261208T220000
 SUMMARY:Isaiah J. Thompson – A Guaraldi Holiday @ Kuumbwa Jazz
@@ -462,7 +452,7 @@ URL:https://www.kuumbwajazz.org/calendar/isaiah-j-thompson-a-guaraldi-holi
 END:VEVENT
 BEGIN:VEVENT
 UID:574f32d4a23d711f4056@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261210T190000
 DTEND;TZID=America/Los_Angeles:20261210T220000
 SUMMARY:Spanish Harlem Orchestra – Salsa Navidad – 7:00 PM @ Kuumbwa J
@@ -475,7 +465,7 @@ URL:https://www.kuumbwajazz.org/calendar/spanish-harlem-orchestra-salsa-na
 END:VEVENT
 BEGIN:VEVENT
 UID:4ba88b2f227ae2e8660d@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261210T210000
 DTEND;TZID=America/Los_Angeles:20261211T000000
 SUMMARY:Spanish Harlem Orchestra – Salsa Navidad – 9:00 PM @ Kuumbwa J
@@ -488,7 +478,7 @@ URL:https://www.kuumbwajazz.org/calendar/spanish-harlem-orchestra-salsa-na
 END:VEVENT
 BEGIN:VEVENT
 UID:c9021b66a578a4df5289@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261212T193000
 DTEND;TZID=America/Los_Angeles:20261212T223000
 SUMMARY:Victor Wooten & the Wooten Brothers at the Rio Theatre @ Kuumbwa J
@@ -501,7 +491,7 @@ URL:https://www.kuumbwajazz.org/calendar/the-wooten-brothers-at-the-rio-th
 END:VEVENT
 BEGIN:VEVENT
 UID:fe8e76a6f1b1d8e4bb2b@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261214T190000
 DTEND;TZID=America/Los_Angeles:20261214T220000
 SUMMARY:Christian Sands Trio @ Kuumbwa Jazz
@@ -511,7 +501,7 @@ URL:https://www.kuumbwajazz.org/calendar/christian-sands-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:81909346ee7f78ec1307@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20261217T190000
 DTEND;TZID=America/Los_Angeles:20261217T220000
 SUMMARY:Skylar Tang Quartet @ Kuumbwa Jazz
@@ -521,7 +511,7 @@ URL:https://www.kuumbwajazz.org/calendar/skylar-tang-quartet/
 END:VEVENT
 BEGIN:VEVENT
 UID:87cefdc62a538409703b@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270111T190000
 DTEND;TZID=America/Los_Angeles:20270111T220000
 SUMMARY:Nora Brown with Stephanie Coleman @ Kuumbwa Jazz
@@ -533,7 +523,7 @@ URL:https://www.kuumbwajazz.org/calendar/nora-brown-with-stephanie-coleman
 END:VEVENT
 BEGIN:VEVENT
 UID:eae4f0f7bb2c2f9cf984@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270115T190000
 DTEND;TZID=America/Los_Angeles:20270115T220000
 SUMMARY:Kurt Rosenwinkel & Gerald Clayton @ Kuumbwa Jazz
@@ -544,7 +534,7 @@ URL:https://www.kuumbwajazz.org/calendar/gerald-clayton-kurt-rosenwinkel/
 END:VEVENT
 BEGIN:VEVENT
 UID:b64b9d83d05cf3075637@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270116T190000
 DTEND;TZID=America/Los_Angeles:20270116T220000
 SUMMARY:Arun Ramamurthy Trio @ Kuumbwa Jazz
@@ -554,7 +544,7 @@ URL:https://www.kuumbwajazz.org/calendar/arun-ramamurthy-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:5d8a7bc91d412c532d0e@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270118T190000
 DTEND;TZID=America/Los_Angeles:20270118T220000
 SUMMARY:Goldings/Bernstein/Stewart Organ Trio @ Kuumbwa Jazz
@@ -566,7 +556,7 @@ URL:https://www.kuumbwajazz.org/calendar/goldings-bernstein-stewart-organ-
 END:VEVENT
 BEGIN:VEVENT
 UID:6f8064f54966213d1361@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270122T190000
 DTEND;TZID=America/Los_Angeles:20270122T220000
 SUMMARY:Andy McKee @ Kuumbwa Jazz
@@ -576,7 +566,7 @@ URL:https://www.kuumbwajazz.org/calendar/andy-mckee/
 END:VEVENT
 BEGIN:VEVENT
 UID:7b6546f7bd7141cdfc17@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270123T190000
 DTEND;TZID=America/Los_Angeles:20270123T220000
 SUMMARY:Vijay Iyer + Wadada Leo Smith: Defiant Life @ Kuumbwa Jazz
@@ -587,7 +577,7 @@ URL:https://www.kuumbwajazz.org/calendar/vijay-iyer-wadada-leo-smith/
 END:VEVENT
 BEGIN:VEVENT
 UID:52810785c67fbf3e6033@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270125T190000
 DTEND;TZID=America/Los_Angeles:20270125T220000
 SUMMARY:Camille Thurman with the Darrell Green Quartet @ Kuumbwa Jazz
@@ -599,7 +589,7 @@ URL:https://www.kuumbwajazz.org/calendar/camille-thurman-with-the-darrell-
 END:VEVENT
 BEGIN:VEVENT
 UID:af8927aab1d24fed83c3@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270126T190000
 DTEND;TZID=America/Los_Angeles:20270126T220000
 SUMMARY:Master Class: Michel Petrucciani’s ‘Kuumbwa’ – The Story B
@@ -612,7 +602,7 @@ URL:https://www.kuumbwajazz.org/calendar/master-class-michel-petruccianis-
 END:VEVENT
 BEGIN:VEVENT
 UID:25a0bc4b59ba52512b5f@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270128T190000
 DTEND;TZID=America/Los_Angeles:20270128T220000
 SUMMARY:Chris Cain Band @ Kuumbwa Jazz
@@ -622,7 +612,7 @@ URL:https://www.kuumbwajazz.org/calendar/chris-cain-band-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:4381d1d8b95eb86d97cb@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270201T190000
 DTEND;TZID=America/Los_Angeles:20270201T220000
 SUMMARY:The Cookers – 20th Anniversary @ Kuumbwa Jazz
@@ -633,7 +623,7 @@ URL:https://www.kuumbwajazz.org/calendar/the-cookers-20th-anniversary/
 END:VEVENT
 BEGIN:VEVENT
 UID:c8f9cbfcf4efe14a97a5@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270204T190000
 DTEND;TZID=America/Los_Angeles:20270204T220000
 SUMMARY:Nicole McCabe Quartet @ Kuumbwa Jazz
@@ -643,7 +633,7 @@ URL:https://www.kuumbwajazz.org/calendar/nicole-mccabe-quartet-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:16ae9991facf6fd57022@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270205T190000
 DTEND;TZID=America/Los_Angeles:20270205T220000
 SUMMARY:Champian Fulton @ Kuumbwa Jazz
@@ -653,7 +643,7 @@ URL:https://www.kuumbwajazz.org/calendar/champian-fulton-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:cb21f5e6643b163a1b72@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270208T190000
 DTEND;TZID=America/Los_Angeles:20270208T220000
 SUMMARY:Kenny Barron Trio @ Kuumbwa Jazz
@@ -663,7 +653,7 @@ URL:https://www.kuumbwajazz.org/calendar/kenny-barron-trio-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:6b5a96e9bf478388fa82@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270210T193000
 DTEND;TZID=America/Los_Angeles:20270210T223000
 SUMMARY:Ladysmith Black Mambazo at the Rio Theatre @ Kuumbwa Jazz
@@ -675,7 +665,7 @@ URL:https://www.kuumbwajazz.org/calendar/ladysmith-black-mambazo-at-the-ri
 END:VEVENT
 BEGIN:VEVENT
 UID:a1efc3ae17aed1388016@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270211T190000
 DTEND;TZID=America/Los_Angeles:20270211T220000
 SUMMARY:Nella @ Kuumbwa Jazz
@@ -685,7 +675,7 @@ URL:https://www.kuumbwajazz.org/calendar/nella/
 END:VEVENT
 BEGIN:VEVENT
 UID:603903397ff78237a0f7@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270215T190000
 DTEND;TZID=America/Los_Angeles:20270215T220000
 SUMMARY:Hamilton de Holanda Trio @ Kuumbwa Jazz
@@ -696,7 +686,7 @@ URL:https://www.kuumbwajazz.org/calendar/hamilton-de-holanda-trio-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:2e6667bcbf928ec9c17d@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270216T190000
 DTEND;TZID=America/Los_Angeles:20270216T220000
 SUMMARY:Charlie Hunter & Ella Feingold – 7:00 PM @ Kuumbwa Jazz
@@ -708,7 +698,7 @@ URL:https://www.kuumbwajazz.org/calendar/charlie-hunter-ella-feingold-700-
 END:VEVENT
 BEGIN:VEVENT
 UID:03a9de2eab0e740d55bd@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270216T210000
 DTEND;TZID=America/Los_Angeles:20270217T000000
 SUMMARY:Charlie Hunter & Ella Feingold – 9:00 PM @ Kuumbwa Jazz
@@ -720,7 +710,7 @@ URL:https://www.kuumbwajazz.org/calendar/charlie-hunter-ella-feingold-900-
 END:VEVENT
 BEGIN:VEVENT
 UID:18ae61edf06fd12d3eb1@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270219T190000
 DTEND;TZID=America/Los_Angeles:20270219T220000
 SUMMARY:Matthew Whitaker Quintet @ Kuumbwa Jazz
@@ -730,7 +720,7 @@ URL:https://www.kuumbwajazz.org/calendar/matthew-whitaker-quintet/
 END:VEVENT
 BEGIN:VEVENT
 UID:c33c5ea9a6c3d1784461@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270222T190000
 DTEND;TZID=America/Los_Angeles:20270222T220000
 SUMMARY:Linda May Han Oh @ Kuumbwa Jazz
@@ -740,7 +730,7 @@ URL:https://www.kuumbwajazz.org/calendar/linda-may-han-oh/
 END:VEVENT
 BEGIN:VEVENT
 UID:296e38fc599323480ef6@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270225T190000
 DTEND;TZID=America/Los_Angeles:20270225T220000
 SUMMARY:Claudia Villela & Romero Lubambo – 100 Years of Jobim @ Kuumbwa 
@@ -752,7 +742,7 @@ URL:https://www.kuumbwajazz.org/calendar/claudia-villela-romero-lubambo/
 END:VEVENT
 BEGIN:VEVENT
 UID:ad1c3e20d4b7a50738a0@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270301T190000
 DTEND;TZID=America/Los_Angeles:20270301T220000
 SUMMARY:Tyreek McDole @ Kuumbwa Jazz
@@ -762,7 +752,7 @@ URL:https://www.kuumbwajazz.org/calendar/tyreek-mcdole-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:8d672ff2dc81594431e6@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270305T190000
 DTEND;TZID=America/Los_Angeles:20270305T220000
 SUMMARY:The Klezmatics @ Kuumbwa Jazz
@@ -772,7 +762,7 @@ URL:https://www.kuumbwajazz.org/calendar/the-klezmatics/
 END:VEVENT
 BEGIN:VEVENT
 UID:4b3aaccc280122017a82@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270322T190000
 DTEND;TZID=America/Los_Angeles:20270322T220000
 SUMMARY:Dee Dee Bridgewater Trio – 7:00 PM @ Kuumbwa Jazz
@@ -782,7 +772,7 @@ URL:https://www.kuumbwajazz.org/calendar/dee-dee-bridgewater-trio/
 END:VEVENT
 BEGIN:VEVENT
 UID:f48423c9200d765aaff8@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270322T210000
 DTEND;TZID=America/Los_Angeles:20270323T000000
 SUMMARY:Dee Dee Bridgewater Trio – 9:00 PM @ Kuumbwa Jazz
@@ -793,7 +783,7 @@ URL:https://www.kuumbwajazz.org/calendar/dee-dee-bridgewater-trio-9-pm/
 END:VEVENT
 BEGIN:VEVENT
 UID:ee6e5b9c5e72d5421da4@santa-cruz-shows
-DTSTAMP:20260930T200058Z
+DTSTAMP:20261001T141632Z
 DTSTART;TZID=America/Los_Angeles:20270326T193000
 DTEND;TZID=America/Los_Angeles:20270326T223000
 SUMMARY:David Nihill – Taking Tangents Tour @ Kuumbwa Jazz
