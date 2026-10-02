@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:0f503c44aa17788a57d3@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261002T180000
 DTEND;TZID=America/Los_Angeles:20261002T210000
 SUMMARY:Big Bad Wolf @ Cork & Fork
@@ -38,7 +38,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/big-bad
 END:VEVENT
 BEGIN:VEVENT
 UID:2b7796a7d67be95da3e2@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261004T160000
 DTEND;TZID=America/Los_Angeles:20261004T190000
 SUMMARY:Vinny Johnson Blues Band @ Cork & Fork
@@ -50,7 +50,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/vinny-j
 END:VEVENT
 BEGIN:VEVENT
 UID:12c70714fd78d13986a2@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261007T180000
 DTEND;TZID=America/Los_Angeles:20261007T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -62,7 +62,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:1cf8cfd40298c11e7367@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261008T180000
 DTEND;TZID=America/Los_Angeles:20261008T210000
 SUMMARY:The Blues Suspects @ Cork & Fork
@@ -74,7 +74,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/the-blu
 END:VEVENT
 BEGIN:VEVENT
 UID:b0b44b5c333a95d54ca4@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T210000
 SUMMARY:The 10 O'Clock Lunch Band @ Cork & Fork
@@ -86,7 +86,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/the-10-
 END:VEVENT
 BEGIN:VEVENT
 UID:446c548aaddad353ecd0@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261010T180000
 DTEND;TZID=America/Los_Angeles:20261010T210000
 SUMMARY:Absent Minds @ Cork & Fork
@@ -98,7 +98,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/absent-
 END:VEVENT
 BEGIN:VEVENT
 UID:89c90c6039419fce8b08@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261011T160000
 DTEND;TZID=America/Los_Angeles:20261011T190000
 SUMMARY:Alex Lucero Band @ Cork & Fork
@@ -110,7 +110,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/alex-lu
 END:VEVENT
 BEGIN:VEVENT
 UID:4072178f7a4e7be3428b@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261014T180000
 DTEND;TZID=America/Los_Angeles:20261014T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -122,7 +122,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:bd11074b6f45ca659504@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261015T180000
 DTEND;TZID=America/Los_Angeles:20261015T210000
 SUMMARY:Blue Lightening @ Cork & Fork
@@ -134,7 +134,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/blue-li
 END:VEVENT
 BEGIN:VEVENT
 UID:19c0d5444cc502830b36@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261016T180000
 DTEND;TZID=America/Los_Angeles:20261016T210000
 SUMMARY:Tsunami - Toms Birthday Bash! @ Cork & Fork
@@ -146,7 +146,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/tsunami
 END:VEVENT
 BEGIN:VEVENT
 UID:4ca7f5f210f5d6b2c284@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261017T143000
 DTEND;TZID=America/Los_Angeles:20261017T173000
 SUMMARY:Eddie Hayes - Solo @ Cork & Fork
@@ -158,7 +158,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/eddie-h
 END:VEVENT
 BEGIN:VEVENT
 UID:93eb07124b3df373e0a1@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261017T210000
 SUMMARY:Leroy & Friends @ Cork & Fork
@@ -170,7 +170,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/leroy-f
 END:VEVENT
 BEGIN:VEVENT
 UID:b530453428f96b50ec4d@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261018T160000
 DTEND;TZID=America/Los_Angeles:20261018T190000
 SUMMARY:Paperback Ryders @ Cork & Fork
@@ -182,7 +182,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/paperba
 END:VEVENT
 BEGIN:VEVENT
 UID:a5ba8170bee6d92312f6@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261021T180000
 DTEND;TZID=America/Los_Angeles:20261021T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -194,7 +194,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:5ac9572f392976a6f826@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261023T180000
 DTEND;TZID=America/Los_Angeles:20261023T210000
 SUMMARY:Shawn and Matt @ Cork & Fork
@@ -206,7 +206,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/shawn-a
 END:VEVENT
 BEGIN:VEVENT
 UID:2f325fc8d08e12a66aee@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261024T180000
 DTEND;TZID=America/Los_Angeles:20261024T210000
 SUMMARY:Vinny Johnson Blues Band @ Cork & Fork
@@ -218,7 +218,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/vinny-j
 END:VEVENT
 BEGIN:VEVENT
 UID:e67db004f23256e84b55@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261025T160000
 DTEND;TZID=America/Los_Angeles:20261025T190000
 SUMMARY:Bonny June & Bonfire @ Cork & Fork
@@ -230,7 +230,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/bonny-j
 END:VEVENT
 BEGIN:VEVENT
 UID:46405330561dd523f1c3@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261028T180000
 DTEND;TZID=America/Los_Angeles:20261028T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -242,7 +242,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:f92730cc705f233015a0@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261029T180000
 DTEND;TZID=America/Los_Angeles:20261029T210000
 SUMMARY:Ukulele Night @ Cork & Fork
@@ -254,7 +254,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/ukulele
 END:VEVENT
 BEGIN:VEVENT
 UID:1e279a2c9cd133ca539e@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261030T180000
 DTEND;TZID=America/Los_Angeles:20261030T210000
 SUMMARY:Absent Minds - Pre-Halloween Party! @ Cork & Fork
@@ -266,7 +266,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/absent-
 END:VEVENT
 BEGIN:VEVENT
 UID:658648af93034771a667@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261031T180000
 DTEND;TZID=America/Los_Angeles:20261031T210000
 SUMMARY:Big Bad Wolf @ Cork & Fork
@@ -278,7 +278,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/big-bad
 END:VEVENT
 BEGIN:VEVENT
 UID:92c7170afd373e4f37fe@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261104T180000
 DTEND;TZID=America/Los_Angeles:20261104T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -290,7 +290,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:d13f7d4bc9f1583e7ea1@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261108T160000
 DTEND;TZID=America/Los_Angeles:20261108T190000
 SUMMARY:The Messiahs @ Cork & Fork
@@ -302,7 +302,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/the-mes
 END:VEVENT
 BEGIN:VEVENT
 UID:f7da1848acec9ffc55c5@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261111T180000
 DTEND;TZID=America/Los_Angeles:20261111T210000
 SUMMARY:Open Mic @ Cork & Fork
@@ -314,7 +314,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/open-mi
 END:VEVENT
 BEGIN:VEVENT
 UID:798d512cdef99de60fd0@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261113T180000
 DTEND;TZID=America/Los_Angeles:20261113T210000
 SUMMARY:Billy Reese & Malakai Lawton @ Cork & Fork
@@ -326,7 +326,7 @@ URL:https://www.corkandforkcapitola.com/event-details-registration/billy-r
 END:VEVENT
 BEGIN:VEVENT
 UID:714e937134e29c5eef9e@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261115T160000
 DTEND;TZID=America/Los_Angeles:20261115T190000
 SUMMARY:Stormin’ Norman and the Cyclones @ Cork & Fork

@@ -25,14 +25,23 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:7cfd15db83c0857172bf@santa-cruz-shows
-DTSTAMP:20260929T180857Z
-DTSTART;TZID=America/Los_Angeles:20260929T190000
-DTEND;TZID=America/Los_Angeles:20260929T220000
-SUMMARY:Dave DaSilva Jam Night @ The Sand Bar
+UID:488905b9c8393b500a0e@santa-cruz-shows
+DTSTAMP:20261002T141504Z
+DTSTART;TZID=America/Los_Angeles:20261002T203000
+DTEND;TZID=America/Los_Angeles:20261002T233000
+SUMMARY:Vito &Friends @ The Sand Bar
 LOCATION:The Sand Bar
-DESCRIPTION:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-19
- /
-URL:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-19/
+DESCRIPTION:https://thesandbarcapitola.com/event/vito-friends-2/
+URL:https://thesandbarcapitola.com/event/vito-friends-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:ac190b9c6c55a43c2ff0@santa-cruz-shows
+DTSTAMP:20261002T141504Z
+DTSTART;TZID=America/Los_Angeles:20261003T203000
+DTEND;TZID=America/Los_Angeles:20261003T233000
+SUMMARY:Touch’d Too Much @ The Sand Bar
+LOCATION:The Sand Bar
+DESCRIPTION:https://thesandbarcapitola.com/event/touchd-too-much-15/
+URL:https://thesandbarcapitola.com/event/touchd-too-much-15/
 END:VEVENT
 END:VCALENDAR

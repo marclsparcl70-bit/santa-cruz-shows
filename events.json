@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-01T07:16-07:00",
+ "updated": "2026-10-02T07:15-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 44
+   "count": 45
   },
   {
    "venue": "Rio Theatre",
@@ -19,22 +19,22 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 88
+   "count": 84
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 69
+   "count": 71
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 65
+   "count": 64
   },
   {
    "venue": "Woodhouse",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "venue": "UCSC Recital Hall",
@@ -94,7 +94,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 0
+   "count": 2
   },
   {
    "venue": "Cork & Fork",
@@ -103,96 +103,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Mission West",
-   "title": "Open Acoustic Jam",
-   "date": "2026-10-01",
-   "time": "17:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2026-10-01",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
-  },
-  {
-   "venue": "Abbott Square",
-   "title": "Afrobeats Nite SC",
-   "date": "2026-10-01",
-   "time": "18:00",
-   "url": "https://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd982da-r5x8y-yknwn-3t992-rsfxk-hkdrm",
-   "price": null,
-   "info": "Afrobeats Nite Santa Cruz is your bi-weekly dose of dance, rhythm, and pure vibes. Hosted by DJ Monk Earl at Abbott Square Market, it's…",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1746040227117-OCPQZ129KMQRL7M3DUYT/1000000999.png"
-  },
-  {
-   "venue": "Cat Alley Street",
-   "title": "Burner Happy Hour )'( Mr. Bounceman + Side69",
-   "date": "2026-10-01",
-   "time": "18:30",
-   "url": "https://catalleystreet.com/event/burner-happy-hour-mr-bounceman-side69/",
-   "price": null,
-   "info": null,
-   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/BHH-Oct.jpg"
-  },
-  {
-   "venue": "Kuumbwa Jazz",
-   "title": "World Class Music Live Presents: El Khat",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "url": "https://www.kuumbwajazz.org/calendar/world-class-music-live-presents-el-khat/",
-   "price": null,
-   "info": null,
-   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/05/el-khat-banner.jpg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "(((folkYEAH))) Presents: PEARL & THE OYSTERS, MAE POWELL",
-   "date": "2026-10-01",
-   "time": "19:00",
-   "url": "https://www.ticketweb.com/event/folkyeah-presents-pearl-and-the-crepe-place-tickets/14209334?pl=thecrepeplace",
-   "price": "$20",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784080733045-BB5X7DZ0IP3CJKX5RDXU/1900x1900-000000-80-0-0.jpg"
-  },
-  {
-   "venue": "Catalyst Main Room",
-   "title": "Steel Pulse – Reggae Against Racism Tour",
-   "date": "2026-10-01",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/steel-pulse-reggae-against-racism-tour/the-catalyst/santa-cruz-california/",
-   "price": "$50.22",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/09/steel-pulse-reggae-against-racism-tour.jpeg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "(((folkYEAH))) Presents: COLOR GREEN, COLD WATER LAW FIRM",
-   "date": "2026-10-01",
-   "time": "21:00",
-   "url": "https://www.ticketweb.com/event/folkyeah-presents-color-green-the-crepe-place-tickets/15043643?pl=thecrepeplace",
-   "price": "$20",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1753380217807-HN4RDUNFIIU7J08PTPZS/30571.jpg"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "Groundation",
-   "date": "2026-10-01",
-   "time": null,
-   "url": "https://www.prekindle.com/event/18668-groundation-felton",
-   "price": "$27",
-   "info": "with The Quasi Kings",
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949117398054"
-  },
   {
    "venue": "Discretion Brewing",
    "title": "1st Friday w/ Local Honey",
@@ -304,6 +214,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1771874678681-BA65402PF6WNWKB0CE2W/SB_PRESS_HIRES_PhotobyAdamORegan.jpg"
   },
   {
+   "venue": "The Sand Bar",
+   "title": "Vito &Friends",
+   "date": "2026-10-02",
+   "time": "20:30",
+   "url": "https://thesandbarcapitola.com/event/vito-friends-2/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/10/IMG_1982.jpeg"
+  },
+  {
    "venue": "Cat Alley Street",
    "title": "Ticketbooth and Red Hot Bev Takeover",
    "date": "2026-10-02",
@@ -331,7 +251,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/93/26/54_Listings.jpg?v=5"
+   "image": "https://i.ticketweb.com/i/00/12/93/26/54_Listings.jpg?v=6"
   },
   {
    "venue": "Felton Music Hall",
@@ -424,6 +344,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782754810756-NB00MKZW700CGIFWUTA7/Photo+by+Emma+Ledgerwood.JPG"
   },
   {
+   "venue": "The Sand Bar",
+   "title": "Touch’d Too Much",
+   "date": "2026-10-03",
+   "time": "20:30",
+   "url": "https://thesandbarcapitola.com/event/touchd-too-much-15/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/10/IMG_1983.jpeg"
+  },
+  {
    "venue": "Cat Alley Street",
    "title": "Lost In SBASS",
    "date": "2026-10-03",
@@ -441,7 +371,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/93/26/64_Listings.jpg?v=7"
+   "image": "https://i.ticketweb.com/i/00/12/93/26/64_Listings.jpg?v=8"
   },
   {
    "venue": "Felton Music Hall",
@@ -695,13 +625,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents - Y La Bamba w/ Vanessa Zamora",
+   "title": "(((folkYEAH!))) Presents - Y La Bamba w/ Vanessa Zamora + Career Woman",
    "date": "2026-10-07",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/64/50/93_Listings.jpg?v=5"
+   "image": "https://i.ticketweb.com/i/00/13/64/50/93_Listings.jpg?v=6"
   },
   {
    "venue": "Felton Music Hall",
@@ -712,6 +642,16 @@
    "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949048850587"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open Acoustic Jam",
+   "date": "2026-10-08",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -992,6 +932,16 @@
    "price": null,
    "info": "Rachel Spung & The Soul Service is a four-piece, female-fronted soul, pop, and RnB cover band featuring musicians from Monterey and San…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_c825dbe78df94bb9b54c29f915aa5723~mv2.jpg\"]"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "El Sol",
+   "date": "2026-10-10",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/el-sol-1",
+   "price": null,
+   "info": "El Sol is a 10 piece band devoted to Salsa music - especially Salsa Dura NY-style. We play original arrangements of classic 70's songs…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1790885902562-K38UEMVB5A6WLMBSILH4/480192339_122194594556122434_772658523420041957_n.jpg"
   },
   {
    "venue": "Rio Theatre",
@@ -1972,16 +1922,6 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1783447180760-9MR0NA49K2BYBH280VBW/ToddRundgren_2026_VERT1.jpeg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Empire Grade",
-   "date": "2026-10-22",
-   "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/empire-grade-plus-tbd-friday-august-7-8pm-10",
-   "price": "$10",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781367976228-X4IJZ744Q063YDTGS9HB/images.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -3288,7 +3228,7 @@
    "title": "Bands For Bobcats Boogie",
    "date": "2026-11-14",
    "time": "16:00",
-   "url": "https://www.thecrepeplace.com/shows-list/bands-for-bobcats-boogie-saturday-november-14-from-4-to-10pm",
+   "url": "https://www.ticketweb.com/event/bands-for-bobcats-boogie-the-crepe-place-tickets/14354674?pl=thecrepeplace",
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790822024252-RACVQLJJ43TVX8CZ848M/BandsforBobcatsBoogieSavetheDateFINAL-01.jpg"
@@ -3792,16 +3732,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/kassa-overall-cropped.jpg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "(((folkYEAH))) Presents: JESSICA LEA MAYFIELD, HORSEPOWER",
-   "date": "2026-12-02",
-   "time": "19:00",
-   "url": "https://www.ticketweb.com/event/folkyeah-presents-jessica-lea-mayfield-the-crepe-place-tickets/14259234?pl=thecrepeplace",
-   "price": "$22",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784041727450-0Q1701UPKJNSDNFLYM9F/Jessica-Lea-Mayfield-main6-600x683.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -4474,6 +4404,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/youth-fountain.jpeg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Angela Autumn",
+   "date": "2027-01-27",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/06/80/14_Listings.jpg?v=5"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Chris Cain Band",
    "date": "2027-01-28",
@@ -4705,6 +4645,16 @@
   },
   {
    "venue": "Kuumbwa Jazz",
+   "title": "Marta Sanchez",
+   "date": "2027-03-04",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/marta-sanchez/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Marta-Sanchez-Cropped.jpeg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
    "title": "The Klezmatics",
    "date": "2027-03-05",
    "time": "19:00",
@@ -4724,6 +4674,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/the-lemonheads-the-love-chant-tour.jpeg"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "Lucía",
+   "date": "2027-03-10",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/lucia-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/LUCIA-cropped.jpg"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "Alok",
    "date": "2027-03-14",
@@ -4735,20 +4695,30 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "Dee Dee Bridgewater Trio – 7:00 PM",
+   "title": "Kristen Strom Quartet",
+   "date": "2027-03-18",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/kristen-strom-quartet/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2025/11/Kristen-Strom.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "We Exist! Dee Dee Bridgewater Quartet – 7:00 PM",
    "date": "2027-03-22",
    "time": "19:00",
-   "url": "https://www.kuumbwajazz.org/calendar/dee-dee-bridgewater-trio/",
+   "url": "https://www.kuumbwajazz.org/calendar/dee-dee-bridgewater/",
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Dee-Dee-Bridgewater-cropped.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "Dee Dee Bridgewater Trio – 9:00 PM",
+   "title": "We Exist! Dee Dee Bridgewater Quartet – 9:00 PM",
    "date": "2027-03-22",
    "time": "21:00",
-   "url": "https://www.kuumbwajazz.org/calendar/dee-dee-bridgewater-trio-9-pm/",
+   "url": "https://www.kuumbwajazz.org/calendar/dee-dee-bridgewater-9-pm/",
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Dee-Dee-Bridgewater-cropped.jpg"

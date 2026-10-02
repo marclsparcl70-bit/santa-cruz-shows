@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:919ebcd90b648bd60b8a@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261002T193000
 DTEND;TZID=America/Los_Angeles:20261002T223000
 SUMMARY:Fire & Grace & Flamenco with special guests Fanny Ara and Ian Scar
@@ -37,7 +37,7 @@ URL:https://events.ucsc.edu/event/fireandgrace-10-02-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aa7f508b98d01828a283@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261005T190000
 DTEND;TZID=America/Los_Angeles:20261005T220000
 SUMMARY:NYC’s BlackBox Ensemble—experimental music concert\, featuring
@@ -48,7 +48,7 @@ URL:https://events.ucsc.edu/event/blackbox-10-05-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:eed067a81f466c4c50b1@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Indian Classical Music—Nishat Khan\, sitar\, and Nitin Mitta\, t
@@ -59,7 +59,7 @@ URL:https://events.ucsc.edu/event/nishatkhan2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:20bc63135cb83ce121d6@santa-cruz-shows
-DTSTAMP:20261001T141632Z
+DTSTAMP:20261002T141504Z
 DTSTART;TZID=America/Los_Angeles:20261124T193000
 DTEND;TZID=America/Los_Angeles:20261124T223000
 SUMMARY:UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Sym
