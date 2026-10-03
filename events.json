@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-02T07:15-07:00",
+ "updated": "2026-10-03T11:29-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 45
+   "count": 44
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 84
+   "count": 82
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -29,12 +29,12 @@
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 64
+   "count": 63
   },
   {
    "venue": "Woodhouse",
@@ -44,17 +44,17 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 18
+   "count": 20
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "El Vaquero Winery",
@@ -64,12 +64,12 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "venue": "Quarry Amphitheater",
@@ -84,7 +84,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "venue": "Ugly Mug",
@@ -94,7 +94,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "venue": "Cork & Fork",
@@ -103,166 +103,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Discretion Brewing",
-   "title": "1st Friday w/ Local Honey",
-   "date": "2026-10-02",
-   "time": "17:30",
-   "url": "https://www.discretionbrewing.com/events/",
-   "price": null,
-   "info": "Live Music 5:30-7:30pm",
-   "image": null
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Slow Coast",
-   "date": "2026-10-02",
-   "time": "17:30",
-   "url": "https://www.thecrepeplace.com/shows-list/slow-coast-tuesday-august-18-from-530-to-730pm-free-show-on-the-garden-stage",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784130628366-O7WO6MOP24QGMD3TAO3U/Slow+Coast+2.png"
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Big Bad Wolf",
-   "date": "2026-10-02",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/big-bad-wolf-13",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "El Vaquero Winery",
-   "title": "Joint Chiefs",
-   "date": "2026-10-02",
-   "time": "18:00",
-   "url": "https://reservations.elvaquerowinery.com/events/6d72bbdc30cc2b430494102f9d2cfe0cc29ff73b",
-   "price": "$10",
-   "info": "Funk  · Food: SC Eatary",
-   "image": "https://static.wixstatic.com/media/cc50de_00959ad31b4743be961a58bb50b6e46d~mv2.png"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Krooked Joe",
-   "date": "2026-10-02",
-   "time": "18:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Arcane Lullaby",
-   "date": "2026-10-02",
-   "time": "18:00",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Arcane Lullaby is an original alternative rock band drawing inspiration from blues, goth, reggae, punk, funk, pop, prog, soul, metal,…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_57cc1ae998bd4030a1585712de032e30~mv2.jpg\"]"
-  },
-  {
-   "venue": "Abbott Square",
-   "title": "Afro HiLife",
-   "date": "2026-10-02",
-   "time": "19:00",
-   "url": "https://abbottsquaremarket.com/events/afro-hilife-2-aewzr",
-   "price": null,
-   "info": "Tropical Fusion, Afro Funk, Soukous, HiLife, Afro Reggae, Afro Beat AfroHiLife is a band formed in Santa Cruz CA - The band performs…",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1735431780939-TKORVJYAMRQPCW4R01DG/1000000769.jpg"
-  },
-  {
-   "venue": "UCSC Recital Hall",
-   "title": "Fire & Grace & Flamenco with special guests Fanny Ara and Ian Scarfe",
-   "date": "2026-10-02",
-   "time": "19:30",
-   "url": "https://events.ucsc.edu/event/fireandgrace-10-02-2026/",
-   "price": null,
-   "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/FGFanny-2_extended-canvas-scaled.jpg"
-  },
-  {
-   "venue": "Henfling's Tavern",
-   "title": "John Rybak & Friends",
-   "date": "2026-10-02",
-   "time": "20:00",
-   "url": "https://www.localgroove.live/event/henflings-2026-10-02-john-rybak-friends",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Rio Theatre",
-   "title": "Fruit Bats (with band)",
-   "date": "2026-10-02",
-   "time": "20:00",
-   "url": "https://www.riotheatre.com/events-2/2026/10/2/fruitbats",
-   "price": null,
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1774549768902-WT0PD1A3XC0N4IENAFJO/Fruit+Bats+2026+press+photo+2+by+Kelsey+Gallagher+WEB.jpeg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "(((folkYEAH))) Presents: SODA BLONDE",
-   "date": "2026-10-02",
-   "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/folkyeah-presents-soda-blonde-friday-october-2-7pm-20",
-   "price": "$20",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1771874678681-BA65402PF6WNWKB0CE2W/SB_PRESS_HIRES_PhotobyAdamORegan.jpg"
-  },
-  {
-   "venue": "The Sand Bar",
-   "title": "Vito &Friends",
-   "date": "2026-10-02",
-   "time": "20:30",
-   "url": "https://thesandbarcapitola.com/event/vito-friends-2/",
-   "price": null,
-   "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/10/IMG_1982.jpeg"
-  },
-  {
-   "venue": "Cat Alley Street",
-   "title": "Ticketbooth and Red Hot Bev Takeover",
-   "date": "2026-10-02",
-   "time": "21:00",
-   "url": "https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-takeover/",
-   "price": null,
-   "info": null,
-   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/Ticket-Booth-Oct-2.jpg"
-  },
-  {
-   "venue": "Catalyst Main Room",
-   "title": "Twin Temple",
-   "date": "2026-10-02",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/twin-temple/the-catalyst/santa-cruz-california/",
-   "price": "$40.02",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/07/10-2-26_TwinTemple_Web.jpg"
-  },
-  {
-   "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Diggin Dirt (Night 1) w/ Rachel Spung & The Soul Service",
-   "date": "2026-10-02",
-   "time": "21:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/93/26/54_Listings.jpg?v=6"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "Lost + Found 3: Chmura, zero point and WET PANTHER",
-   "date": "2026-10-02",
-   "time": null,
-   "url": "https://www.prekindle.com/event/75727-lost-and-found-felton",
-   "price": "$22",
-   "info": "with zero point, WET PANTHER",
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949098190803"
-  },
   {
    "venue": "The Crepe Place",
    "title": "Buffalo Blues Trio, Free Brunch Show On The Garden Stage",
@@ -379,7 +219,7 @@
    "date": "2026-10-03",
    "time": null,
    "url": "https://www.prekindle.com/event/87347-the-bends-felton",
-   "price": "$18",
+   "price": "$25",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096550924"
   },
@@ -1504,6 +1344,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790447269682-EUL0WFGUBKOHSR16412R/IMG_4063.jpeg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Over the Hill Gang Saloon - Pick-up Merchandise Party!",
+   "date": "2026-10-17",
+   "time": "14:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/over-the-hill-gang-saloon-pick-up-merchandise-party",
+   "price": null,
+   "info": "Come pick up your Saloon merchandise!!! Melynda will be here in person from 2 to 5 PM. Live music with Eddie Hayes starts at 2:30…",
+   "image": null
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Rosebud",
    "date": "2026-10-17",
@@ -1962,6 +1812,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "James Durbin Solo Show!",
+   "date": "2026-10-23",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/fafbe5ebffb138a1e2623d473217828e4d58205d",
+   "price": "$10",
+   "info": "Originals, Rock · Food: Mattia Pizza",
+   "image": "Currents (82).png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -2864,6 +2724,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_ccd580e40dd2427a974ad6f48d7c4d47~mv2.png"
   },
   {
+   "venue": "Abbott Square",
+   "title": "SambaDÁ",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/sambada-k3yzg",
+   "price": null,
+   "info": "SambaDá will move through you and create an energy that is undeniable through downtown Santa Cruz. Do not miss this one! SambaDá…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1702788326399-7XZN8Y5IQP6DPHGXDBFO/SambaDa.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Matt Hartle And The Hartle Gold Band",
    "date": "2026-11-06",
@@ -3144,6 +3014,16 @@
    "image": null
   },
   {
+   "venue": "Abbott Square",
+   "title": "Funkyard",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/funkyard",
+   "price": null,
+   "info": "If your mojo doctor prescribes driving rhythmic jams with funky horns that make you shake your booty, funkyyard has the cure. With a mix…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1759698547918-3B05DDJAFXKAZDRNSDQW/funkyard.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "World Class Music Live Presents: Pipo Romero",
    "date": "2026-11-13",
@@ -3232,6 +3112,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790822024252-RACVQLJJ43TVX8CZ848M/BandsforBobcatsBoogieSavetheDateFINAL-01.jpg"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Milk Frog",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/milk-frog",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac087fda540f064c396777b/1791002878808/"
   },
   {
    "venue": "Rio Theatre",
@@ -4399,7 +4289,7 @@
    "date": "2027-01-27",
    "time": "20:00",
    "url": "https://catalystclub.com/event/youth-fountain/the-catalyst-atrium/santa-cruz-california/",
-   "price": null,
+   "price": "$28.72",
    "info": "Show: 8 pm · All Ages",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/youth-fountain.jpeg"
   },
@@ -4645,7 +4535,7 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "Marta Sanchez",
+   "title": "Marta Sánchez Sextet",
    "date": "2027-03-04",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/marta-sanchez/",
@@ -4671,7 +4561,7 @@
    "url": "https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium/santa-cruz-california/",
    "price": "$45.95",
    "info": "Doors: 7:30 pm Show: 8:30 pm · All Ages",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/09/the-lemonheads-the-love-chant-tour.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/the-lemonheads-the-love-chant-tour.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",

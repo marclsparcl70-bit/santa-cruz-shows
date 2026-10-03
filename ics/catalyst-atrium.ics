@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:65ccd89f2442d63d570f@santa-cruz-shows
-DTSTAMP:20261002T141504Z
+DTSTAMP:20261003T182918Z
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T120000
 SUMMARY:LUMINARIUM.IO PACIFICA @ Catalyst Atrium
@@ -39,19 +39,19 @@ URL:https://catalystclub.com/event/live-in-the-atrium-luminarium-io-pacifi
 END:VEVENT
 BEGIN:VEVENT
 UID:5db4b26ea7e97cafe1a3@santa-cruz-shows
-DTSTAMP:20261002T141504Z
+DTSTAMP:20261003T182918Z
 DTSTART;TZID=America/Los_Angeles:20270127T200000
 DTEND;TZID=America/Los_Angeles:20270127T230000
 SUMMARY:Youth Fountain @ Catalyst Atrium
 LOCATION:Catalyst Atrium
-DESCRIPTION:Show: 8 pm · All Ages\nhttps://catalystclub.com/event/youth-f
- ountain/the-catalyst-atrium/santa-cruz-california/
+DESCRIPTION:$28.72\nShow: 8 pm · All Ages\nhttps://catalystclub.com/event
+ /youth-fountain/the-catalyst-atrium/santa-cruz-california/
 URL:https://catalystclub.com/event/youth-fountain/the-catalyst-atrium/sant
  a-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:64063469040a81aed00b@santa-cruz-shows
-DTSTAMP:20261002T141504Z
+DTSTAMP:20261003T182918Z
 DTSTART;TZID=America/Los_Angeles:20270306T203000
 DTEND;TZID=America/Los_Angeles:20270306T233000
 SUMMARY:The Lemonheads: The Love Chant Tour @ Catalyst Atrium

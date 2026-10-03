@@ -25,19 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:f5913f81b27278eaa880@santa-cruz-shows
-DTSTAMP:20261002T141504Z
-DTSTART;TZID=America/Los_Angeles:20261002T210000
-DTEND;TZID=America/Los_Angeles:20261003T000000
-SUMMARY:Ticketbooth and Red Hot Bev Takeover @ Cat Alley Street
-LOCATION:Cat Alley Street
-DESCRIPTION:https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-t
- akeover/
-URL:https://catalleystreet.com/event/ticketbooth-and-red-hot-bev-takeover/
-END:VEVENT
-BEGIN:VEVENT
 UID:e2a1805b26c993be1b01@santa-cruz-shows
-DTSTAMP:20261002T141504Z
+DTSTAMP:20261003T182918Z
 DTSTART;TZID=America/Los_Angeles:20261003T210000
 DTEND;TZID=America/Los_Angeles:20261004T000000
 SUMMARY:Lost In SBASS @ Cat Alley Street
