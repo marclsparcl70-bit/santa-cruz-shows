@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03T11:29-07:00",
+ "updated": "2026-10-04T12:22-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 44
+   "count": 43
   },
   {
    "venue": "Rio Theatre",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 82
+   "count": 79
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -29,12 +29,12 @@
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 63
+   "count": 62
   },
   {
    "venue": "Woodhouse",
@@ -49,12 +49,12 @@
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 15
+   "count": 21
   },
   {
    "venue": "El Vaquero Winery",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,12 +89,12 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "venue": "Cork & Fork",
@@ -103,126 +103,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "The Crepe Place",
-   "title": "Buffalo Blues Trio, Free Brunch Show On The Garden Stage",
-   "date": "2026-10-03",
-   "time": "11:00",
-   "url": "https://www.thecrepeplace.com/shows-list/buffalo-blues-trio-free-brunch-show-on-the-garden-stage-11am-to-1pm",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779328754020-XIGGI6V64C7EPPZN65S2/IMG_6045.JPG"
-  },
-  {
-   "venue": "Abbott Square",
-   "title": "Santa Cruz Porchfest",
-   "date": "2026-10-03",
-   "time": "12:00",
-   "url": "https://abbottsquaremarket.com/events/santa-cruz-porchfest",
-   "price": null,
-   "info": "1st Annual Santa Cruz Porchfest is a free, all-ages, one-day music event that turns downtown porches into stages, Our stage will include…",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1787513686636-JVVAMN9V8SC7FCY8C48C/porchfest.jpg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Michael Martyn, Patti Maxine & Good Medicine",
-   "date": "2026-10-03",
-   "time": "17:00",
-   "url": "https://www.thecrepeplace.com/shows-list/michael-martyn-patti-maxine-good-medicine-friday-may-22-530-to-730pm-in-the-garden-free",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779031332070-NHSQRX2WT8G9ZTRK79BZ/pattimaxine.jpg"
-  },
-  {
-   "venue": "Discretion Brewing",
-   "title": "Love Creek",
-   "date": "2026-10-03",
-   "time": "17:30",
-   "url": "https://www.discretionbrewing.com/events/",
-   "price": null,
-   "info": "Live Music 5:30-7:30pm",
-   "image": null
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Krooked Jo",
-   "date": "2026-10-03",
-   "time": "18:00",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Krooked Jo is a jazz, funk, fusion band hailing from the Bay Area.",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_40d5560fdc134205a269b676ff9493a5~mv2.jpg\"]"
-  },
-  {
-   "venue": "Mission West",
-   "title": "El Brick",
-   "date": "2026-10-03",
-   "time": "19:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Ugly Mug",
-   "title": "Understory",
-   "date": "2026-10-03",
-   "time": "19:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/3/understory",
-   "price": "$30",
-   "info": "Funkadelic Evening Understory",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1789418453112-SP0RNFXTVWPW8T4SP89F/IMG_1178.jpeg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Mama's Broke, Maxwell Apra",
-   "date": "2026-10-03",
-   "time": "20:00",
-   "url": "https://www.ticketweb.com/event/mamas-broke-the-crepe-place-tickets/14226784?pl=thecrepeplace",
-   "price": "$20",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782754810756-NB00MKZW700CGIFWUTA7/Photo+by+Emma+Ledgerwood.JPG"
-  },
-  {
-   "venue": "The Sand Bar",
-   "title": "Touch’d Too Much",
-   "date": "2026-10-03",
-   "time": "20:30",
-   "url": "https://thesandbarcapitola.com/event/touchd-too-much-15/",
-   "price": null,
-   "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/10/IMG_1983.jpeg"
-  },
-  {
-   "venue": "Cat Alley Street",
-   "title": "Lost In SBASS",
-   "date": "2026-10-03",
-   "time": "21:00",
-   "url": "https://catalleystreet.com/event/lost-in-sbass-30/",
-   "price": null,
-   "info": null,
-   "image": "https://catalleystreet.com/wp-content/uploads/2026/09/LOST-in-SBASS-100326.png"
-  },
-  {
-   "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Diggin Dirt (Night 2) w/ Slingshot Improv Trio",
-   "date": "2026-10-03",
-   "time": "21:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/93/26/64_Listings.jpg?v=8"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "The Bends",
-   "date": "2026-10-03",
-   "time": null,
-   "url": "https://www.prekindle.com/event/87347-the-bends-felton",
-   "price": "$25",
-   "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949096550924"
-  },
   {
    "venue": "Abbott Square",
    "title": "The Trolley Drops - 1st Sundays",
@@ -1924,6 +1804,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_5b2e638c132c4f9bb03e1559a2b64524~mv2.jpg\"]"
   },
   {
+   "venue": "Mission West",
+   "title": "Santa Cruz Longboarding Fundraiser",
+   "date": "2026-10-24",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "Kavanaugh Brothers Celtic Experience",
    "date": "2026-10-24",
@@ -2734,6 +2624,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1702788326399-7XZN8Y5IQP6DPHGXDBFO/SambaDa.jpg"
   },
   {
+   "venue": "Mission West",
+   "title": "Schwartzy",
+   "date": "2026-11-06",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Matt Hartle And The Hartle Gold Band",
    "date": "2026-11-06",
@@ -2774,6 +2674,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949113187501"
   },
   {
+   "venue": "Mission West",
+   "title": "Hig Surf Board Swap",
+   "date": "2026-11-07",
+   "time": "15:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Henry Diltz – Behind the Lens",
    "date": "2026-11-07",
@@ -2782,6 +2692,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/05/henry-diltz-cropped.jpg"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Gary Blackburn Band",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Henfling's Tavern",
@@ -2994,6 +2914,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/ken-okada-group-cropped.jpg"
   },
   {
+   "venue": "Mission West",
+   "title": "Richard Gans",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Jake Xerxes Fussell",
    "date": "2026-11-12",
@@ -3104,6 +3034,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_bb95a50dbe2d42db93e68949d5586dda~mv2.jpg\"]"
   },
   {
+   "venue": "Mission West",
+   "title": "Maxwell Poulos Duo",
+   "date": "2026-11-14",
+   "time": "15:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Bands For Bobcats Boogie",
    "date": "2026-11-14",
@@ -3172,6 +3112,16 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177754343"
+  },
+  {
+   "venue": "Mission West",
+   "title": "South County Dead Band",
+   "date": "2026-11-15",
+   "time": "14:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Cork & Fork",
@@ -3382,6 +3332,16 @@
    "price": null,
    "info": "Our monthly Grateful Dead night! Local favorite Rosebud also plays Bob Dylan, Neil Young, The Band, Van Morrison and more.",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "The Mondays",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/the-mondays",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac1c656960d701d0c0e8139/1791084594107/"
   },
   {
    "venue": "Henfling's Tavern",

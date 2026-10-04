@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:af859242d1073d311e7d@santa-cruz-shows
-DTSTAMP:20261003T182918Z
+DTSTAMP:20261004T192241Z
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T210000
 SUMMARY:Brian Fitzgerald Jazz Trio @ Woodhouse
@@ -38,7 +38,7 @@ URL:https://www.woodhousebrews.com/events/2026/6/25/brian-fitzgerald-jazz-
 END:VEVENT
 BEGIN:VEVENT
 UID:388358b10c4e6221a4e0@santa-cruz-shows
-DTSTAMP:20261003T182918Z
+DTSTAMP:20261004T192241Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Bongo Sidibe @ Woodhouse
@@ -50,7 +50,7 @@ URL:https://www.woodhousebrews.com/events/2026/7/18/bongo-sidibe
 END:VEVENT
 BEGIN:VEVENT
 UID:05632d601e21d5b012e3@santa-cruz-shows
-DTSTAMP:20261003T182918Z
+DTSTAMP:20261004T192241Z
 DTSTART;TZID=America/Los_Angeles:20261018T160000
 DTEND;TZID=America/Los_Angeles:20261018T190000
 SUMMARY:BLVK H3RO LIVE & THE 3PEAT BAND + SELECTA 7 @ Woodhouse
@@ -64,7 +64,7 @@ URL:https://www.eventbrite.com/e/blvk-h3ro-live-the-3peat-band-selecta-7-s
 END:VEVENT
 BEGIN:VEVENT
 UID:db75f0686709a8c5da3b@santa-cruz-shows
-DTSTAMP:20261003T182918Z
+DTSTAMP:20261004T192241Z
 DTSTART;TZID=America/Los_Angeles:20261025T150000
 DTEND;TZID=America/Los_Angeles:20261025T180000
 SUMMARY:Edge of the West & Taylor Rae's Lemongrass @ Woodhouse
@@ -78,7 +78,7 @@ URL:https://www.woodhousebrews.com/events/2026/10/25/d4tywb5u1tnagnnda04h2
 END:VEVENT
 BEGIN:VEVENT
 UID:60f433ac4dd43b944b60@santa-cruz-shows
-DTSTAMP:20261003T182918Z
+DTSTAMP:20261004T192241Z
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T220000
 SUMMARY:Los Pendejos Imbeciles Band @ Woodhouse
@@ -90,7 +90,7 @@ URL:https://www.woodhousebrews.com/events/2026/11/6/los-pendejos-imbeciles
 END:VEVENT
 BEGIN:VEVENT
 UID:14c1ca1716fed147e2e8@santa-cruz-shows
-DTSTAMP:20261003T182918Z
+DTSTAMP:20261004T192241Z
 DTSTART;TZID=America/Los_Angeles:20261204T190000
 DTEND;TZID=America/Los_Angeles:20261204T220000
 SUMMARY:1970's Rock Revue @ Woodhouse
@@ -102,7 +102,7 @@ URL:https://www.woodhousebrews.com/events/2026/12/4/1970s-rock-revue
 END:VEVENT
 BEGIN:VEVENT
 UID:75af1d722c858bc758ba@santa-cruz-shows
-DTSTAMP:20261003T182918Z
+DTSTAMP:20261004T192241Z
 DTSTART;TZID=America/Los_Angeles:20261206T170000
 DTEND;TZID=America/Los_Angeles:20261206T200000
 SUMMARY:Horse Feathers @ Woodhouse
