@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-04T12:22-07:00",
+ "updated": "2026-10-05T07:18-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 79
+   "count": 78
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -34,7 +34,7 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 62
+   "count": 61
   },
   {
    "venue": "Woodhouse",
@@ -44,27 +44,27 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 20
+   "count": 18
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,7 +89,7 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "venue": "The Sand Bar",
@@ -99,110 +99,10 @@
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 26
+   "count": 25
   }
  ],
  "events": [
-  {
-   "venue": "Abbott Square",
-   "title": "The Trolley Drops - 1st Sundays",
-   "date": "2026-10-04",
-   "time": "13:00",
-   "url": "https://abbottsquaremarket.com/events/the-trolley-drops-1st-sundays-9z3td",
-   "price": null,
-   "info": "The Trolley Drops play hokum blues and novelty tunes from the 20s and 30s. Vocally rich, carefree, and infectiously fun, this good time…",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1740027085666-7WEM3UNGIYTIK6886G8Z/Trolley+Drops.jpeg"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Sasupake",
-   "date": "2026-10-04",
-   "time": "14:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Discretion Brewing",
-   "title": "The Back Porch Boys",
-   "date": "2026-10-04",
-   "time": "15:00",
-   "url": "https://www.discretionbrewing.com/events/",
-   "price": null,
-   "info": "Live Music 3-5pm",
-   "image": null
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Cayuga Jazz Band",
-   "date": "2026-10-04",
-   "time": "15:00",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Cayuga Jazz Band Cayuga Jazz band plays classic jazz, swing and jazz standards, be-bop, bossa novas and other American improvisational…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_5a5eaeb00fb343728d766dd7dad11787~mv2.png\"]"
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Vinny Johnson Blues Band",
-   "date": "2026-10-04",
-   "time": "16:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/vinny-johnson-blues-band-2026-10-04-16-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "El Vaquero Winery",
-   "title": "Big Bad Wolf",
-   "date": "2026-10-04",
-   "time": "16:00",
-   "url": "https://reservations.elvaquerowinery.com/events/828d63ebe48ba1520fec554eafdd3c8a8640308f",
-   "price": "$10",
-   "info": "Rock · Food: Chubby's tacos",
-   "image": "https://static.wixstatic.com/media/cc50de_22fa0e030f954a669d2e91d0845fd6ca~mv2.png"
-  },
-  {
-   "venue": "El Vaquero Winery",
-   "title": "Jefferson's Revival",
-   "date": "2026-10-04",
-   "time": "16:00",
-   "url": "https://reservations.elvaquerowinery.com/events/e5dceb5bd7911b54fbe38caf56ed7567bf0a4085",
-   "price": "$10",
-   "info": "Rock, John Fogarty & CCR TRibute · Food: Chubby Tacos",
-   "image": "https://static.wixstatic.com/media/cc50de_67a597ba09c14db0870eacc929cf01c6~mv2.png"
-  },
-  {
-   "venue": "Abbott Square",
-   "title": "Salsa by The Sea Afterparty",
-   "date": "2026-10-04",
-   "time": "18:00",
-   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n",
-   "price": null,
-   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Grateful",
-   "date": "2026-10-04",
-   "time": "18:00",
-   "url": "https://www.thecrepeplace.com/shows-list/sunday-march-16-6-9pm-in-the-garden-grateful-sundays-with-the-hartle-gold-band-10-at-the-door-bcmcw-smpmp-pjf4m-ez6xm-nchcm-nneap",
-   "price": "$15",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1744153287513-NK2AL6S1V4GKHQ12JFXI/thumbnail_Image.jpg"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "Mike Dawes | Fully Seated",
-   "date": "2026-10-04",
-   "time": null,
-   "url": "https://www.prekindle.com/event/54952-mike-dawes-fully-seated-felton",
-   "price": "$15",
-   "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949136689217"
-  },
   {
    "venue": "Ugly Mug",
    "title": "Open Mic",
@@ -941,7 +841,7 @@
    "url": "https://www.thecrepeplace.com/shows-list/patti-maxine-and-phil-marsh-thursday-april-30-from-5-to-7pm-on-the-garden-stage-free-show",
    "price": "FREE",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1770916975433-JL0QUPA3X8JPA2OY5Q17/FEATURES_170219847_EP_-1_BOTYONULHVFZ.webp"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791151754923-108KMED8LQ5H3WDXLICC/2026_1014_PhilMarsh_CrepePlaceREV02.jpeg"
   },
   {
    "venue": "Cork & Fork",
@@ -1701,7 +1601,7 @@
    "url": "https://reservations.elvaquerowinery.com/events/fafbe5ebffb138a1e2623d473217828e4d58205d",
    "price": "$10",
    "info": "Originals, Rock · Food: Mattia Pizza",
-   "image": "Currents (82).png"
+   "image": "https://static.wixstatic.com/media/cc50de_e7fe44f6b17245aeab5b9f217f6e4fcd~mv2.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -2232,6 +2132,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Bonny June and Bonfire Halloween Show",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/30-bonny-june-bonfire-halloween",
+   "price": "$35",
+   "info": "a spooky vaudevillian night Bonny June & Bonfire",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791155113042-5ESBFH6Z07VLMN0X8M8S/515163827_1357682549693200_5451242162442250953_n.png"
   },
   {
    "venue": "Henfling's Tavern",
@@ -2924,6 +2834,16 @@
    "image": null
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Benny Bleu, Alison Steele & Sonia Shell",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/11/12-benny-bleu-alison-steele-sonia-shell",
+   "price": "$30",
+   "info": "banjo extravaganza Benny Bleu · Alison Steele · Sonia Shell",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791159871407-UJABRLN6SUR1OIVBTATT/IMG_1189.JPG"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Jake Xerxes Fussell",
    "date": "2026-11-12",
@@ -3340,8 +3260,8 @@
    "time": "19:00",
    "url": "https://abbottsquaremarket.com/events/the-mondays",
    "price": null,
-   "info": null,
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac1c656960d701d0c0e8139/1791084594107/"
+   "info": "Gabe Robledo started The MonDays in high school. Since the addition of singer/songwriter, Chuck Richards , the band has expanded into a…",
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac1c656960d701d0c0e8139/1791154976455/"
   },
   {
    "venue": "Henfling's Tavern",
