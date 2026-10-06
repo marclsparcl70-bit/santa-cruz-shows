@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-05T07:18-07:00",
+ "updated": "2026-10-06T07:15-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 17
+   "count": 18
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 43
+   "count": 44
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 78
+   "count": 81
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 71
+   "count": 70
   },
   {
    "venue": "Cat Alley Street",
@@ -34,12 +34,12 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 61
+   "count": 60
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "venue": "Abbott Square",
@@ -84,12 +84,12 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 13
+   "count": 18
   },
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "The Sand Bar",
@@ -103,76 +103,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Ugly Mug",
-   "title": "Open Mic",
-   "date": "2026-10-05",
-   "time": "17:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/3w5hyl2zmky48hp-g472b-tjga9-86xwe-6y6lr",
-   "price": null,
-   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1659745768360-467A03DN65LT33H00XGW/CEF4DAC8-B6A7-4D4F-ABA4-33DBCBAA8835.jpg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Science On Tap",
-   "date": "2026-10-05",
-   "time": "18:00",
-   "url": "https://www.thecrepeplace.com/shows-list/science-on-tap-730pm-in-the-garden-free-event",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790352928337-39YP4C6H4DK282DIKYPI/October+%2726+SOT.png"
-  },
-  {
-   "venue": "Kuumbwa Jazz",
-   "title": "Hiromi – The Trio Project feat. James Genus & Simon Phillips – 7:00 PM",
-   "date": "2026-10-05",
-   "time": "19:00",
-   "url": "https://www.kuumbwajazz.org/calendar/hiromi-the-trio-project-feat-james-genus-simon-phillips-7-pm/",
-   "price": null,
-   "info": null,
-   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/hiromi-cropped-2.jpg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Open Mic",
-   "date": "2026-10-05",
-   "time": "19:00",
-   "url": "https://www.thecrepeplace.com/shows-list/open-mic-monday-august-11-7-10pm-free",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781801512758-CPCT7WTWI9XHW06E51M8/1781562597006_123_1.jpeg"
-  },
-  {
-   "venue": "UCSC Recital Hall",
-   "title": "NYC’s BlackBox Ensemble—experimental music concert, featuring Morton Feldman",
-   "date": "2026-10-05",
-   "time": "19:00",
-   "url": "https://events.ucsc.edu/event/blackbox-10-05-26/",
-   "price": "Free",
-   "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/BlackBox-Ens_16x9-crop-scaled.jpg"
-  },
-  {
-   "venue": "Kuumbwa Jazz",
-   "title": "Hiromi – The Trio Project feat. James Genus & Simon Phillips – 9:00 PM",
-   "date": "2026-10-05",
-   "time": "21:00",
-   "url": "https://www.kuumbwajazz.org/calendar/hiromi-the-trio-project-feat-james-genus-simon-phillips-9-pm/",
-   "price": null,
-   "info": null,
-   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/hiromi-cropped-2.jpg"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "Lou Hazel",
-   "date": "2026-10-05",
-   "time": null,
-   "url": "https://www.prekindle.com/event/85636-lou-hazel-felton",
-   "price": "$18",
-   "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949056552837"
-  },
   {
    "venue": "Abbott Square",
    "title": "Lookout Santa Cruz Mobile Newsroom",
@@ -192,6 +122,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1741192521745-X90476Y1YZGHBUHKAGSI/JazzTheDog.jpg"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Free Elements!",
+   "date": "2026-10-06",
+   "time": "18:00",
+   "url": "https://www.woodhousebrews.com/events/2026/3/3/free-elements-7tsbd",
+   "price": null,
+   "info": "Free Elements • Live at Woodhouse Join us Tuesday evening for Free Elements , bringing their Cali-style lounge rock to the Woodhouse…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1791229240516-IGZ6HOJEHHUVJROVKLSW/Screen+Shot+2026-10-05+at+12.38.55+PM.png"
   },
   {
    "venue": "Moe's Alley",
@@ -1054,6 +994,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789315069420-E88P9P93MELX4W5M4CA2/7fdc5259-01dc-4108-a6de-c4aac917edbd.png"
   },
   {
+   "venue": "Woodhouse",
+   "title": "FIRELIGHT IN THE FOREST (Pre FilmFest Performance)",
+   "date": "2026-10-16",
+   "time": "19:30",
+   "url": "https://www.woodhousebrews.com/events/2026/10/16/firelight-in-the-forest-pre-filmfest-performance",
+   "price": null,
+   "info": "🔥 FIRELIGHT IN THE FOREST 🌲 Follow the firelight into the forest… Where shadows move, strange creatures stir, and the night begins to…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1791227203589-76RNRIOEJ2V8B66MWM7N/Novolunie+Presents.JPG"
+  },
+  {
    "venue": "Henfling's Tavern",
    "title": "Vito & Friends",
    "date": "2026-10-16",
@@ -1324,6 +1274,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1788934786408-PAT6E5HNIO57LQC19CM5/Blvk.png"
   },
   {
+   "venue": "Henfling's Tavern",
+   "title": "J & Dynasty",
+   "date": "2026-10-18",
+   "time": "17:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-10-18-j-dynasty",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Rio Theatre",
    "title": "Film: My Name is Gitta",
    "date": "2026-10-18",
@@ -1357,11 +1317,11 @@
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Sqwerv",
    "date": "2026-10-18",
-   "time": "20:30",
+   "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
-   "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/98/79/54_Listings.jpg?v=4"
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/12/98/79/54_Listings.jpg?v=5"
   },
   {
    "venue": "Felton Music Hall",
@@ -1665,13 +1625,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Lyrics Born \"The LB Baby Tour\" w/ Alwa Gordon",
+   "title": "Moe's Alley Presents: Lyrics Born \"The LB Baby Tour\" w/ Alwa Gordon + DJ Kikkoman",
    "date": "2026-10-23",
    "time": "21:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/96/57/84_Listings.jpg?v=7"
+   "image": "https://i.ticketweb.com/i/00/12/96/57/84_Listings.jpg?v=8"
   },
   {
    "venue": "Felton Music Hall",
@@ -1772,6 +1732,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/cropped.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "One Night Only—A Faculty Recital",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/ono-oct-24-2026/",
+   "price": "Free – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/10/choral-book-GettyImages-1447119629.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -2434,6 +2404,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/joshua-redman-cropped.jpg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "The Lowtimers w/ Red McAdam + Kentucky Mule",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/07/59/54_Listings.jpg?v=4"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "The Faux Paws",
    "date": "2026-11-04",
@@ -2690,7 +2670,7 @@
    "time": null,
    "url": "https://www.prekindle.com/event/88144-peach-tree-rascals-felton",
    "price": "$20",
-   "info": null,
+   "info": "with Michael Sneed",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949014610245"
   },
   {
@@ -3064,6 +3044,16 @@
    "image": "https://i.ticketweb.com/i/00/13/56/66/73_Listings.jpg?v=2"
   },
   {
+   "venue": "Henfling's Tavern",
+   "title": "WASABI",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-15-wasabi",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-11-15",
@@ -3254,6 +3244,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Bellydance In The Garden",
+   "date": "2026-11-21",
+   "time": "15:00",
+   "url": "https://www.thecrepeplace.com/shows-list/bellydance-in-the-garden",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788289582829-8FRQUVOL27UOZJBMBY4T/Luna+Dance+Collective_362.JPG"
+  },
+  {
    "venue": "Abbott Square",
    "title": "The Mondays",
    "date": "2026-11-21",
@@ -3394,6 +3394,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/jackie-greene.jpeg"
   },
   {
+   "venue": "Henfling's Tavern",
+   "title": "Eyes Like Lanterns",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-27-eyes-like-lanterns",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "The Inciters w/ A-100s + Txe Fit",
    "date": "2026-11-27",
@@ -3421,7 +3431,7 @@
    "url": "https://www.thecrepeplace.com/shows-list/rivets-rust-saturday-november-28-from-5-to-7pm-free-on-the-garden-stage",
    "price": "FREE",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790388865071-W6M8ITFDGGOA6O27Z875/rivets-and-rust-e1683328561774.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791216928405-R9VRJ9EFZX7XFMB6TCRY/image1.png"
   },
   {
    "venue": "Catalyst Main Room",
@@ -3432,6 +3442,16 @@
    "price": "$57.78",
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/11-28-26_DonCarlos_1080x1080.jpg"
+  },
+  {
+   "venue": "Henfling's Tavern",
+   "title": "Gary Blackburn Band",
+   "date": "2026-11-28",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-11-28-gary-blackburn-band",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Felton Music Hall",
@@ -3554,6 +3574,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1786598163400-W69A2CZDLLDZL5MOT7IS/JRR_Logo_7.3.26+%281%29.jpg"
   },
   {
+   "venue": "Henfling's Tavern",
+   "title": "Serious Condition",
+   "date": "2026-12-04",
+   "time": "20:00",
+   "url": "https://www.localgroove.live/event/henflings-2026-12-04-serious-condition",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "The Suitcase Junket",
    "date": "2026-12-04",
@@ -3652,6 +3682,16 @@
    "price": null,
    "info": "There are bands you listen to, and then there are bands you experience. Horse Feathers has spent nearly two decades crafting songs that…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1783991039062-9WIMLPH2X7DV8OLSN0SN/HF+PRESS+PHOTO+SING+ALONG.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2026-12-06",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/sunday-march-16-6-9pm-in-the-garden-grateful-sundays-with-the-hartle-gold-band-10-at-the-door-bcmcw-smpmp-pjf4m-ez6xm-nchcm-nneap",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1744153287513-NK2AL6S1V4GKHQ12JFXI/thumbnail_Image.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -3754,6 +3794,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030753461"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "The X-Mas Banditos",
+   "date": "2026-12-11",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/the-x-mas-banditos-friday-december-19-at-5pm-happy-hour-bar-free-show",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1762798284542-UISCJQN5P2ZGY23JEOSI/IMG_2266.jpg"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the drums!",
    "date": "2026-12-11",
@@ -3772,6 +3822,16 @@
    "price": "$25",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1749136173555-M7FFJ4KSOFKN7F1AAPYA/IMG_0824.jpg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "Ski Mask the Slump God",
+   "date": "2026-12-11",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/santa-cruz-california/",
+   "price": null,
+   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/ski-mask-the-slump-god.jpeg"
   },
   {
    "venue": "Felton Music Hall",
@@ -3832,6 +3892,16 @@
    "price": "$29",
    "info": "with Melissa Carper",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015629451"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2026-12-13",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-hartle-and-the-hartle-gold-band-6-to-9pm-on-the-garden-stage-10-at-the-door",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1753381202956-KYQZNX18LY0VXQ541HEU/thumbnail_Image.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -3914,16 +3984,6 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151284236"
   },
   {
-   "venue": "The Crepe Place",
-   "title": "The X-Mas Banditos",
-   "date": "2026-12-18",
-   "time": "17:30",
-   "url": "https://www.thecrepeplace.com/shows-list/the-x-mas-banditos-friday-december-19-at-5pm-happy-hour-bar-free-show",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1762798284542-UISCJQN5P2ZGY23JEOSI/IMG_2266.jpg"
-  },
-  {
    "venue": "Shanty Shack Brewing",
    "title": "Rosebud",
    "date": "2026-12-19",
@@ -3962,6 +4022,26 @@
    "price": "$27",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949044620172"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2026-12-20",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/e9jf25je6nywl5hkyax2befwarhrzl",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750961827298-O6CCNCUL1A6R165270T7/thumbnail_Image.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2026-12-27",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/wk9x6a4lp5em6sf6ybbmhgsrfx4ez3",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750956058933-0WQWBOWAAAPPTY4WDXGY/thumbnail_Image.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -4062,6 +4142,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/goldings-bernstein-stewart-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Lara Downes",
+   "date": "2027-01-21",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/lara-downes/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/LaraDownes-cropped.jpg"
   },
   {
    "venue": "Rio Theatre",

@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:0a7018236de1abe54715@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261006T200000
 DTEND;TZID=America/Los_Angeles:20261006T230000
 SUMMARY:Kishi Bashi @ Rio Theatre
@@ -36,7 +36,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/6/kishibanshi
 END:VEVENT
 BEGIN:VEVENT
 UID:9efba443f3698a8fe16b@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261008T200000
 DTEND;TZID=America/Los_Angeles:20261008T230000
 SUMMARY:Rickie Lee Jones @ Rio Theatre
@@ -46,7 +46,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/8/rickieleejones
 END:VEVENT
 BEGIN:VEVENT
 UID:ab2c655ad999e45fff0b@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Banff Centre Mountain Film Festival Word Tour @ Rio Theatre
@@ -57,7 +57,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/10/banffcentremountain
 END:VEVENT
 BEGIN:VEVENT
 UID:6494ad6941802d26b27f@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T170000
 SUMMARY:Bookshop Santa Cruz presents: Min Jin Lee | AMERICAN HAGWON @ Rio 
@@ -68,7 +68,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/11/minjinlee
 END:VEVENT
 BEGIN:VEVENT
 UID:0a2e4e1b2916627c380b@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261016T193000
 DTEND;TZID=America/Los_Angeles:20261016T223000
 SUMMARY:Film: Frankenstein with live score @ Rio Theatre
@@ -78,7 +78,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/16/sleepbomb
 END:VEVENT
 BEGIN:VEVENT
 UID:4570e335829949cd364c@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T220000
 SUMMARY:Megan Woods - The Truth Tour @ Rio Theatre
@@ -88,7 +88,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/17/meganwoods
 END:VEVENT
 BEGIN:VEVENT
 UID:67f1aff5ba3a54611eab@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261018T170000
 DTEND;TZID=America/Los_Angeles:20261018T200000
 SUMMARY:Film: My Name is Gitta @ Rio Theatre
@@ -98,7 +98,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/18/mynameisgitta
 END:VEVENT
 BEGIN:VEVENT
 UID:017378b930467e93be3d@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T230000
 SUMMARY:TODD RUNDGREN @ Rio Theatre
@@ -108,7 +108,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/22/toddrundgren
 END:VEVENT
 BEGIN:VEVENT
 UID:95cbee4489d2d5d9ede2@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261029T190000
 DTEND;TZID=America/Los_Angeles:20261029T220000
 SUMMARY:Michael Franti Trio @ Rio Theatre
@@ -118,7 +118,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/29/michaelfranti
 END:VEVENT
 BEGIN:VEVENT
 UID:45a121a2ce41e1f7ce82@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261031T200000
 DTEND;TZID=America/Los_Angeles:20261031T230000
 SUMMARY:AJ Lee & Blue Summit: Pirates Ball @ Rio Theatre
@@ -128,7 +128,7 @@ URL:https://www.riotheatre.com/events-2/2026/10/31/ajlee
 END:VEVENT
 BEGIN:VEVENT
 UID:c121616ea79c980979e1@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261101T170000
 DTEND;TZID=America/Los_Angeles:20261101T200000
 SUMMARY:Warren Miller's Days Off @ Rio Theatre
@@ -139,7 +139,7 @@ URL:https://www.riotheatre.com/events-2/2026/11/1/warrenmillerddaysoff
 END:VEVENT
 BEGIN:VEVENT
 UID:90215d62c65e05a6ba5c@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T230000
 SUMMARY:Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathe
@@ -151,7 +151,7 @@ URL:https://www.riotheatre.com/events-2/2026/9/10/donavonfrankenreiter
 END:VEVENT
 BEGIN:VEVENT
 UID:d8e787695f3320d3003b@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T220000
 SUMMARY:Mountainfilm on Tour Santa Cruz @ Rio Theatre
@@ -161,7 +161,7 @@ URL:https://www.riotheatre.com/events-2/2026/11/14/mountainfilm
 END:VEVENT
 BEGIN:VEVENT
 UID:97343fca5de57ff4aa58@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261129T190000
 DTEND;TZID=America/Los_Angeles:20261129T220000
 SUMMARY:SANDRA BERNHARD @ Rio Theatre
@@ -171,7 +171,7 @@ URL:https://www.riotheatre.com/events-2/2026/11/29/sandrabernhard
 END:VEVENT
 BEGIN:VEVENT
 UID:c786776a96656c7c7632@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T220000
 SUMMARY:Teton Gravity Research presents 'Actually\, It Is Rocket Science' 
@@ -182,7 +182,7 @@ URL:https://www.riotheatre.com/events-2/2026/12/5/tetongravity
 END:VEVENT
 BEGIN:VEVENT
 UID:c521168873edc305d6bb@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261211T200000
 DTEND;TZID=America/Los_Angeles:20261211T230000
 SUMMARY:LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the dr
@@ -193,7 +193,7 @@ URL:https://www.riotheatre.com/events-2/2026/12/11/jonathanrichman
 END:VEVENT
 BEGIN:VEVENT
 UID:51c3740d367c0649ace5@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261212T193000
 DTEND;TZID=America/Los_Angeles:20261212T223000
 SUMMARY:Victor Wooten & the Wooten Brothers @ Rio Theatre
@@ -203,7 +203,7 @@ URL:https://www.riotheatre.com/events-2/2026/12/12/wootenbrothers
 END:VEVENT
 BEGIN:VEVENT
 UID:ce77ff9851999369693d@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20261213T200000
 DTEND;TZID=America/Los_Angeles:20261213T230000
 SUMMARY:An evening with Garrison Keilor\, Heather Masse & Richard Dworsky 
@@ -214,7 +214,7 @@ URL:https://www.riotheatre.com/events-2/2026/12/13/garrison
 END:VEVENT
 BEGIN:VEVENT
 UID:3ac9cf8cc03be319e6f5@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20270121T193000
 DTEND;TZID=America/Los_Angeles:20270121T223000
 SUMMARY:Jesse Cook @ Rio Theatre
@@ -224,7 +224,7 @@ URL:https://www.riotheatre.com/events-2/2027/1/21/jessecook
 END:VEVENT
 BEGIN:VEVENT
 UID:bb53bb8b6ec2fc88a6b2@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20270122T200000
 DTEND;TZID=America/Los_Angeles:20270122T230000
 SUMMARY:Trae Crowder @ Rio Theatre
@@ -234,7 +234,7 @@ URL:https://www.riotheatre.com/events-2/2027/1/22/traecrowder
 END:VEVENT
 BEGIN:VEVENT
 UID:cb2736de84ece611c39b@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20270210T193000
 DTEND;TZID=America/Los_Angeles:20270210T223000
 SUMMARY:Ladysmith Black Mambazo @ Rio Theatre
@@ -244,7 +244,7 @@ URL:https://www.riotheatre.com/events-2/2027/2/10/ladysmith
 END:VEVENT
 BEGIN:VEVENT
 UID:3dbd7df7f50f6bc6935a@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20270314T200000
 DTEND;TZID=America/Los_Angeles:20270314T230000
 SUMMARY:Alok @ Rio Theatre
@@ -254,7 +254,7 @@ URL:https://www.riotheatre.com/events-2/2027/3/14/alok
 END:VEVENT
 BEGIN:VEVENT
 UID:de7073624e3e5fd1931e@santa-cruz-shows
-DTSTAMP:20261005T141823Z
+DTSTAMP:20261006T141552Z
 DTSTART;TZID=America/Los_Angeles:20270423T183000
 DTEND;TZID=America/Los_Angeles:20270423T213000
 SUMMARY:FashionTeens 2027 @ Rio Theatre
