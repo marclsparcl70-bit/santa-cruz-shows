@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:96c86f748c558e44875e@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T210000
 SUMMARY:Not So Young @ El Vaquero Winery
@@ -38,7 +38,7 @@ URL:https://reservations.elvaquerowinery.com/events/7641f388fa34f512482d25
 END:VEVENT
 BEGIN:VEVENT
 UID:3602be85de1d6c347509@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T200000
 SUMMARY:SPUN @ El Vaquero Winery
@@ -50,7 +50,7 @@ URL:https://reservations.elvaquerowinery.com/events/f07637c0b899f603f59170
 END:VEVENT
 BEGIN:VEVENT
 UID:f01e5e39c70424a9f23c@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261011T160000
 DTEND;TZID=America/Los_Angeles:20261011T190000
 SUMMARY:Bobby Mariano & Friends @ El Vaquero Winery
@@ -62,7 +62,7 @@ URL:https://reservations.elvaquerowinery.com/events/c685b0b8b8e586193564c3
 END:VEVENT
 BEGIN:VEVENT
 UID:50b82d34f6b62285cdfd@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261016T180000
 DTEND;TZID=America/Los_Angeles:20261016T210000
 SUMMARY:Swag Tones @ El Vaquero Winery
@@ -74,7 +74,7 @@ URL:https://reservations.elvaquerowinery.com/events/8da167377c3b188c6fe779
 END:VEVENT
 BEGIN:VEVENT
 UID:8e55faaf8dd202a83f07@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261018T160000
 DTEND;TZID=America/Los_Angeles:20261018T190000
 SUMMARY:Bastard Sons of Johnny Cash @ El Vaquero Winery
@@ -86,7 +86,7 @@ URL:https://reservations.elvaquerowinery.com/events/36660341b059824951adb3
 END:VEVENT
 BEGIN:VEVENT
 UID:d7c0f3388e7742ca8be0@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261023T180000
 DTEND;TZID=America/Los_Angeles:20261023T210000
 SUMMARY:James Durbin Solo Show! @ El Vaquero Winery
@@ -98,7 +98,7 @@ URL:https://reservations.elvaquerowinery.com/events/fafbe5ebffb138a1e2623d
 END:VEVENT
 BEGIN:VEVENT
 UID:eb9fddb4a5bc4a7bc1bb@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261024T173000
 DTEND;TZID=America/Los_Angeles:20261024T203000
 SUMMARY:Rosebud @ El Vaquero Winery
@@ -110,7 +110,7 @@ URL:https://reservations.elvaquerowinery.com/events/1c8eafc8fe68b1c68d37c1
 END:VEVENT
 BEGIN:VEVENT
 UID:f2d09694c2604e47f97f@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261030T180000
 DTEND;TZID=America/Los_Angeles:20261030T210000
 SUMMARY:Juice of the Barley @ El Vaquero Winery
@@ -122,7 +122,7 @@ URL:https://reservations.elvaquerowinery.com/events/25e67f6f333547f711c4f9
 END:VEVENT
 BEGIN:VEVENT
 UID:89798ae2dca3a981aea3@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Joint Chiefs Halloween Party @ El Vaquero Winery
@@ -134,7 +134,7 @@ URL:https://reservations.elvaquerowinery.com/events/b4ddc18ee797b682083996
 END:VEVENT
 BEGIN:VEVENT
 UID:07bada106a01e8ec866a@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261101T160000
 DTEND;TZID=America/Los_Angeles:20261101T190000
 SUMMARY:Alex Lucero @ El Vaquero Winery
@@ -146,7 +146,7 @@ URL:https://reservations.elvaquerowinery.com/events/3d9af26a106c111efe27b8
 END:VEVENT
 BEGIN:VEVENT
 UID:608749947c23dc445f36@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261106T180000
 DTEND;TZID=America/Los_Angeles:20261106T210000
 SUMMARY:El Brick @ El Vaquero Winery
@@ -158,7 +158,7 @@ URL:https://reservations.elvaquerowinery.com/events/2f5a606dee8adf60ff6316
 END:VEVENT
 BEGIN:VEVENT
 UID:8dec4628e23cdb75cbb7@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261120T180000
 DTEND;TZID=America/Los_Angeles:20261120T210000
 SUMMARY:James Durbin Revival @ El Vaquero Winery
@@ -170,7 +170,7 @@ URL:https://reservations.elvaquerowinery.com/events/57be3f17d3a791bc9c6034
 END:VEVENT
 BEGIN:VEVENT
 UID:b44545de6cf447404cec@santa-cruz-shows
-DTSTAMP:20261006T141552Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261128T170000
 DTEND;TZID=America/Los_Angeles:20261128T200000
 SUMMARY:Poor House Bistro @ El Vaquero Winery

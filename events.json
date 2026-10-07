@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T07:15-07:00",
+ "updated": "2026-10-07T07:15-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 44
+   "count": 45
   },
   {
    "venue": "Rio Theatre",
@@ -19,32 +19,32 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 81
+   "count": 80
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 70
+   "count": 71
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 0
+   "count": 3
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 60
+   "count": 61
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Discretion Brewing",
@@ -89,12 +89,12 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 0
+   "count": 2
   },
   {
    "venue": "Cork & Fork",
@@ -103,66 +103,6 @@
   }
  ],
  "events": [
-  {
-   "venue": "Abbott Square",
-   "title": "Lookout Santa Cruz Mobile Newsroom",
-   "date": "2026-10-06",
-   "time": "10:00",
-   "url": "https://abbottsquaremarket.com/events/lookout-santa-cruz-mobile-newsroom",
-   "price": null,
-   "info": null,
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6abc47a50d3bca26c05629d5/1790724166090/"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Jazz The Dog: Free Show In The Garden",
-   "date": "2026-10-06",
-   "time": "17:30",
-   "url": "https://www.thecrepeplace.com/shows-list/jazz-the-dog-free-show-in-the-garden-tuesday-april-1-from-530-to-730pm",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1741192521745-X90476Y1YZGHBUHKAGSI/JazzTheDog.jpg"
-  },
-  {
-   "venue": "Woodhouse",
-   "title": "Free Elements!",
-   "date": "2026-10-06",
-   "time": "18:00",
-   "url": "https://www.woodhousebrews.com/events/2026/3/3/free-elements-7tsbd",
-   "price": null,
-   "info": "Free Elements • Live at Woodhouse Join us Tuesday evening for Free Elements , bringing their Cali-style lounge rock to the Woodhouse…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1791229240516-IGZ6HOJEHHUVJROVKLSW/Screen+Shot+2026-10-05+at+12.38.55+PM.png"
-  },
-  {
-   "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: The Animeros w/ Flaco el Jandro y Los Perros Callejeros",
-   "date": "2026-10-06",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/97/79/14_Listings.jpg?v=8"
-  },
-  {
-   "venue": "Rio Theatre",
-   "title": "Kishi Bashi",
-   "date": "2026-10-06",
-   "time": "20:00",
-   "url": "https://www.riotheatre.com/events-2/2026/10/6/kishibanshi",
-   "price": null,
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1774550110502-X22A83PJ01NI1IAWGSSI/DSC01150-FULL-GRADED_1994.jpeg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Strange Relationship: Matt Hartle & Mike Owens Funk Band",
-   "date": "2026-10-06",
-   "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/matt-hartle-mike-owens-funk-band-tuesday-september-1-28pm-10",
-   "price": "$10",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784002045899-W641QN5X1X4TE8B7G3SL/Hartle_2575.webp"
-  },
   {
    "venue": "The Crepe Place",
    "title": "Bob O'Neill's Absent Minds",
@@ -264,6 +204,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/ben-flocks-cropped.jpg"
   },
   {
+   "venue": "The Sand Bar",
+   "title": "The Joint Chiefs",
+   "date": "2026-10-08",
+   "time": "19:00",
+   "url": "https://thesandbarcapitola.com/event/the-joint-chiefs-18/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/04/IMG_5377.jpeg"
+  },
+  {
    "venue": "Ugly Mug",
    "title": "Levyosn",
    "date": "2026-10-08",
@@ -292,6 +242,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789751078981-I9X88V4B13FKTUP4TQDB/p02.jpg"
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "DJs Lucho & Scallywags!",
+   "date": "2026-10-08",
+   "time": "21:00",
+   "url": "https://catalleystreet.com/event/djs-lucho-scallywags/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/Lucho-Scally.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -362,6 +322,16 @@
    "price": null,
    "info": "psychedelic funky jams out of Santa Cruz, CA",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1788538092779-FI4XWEJ6LEUTTQO5NXTK/518721683_743230128453331_1123989360750454287_n.jpg"
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "Bite Me!",
+   "date": "2026-10-09",
+   "time": "19:00",
+   "url": "https://catalleystreet.com/event/bite-me-7/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/bite-me-once.jpg"
   },
   {
    "venue": "Ugly Mug",
@@ -564,6 +534,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/KUUMBWA-jpg.jpg"
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Lost In SBASS w/Greg Eversoul",
+   "date": "2026-10-10",
+   "time": "21:00",
+   "url": "https://catalleystreet.com/event/lost-in-sbass-w-greg-eversoul/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/a11a1993-5052-4fc1-beee-3ebc5c22025b.jpg"
+  },
+  {
    "venue": "Catalyst Main Room",
    "title": "DOMi & JD BECK – WHO ASKED? Tour",
    "date": "2026-10-10",
@@ -702,6 +682,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/yellowjackets-cropped.jpg"
+  },
+  {
+   "venue": "The Sand Bar",
+   "title": "John Michael Open Jam",
+   "date": "2026-10-11",
+   "time": "19:30",
+   "url": "https://thesandbarcapitola.com/event/john-michael-open-jam-22/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/09/john-new.jpg"
   },
   {
    "venue": "Ugly Mug",
@@ -1314,6 +1304,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745607730905-8ZXY292QTOOWFQILLKM6/thumbnail_Image.jpg"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "Giulia Ballarè",
+   "date": "2026-10-18",
+   "time": "19:15",
+   "url": "https://www.kuumbwajazz.org/calendar/giulia-ballare/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Ballare-CROPPED.jpg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Sqwerv",
    "date": "2026-10-18",
@@ -1580,8 +1580,8 @@
    "time": "19:00",
    "url": "https://abbottsquaremarket.com/events/el-brick",
    "price": null,
-   "info": "Santa Cruz Rockabilly! It’s the last Friday of the YEAR! We would love for you to spend it with us. Come check out El brick, bring the…",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1765485182646-CY303ASKPVQLSL6GZ1RF/elbrick.jpg"
+   "info": "El Brick is a Santa Cruz-based band known for their high-energy shows and infectious dance music, rendered with rockabilly flair.…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1791316332144-5A0MP3SVIU93LKLNWV83/10.6.26+El+Brick.jpg"
   },
   {
    "venue": "Mission West",
@@ -1741,7 +1741,7 @@
    "url": "https://events.ucsc.edu/event/ono-oct-24-2026/",
    "price": "Free – $12",
    "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/10/choral-book-GettyImages-1447119629.jpg"
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/10/photo-grid-16x9-extended-canvas.png"
   },
   {
    "venue": "The Crepe Place",
@@ -2071,7 +2071,7 @@
    "url": "https://reservations.elvaquerowinery.com/events/25e67f6f333547f711c4f9e9df6e209f8f18b87c",
    "price": "$10",
    "info": "Irish",
-   "image": "https://static.wixstatic.com/media/cc50de_68703bf7f7804da2b6cabe63ad380c40~mv2.png"
+   "image": "https://static.wixstatic.com/media/cc50de_eb97d3944295413f8e9aa47109db403b~mv2.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -2715,16 +2715,6 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents: Holy Wave",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=4"
-  },
-  {
-   "venue": "Moe's Alley",
    "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
    "date": "2026-11-10",
    "time": "20:00",
@@ -2732,6 +2722,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=6"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "(((folkYEAH!))) Presents: Holy Wave",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=4"
   },
   {
    "venue": "Rio Theatre",
@@ -2972,6 +2972,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1786734771701-28CLGWS4HZRN1EGC886G/riotheatre-51746988995179-6625383243847044609-MF_Facebook_Event_Template.png"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Sharon Allen & The Dusty Boots",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/11/14-sharon-allen-dusty-boots",
+   "price": "$30",
+   "info": "From Folk to Blues Sharon Allen and The Dusty Boots",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791339704862-EJ7EQO0DON1J7IG052GG/IMG_1191.jpeg"
   },
   {
    "venue": "Catalyst Main Room",
@@ -3312,6 +3322,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1748370448090-C4NWKDQETMICX0CYE500/thumbnail_Image.jpg"
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "Golden State Theatre x KPIG Radio Presents: John Craigie Keep It Warm 2026 Tour with special guest: Lucy Clearwater",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://www.riotheatre.com/events-2/2026/11/22/johncraigie",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1791312322934-L9D1ASVZOKARBS327ZTX/11-22-26_JohnCraigie_1920x1005.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -3752,6 +3772,16 @@
    "price": "$18",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949092129298"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Maxwell Apra",
+   "date": "2026-12-10",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/maxwell-apra-thursday-december-10-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791308597125-G1HAGGP5K7U7FVFVDI13/Resized_P1027800.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -4284,6 +4314,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2025/05/ChrisCain_web.jpg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "The Arcadian Wild - Make It Out Alive Tour",
+   "date": "2027-01-29",
+   "time": null,
+   "url": "https://www.prekindle.com/event/64966-the-arcadian-wild-make-it-out-alive-tour-felton",
+   "price": "$0",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948991741297"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "(((folkYEAH))) Presents: ELEPHANT STONE",
    "date": "2027-01-30",
@@ -4404,6 +4444,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/nella-cropped.jpg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Eddie 9V",
+   "date": "2027-02-12",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/07/27/64_Listings.jpg?v=6"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Hamilton de Holanda Trio",
    "date": "2027-02-15",
@@ -4442,6 +4492,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/matthew-whitaker-cropped.jpg"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "(((folkYEAH!))) Presents - Jess Williamson",
+   "date": "2027-02-19",
+   "time": "19:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 8:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/07/41/74_Listings.jpg?v=4"
   },
   {
    "venue": "Felton Music Hall",

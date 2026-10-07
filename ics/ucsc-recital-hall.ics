@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:eed067a81f466c4c50b1@santa-cruz-shows
-DTSTAMP:20261006T141553Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Indian Classical Music—Nishat Khan\, sitar\, and Nitin Mitta\, t
@@ -37,7 +37,7 @@ URL:https://events.ucsc.edu/event/nishatkhan2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:00047b220a61bd1c3906@santa-cruz-shows
-DTSTAMP:20261006T141553Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261024T193000
 DTEND;TZID=America/Los_Angeles:20261024T223000
 SUMMARY:One Night Only—A Faculty Recital @ UCSC Recital Hall
@@ -47,7 +47,7 @@ URL:https://events.ucsc.edu/event/ono-oct-24-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:20bc63135cb83ce121d6@santa-cruz-shows
-DTSTAMP:20261006T141553Z
+DTSTAMP:20261007T141521Z
 DTSTART;TZID=America/Los_Angeles:20261124T193000
 DTEND;TZID=America/Los_Angeles:20261124T223000
 SUMMARY:UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Sym
