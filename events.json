@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-07T07:15-07:00",
+ "updated": "2026-10-08T07:17-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 45
+   "count": 44
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "venue": "The Crepe Place",
@@ -39,7 +39,7 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "venue": "Abbott Square",
@@ -59,7 +59,7 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "venue": "Shanty Shack",
@@ -89,60 +89,20 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 12
+   "count": 16
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 25
+   "count": 24
   }
  ],
  "events": [
-  {
-   "venue": "The Crepe Place",
-   "title": "Bob O'Neill's Absent Minds",
-   "date": "2026-10-07",
-   "time": "17:30",
-   "url": "https://www.thecrepeplace.com/shows-list/bob-oneills-absent-minds-wednesday-october-7-from-530-to-730pm-on-the-garden-stage-free-show",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784302984167-11I7LKDHZ9LD7TLJC02U/IMG_5716.jpg"
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Open Mic",
-   "date": "2026-10-07",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-10-07-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents - Y La Bamba w/ Vanessa Zamora + Career Woman",
-   "date": "2026-10-07",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/64/50/93_Listings.jpg?v=6"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "An Evening of Music and Comedy w / Creed Bratton From The Office (US)",
-   "date": "2026-10-07",
-   "time": null,
-   "url": "https://www.prekindle.com/event/16819-an-evening-of-music-and-comedy-with-creed-bratton-from-the-office-us-felton",
-   "price": "$20",
-   "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949048850587"
-  },
   {
    "venue": "Mission West",
    "title": "Open Acoustic Jam",
@@ -182,6 +142,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Mick Adams Band!",
+   "date": "2026-10-08",
+   "time": "18:00",
+   "url": "https://www.woodhousebrews.com/events/2026/10/8/mick-adams-band",
+   "price": null,
+   "info": "THURSDAY NIGHT AT WOODHOUSE 🎸 Santa Cruz’s own Mick Adams and friends are taking the stage this Thursday. A killer guitarist, longtime…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1791405848420-YOOTF3JHYQVGC7VQPK0H/IMG_9204.jpeg"
   },
   {
    "venue": "Abbott Square",
@@ -290,7 +260,7 @@
    "time": "18:00",
    "url": "https://reservations.elvaquerowinery.com/events/7641f388fa34f512482d250c7271b5688d83274c",
    "price": "$10",
-   "info": "Rock, Cover Band",
+   "info": "Rock, Cover Band · Food: Mattia",
    "image": "https://static.wixstatic.com/media/cc50de_86d3dd353bec41ad84e8244c73d5434f~mv2.png"
   },
   {
@@ -364,6 +334,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779143878184-NTIE3EUVH3LXQQBLYK1G/Untitled-2026-04-20T213319.775.png"
   },
   {
+   "venue": "The Sand Bar",
+   "title": "Extra Medium",
+   "date": "2026-10-09",
+   "time": "20:30",
+   "url": "https://thesandbarcapitola.com/event/extra-medium-3/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/04/extra-medium.jpg"
+  },
+  {
    "venue": "Catalyst Main Room",
    "title": "It’s a 2000’s Party: Santa Cruz",
    "date": "2026-10-09",
@@ -430,8 +410,8 @@
    "time": "17:00",
    "url": "https://reservations.elvaquerowinery.com/events/f07637c0b899f603f59170a2f28e868189a2c2f0",
    "price": "$10",
-   "info": "Party Rock",
-   "image": "https://static.wixstatic.com/media/cc50de_fd7ff06ec3bd4e3283c32567b4f24cf3~mv2.png"
+   "info": "Party Rock · Food: SC Eatery",
+   "image": "https://static.wixstatic.com/media/cc50de_fce6c743af52466dbadbd48b326a5855~mv2.png"
   },
   {
    "venue": "The Crepe Place",
@@ -650,7 +630,7 @@
    "time": "16:00",
    "url": "https://reservations.elvaquerowinery.com/events/c685b0b8b8e586193564c341fcc6ad0b8e3df0fd",
    "price": "$10",
-   "info": "Rock, Funk",
+   "info": "Rock, Funk · Food: Corralitos Pizza Kitchen",
    "image": "https://static.wixstatic.com/media/cc50de_557a0c2fb5df481cb5e6f0dddae33a41~mv2.png"
   },
   {
@@ -940,7 +920,7 @@
    "time": "18:00",
    "url": "https://reservations.elvaquerowinery.com/events/8da167377c3b188c6fe779050feb03d519919cc2",
    "price": "$10",
-   "info": "Rock",
+   "info": "Rock · Food: Chubby's",
    "image": "https://static.wixstatic.com/media/cc50de_297527e87185462780490bd2c37d5069~mv2.png"
   },
   {
@@ -1051,7 +1031,7 @@
    "url": "https://catalystclub.com/event/live-in-the-atrium-luminarium-io-pacifica/the-catalyst-atrium/santa-cruz-california/",
    "price": "$87.87 to $115.21",
    "info": "Show: 9 am",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/08/live-in-the-atrium-luminarium-io-pacifica.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/live-in-the-atrium-luminarium-io-pacifica.jpeg"
   },
   {
    "venue": "Ugly Mug",
@@ -1250,7 +1230,7 @@
    "time": "16:00",
    "url": "https://reservations.elvaquerowinery.com/events/36660341b059824951adb3fce3c2bb1f9dfbaa34",
    "price": "$10",
-   "info": "Rock",
+   "info": "Rock · Food: Off The Hook",
    "image": "https://static.wixstatic.com/media/cc50de_4ff5066407d14f4382c55c3b428961da~mv2.png"
   },
   {
@@ -2065,13 +2045,13 @@
   },
   {
    "venue": "El Vaquero Winery",
-   "title": "Juice of the Barley",
+   "title": "Juice of the Barley with Opener Sharon Allen",
    "date": "2026-10-30",
    "time": "18:00",
    "url": "https://reservations.elvaquerowinery.com/events/25e67f6f333547f711c4f9e9df6e209f8f18b87c",
    "price": "$10",
    "info": "Irish",
-   "image": "https://static.wixstatic.com/media/cc50de_eb97d3944295413f8e9aa47109db403b~mv2.png"
+   "image": "https://static.wixstatic.com/media/cc50de_04b629dcefbd4e5c979cb130688cbc1f~mv2.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -2325,7 +2305,7 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "Helen Sung Quartet",
+   "title": "Helen Sung Quartet – Oracles Quartet",
    "date": "2026-11-02",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/helen-sung-quartet/",
@@ -2492,6 +2472,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781107076248-0SJUDYGQ5DAR5MQM4B6S/365786412_768144141984018_2311905768881774991_n-840x840.jpg"
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "Freehub PRESENTS Mountain Bike Film Festival",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "url": "https://www.riotheatre.com/events-2/2026/11/6/mbff",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1791311770460-3G1BXW7ZTU33ABUQKHWK/Screen+Shot+2026-10-06+at+11.30.57+AM.png"
   },
   {
    "venue": "El Vaquero Winery",
@@ -2715,16 +2705,6 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=6"
-  },
-  {
-   "venue": "Moe's Alley",
    "title": "(((folkYEAH!))) Presents: Holy Wave",
    "date": "2026-11-10",
    "time": "20:00",
@@ -2732,6 +2712,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=4"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=6"
   },
   {
    "venue": "Rio Theatre",
@@ -2790,7 +2780,7 @@
    "time": null,
    "url": "https://www.prekindle.com/event/59369-they-are-gutting-a-body-of-water-felton",
    "price": "$22",
-   "info": null,
+   "info": "with Dead Sullivan",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109712832"
   },
   {
@@ -2951,7 +2941,7 @@
    "url": "https://www.ticketweb.com/event/bands-for-bobcats-boogie-the-crepe-place-tickets/14354674?pl=thecrepeplace",
    "price": null,
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790822024252-RACVQLJJ43TVX8CZ848M/BandsforBobcatsBoogieSavetheDateFINAL-01.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791390067204-GIXY9IP8HTS4E5OICXQV/Slve+Bobcat+Club+presents+%281%29.jpg"
   },
   {
    "venue": "Abbott Square",
@@ -3022,6 +3012,16 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177754343"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Hot Club Soquel",
+   "date": "2026-11-15",
+   "time": "11:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel-hyc9f-39ph9",
+   "price": null,
+   "info": "Hot Club Soquel Live Django Jazz",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790447269682-EUL0WFGUBKOHSR16412R/IMG_4063.jpeg"
   },
   {
    "venue": "Mission West",
@@ -3214,6 +3214,26 @@
    "image": "https://static.wixstatic.com/media/cc50de_1b47c3a1b258425888c3ebfb03166356~mv2.jpg"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "James Durbin Revival!",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/39e197edf0386a3c58ff27ebff984b6021162fa8",
+   "price": "$15",
+   "info": "Rock",
+   "image": "https://static.wixstatic.com/media/cc50de_6000894049f347cbba64d761bcdfec45~mv2.png"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Sam Baker",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/11/20/sam-baker",
+   "price": "$30",
+   "info": "lyric writer, visual artist, and survivor Sam Baker",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791413528394-CY9VIVXFE2F8GIO5J71I/IMG_1194.webp"
+  },
+  {
    "venue": "Henfling's Tavern",
    "title": "Local Honey",
    "date": "2026-11-20",
@@ -3312,6 +3332,16 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030752444"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "Hot Club Soquel",
+   "date": "2026-11-22",
+   "time": "11:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel-hyc9f",
+   "price": null,
+   "info": "Hot Club Soquel Live Django Jazz",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790447269682-EUL0WFGUBKOHSR16412R/IMG_4063.jpeg"
   },
   {
    "venue": "The Crepe Place",
@@ -3532,6 +3562,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/ricardo-peixoto-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Leroy & Friends Featuring Luna",
+   "date": "2026-12-02",
+   "time": "17:00",
+   "url": "https://www.thecrepeplace.com/shows-list/leroy",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791432775455-CLXAI3WCB4PRU9OERUSX/159C4484-99B3-4281-93B4-56E7DCF33E16.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -4084,6 +4124,16 @@
    "image": "https://i.ticketweb.com/i/00/13/03/10/44_Listings.jpg?v=5"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Wolf Jett & Boot Juice",
+   "date": "2026-12-31",
+   "time": null,
+   "url": "https://www.prekindle.com/event/52489-wolf-jett-and-boot-juice-felton",
+   "price": "$30",
+   "info": "with Boot Juice",
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948989600338"
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Jug Band Jam with the Trolley Drops",
    "date": "2027-01-07",
@@ -4319,7 +4369,7 @@
    "date": "2027-01-29",
    "time": null,
    "url": "https://www.prekindle.com/event/64966-the-arcadian-wild-make-it-out-alive-tour-felton",
-   "price": "$0",
+   "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948991741297"
   },
@@ -4532,6 +4582,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Claudia-Villela-cropped-1.jpg"
+  },
+  {
+   "venue": "Catalyst Atrium",
+   "title": "Girl Ultra: el Tour de RRRomeo",
+   "date": "2027-02-27",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/girl-ultra-el-tour-de-rrromeo/the-catalyst-atrium/santa-cruz-california/",
+   "price": null,
+   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/girl-ultra-el-tour-de-rrromeo.jpeg"
   },
   {
    "venue": "Felton Music Hall",

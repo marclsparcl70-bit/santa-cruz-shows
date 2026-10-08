@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:a04b3a24d502c02fdbbb@santa-cruz-shows
-DTSTAMP:20261007T141521Z
+DTSTAMP:20261008T141700Z
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T220000
 SUMMARY:The Joint Chiefs @ The Sand Bar
@@ -35,8 +35,18 @@ DESCRIPTION:https://thesandbarcapitola.com/event/the-joint-chiefs-18/
 URL:https://thesandbarcapitola.com/event/the-joint-chiefs-18/
 END:VEVENT
 BEGIN:VEVENT
+UID:c28436b3bde693bef8b9@santa-cruz-shows
+DTSTAMP:20261008T141700Z
+DTSTART;TZID=America/Los_Angeles:20261009T203000
+DTEND;TZID=America/Los_Angeles:20261009T233000
+SUMMARY:Extra Medium @ The Sand Bar
+LOCATION:The Sand Bar
+DESCRIPTION:https://thesandbarcapitola.com/event/extra-medium-3/
+URL:https://thesandbarcapitola.com/event/extra-medium-3/
+END:VEVENT
+BEGIN:VEVENT
 UID:040bdb8a669c15d53330@santa-cruz-shows
-DTSTAMP:20261007T141521Z
+DTSTAMP:20261008T141700Z
 DTSTART;TZID=America/Los_Angeles:20261011T193000
 DTEND;TZID=America/Los_Angeles:20261011T223000
 SUMMARY:John Michael Open Jam @ The Sand Bar
