@@ -25,34 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:67c7abbdaaf20ee922a3@santa-cruz-shows
-DTSTAMP:20261008T141700Z
-DTSTART;TZID=America/Los_Angeles:20261008T173000
-DTEND;TZID=America/Los_Angeles:20261008T203000
-SUMMARY:The Guitarsonists With Mighty Mike Schermer @ The Crepe Place
-LOCATION:The Crepe Place
-DESCRIPTION:$25\nhttps://www.thecrepeplace.com/shows-list/alice-wallace-wi
- th-mighty-mike-schermer-wednesday-june-3-from-530-to-730pm-free-show-on-t
- he-garden-stage
-URL:https://www.thecrepeplace.com/shows-list/alice-wallace-with-mighty-mik
- e-schermer-wednesday-june-3-from-530-to-730pm-free-show-on-the-garden-sta
- ge
-END:VEVENT
-BEGIN:VEVENT
-UID:1bc7052e5734ab32fe19@santa-cruz-shows
-DTSTAMP:20261008T141700Z
-DTSTART;TZID=America/Los_Angeles:20261008T200000
-DTEND;TZID=America/Los_Angeles:20261008T230000
-SUMMARY:Slingshot Improv Trio @ The Crepe Place
-LOCATION:The Crepe Place
-DESCRIPTION:$15\nhttps://www.thecrepeplace.com/shows-list/slingshot-thursd
- ay-october-8-8pm-15
-URL:https://www.thecrepeplace.com/shows-list/slingshot-thursday-october-8-
- 8pm-15
-END:VEVENT
-BEGIN:VEVENT
 UID:9dc876ecc32b867fba1a@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261009T200000
 DTEND;TZID=America/Los_Angeles:20261009T230000
 SUMMARY:Pete Sawyer And The Left Hand Monkey Wrench Gang @ The Crepe Place
@@ -64,7 +38,7 @@ URL:https://www.thecrepeplace.com/shows-list/pete-sawyer-and-left-handed-m
 END:VEVENT
 BEGIN:VEVENT
 UID:f17b0df672ad063bfe4c@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261010T170000
 DTEND;TZID=America/Los_Angeles:20261010T200000
 SUMMARY:The Jenny O'Leary Quartet @ The Crepe Place
@@ -77,7 +51,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-jennu-oleary-quartet-wedn
 END:VEVENT
 BEGIN:VEVENT
 UID:4c243b220b2f0125a28d@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261010T200000
 DTEND;TZID=America/Los_Angeles:20261010T230000
 SUMMARY:90s DJ NIGHT! With DJ JAHI & DJ WYZE1\, 8PM TIL CLOSE! $10 @ The C
@@ -90,7 +64,7 @@ URL:https://www.thecrepeplace.com/shows-list/90s-dj-night-with-dj-jahi-dj-
 END:VEVENT
 BEGIN:VEVENT
 UID:00429c0aaf0d7a1f5327@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261011T180000
 DTEND;TZID=America/Los_Angeles:20261011T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -103,7 +77,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:06853cad5b12a741a924@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261012T180000
 DTEND;TZID=America/Los_Angeles:20261012T210000
 SUMMARY:Crepe Place Family Jam\, 6 To 9Pm On The Bar Stage\, Free @ The Cr
@@ -116,7 +90,7 @@ URL:https://www.thecrepeplace.com/shows-list/crepe-place-family-jam-6-to-9
 END:VEVENT
 BEGIN:VEVENT
 UID:bac34e637844b635e496@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261013T173000
 DTEND;TZID=America/Los_Angeles:20261013T203000
 SUMMARY:Jazz On The Rocks @ The Crepe Place
@@ -128,7 +102,7 @@ URL:https://www.thecrepeplace.com/shows-list/4b5sf6ktets5hscz9ha442kacsx5y
 END:VEVENT
 BEGIN:VEVENT
 UID:9406fb77a83699ed6afd@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261014T173000
 DTEND;TZID=America/Los_Angeles:20261014T203000
 SUMMARY:Patti Maxine And Phil Marsh @ The Crepe Place
@@ -141,7 +115,7 @@ URL:https://www.thecrepeplace.com/shows-list/patti-maxine-and-phil-marsh-t
 END:VEVENT
 BEGIN:VEVENT
 UID:1f9ef564f65bcc89bea1@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261015T173000
 DTEND;TZID=America/Los_Angeles:20261015T203000
 SUMMARY:Two Of Us\, Live Jazz On The Garden Stage @ The Crepe Place
@@ -153,7 +127,7 @@ URL:https://www.thecrepeplace.com/shows-list/two-of-us-live-jazz-on-the-ga
 END:VEVENT
 BEGIN:VEVENT
 UID:93c19c72a4b27616cb14@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261015T200000
 DTEND;TZID=America/Los_Angeles:20261015T230000
 SUMMARY:Supernaut\, Guthook\, Angoris @ The Crepe Place
@@ -165,7 +139,7 @@ URL:https://www.thecrepeplace.com/shows-list/supernaut-dark-satellite-satu
 END:VEVENT
 BEGIN:VEVENT
 UID:9aa5f0fd06cc73b901b0@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261016T193000
 DTEND;TZID=America/Los_Angeles:20261016T223000
 SUMMARY:Frankenstein (1931) With Live Score By Sleepbomb @ The Crepe Place
@@ -177,7 +151,7 @@ URL:https://www.ticketweb.com/event/frankenstein-with-live-score-by-rio-th
 END:VEVENT
 BEGIN:VEVENT
 UID:86e539142c3dee8ac0ac@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261016T200000
 DTEND;TZID=America/Los_Angeles:20261016T230000
 SUMMARY:Poor Man's Whiskey @ The Crepe Place
@@ -189,7 +163,7 @@ URL:https://www.thecrepeplace.com/shows-list/poor-mans-whiskey-saturday-no
 END:VEVENT
 BEGIN:VEVENT
 UID:bb54afe91ca9c2d69faa@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261017T190000
 DTEND;TZID=America/Los_Angeles:20261017T220000
 SUMMARY:An Evening With Marty O'Reilly @ The Crepe Place
@@ -201,7 +175,7 @@ URL:https://www.ticketweb.com/event/marty-oreilly-the-crepe-place-tickets/
 END:VEVENT
 BEGIN:VEVENT
 UID:98ed6f67ee3a80d52c4b@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261018T180000
 DTEND;TZID=America/Los_Angeles:20261018T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -214,7 +188,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:b1d4be77a98f2066f2d0@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261019T190000
 DTEND;TZID=America/Los_Angeles:20261019T220000
 SUMMARY:Open Mic @ The Crepe Place
@@ -226,7 +200,7 @@ URL:https://www.thecrepeplace.com/shows-list/open-mic-monday-july-14-7-10p
 END:VEVENT
 BEGIN:VEVENT
 UID:8d89c04b9cbe26c1ea21@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261020T173000
 DTEND;TZID=America/Los_Angeles:20261020T203000
 SUMMARY:Shirley’S Gig: Dave Egan\, Patti Maxine\, Bob Basa\, Paul Tarant
@@ -241,7 +215,7 @@ URL:https://www.thecrepeplace.com/shows-list/shirleys-gig-dave-egan-patti-
 END:VEVENT
 BEGIN:VEVENT
 UID:6c774c401b88cc4458fc@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261020T210000
 DTEND;TZID=America/Los_Angeles:20261021T000000
 SUMMARY:Dig It! Funk Night At The Crepe Place With Trianna Feruza And The 
@@ -256,7 +230,7 @@ URL:https://www.thecrepeplace.com/shows-list/dig-it-funk-night-at-the-crep
 END:VEVENT
 BEGIN:VEVENT
 UID:984552db9dabffbae265@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261021T173000
 DTEND;TZID=America/Los_Angeles:20261021T203000
 SUMMARY:Joe Ferrara @ The Crepe Place
@@ -268,7 +242,7 @@ URL:https://www.thecrepeplace.com/shows-list/joe-ferrara-thursday-august-2
 END:VEVENT
 BEGIN:VEVENT
 UID:a58fe8767fa60e7f46f0@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261021T200000
 DTEND;TZID=America/Los_Angeles:20261021T230000
 SUMMARY:HANNAH MAYREE (Record Release Show)\, MAXWELL APRA @ The Crepe Pla
@@ -281,7 +255,7 @@ URL:https://www.ticketweb.com/event/hannah-mayree-record-release-show-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:11b607fa85539ad51ffd@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261022T173000
 DTEND;TZID=America/Los_Angeles:20261022T203000
 SUMMARY:Justin Raudebush With Special Guest Lizzy Smith @ The Crepe Place
@@ -295,7 +269,7 @@ URL:https://www.thecrepeplace.com/shows-list/justin-raudebush-with-special
 END:VEVENT
 BEGIN:VEVENT
 UID:554e2edb3285794352d0@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261023T173000
 DTEND;TZID=America/Los_Angeles:20261023T203000
 SUMMARY:Death And Saxes @ The Crepe Place
@@ -307,7 +281,7 @@ URL:https://www.thecrepeplace.com/shows-list/death-and-saxes-friday-august
 END:VEVENT
 BEGIN:VEVENT
 UID:9dd4e565c6ae4bba0983@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261023T200000
 DTEND;TZID=America/Los_Angeles:20261023T230000
 SUMMARY:Silver Tongued Devils @ The Crepe Place
@@ -319,7 +293,7 @@ URL:https://www.thecrepeplace.com/shows-list/silver-tongued-devils-friday-
 END:VEVENT
 BEGIN:VEVENT
 UID:0b23e9ed5a1d5fb73c6c@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261024T150000
 DTEND;TZID=America/Los_Angeles:20261024T180000
 SUMMARY:Bellydance Community Showcase @ The Crepe Place
@@ -331,7 +305,7 @@ URL:https://www.thecrepeplace.com/shows-list/bellydance-community-showcase
 END:VEVENT
 BEGIN:VEVENT
 UID:b92c4ef50aff138bc491@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261024T173000
 DTEND;TZID=America/Los_Angeles:20261024T203000
 SUMMARY:Casanostra @ The Crepe Place
@@ -343,7 +317,7 @@ URL:https://www.thecrepeplace.com/shows-list/casanostra-thursday-january-1
 END:VEVENT
 BEGIN:VEVENT
 UID:035c4199df2324a5fc9a@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261024T200000
 DTEND;TZID=America/Los_Angeles:20261024T230000
 SUMMARY:THE RUMBA MADRE\, SUIKA T.\, MOTHERSHIP CONNECTION DJs @ The Crepe
@@ -356,7 +330,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-rumba-madre-eyes-like-lan
 END:VEVENT
 BEGIN:VEVENT
 UID:4538a66584b79251b544@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -369,7 +343,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:20e42084605704f83b02@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261026T180000
 DTEND;TZID=America/Los_Angeles:20261026T210000
 SUMMARY:Crepe Place Family Jam\, 6 To 9Pm On The Bar Stage\, Free @ The Cr
@@ -382,7 +356,7 @@ URL:https://www.thecrepeplace.com/shows-list/crepe-place-family-jam-6-to-9
 END:VEVENT
 BEGIN:VEVENT
 UID:f579da90bda1959ae6d4@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261027T173000
 DTEND;TZID=America/Los_Angeles:20261027T203000
 SUMMARY:Jazz On The Rocks @ The Crepe Place
@@ -394,7 +368,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-on-the-rocks-530pm-730pm
 END:VEVENT
 BEGIN:VEVENT
 UID:5f4366fd26d8b60ebde3@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261028T173000
 DTEND;TZID=America/Los_Angeles:20261028T203000
 SUMMARY:Cayuga Jazz Band @ The Crepe Place
@@ -406,7 +380,7 @@ URL:https://www.thecrepeplace.com/shows-list/cayuga-jazz-band-saturday-aug
 END:VEVENT
 BEGIN:VEVENT
 UID:7fa7a3b68ece1abd681c@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261029T200000
 DTEND;TZID=America/Los_Angeles:20261029T230000
 SUMMARY:No-Brainer Productions Presents: Wasabi @ The Crepe Place
@@ -418,7 +392,7 @@ URL:https://www.ticketweb.com/event/no-brainer-productions-presents-wasabi
 END:VEVENT
 BEGIN:VEVENT
 UID:0afaf0df879cba085f3d@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261030T200000
 DTEND;TZID=America/Los_Angeles:20261030T230000
 SUMMARY:CREPE-O-WEEN! NIGHT #1: HARRY & THE HITMEN as HALL & OATES\, BOUNC
@@ -432,7 +406,7 @@ URL:https://www.ticketweb.com/event/crepe-o-ween-night-1-the-crepe-place-t
 END:VEVENT
 BEGIN:VEVENT
 UID:5c179ff98d49a2e6e8c9@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261031T200000
 DTEND;TZID=America/Los_Angeles:20261031T230000
 SUMMARY:CREPE-O-WEEN! NIGHT #2: KENTUCKY MULE as CREEDENCE CLEARWATER REVI
@@ -446,7 +420,7 @@ URL:https://www.ticketweb.com/event/halloween-crepe-o-ween-night-the-crepe
 END:VEVENT
 BEGIN:VEVENT
 UID:d6a2a9868cc144a37239@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261101T180000
 DTEND;TZID=America/Los_Angeles:20261101T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -459,7 +433,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:ac5a5e4491c0a4d15be6@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261102T180000
 DTEND;TZID=America/Los_Angeles:20261102T210000
 SUMMARY:Science On Tap\, 6Pm In The Garden\, Free Event @ The Crepe Place
@@ -471,7 +445,7 @@ URL:https://www.thecrepeplace.com/shows-list/science-on-tap-7pm-in-the-gar
 END:VEVENT
 BEGIN:VEVENT
 UID:1f21140aafc12ae4ff90@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261102T190000
 DTEND;TZID=America/Los_Angeles:20261102T220000
 SUMMARY:Open Mic @ The Crepe Place
@@ -481,7 +455,7 @@ URL:https://www.thecrepeplace.com/shows-list/open-mic
 END:VEVENT
 BEGIN:VEVENT
 UID:140bef709afdc59ae5d3@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261103T173000
 DTEND;TZID=America/Los_Angeles:20261103T203000
 SUMMARY:JAZZ THE DOG\, In the Garden\, 5:30 to @ The Crepe Place
@@ -493,7 +467,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-the-dog-dinner-show-jlmp
 END:VEVENT
 BEGIN:VEVENT
 UID:82b46c11447f115847f3@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261103T200000
 DTEND;TZID=America/Los_Angeles:20261103T230000
 SUMMARY:Richard Tripps\, D.O.G.S. @ The Crepe Place
@@ -505,7 +479,7 @@ URL:https://www.thecrepeplace.com/shows-list/brown-dog-richard-tripps-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:4633d1cff1af4647d47d@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261104T173000
 DTEND;TZID=America/Los_Angeles:20261104T203000
 SUMMARY:Bob O'Neill's Absent Minds @ The Crepe Place
@@ -517,7 +491,7 @@ URL:https://www.thecrepeplace.com/shows-list/bob-oneills-absent-minds-thur
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a3294f5d4447da56a2@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261104T200000
 DTEND;TZID=America/Los_Angeles:20261104T230000
 SUMMARY:The Faux Paws @ The Crepe Place
@@ -529,7 +503,7 @@ URL:https://www.ticketweb.com/event/the-faux-paws-the-crepe-place-tickets/
 END:VEVENT
 BEGIN:VEVENT
 UID:a44cdc1be27a72768da7@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261105T173000
 DTEND;TZID=America/Los_Angeles:20261105T203000
 SUMMARY:JUG BAND JAM Hosted By THE TROLLEY DROPS JUG BAND @ The Crepe Plac
@@ -544,7 +518,7 @@ URL:https://www.thecrepeplace.com/shows-list/jug-band-jam-hosted-by-the-tr
 END:VEVENT
 BEGIN:VEVENT
 UID:a91d852c164f8b91b080@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261105T200000
 DTEND;TZID=America/Los_Angeles:20261105T230000
 SUMMARY:Medicine Road @ The Crepe Place
@@ -556,7 +530,7 @@ URL:https://www.ticketweb.com/event/the-faux-paws-the-crepe-place-tickets/
 END:VEVENT
 BEGIN:VEVENT
 UID:2af0eaff86c4442e60fc@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T220000
 SUMMARY:Matt Hartle And The Hartle Gold Band @ The Crepe Place
@@ -568,7 +542,7 @@ URL:https://www.thecrepeplace.com/shows-list/matt-hartle-and-the-hartle-go
 END:VEVENT
 BEGIN:VEVENT
 UID:32df7615c2a37df76dc1@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261107T200000
 DTEND;TZID=America/Los_Angeles:20261107T230000
 SUMMARY:Chris Acker\, Maxwell Apra @ The Crepe Place
@@ -580,7 +554,7 @@ URL:https://www.ticketweb.com/event/chris-acker-the-crepe-place-tickets/15
 END:VEVENT
 BEGIN:VEVENT
 UID:13468755eb9c9d5eba58@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261108T180000
 DTEND;TZID=America/Los_Angeles:20261108T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -592,7 +566,7 @@ URL:https://www.thecrepeplace.com/shows-list/pya74htdydmpjcg6r39nrgll9dyce
 END:VEVENT
 BEGIN:VEVENT
 UID:b4bf3ec68063b6f32354@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261109T190000
 DTEND;TZID=America/Los_Angeles:20261109T220000
 SUMMARY:(((folkYEAH))) PRESENTS: ALEX CAMERON @ The Crepe Place
@@ -604,7 +578,7 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-alex-cameron-the-cre
 END:VEVENT
 BEGIN:VEVENT
 UID:5f282b1687f51bfea25f@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261110T173000
 DTEND;TZID=America/Los_Angeles:20261110T203000
 SUMMARY:Jazz On The Rocks @ The Crepe Place
@@ -616,7 +590,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-on-the-rocks-july-22-530
 END:VEVENT
 BEGIN:VEVENT
 UID:c0bbf5f4dfb71e4cd1ec@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261111T200000
 DTEND;TZID=America/Los_Angeles:20261111T230000
 SUMMARY:The Wind Ups\, Cold Water Law Firm @ The Crepe Place
@@ -628,7 +602,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-wind-ups-cold-water-law-f
 END:VEVENT
 BEGIN:VEVENT
 UID:f7831c5880dc857d0cc2@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T230000
 SUMMARY:Flat Sun Society\, Rio And The Soup @ The Crepe Place
@@ -640,7 +614,7 @@ URL:https://www.thecrepeplace.com/shows-list/flat-sun-society-friday-novem
 END:VEVENT
 BEGIN:VEVENT
 UID:184f01ad0b456f60a48e@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261114T160000
 DTEND;TZID=America/Los_Angeles:20261114T190000
 SUMMARY:Bands For Bobcats Boogie @ The Crepe Place
@@ -652,7 +626,7 @@ URL:https://www.ticketweb.com/event/bands-for-bobcats-boogie-the-crepe-pla
 END:VEVENT
 BEGIN:VEVENT
 UID:67d2ebc93f28788c7d76@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261115T180000
 DTEND;TZID=America/Los_Angeles:20261115T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -664,7 +638,7 @@ URL:https://www.thecrepeplace.com/shows-list/3psamk86a3dc368nafxpc57ceypg2
 END:VEVENT
 BEGIN:VEVENT
 UID:d7fab66950a68a4f9a37@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261116T190000
 DTEND;TZID=America/Los_Angeles:20261116T220000
 SUMMARY:Open Mic @ The Crepe Place
@@ -676,7 +650,7 @@ URL:https://www.thecrepeplace.com/shows-list/open-mic-monday-august-25-7-1
 END:VEVENT
 BEGIN:VEVENT
 UID:31f21ca167a8002efc48@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261117T173000
 DTEND;TZID=America/Los_Angeles:20261117T203000
 SUMMARY:Shirley’S Gig: Dave Egan\, Patti Maxine\, Bob Basa\, Paul Tarant
@@ -691,7 +665,7 @@ URL:https://www.thecrepeplace.com/shows-list/shirleys-gig-dave-egan-patti-
 END:VEVENT
 BEGIN:VEVENT
 UID:22f385b4eb5f8c775d51@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261117T200000
 DTEND;TZID=America/Los_Angeles:20261117T230000
 SUMMARY:David Dondero\, Dan Potthast\, Hod Hulphers @ The Crepe Place
@@ -703,7 +677,7 @@ URL:https://www.thecrepeplace.com/shows-list/david-dondero-dan-potthast-ho
 END:VEVENT
 BEGIN:VEVENT
 UID:1f44902d975a0fbd921d@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261118T190000
 DTEND;TZID=America/Los_Angeles:20261118T220000
 SUMMARY:(((folkYEAH))) Presents: MICHAEL NAU\, BREEZERS @ The Crepe Place
@@ -715,7 +689,7 @@ URL:https://www.ticketweb.com/event/folkyeah-presents-michael-nau-breezers
 END:VEVENT
 BEGIN:VEVENT
 UID:741d996fa070bb7064b2@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261118T200000
 DTEND;TZID=America/Los_Angeles:20261118T230000
 SUMMARY:Mr Vale's Math Class\, El Duo @ The Crepe Place
@@ -726,8 +700,20 @@ URL:https://www.thecrepeplace.com/shows-list/mr-vales-math-class-wednesday
  -november-18-8pm-10
 END:VEVENT
 BEGIN:VEVENT
+UID:dd382096d1f2aa6c6714@santa-cruz-shows
+DTSTAMP:20261009T141623Z
+DTSTART;TZID=America/Los_Angeles:20261119T190000
+DTEND;TZID=America/Los_Angeles:20261119T220000
+SUMMARY:James Durbin Revival @ The Crepe Place
+LOCATION:The Crepe Place
+DESCRIPTION:$20\nhttps://www.ticketweb.com/event/james-durbin-revival-the-
+ crepe-place-tickets/14369934?pl=thecrepeplace
+URL:https://www.ticketweb.com/event/james-durbin-revival-the-crepe-place-t
+ ickets/14369934?pl=thecrepeplace
+END:VEVENT
+BEGIN:VEVENT
 UID:5cfcb30d04e765441c6e@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261121T150000
 DTEND;TZID=America/Los_Angeles:20261121T180000
 SUMMARY:Bellydance In The Garden @ The Crepe Place
@@ -738,7 +724,7 @@ URL:https://www.thecrepeplace.com/shows-list/bellydance-in-the-garden
 END:VEVENT
 BEGIN:VEVENT
 UID:8d2d72609585435c4690@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261121T200000
 DTEND;TZID=America/Los_Angeles:20261121T230000
 SUMMARY:Jason Beard's Bring Joy @ The Crepe Place
@@ -750,7 +736,7 @@ URL:https://www.thecrepeplace.com/shows-list/jason-beards-bring-joy-saturd
 END:VEVENT
 BEGIN:VEVENT
 UID:7dc22235e51daf7bfce6@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261122T180000
 DTEND;TZID=America/Los_Angeles:20261122T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -762,7 +748,7 @@ URL:https://www.thecrepeplace.com/shows-list/7cbsw7m4a9bt49ekhycyeh57c8fe4
 END:VEVENT
 BEGIN:VEVENT
 UID:8b390cb7eededb8ac3b0@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261123T180000
 DTEND;TZID=America/Los_Angeles:20261123T210000
 SUMMARY:Taco Night And Family Jam @ The Crepe Place
@@ -774,7 +760,7 @@ URL:https://www.thecrepeplace.com/shows-list/taco-night-and-family-jam-mon
 END:VEVENT
 BEGIN:VEVENT
 UID:8dd2ea924a20f9b2929c@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261124T173000
 DTEND;TZID=America/Los_Angeles:20261124T203000
 SUMMARY:Jazz On The Rocks @ The Crepe Place
@@ -786,7 +772,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-on-the-rocks-530pm-730pm
 END:VEVENT
 BEGIN:VEVENT
 UID:7d051b308ad1f8a89c63@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261125T200000
 DTEND;TZID=America/Los_Angeles:20261125T230000
 SUMMARY:90s DJ NIGHT! With DJ JAHI & DJ WYZE1\, 8PM TIL CLOSE! $10 @ The C
@@ -799,7 +785,7 @@ URL:https://www.thecrepeplace.com/shows-list/90s-dj-night-with-dj-jahi-dj-
 END:VEVENT
 BEGIN:VEVENT
 UID:575dba29fb4059823ba9@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261128T170000
 DTEND;TZID=America/Los_Angeles:20261128T200000
 SUMMARY:Rivets & Rust @ The Crepe Place
@@ -811,7 +797,7 @@ URL:https://www.thecrepeplace.com/shows-list/rivets-rust-saturday-november
 END:VEVENT
 BEGIN:VEVENT
 UID:12397157e02b9b7b5810@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261129T180000
 DTEND;TZID=America/Los_Angeles:20261129T210000
 SUMMARY:Sunday\, 6-9pm in the Garden Grateful Sunday with MATT HARTLE AND 
@@ -826,7 +812,7 @@ URL:https://www.thecrepeplace.com/shows-list/sunday-march-16-6-9pm-in-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:70c5b67a62a485c50f43@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261201T173000
 DTEND;TZID=America/Los_Angeles:20261201T203000
 SUMMARY:JAZZ THE DOG\, FREE SHOW IN THE GARDEN\, 5:30 to @ The Crepe Place
@@ -838,7 +824,7 @@ URL:https://www.thecrepeplace.com/shows-list/jazz-the-dog-free-show-in-the
 END:VEVENT
 BEGIN:VEVENT
 UID:429220cc81b17e86c3ff@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261202T170000
 DTEND;TZID=America/Los_Angeles:20261202T200000
 SUMMARY:Leroy & Friends Featuring Luna @ The Crepe Place
@@ -848,7 +834,7 @@ URL:https://www.thecrepeplace.com/shows-list/leroy
 END:VEVENT
 BEGIN:VEVENT
 UID:34db960fd51d82bcb48f@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261203T173000
 DTEND;TZID=America/Los_Angeles:20261203T203000
 SUMMARY:TWISTMAS CAROLING Hosted By TROLLEY DROPS JUG BAND @ The Crepe Pla
@@ -863,7 +849,7 @@ URL:https://www.thecrepeplace.com/shows-list/twistmas-caroling-hosted-by-t
 END:VEVENT
 BEGIN:VEVENT
 UID:c20a7f1d7b3d187da415@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T220000
 SUMMARY:Storytellers In The Bar @ The Crepe Place
@@ -875,7 +861,7 @@ URL:https://www.thecrepeplace.com/shows-list/storytellers-in-the-bar-wedne
 END:VEVENT
 BEGIN:VEVENT
 UID:21e329fd787c9174f03c@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261204T200000
 DTEND;TZID=America/Los_Angeles:20261204T230000
 SUMMARY:The Suitcase Junket @ The Crepe Place
@@ -887,7 +873,7 @@ URL:https://www.ticketweb.com/event/the-suitcase-junket-the-crepe-place-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:8306767f1ee62a4f8c72@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261205T200000
 DTEND;TZID=America/Los_Angeles:20261205T230000
 SUMMARY:Splendor @ The Crepe Place
@@ -899,7 +885,7 @@ URL:https://www.thecrepeplace.com/shows-list/splendor-thursday-september-2
 END:VEVENT
 BEGIN:VEVENT
 UID:c755d17a113b7f7beb21@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261206T180000
 DTEND;TZID=America/Los_Angeles:20261206T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -913,7 +899,7 @@ URL:https://www.thecrepeplace.com/shows-list/sunday-march-16-6-9pm-in-the-
 END:VEVENT
 BEGIN:VEVENT
 UID:8993a8a68d0a44b9dd36@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261210T173000
 DTEND;TZID=America/Los_Angeles:20261210T203000
 SUMMARY:Maxwell Apra @ The Crepe Place
@@ -925,7 +911,7 @@ URL:https://www.thecrepeplace.com/shows-list/maxwell-apra-thursday-decembe
 END:VEVENT
 BEGIN:VEVENT
 UID:97f6c01112d34351d8f8@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261211T173000
 DTEND;TZID=America/Los_Angeles:20261211T203000
 SUMMARY:The X-Mas Banditos @ The Crepe Place
@@ -937,7 +923,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-x-mas-banditos-friday-dec
 END:VEVENT
 BEGIN:VEVENT
 UID:edd3670e07475bb6b03b@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261211T200000
 DTEND;TZID=America/Los_Angeles:20261211T230000
 SUMMARY:The Flamin' Groovies @ The Crepe Place
@@ -949,7 +935,7 @@ URL:https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-place-ti
 END:VEVENT
 BEGIN:VEVENT
 UID:e8b35f3d494c98175330@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261213T180000
 DTEND;TZID=America/Los_Angeles:20261213T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -962,7 +948,7 @@ URL:https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-har
 END:VEVENT
 BEGIN:VEVENT
 UID:2819f45a511d32df29a1@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261215T173000
 DTEND;TZID=America/Los_Angeles:20261215T203000
 SUMMARY:Shirley’S Gig: Dave Egan\, Patti Maxine\, Bob Basa\, Paul Tarant
@@ -977,7 +963,7 @@ URL:https://www.thecrepeplace.com/shows-list/shirleys-gig-dave-egan-patti-
 END:VEVENT
 BEGIN:VEVENT
 UID:768a7a6f2f0421e82799@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261219T170000
 DTEND;TZID=America/Los_Angeles:20261219T200000
 SUMMARY:The Jenny O'Leary Quartet @ The Crepe Place
@@ -989,7 +975,7 @@ URL:https://www.thecrepeplace.com/shows-list/the-jenny-oleary-quartet-satu
 END:VEVENT
 BEGIN:VEVENT
 UID:9d68449cab1bd4fde7be@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261220T180000
 DTEND;TZID=America/Los_Angeles:20261220T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -1001,7 +987,7 @@ URL:https://www.thecrepeplace.com/shows-list/e9jf25je6nywl5hkyax2befwarhrz
 END:VEVENT
 BEGIN:VEVENT
 UID:194429aae68c2614fcc4@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261227T180000
 DTEND;TZID=America/Los_Angeles:20261227T210000
 SUMMARY:Grateful @ The Crepe Place
@@ -1013,7 +999,7 @@ URL:https://www.thecrepeplace.com/shows-list/wk9x6a4lp5em6sf6ybbmhgsrfx4ez
 END:VEVENT
 BEGIN:VEVENT
 UID:8e9c691bda761e0bcca3@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20270130T190000
 DTEND;TZID=America/Los_Angeles:20270130T220000
 SUMMARY:(((folkYEAH))) Presents: ELEPHANT STONE @ The Crepe Place

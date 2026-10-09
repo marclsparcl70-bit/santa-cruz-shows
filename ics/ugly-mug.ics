@@ -25,19 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:ebeba73f6662abcc699e@santa-cruz-shows
-DTSTAMP:20261008T141700Z
-DTSTART;TZID=America/Los_Angeles:20261008T190000
-DTEND;TZID=America/Los_Angeles:20261008T220000
-SUMMARY:Levyosn @ Ugly Mug
-LOCATION:Ugly Mug
-DESCRIPTION:$30\nAdah Hetko and Lysander Jaffe Levyosn Duo\nhttps://www.ca
- feugly.com/live-music-the-mug/2026/10/8/levyosn-duo
-URL:https://www.cafeugly.com/live-music-the-mug/2026/10/8/levyosn-duo
-END:VEVENT
-BEGIN:VEVENT
 UID:8bb6ffca84acaeba9899@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261009T190000
 DTEND;TZID=America/Los_Angeles:20261009T220000
 SUMMARY:The Rough Romance Tour @ Ugly Mug
@@ -50,7 +39,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/9-flagshipromance-
 END:VEVENT
 BEGIN:VEVENT
 UID:344ef65977e3618b7310@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261012T170000
 DTEND;TZID=America/Los_Angeles:20261012T200000
 SUMMARY:Open Mic @ Ugly Mug
@@ -63,7 +52,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/r35yjjw7te9s24c-gfwlm-ak9c
 END:VEVENT
 BEGIN:VEVENT
 UID:182c105cce17952759fd@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261013T190000
 DTEND;TZID=America/Los_Angeles:20261013T220000
 SUMMARY:Peppino D’Agostino @ Ugly Mug
@@ -75,7 +64,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/13/peppino-d-agost
 END:VEVENT
 BEGIN:VEVENT
 UID:6e0137e78e3598866af8@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T220000
 SUMMARY:Chevy D & Old Tree Ex?erience @ Ugly Mug
@@ -87,7 +76,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/15-chevy-d-old-tre
 END:VEVENT
 BEGIN:VEVENT
 UID:33a1ed12031ac9c2b23e@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261017T110000
 DTEND;TZID=America/Los_Angeles:20261017T140000
 SUMMARY:Hot Club Soquel @ Ugly Mug
@@ -98,7 +87,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e7b24590c0b7577601@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T220000
 SUMMARY:Michael McNevin with The Keller Sisters @ Ugly Mug
@@ -111,7 +100,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/8/24/michael-mcnevin-
 END:VEVENT
 BEGIN:VEVENT
 UID:d10bea80fdf8c1ffec02@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T220000
 SUMMARY:Bonny June and Bonfire Halloween Show @ Ugly Mug
@@ -124,7 +113,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/30-bonny-june-bonf
 END:VEVENT
 BEGIN:VEVENT
 UID:be180fae8208e9b86c36@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T220000
 SUMMARY:Benny Bleu\, Alison Steele & Sonia Shell @ Ugly Mug
@@ -137,7 +126,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/11/12-benny-bleu-alis
 END:VEVENT
 BEGIN:VEVENT
 UID:b2054aa7223e8cc906e3@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T220000
 SUMMARY:Sharon Allen & The Dusty Boots @ Ugly Mug
@@ -150,7 +139,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/11/14-sharon-allen-du
 END:VEVENT
 BEGIN:VEVENT
 UID:5a78b4a286e4f0c705c3@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261115T110000
 DTEND;TZID=America/Los_Angeles:20261115T140000
 SUMMARY:Hot Club Soquel @ Ugly Mug
@@ -162,7 +151,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel
 END:VEVENT
 BEGIN:VEVENT
 UID:c49ea4a3ee05a62db1c2@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261120T190000
 DTEND;TZID=America/Los_Angeles:20261120T220000
 SUMMARY:Sam Baker @ Ugly Mug
@@ -173,7 +162,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/11/20/sam-baker
 END:VEVENT
 BEGIN:VEVENT
 UID:f46071810c6645577d85@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261122T110000
 DTEND;TZID=America/Los_Angeles:20261122T140000
 SUMMARY:Hot Club Soquel @ Ugly Mug
@@ -185,7 +174,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel
 END:VEVENT
 BEGIN:VEVENT
 UID:b328bdc3e4420f141201@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T220000
 SUMMARY:Sully Tuttle @ Ugly Mug
@@ -196,7 +185,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/12/5/sully-tuttle
 END:VEVENT
 BEGIN:VEVENT
 UID:b074d09353139a82f03a@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20270122T190000
 DTEND;TZID=America/Los_Angeles:20270122T220000
 SUMMARY:Hot Club Holo @ Ugly Mug

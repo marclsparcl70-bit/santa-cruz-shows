@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-08T07:17-07:00",
+ "updated": "2026-10-09T07:16-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "venue": "Moe's Alley",
@@ -14,42 +14,42 @@
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 80
+   "count": 79
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 71
+   "count": 70
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 61
+   "count": 60
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "Mission West",
@@ -89,150 +89,20 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 24
+   "count": 25
   }
  ],
  "events": [
-  {
-   "venue": "Mission West",
-   "title": "Open Acoustic Jam",
-   "date": "2026-10-08",
-   "time": "17:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Discretion Brewing",
-   "title": "Blue Lemonade",
-   "date": "2026-10-08",
-   "time": "17:30",
-   "url": "https://www.discretionbrewing.com/events/",
-   "price": null,
-   "info": "Live Music 5:30-7:30pm",
-   "image": null
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "The Guitarsonists With Mighty Mike Schermer",
-   "date": "2026-10-08",
-   "time": "17:30",
-   "url": "https://www.thecrepeplace.com/shows-list/alice-wallace-with-mighty-mike-schermer-wednesday-june-3-from-530-to-730pm-free-show-on-the-garden-stage",
-   "price": "$25",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788307073745-21510KS7WORL7Z7XV6FG/GuitarsonistsStairsSq.jpg"
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "The Blues Suspects",
-   "date": "2026-10-08",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/the-blues-suspects-3",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Woodhouse",
-   "title": "Mick Adams Band!",
-   "date": "2026-10-08",
-   "time": "18:00",
-   "url": "https://www.woodhousebrews.com/events/2026/10/8/mick-adams-band",
-   "price": null,
-   "info": "THURSDAY NIGHT AT WOODHOUSE 🎸 Santa Cruz’s own Mick Adams and friends are taking the stage this Thursday. A killer guitarist, longtime…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1791405848420-YOOTF3JHYQVGC7VQPK0H/IMG_9204.jpeg"
-  },
-  {
-   "venue": "Abbott Square",
-   "title": "Jazz Night",
-   "date": "2026-10-08",
-   "time": "18:30",
-   "url": "https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg",
-   "price": null,
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1780030529749-KQCJ0CAW78K4EQVFGWGF/jazz+nightd+nre.png"
-  },
-  {
-   "venue": "Kuumbwa Jazz",
-   "title": "Ben Flocks Trio",
-   "date": "2026-10-08",
-   "time": "19:00",
-   "url": "https://www.kuumbwajazz.org/calendar/ben-flocks-trio/",
-   "price": null,
-   "info": null,
-   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/ben-flocks-cropped.jpg"
-  },
-  {
-   "venue": "The Sand Bar",
-   "title": "The Joint Chiefs",
-   "date": "2026-10-08",
-   "time": "19:00",
-   "url": "https://thesandbarcapitola.com/event/the-joint-chiefs-18/",
-   "price": null,
-   "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/04/IMG_5377.jpeg"
-  },
-  {
-   "venue": "Ugly Mug",
-   "title": "Levyosn",
-   "date": "2026-10-08",
-   "time": "19:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/8/levyosn-duo",
-   "price": "$30",
-   "info": "Adah Hetko and Lysander Jaffe Levyosn Duo",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1787932534226-3RE6XUVP7JPZX81OQC9M/IMG_1143.jpeg"
-  },
-  {
-   "venue": "Rio Theatre",
-   "title": "Rickie Lee Jones",
-   "date": "2026-10-08",
-   "time": "20:00",
-   "url": "https://www.riotheatre.com/events-2/2026/10/8/rickieleejones",
-   "price": null,
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1778955592557-QFQJ0AQTO6AWO4NT31J1/2023+credit+Vivian+Wang.jpg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Slingshot Improv Trio",
-   "date": "2026-10-08",
-   "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/slingshot-thursday-october-8-8pm-15",
-   "price": "$15",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789751078981-I9X88V4B13FKTUP4TQDB/p02.jpg"
-  },
-  {
-   "venue": "Cat Alley Street",
-   "title": "DJs Lucho & Scallywags!",
-   "date": "2026-10-08",
-   "time": "21:00",
-   "url": "https://catalleystreet.com/event/djs-lucho-scallywags/",
-   "price": null,
-   "info": null,
-   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/Lucho-Scally.jpg"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "Analog Dog",
-   "date": "2026-10-08",
-   "time": null,
-   "url": "https://www.prekindle.com/event/29513-analog-dog-felton",
-   "price": "$10",
-   "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949056766787"
-  },
   {
    "venue": "Discretion Brewing",
    "title": "Shawn & Matt ~ Nothin’ But The Blues",
@@ -792,6 +662,16 @@
    "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949058448248"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open Acoustic Jam",
+   "date": "2026-10-15",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -1704,6 +1584,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1789330190930-EM613Q42YNYO4X02N1QQ/Abbott_Band_Pic.jpg"
   },
   {
+   "venue": "Catalyst Main Room",
+   "title": "Surf City Line Dance with Live Music from Barnstormer",
+   "date": "2026-10-24",
+   "time": "19:00",
+   "url": "https://catalystclub.com/event/surf-city-line-dance-with-live-music-from-barnstormer/",
+   "price": "Admission is $15 per person at the door. All ages welcome!",
+   "info": "Doors: 6:30 pm Show: 7 pm",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/34960b49-de5c-4ed0-b464-841db11d4fb4.png"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Return to Laurel Canyon",
    "date": "2026-10-24",
@@ -1960,7 +1850,7 @@
    "time": null,
    "url": "https://www.prekindle.com/event/57117-the-bridge-city-sinners-felton",
    "price": "$32",
-   "info": null,
+   "info": "with Shawn D'amario",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949083236342"
   },
   {
@@ -2484,6 +2374,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1791311770460-3G1BXW7ZTU33ABUQKHWK/Screen+Shot+2026-10-06+at+11.30.57+AM.png"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "The Messiahs",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/the-messiahs-18",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "El Vaquero Winery",
    "title": "El Brick",
    "date": "2026-11-06",
@@ -2782,6 +2682,16 @@
    "price": "$22",
    "info": "with Dead Sullivan",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109712832"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Ukulele Night",
+   "date": "2026-11-12",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/ukulele-night-2026-11-12-18-00",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -3135,13 +3045,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "The Goddamn Gallows w/ King Sickabilly",
+   "title": "The Goddamn Gallows w/ King Sickabilly + Rabbit Truck",
    "date": "2026-11-17",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/64/00/43_Listings.jpg?v=2"
+   "image": "https://i.ticketweb.com/i/00/13/64/00/43_Listings.jpg?v=3"
   },
   {
    "venue": "The Crepe Place",
@@ -3192,6 +3102,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/james-gordon-williams-cropped-2.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "James Durbin Revival",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/james-durbin-revival-the-crepe-place-tickets/14369934?pl=thecrepeplace",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791474430879-5CF00W7WXIS38FLLLYQH/James-Durbin-667x1024.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -4129,7 +4049,7 @@
    "date": "2026-12-31",
    "time": null,
    "url": "https://www.prekindle.com/event/52489-wolf-jett-and-boot-juice-felton",
-   "price": "$30",
+   "price": "$27",
    "info": "with Boot Juice",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948989600338"
   },
@@ -4369,7 +4289,7 @@
    "date": "2027-01-29",
    "time": null,
    "url": "https://www.prekindle.com/event/64966-the-arcadian-wild-make-it-out-alive-tour-felton",
-   "price": "$22",
+   "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948991741297"
   },
@@ -4589,7 +4509,7 @@
    "date": "2027-02-27",
    "time": "21:00",
    "url": "https://catalystclub.com/event/girl-ultra-el-tour-de-rrromeo/the-catalyst-atrium/santa-cruz-california/",
-   "price": null,
+   "price": "$30.88",
    "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/girl-ultra-el-tour-de-rrromeo.jpeg"
   },
@@ -4651,7 +4571,7 @@
    "url": "https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium/santa-cruz-california/",
    "price": "$45.95",
    "info": "Doors: 7:30 pm Show: 8:30 pm · All Ages",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/the-lemonheads-the-love-chant-tour.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/the-lemonheads-the-love-chant-tour-1.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",

@@ -25,18 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:62baaef13177f41feacb@santa-cruz-shows
-DTSTAMP:20261008T141700Z
-DTSTART;TZID=America/Los_Angeles:20261008T210000
-DTEND;TZID=America/Los_Angeles:20261009T000000
-SUMMARY:DJs Lucho & Scallywags! @ Cat Alley Street
-LOCATION:Cat Alley Street
-DESCRIPTION:https://catalleystreet.com/event/djs-lucho-scallywags/
-URL:https://catalleystreet.com/event/djs-lucho-scallywags/
-END:VEVENT
-BEGIN:VEVENT
 UID:385e39cef36bf42e20c9@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261009T190000
 DTEND;TZID=America/Los_Angeles:20261009T220000
 SUMMARY:Bite Me! @ Cat Alley Street
@@ -46,7 +36,7 @@ URL:https://catalleystreet.com/event/bite-me-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:d775e5c10255b6d83fac@santa-cruz-shows
-DTSTAMP:20261008T141700Z
+DTSTAMP:20261009T141623Z
 DTSTART;TZID=America/Los_Angeles:20261010T210000
 DTEND;TZID=America/Los_Angeles:20261011T000000
 SUMMARY:Lost In SBASS w/Greg Eversoul @ Cat Alley Street
