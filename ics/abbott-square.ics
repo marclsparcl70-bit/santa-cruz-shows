@@ -25,19 +25,8 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:751c507bfb92ba0c5421@santa-cruz-shows
-DTSTAMP:20261009T141623Z
-DTSTART;TZID=America/Los_Angeles:20261009T190000
-DTEND;TZID=America/Los_Angeles:20261009T220000
-SUMMARY:Love Creek @ Abbott Square
-LOCATION:Abbott Square
-DESCRIPTION:psychedelic funky jams out of Santa Cruz\, CA\nhttps://abbotts
- quaremarket.com/events/love-creek1
-URL:https://abbottsquaremarket.com/events/love-creek1
-END:VEVENT
-BEGIN:VEVENT
 UID:d1fd9719f41562776d02@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:El Sol @ Abbott Square
@@ -49,7 +38,7 @@ URL:https://abbottsquaremarket.com/events/el-sol-1
 END:VEVENT
 BEGIN:VEVENT
 UID:331340676ba5fa7b7ba9@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261011T180000
 DTEND;TZID=America/Los_Angeles:20261011T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -63,7 +52,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:323ff2c4d33774f32e17@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261015T183000
 DTEND;TZID=America/Los_Angeles:20261015T213000
 SUMMARY:Afrobeats Nite SC @ Abbott Square
@@ -77,7 +66,7 @@ URL:https://abbottsquaremarket.com/events/n2ab9hpsd8kpsrhye9a69n2bd982da-r
 END:VEVENT
 BEGIN:VEVENT
 UID:f273bee29b1b607f3c10@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T220000
 SUMMARY:Man in Black @ Abbott Square
@@ -89,7 +78,7 @@ URL:https://abbottsquaremarket.com/events/man-in-black
 END:VEVENT
 BEGIN:VEVENT
 UID:8f9a0f078dedf47e061f@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261018T180000
 DTEND;TZID=America/Los_Angeles:20261018T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -103,7 +92,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:1a518ccfc096b7d4374c@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261022T183000
 DTEND;TZID=America/Los_Angeles:20261022T213000
 SUMMARY:Jazz Night @ Abbott Square
@@ -115,7 +104,7 @@ URL:https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz
 END:VEVENT
 BEGIN:VEVENT
 UID:09b6d9bb91d93d5a583a@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T220000
 SUMMARY:El Brick @ Abbott Square
@@ -127,7 +116,7 @@ URL:https://abbottsquaremarket.com/events/el-brick
 END:VEVENT
 BEGIN:VEVENT
 UID:65a58a0a3b678a2f3b57@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T220000
 SUMMARY:Big Bad Wolf @ Abbott Square
@@ -139,7 +128,7 @@ URL:https://abbottsquaremarket.com/events/big-bad-wolf-3
 END:VEVENT
 BEGIN:VEVENT
 UID:27b1984ac91760d26499@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261025T180000
 DTEND;TZID=America/Los_Angeles:20261025T210000
 SUMMARY:Salsa by The Sea Afterparty @ Abbott Square
@@ -153,7 +142,7 @@ URL:https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb
 END:VEVENT
 BEGIN:VEVENT
 UID:af8736d63a1c6555c29c@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T220000
 SUMMARY:Sweet Voodoo @ Abbott Square
@@ -165,7 +154,7 @@ URL:https://abbottsquaremarket.com/events/sweet-voodoo-1
 END:VEVENT
 BEGIN:VEVENT
 UID:45d9f0c75695d7a554f9@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261031T160000
 DTEND;TZID=America/Los_Angeles:20261031T190000
 SUMMARY:Afrobeats and more Halloween party @ Abbott Square
@@ -177,7 +166,7 @@ URL:https://abbottsquaremarket.com/events/afrobeats-and-more-halloween-par
 END:VEVENT
 BEGIN:VEVENT
 UID:3edae643323f7557221e@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T220000
 SUMMARY:SambaDÁ @ Abbott Square
@@ -189,7 +178,7 @@ URL:https://abbottsquaremarket.com/events/sambada-k3yzg
 END:VEVENT
 BEGIN:VEVENT
 UID:6ae519bf16f888d6be84@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T220000
 SUMMARY:Funkyard @ Abbott Square
@@ -201,7 +190,7 @@ URL:https://abbottsquaremarket.com/events/funkyard
 END:VEVENT
 BEGIN:VEVENT
 UID:709f689e877682cf145e@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T220000
 SUMMARY:Milk Frog @ Abbott Square
@@ -211,7 +200,7 @@ URL:https://abbottsquaremarket.com/events/milk-frog
 END:VEVENT
 BEGIN:VEVENT
 UID:5148c852122109932521@santa-cruz-shows
-DTSTAMP:20261009T141623Z
+DTSTAMP:20261010T141156Z
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T220000
 SUMMARY:The Mondays @ Abbott Square

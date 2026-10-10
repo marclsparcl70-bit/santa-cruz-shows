@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-09T07:16-07:00",
+ "updated": "2026-10-10T07:11-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 44
+   "count": 43
   },
   {
    "venue": "Rio Theatre",
@@ -19,17 +19,17 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 79
+   "count": 78
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 70
+   "count": 71
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "venue": "Felton Music Hall",
@@ -39,17 +39,17 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "Mission West",
@@ -59,12 +59,12 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 14
+   "count": 11
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "venue": "UCSC Recital Hall",
@@ -74,7 +74,7 @@
   {
    "venue": "Quarry Amphitheater",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "venue": "Bruno's Bar & Grill",
@@ -84,12 +84,12 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "The Sand Bar",
@@ -99,150 +99,10 @@
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 25
+   "count": 24
   }
  ],
  "events": [
-  {
-   "venue": "Discretion Brewing",
-   "title": "Shawn & Matt ~ Nothin’ But The Blues",
-   "date": "2026-10-09",
-   "time": "17:30",
-   "url": "https://www.discretionbrewing.com/events/",
-   "price": null,
-   "info": "Live Music 5:30-7:30pm",
-   "image": null
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "The 10 O'Clock Lunch Band",
-   "date": "2026-10-09",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/the-10-oclock-lunch-band-2026-10-09-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "El Vaquero Winery",
-   "title": "Not So Young",
-   "date": "2026-10-09",
-   "time": "18:00",
-   "url": "https://reservations.elvaquerowinery.com/events/7641f388fa34f512482d250c7271b5688d83274c",
-   "price": "$10",
-   "info": "Rock, Cover Band · Food: Mattia",
-   "image": "https://static.wixstatic.com/media/cc50de_86d3dd353bec41ad84e8244c73d5434f~mv2.png"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Sick Behavior, Western Conflict, and BluntForceKarma",
-   "date": "2026-10-09",
-   "time": "18:00",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Punk rock triple bill. 6-9pm $8",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_34a9e61ddac748739679ac468ce029fc~mv2.jpg\"]"
-  },
-  {
-   "venue": "Woodhouse",
-   "title": "Brian Fitzgerald Jazz Trio",
-   "date": "2026-10-09",
-   "time": "18:00",
-   "url": "https://www.woodhousebrews.com/events/2026/6/25/brian-fitzgerald-jazz-trio",
-   "price": null,
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1790187853291-50MBUSCVA9CWQT7MGL7U/FITZ.jpg"
-  },
-  {
-   "venue": "Abbott Square",
-   "title": "Love Creek",
-   "date": "2026-10-09",
-   "time": "19:00",
-   "url": "https://abbottsquaremarket.com/events/love-creek1",
-   "price": null,
-   "info": "psychedelic funky jams out of Santa Cruz, CA",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1788538092779-FI4XWEJ6LEUTTQO5NXTK/518721683_743230128453331_1123989360750454287_n.jpg"
-  },
-  {
-   "venue": "Cat Alley Street",
-   "title": "Bite Me!",
-   "date": "2026-10-09",
-   "time": "19:00",
-   "url": "https://catalleystreet.com/event/bite-me-7/",
-   "price": null,
-   "info": null,
-   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/bite-me-once.jpg"
-  },
-  {
-   "venue": "Ugly Mug",
-   "title": "The Rough Romance Tour",
-   "date": "2026-10-09",
-   "time": "19:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/9-flagshipromance-theroughandtumble",
-   "price": "$30",
-   "info": "Two Duos on Tour Together Flagship Romance w/ The Rough & Tumble",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1785795113202-36OU1GPMH57NLR4ROYZ9/IMG_1133.jpeg"
-  },
-  {
-   "venue": "Henfling's Tavern",
-   "title": "Dominique and the Diamonds",
-   "date": "2026-10-09",
-   "time": "20:00",
-   "url": "https://www.localgroove.live/event/henflings-2026-10-09-dominique-and-the-diamonds",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Pete Sawyer And The Left Hand Monkey Wrench Gang",
-   "date": "2026-10-09",
-   "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/pete-sawyer-and-left-handed-monkey-wrench-friday-july-31-7pm-on-the-garden-stage-15",
-   "price": "$20",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779143878184-NTIE3EUVH3LXQQBLYK1G/Untitled-2026-04-20T213319.775.png"
-  },
-  {
-   "venue": "The Sand Bar",
-   "title": "Extra Medium",
-   "date": "2026-10-09",
-   "time": "20:30",
-   "url": "https://thesandbarcapitola.com/event/extra-medium-3/",
-   "price": null,
-   "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/04/extra-medium.jpg"
-  },
-  {
-   "venue": "Catalyst Main Room",
-   "title": "It’s a 2000’s Party: Santa Cruz",
-   "date": "2026-10-09",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-catalyst/santa-cruz-california/",
-   "price": "$28.72 to $40.55",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 18 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/08/its-a-2000s-party-santa-cruz.jpeg"
-  },
-  {
-   "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: The Breaks",
-   "date": "2026-10-09",
-   "time": "21:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/59/64/03_Listings.jpg?v=4"
-  },
-  {
-   "venue": "Quarry Amphitheater",
-   "title": "BEAT: Belew/Vai/Levin/Bozzio Performing the Music of KING CRIMSON",
-   "date": "2026-10-09",
-   "time": null,
-   "url": "https://www.ticketweb.com/event/beat-quarry-amphitheater-tickets/15002733?pl=BNQUARRY&amp;REFID=261009quarry",
-   "price": "$79",
-   "info": null,
-   "image": "https://cdn.prod.website-files.com/65e7d6b0c66b3ea9c263c665/6a7228873a5e1dc517e26f25_BEAT%20-%20564x564%20-%20Text%20Free.png"
-  },
   {
    "venue": "Mission West",
    "title": "American Underdog",
@@ -382,6 +242,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/KUUMBWA-jpg.jpg"
+  },
+  {
+   "venue": "The Sand Bar",
+   "title": "Jefferson Hancock Band",
+   "date": "2026-10-10",
+   "time": "20:30",
+   "url": "https://thesandbarcapitola.com/event/jefferson-hancock-band-3/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2024/02/Jefferson-Hancock-Band.jpg"
   },
   {
    "venue": "Cat Alley Street",
@@ -899,7 +769,7 @@
    "date": "2026-10-16",
    "time": null,
    "url": "https://www.prekindle.com/event/44292-david-starfire-felton",
-   "price": "$20",
+   "price": "$24",
    "info": "with Beat Kitty, King Kairos",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949075491053"
   },
@@ -1171,7 +1041,7 @@
    "url": "https://www.kuumbwajazz.org/calendar/giulia-ballare/",
    "price": null,
    "info": null,
-   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Ballare-CROPPED.jpg"
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Ballare-Landscape.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -1591,7 +1461,7 @@
    "url": "https://catalystclub.com/event/surf-city-line-dance-with-live-music-from-barnstormer/",
    "price": "Admission is $15 per person at the door. All ages welcome!",
    "info": "Doors: 6:30 pm Show: 7 pm",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/34960b49-de5c-4ed0-b464-841db11d4fb4.png"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/thumbnail.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -2225,7 +2095,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Richard Tripps, D.O.G.S.",
+   "title": "Richard Tripps, Chevy D, Secret Family",
    "date": "2026-11-03",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/brown-dog-richard-tripps-the-ooo-maus-thursday-august-13-pm-10",
@@ -2955,13 +2825,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Drag The River - 30th Anniversary Tour",
+   "title": "Moe's Alley Presents: Drag The River - 30th Anniversary Tour w/ Thanks Buddy",
    "date": "2026-11-15",
    "time": "16:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 3:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/56/66/73_Listings.jpg?v=2"
+   "image": "https://i.ticketweb.com/i/00/13/56/66/73_Listings.jpg?v=4"
   },
   {
    "venue": "Henfling's Tavern",
@@ -3125,16 +2995,6 @@
   },
   {
    "venue": "El Vaquero Winery",
-   "title": "James Durbin Revival",
-   "date": "2026-11-20",
-   "time": "18:00",
-   "url": "https://reservations.elvaquerowinery.com/events/57be3f17d3a791bc9c6034d8425d450ef070add9",
-   "price": "$10",
-   "info": "Rock",
-   "image": "https://static.wixstatic.com/media/cc50de_1b47c3a1b258425888c3ebfb03166356~mv2.jpg"
-  },
-  {
-   "venue": "El Vaquero Winery",
    "title": "James Durbin Revival!",
    "date": "2026-11-20",
    "time": "18:00",
@@ -3212,6 +3072,16 @@
    "price": null,
    "info": "Gabe Robledo started The MonDays in high school. Since the addition of singer/songwriter, Chuck Richards , the band has expanded into a…",
    "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac1c656960d701d0c0e8139/1791154976455/"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Painted Mandolin – 10th Anniversary Show",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://www.kuumbwajazz.org/calendar/painted-mandolin-10th-anniversary-show/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/painted-poster-cropped.jpg"
   },
   {
    "venue": "Henfling's Tavern",
@@ -3382,16 +3252,6 @@
    "price": null,
    "info": "Doors 7:30 PM",
    "image": "https://i.ticketweb.com/i/00/12/99/57/74_Listings.jpg?v=6"
-  },
-  {
-   "venue": "El Vaquero Winery",
-   "title": "Poor House Bistro",
-   "date": "2026-11-28",
-   "time": "17:00",
-   "url": "https://reservations.elvaquerowinery.com/events/7f3586225ebdd5d647cf910704029fb46e69a369",
-   "price": "$10",
-   "info": "Motown, Staxx",
-   "image": "https://static.wixstatic.com/media/cc50de_0beac3117ece45adb714a616ccfabe43~mv2.png"
   },
   {
    "venue": "The Crepe Place",
@@ -4051,7 +3911,7 @@
    "url": "https://www.prekindle.com/event/52489-wolf-jett-and-boot-juice-felton",
    "price": "$27",
    "info": "with Boot Juice",
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948989600338"
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948986238680"
   },
   {
    "venue": "Shanty Shack Brewing",
