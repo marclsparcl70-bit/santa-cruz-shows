@@ -25,13 +25,24 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:040bdb8a669c15d53330@santa-cruz-shows
-DTSTAMP:20261011T141220Z
-DTSTART;TZID=America/Los_Angeles:20261011T193000
-DTEND;TZID=America/Los_Angeles:20261011T223000
-SUMMARY:John Michael Open Jam @ The Sand Bar
+UID:3fd0194eefcfeeea0827@santa-cruz-shows
+DTSTAMP:20261012T184851Z
+DTSTART;TZID=America/Los_Angeles:20261012T180000
+DTEND;TZID=America/Los_Angeles:20261012T210000
+SUMMARY:Alex Lucero Band @ The Sand Bar
 LOCATION:The Sand Bar
-DESCRIPTION:https://thesandbarcapitola.com/event/john-michael-open-jam-22/
-URL:https://thesandbarcapitola.com/event/john-michael-open-jam-22/
+DESCRIPTION:https://thesandbarcapitola.com/event/alex-lucero-band-45/
+URL:https://thesandbarcapitola.com/event/alex-lucero-band-45/
+END:VEVENT
+BEGIN:VEVENT
+UID:ecde3546405f15ae13c8@santa-cruz-shows
+DTSTAMP:20261012T184851Z
+DTSTART;TZID=America/Los_Angeles:20261013T190000
+DTEND;TZID=America/Los_Angeles:20261013T220000
+SUMMARY:Dave DaSilva Jam Night @ The Sand Bar
+LOCATION:The Sand Bar
+DESCRIPTION:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-20
+ /
+URL:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-20/
 END:VEVENT
 END:VCALENDAR

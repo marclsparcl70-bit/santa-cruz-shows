@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12T07:20-07:00",
+ "updated": "2026-10-12T11:48-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -77,6 +77,11 @@
    "count": 0
   },
   {
+   "venue": "Santa Cruz Symphony",
+   "ok": true,
+   "count": 6
+  },
+  {
    "venue": "Bruno's Bar & Grill",
    "ok": true,
    "count": 0
@@ -94,7 +99,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 0
+   "count": 2
   },
   {
    "venue": "Cork & Fork",
@@ -124,6 +129,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1773679058740-IZ6CJSRLSZ3G9ZCIG5UH/Taco+Tuesday+Party+Flyer.PNG"
   },
   {
+   "venue": "The Sand Bar",
+   "title": "Alex Lucero Band",
+   "date": "2026-10-12",
+   "time": "18:00",
+   "url": "https://thesandbarcapitola.com/event/alex-lucero-band-45/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2025/10/alex-lucero.jpeg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Somi",
    "date": "2026-10-12",
@@ -139,7 +154,7 @@
    "date": "2026-10-12",
    "time": null,
    "url": "https://www.prekindle.com/event/19862-nekrogoblikon-felton",
-   "price": "$24",
+   "price": "$40",
    "info": "with Rivers Of Nihil, Cyborg Octopus",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949118154416"
   },
@@ -152,6 +167,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1737066344818-HPE2P1BRPNT0YJSWIL9J/Screenshot+2025-01-13+at+11.52.46%E2%80%AFAM.png"
+  },
+  {
+   "venue": "The Sand Bar",
+   "title": "Dave DaSilva Jam Night",
+   "date": "2026-10-13",
+   "time": "19:00",
+   "url": "https://thesandbarcapitola.com/event/dave-dasilva-jam-night-20/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/01/dave-Dasilva.jpg"
   },
   {
    "venue": "Ugly Mug",
@@ -315,7 +340,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Supernaut, Guthook, Angoris",
+   "title": "Supernaut, Why?, Angoris",
    "date": "2026-10-15",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/supernaut-dark-satellite-saturday-october-18-8pm-10",
@@ -735,13 +760,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Sqwerv",
+   "title": "Moe's Alley Presents: Sqwerv w/ Flat Sun Society",
    "date": "2026-10-18",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/98/79/54_Listings.jpg?v=5"
+   "image": "https://i.ticketweb.com/i/00/12/98/79/54_Listings.jpg?v=6"
   },
   {
    "venue": "Felton Music Hall",
@@ -2504,6 +2529,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791339704862-EJ7EQO0DON1J7IG052GG/IMG_1191.jpeg"
   },
   {
+   "venue": "Santa Cruz Symphony",
+   "title": "Tchaikovsky & Mendelssohn",
+   "date": "2026-11-14",
+   "time": "19:30",
+   "url": "https://www.santacruztickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=444C90A6-ADB8-4AF7-AFA0-2EECFF2C7E1F",
+   "price": null,
+   "info": "Classical Series Concert 2 · Civic Auditorium",
+   "image": null
+  },
+  {
    "venue": "Catalyst Main Room",
    "title": "ISAIAH RASHAD: Lil Sunny’s Awful Road Trip",
    "date": "2026-11-14",
@@ -3854,6 +3889,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/arun-ramamurthy-cropped.jpg"
   },
   {
+   "venue": "Santa Cruz Symphony",
+   "title": "Rachmaninoff’s 3rd",
+   "date": "2027-01-16",
+   "time": "19:30",
+   "url": "https://www.santacruztickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=D153448F-D166-4754-9316-7186D5DB8B61",
+   "price": null,
+   "info": "Classical Series Concert 3 · Civic Auditorium",
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Goldings/Bernstein/Stewart Organ Trio",
    "date": "2027-01-18",
@@ -4234,6 +4279,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/girl-ultra-el-tour-de-rrromeo.jpeg"
   },
   {
+   "venue": "Santa Cruz Symphony",
+   "title": "Peter and the Wolf",
+   "date": "2027-02-28",
+   "time": "14:00",
+   "url": "https://www.santacruztickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=1E869194-3639-4B1D-B4E6-9CB73CA3FFA0",
+   "price": null,
+   "info": "Family Concert · Civic Auditorium",
+   "image": null
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Tophouse",
    "date": "2027-02-28",
@@ -4374,6 +4429,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
+   "venue": "Santa Cruz Symphony",
+   "title": "The Firebird",
+   "date": "2027-04-03",
+   "time": "19:30",
+   "url": "https://www.santacruztickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=E5C8A27B-463A-44B7-9CE1-D7326F0E2BD6",
+   "price": null,
+   "info": "Classical Series Concert 4 · Civic Auditorium",
+   "image": null
+  },
+  {
    "venue": "Rio Theatre",
    "title": "FashionTeens 2027",
    "date": "2027-04-23",
@@ -4382,6 +4447,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1779301081386-XRWLJT73QGDLWJB9E367/riotheatre-51746988995179-6549607442521843628-Screenshot+2026-01-06+at+2.04.33%E2%80%AFPM.png"
+  },
+  {
+   "venue": "Santa Cruz Symphony",
+   "title": "Also Sprach Zarathustra",
+   "date": "2027-05-01",
+   "time": "19:30",
+   "url": "https://www.santacruztickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=F8034E31-4563-45C0-B4BA-B361D1D80071",
+   "price": null,
+   "info": "Classical Series Concert 5 · Civic Auditorium",
+   "image": null
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -4412,6 +4487,16 @@
    "price": null,
    "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "Santa Cruz Symphony",
+   "title": "Celebrating John Williams",
+   "date": "2027-06-12",
+   "time": "19:30",
+   "url": "https://www.santacruztickets.com/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=1EB0A126-161A-4332-93DF-5561A42AC8D7",
+   "price": null,
+   "info": "Pops Benefit Concert · Civic Auditorium",
+   "image": null
   },
   {
    "venue": "Shanty Shack Brewing",

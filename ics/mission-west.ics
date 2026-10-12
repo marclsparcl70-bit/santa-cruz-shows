@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:3eb957c1b7627d58e328@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261015T170000
 DTEND;TZID=America/Los_Angeles:20261015T200000
 SUMMARY:Open Acoustic Jam @ Mission West
@@ -38,7 +38,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:c9395d5284146d051625@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261016T190000
 DTEND;TZID=America/Los_Angeles:20261016T220000
 SUMMARY:Dead Kampers @ Mission West
@@ -50,7 +50,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:4b52b8a2a0861239a411@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261017T180000
 DTEND;TZID=America/Los_Angeles:20261017T210000
 SUMMARY:Kollateral Damage @ Mission West
@@ -62,7 +62,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:74a69bddb77086e9058e@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261018T100000
 DTEND;TZID=America/Los_Angeles:20261018T130000
 SUMMARY:Open At 10Am Every Sunday @ Mission West
@@ -74,7 +74,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:0dff3de92fcd97834f31@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261018T140000
 DTEND;TZID=America/Los_Angeles:20261018T170000
 SUMMARY:Dead On Deck @ Mission West
@@ -86,7 +86,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:92d98e1fbe45c34ea69b@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261022T190000
 DTEND;TZID=America/Los_Angeles:20261022T220000
 SUMMARY:Hod And The Helpers\, Eve's Peach\, The Reno Casinos @ Mission Wes
@@ -99,7 +99,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:f91975df94192a095292@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261023T183000
 DTEND;TZID=America/Los_Angeles:20261023T213000
 SUMMARY:Website Photo Shoot @ Mission West
@@ -111,7 +111,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:fa1334aca90c4486bcf4@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T220000
 SUMMARY:Trestles/ Not Yet\, Old Dog/ Slider @ Mission West
@@ -123,7 +123,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:9a9d29a6ca82e398237e@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261024T170000
 DTEND;TZID=America/Los_Angeles:20261024T200000
 SUMMARY:Santa Cruz Longboarding Fundraiser @ Mission West
@@ -135,7 +135,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:94d221441b1c9995bfea@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261025T140000
 DTEND;TZID=America/Los_Angeles:20261025T170000
 SUMMARY:Shannon Plays The Dead @ Mission West
@@ -147,7 +147,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:b728b6b33159d1c63d4e@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261028T190000
 DTEND;TZID=America/Los_Angeles:20261028T220000
 SUMMARY:Honey Disposition @ Mission West
@@ -159,7 +159,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:8004851cf7393e1e626d@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T220000
 SUMMARY:Los Darks And Beast @ Mission West
@@ -171,7 +171,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:f73806639717a76d9c8b@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261031T170000
 DTEND;TZID=America/Los_Angeles:20261031T200000
 SUMMARY:Halloween With Space Heater @ Mission West
@@ -183,7 +183,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:cf190942d0a6f29943ad@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Rosebud @ Mission West
@@ -195,7 +195,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:d4efa647384b5f3db50c@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T220000
 SUMMARY:Schwartzy @ Mission West
@@ -207,7 +207,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:e226599a3500e8c6af1c@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261107T150000
 DTEND;TZID=America/Los_Angeles:20261107T180000
 SUMMARY:Hig Surf Board Swap @ Mission West
@@ -219,7 +219,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:138db822d80182a61cb6@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261107T190000
 DTEND;TZID=America/Los_Angeles:20261107T220000
 SUMMARY:Gary Blackburn Band @ Mission West
@@ -231,7 +231,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:aff674ae62c714653636@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T220000
 SUMMARY:Richard Gans @ Mission West
@@ -243,7 +243,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:94307b0fe41727da9704@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T220000
 SUMMARY:Heartfeast @ Mission West
@@ -255,7 +255,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:e5ea721f8f446bc16d0f@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261114T150000
 DTEND;TZID=America/Los_Angeles:20261114T180000
 SUMMARY:Maxwell Poulos Duo @ Mission West
@@ -267,7 +267,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:365e6a1695889cf32f9c@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T220000
 SUMMARY:River Mouth @ Mission West
@@ -279,7 +279,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:8daa8736135ebd233634@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261115T140000
 DTEND;TZID=America/Los_Angeles:20261115T170000
 SUMMARY:South County Dead Band @ Mission West
@@ -291,7 +291,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:d640f3f4e34512fd0765@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261120T190000
 DTEND;TZID=America/Los_Angeles:20261120T220000
 SUMMARY:Ardvark @ Mission West
@@ -303,7 +303,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:bd84979cea8dcab34602@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261121T150000
 DTEND;TZID=America/Los_Angeles:20261121T180000
 SUMMARY:The JADe Trio @ Mission West
@@ -315,7 +315,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:da9dce0425740881cea0@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T220000
 SUMMARY:Kid Kameleon And The Lounge Lizards @ Mission West
@@ -327,7 +327,7 @@ URL:https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west
 END:VEVENT
 BEGIN:VEVENT
 UID:9506d91df990e7c96f90@santa-cruz-shows
-DTSTAMP:20261012T142007Z
+DTSTAMP:20261012T184851Z
 DTSTART;TZID=America/Los_Angeles:20261122T140000
 DTEND;TZID=America/Los_Angeles:20261122T170000
 SUMMARY:Blue Lemonade @ Mission West
