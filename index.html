@@ -299,9 +299,9 @@ function render() {
       : `<p class="empty">No shows match${q ? ` “${esc(state.q)}”` : ""} in this range. Try "All" dates or tap "All venues".</p>`;
     return;
   }
-  const days = [...byDay];
-  if (past) days.reverse(); // most recent day first
-  list.innerHTML = days.map(([day, evs]) => dayHTML(day, evs, today)).join("");
+  list.innerHTML = [...byDay].map(([day, evs]) => dayHTML(day, evs, today)).join("");
+  // Past reads oldest to newest like the other views, opened at the bottom (most recent) so scrolling up goes back in time.
+  if (past) list.lastElementChild.scrollIntoView({ block: "end" });
 }
 
 function dayHTML(day, evs, today) {
