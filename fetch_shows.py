@@ -269,6 +269,35 @@ def quarry():
     return music_only(out)
 
 
+def symphony():
+    """The season overview page has one section per concert: '<h1>Series</h1><h1><strong>TITLE</strong></h1>',
+    then dates like 'SATURDAY, November 14 at 7:30 PM, Civic Auditorium'. Sunday repeats at the
+    Mello Center in Watsonville are skipped; only the Civic Auditorium shows are listed."""
+    paths = re.findall(r'href="/((\d{4})-\d{2}-concert-season-overview)"', get("https://santacruzsymphony.org/"))
+    path, season = max(paths, key=lambda p: p[1])  # newest season if two are linked
+    page, season = "https://santacruzsymphony.org/" + path, int(season)
+    h = get(page)
+    small = {"a", "an", "and", "at", "by", "for", "in", "of", "on", "or", "the", "to", "with"}
+    heads = list(re.finditer(r"<h1[^>]*>([^<]*(?:Concert|Series)[^<]*)</h1>\s*<h1[^>]*>(.*?)</h1>", h, re.S))
+    out = []
+    for i, m in enumerate(heads):
+        section = h[m.end():heads[i + 1].start() if i + 1 < len(heads) else len(h)]
+        series, title = clean(m.group(1)), clean(m.group(2))
+        if title.isupper():  # 'RACHMANINOFF’S 3RD' -> 'Rachmaninoff’s 3rd'
+            words = title.lower().split()
+            title = " ".join(w if i and w in small else w[:1].upper() + w[1:] for i, w in enumerate(words))
+        tix = re.search(r'href="(https://www\.santacruztickets\.com/[^"]+)"', section)
+        text = clean(section)
+        for mon, d, t in re.findall(r"(?:MON|TUES|WEDNES|THURS|FRI|SATUR|SUN)DAY,\s*([A-Za-z]+)\s+(\d{1,2})\s+at\s+"
+                                    r"(\d{1,2}:\d\d\s*[AP]M),\s*Civic Auditorium", text, re.I):
+            month = datetime.strptime(mon[:3].title(), "%b").month
+            day = date(season if month >= 7 else season + 1, month, int(d))
+            out.append(event("Santa Cruz Symphony", title, day, parse_time(t),
+                             html.unescape(tix.group(1)) if tix else page, None,
+                             f"{series} · Civic Auditorium"))
+    return out
+
+
 def discretion():
     h = get("https://www.discretionbrewing.com/events/")
     out = []
@@ -424,6 +453,7 @@ VENUES = {
     "Shanty Shack": shanty_shack_with_fallback,
     "UCSC Recital Hall": lambda: tribe("UCSC Recital Hall", "https://events.ucsc.edu", 108),
     "Quarry Amphitheater": quarry,
+    "Santa Cruz Symphony": symphony,
     "Bruno's Bar & Grill": lambda: manual("manual/brunos.json"),
     "Henfling's Tavern": lambda: localgroove("Henflings Tavern", "/ben-lomond/venue/henflings-tavern", "Henfling's Tavern"),
     "Ugly Mug": lambda: music_only(squarespace("Ugly Mug", "https://www.cafeugly.com", "/live-music-the-mug", tidy_mug)),
