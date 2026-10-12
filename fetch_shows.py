@@ -530,10 +530,24 @@ def write_ics(events, path, name):
         f.write("\r\n".join(_fold(l) for l in lines) + "\r\n")
 
 
+KEEP_PAST_DAYS = 365
+
+
+def past_events(path, today):
+    """Shows from the previous run that have since happened, kept for a year so they stay on the calendar."""
+    cutoff = (date.fromisoformat(today) - timedelta(days=KEEP_PAST_DAYS)).isoformat()
+    try:
+        with open(path) as f:
+            old = json.load(f).get("events", [])
+    except (OSError, ValueError):
+        return []
+    return [e for e in old if cutoff <= e["date"] < today]
+
+
 def main():
     out_path = sys.argv[1] if len(sys.argv) > 1 else "events.json"
     today = date.today().isoformat()
-    events, sources = [], []
+    events, sources = past_events(out_path, today), []
     for name, fn in VENUES.items():
         try:
             got = [e for e in fn() if e["date"] >= today]

@@ -205,6 +205,7 @@ footer .bad { color: var(--accent); }
         <button type="button" data-range="week" aria-pressed="false">7 days</button>
         <button type="button" data-range="month" aria-pressed="false">30 days</button>
         <button type="button" data-range="all" aria-pressed="true">All</button>
+        <button type="button" data-range="past" aria-pressed="false">Past</button>
       </div>
     </div>
     <div class="row">
@@ -273,9 +274,12 @@ function render() {
   const today = localISO(new Date());
   const cal = state.view === "cal";
   $(".rangeseg").hidden = cal;
-  const until = cal ? "9999" : { today: today, week: addDays(6), month: addDays(29), all: "9999" }[state.range];
+  // The data keeps a year of past shows: the calendar shows them all, the list only under "Past".
+  const past = !cal && state.range === "past";
+  const from = cal ? "" : past ? addDays(-365) : today;
+  const until = cal ? "9999" : past ? addDays(-1) : { today: today, week: addDays(6), month: addDays(29), all: "9999" }[state.range];
   const q = state.q.trim().toLowerCase();
-  const inRange = DATA.events.filter((e) => e.date >= today && e.date <= until);
+  const inRange = DATA.events.filter((e) => e.date >= from && e.date <= until);
   const counts = {};
   inRange.forEach((e) => (counts[e.venue] = (counts[e.venue] || 0) + 1));
   renderChips(counts);
@@ -290,10 +294,14 @@ function render() {
 
   const list = $("#list");
   if (!shown.length) {
-    list.innerHTML = `<p class="empty">No shows match${q ? ` “${esc(state.q)}”` : ""} in this range. Try "All" dates or tap "All venues".</p>`;
+    list.innerHTML = past
+      ? `<p class="empty">No past shows${q ? ` matching “${esc(state.q)}”` : ""}${state.focus ? ` at ${esc(state.focus)}` : ""} in the last year.</p>`
+      : `<p class="empty">No shows match${q ? ` “${esc(state.q)}”` : ""} in this range. Try "All" dates or tap "All venues".</p>`;
     return;
   }
-  list.innerHTML = [...byDay].map(([day, evs]) => dayHTML(day, evs, today)).join("");
+  const days = [...byDay];
+  if (past) days.reverse(); // most recent day first
+  list.innerHTML = days.map(([day, evs]) => dayHTML(day, evs, today)).join("");
 }
 
 function dayHTML(day, evs, today) {
@@ -311,9 +319,11 @@ function dayHTML(day, evs, today) {
 }
 
 function renderCal(byDay, today, q) {
-  const first = today.slice(0, 7);
+  const firstDay = DATA.events.length && DATA.events[0].date < today ? DATA.events[0].date : today;
+  const first = firstDay.slice(0, 7);
   const last = DATA.events.length ? DATA.events[DATA.events.length - 1].date.slice(0, 7) : first;
-  if (!state.month || state.month < first) state.month = first;
+  if (!state.month) state.month = today.slice(0, 7);
+  if (state.month < first) state.month = first;
   if (state.month > last) state.month = last;
   const [y, m] = state.month.split("-").map(Number);
   const start = new Date(y, m - 1, 1);
@@ -344,7 +354,7 @@ function renderCal(byDay, today, q) {
   const lastDay = DATA.events.length ? DATA.events[DATA.events.length - 1].date : today;
   const pickHTML = state.pick
     ? `<div class="daynav">
-        <button type="button" data-daystep="-1" aria-label="Previous day" ${state.pick <= today ? "disabled" : ""}>‹</button>
+        <button type="button" data-daystep="-1" aria-label="Previous day" ${state.pick <= firstDay ? "disabled" : ""}>‹</button>
         <span>${new Date(state.pick + "T12:00:00").toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric" })}</span>
         <button type="button" data-daystep="1" aria-label="Next day" ${state.pick >= lastDay ? "disabled" : ""}>›</button>
       </div>` +
@@ -453,7 +463,9 @@ function renderChips(counts) {
 function renderMeta() {
   const upd = new Date(DATA.updated);
   const ageDays = Math.floor((Date.now() - upd) / 864e5);
-  $("#meta").innerHTML = `<b>${DATA.events.length}</b> shows · ${new Set(DATA.events.map((e) => e.venue)).size} venues<br>updated ${upd.toLocaleDateString("en-US", { month: "short", day: "numeric" })}${ageDays > 7 ? ` (${ageDays} days ago)` : ""}`;
+  const today = localISO(new Date());
+  const upcoming = DATA.events.filter((e) => e.date >= today).length;
+  $("#meta").innerHTML = `<b>${upcoming}</b> upcoming shows · ${new Set(DATA.events.map((e) => e.venue)).size} venues<br>updated ${upd.toLocaleDateString("en-US", { month: "short", day: "numeric" })}${ageDays > 7 ? ` (${ageDays} days ago)` : ""}`;
   const bad = DATA.sources.filter((s) => !s.ok);
   $("#foot").innerHTML = `<div>Pulled from each venue's own listings. Tap a show for tickets and details; always confirm on the venue site.</div>` +
     (bad.length ? `<div class="bad">Couldn't reach on last update: ${bad.map((s) => esc(s.venue)).join(", ")}.</div>` : "");
