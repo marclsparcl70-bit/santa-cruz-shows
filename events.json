@@ -1,30 +1,30 @@
 {
- "updated": "2026-10-11T07:12-07:00",
+ "updated": "2026-10-12T07:20-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 42
+   "count": 41
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 75
+   "count": 84
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 70
+   "count": 69
   },
   {
    "venue": "Cat Alley Street",
@@ -44,27 +44,27 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 19
+   "count": 26
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "venue": "UCSC Recital Hall",
@@ -94,125 +94,15 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 23
+   "count": 22
   }
  ],
  "events": [
-  {
-   "venue": "Mission West",
-   "title": "Scarlett Fyre",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "Moe's Alley",
-   "title": "AC Myles & Band: Stratocaster Masters",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 1:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/96/29/54_Listings.jpg?v=3"
-  },
-  {
-   "venue": "Rio Theatre",
-   "title": "Bookshop Santa Cruz presents: Min Jin Lee | AMERICAN HAGWON",
-   "date": "2026-10-11",
-   "time": "14:00",
-   "url": "https://www.riotheatre.com/events-2/2026/10/11/minjinlee",
-   "price": null,
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1786734419394-HPSWIOQEJBD4K991G64M/Min+Jin+Lee+RIO+copy.jpg"
-  },
-  {
-   "venue": "Discretion Brewing",
-   "title": "The Owls",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "url": "https://www.discretionbrewing.com/events/",
-   "price": null,
-   "info": "Live Music 3-5pm",
-   "image": null
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jahtiva with the Rudians",
-   "date": "2026-10-11",
-   "time": "15:00",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Jahtiva Mia Jativa, known as “Jahtiva” takes her semi-eponymous name from a clever play on words that translates to \"God's Flower.\" With…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_db61193115f949cb9b3f2e0c3a89a870~mv2.jpg\"]"
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Alex Lucero Band",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/alex-lucero-band",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
-   "venue": "El Vaquero Winery",
-   "title": "Bobby Mariano & Friends",
-   "date": "2026-10-11",
-   "time": "16:00",
-   "url": "https://reservations.elvaquerowinery.com/events/c685b0b8b8e586193564c341fcc6ad0b8e3df0fd",
-   "price": "$10",
-   "info": "Rock, Funk · Food: Corralitos Pizza Kitchen",
-   "image": "https://static.wixstatic.com/media/cc50de_557a0c2fb5df481cb5e6f0dddae33a41~mv2.png"
-  },
-  {
-   "venue": "Abbott Square",
-   "title": "Salsa by The Sea Afterparty",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-s8jnt",
-   "price": null,
-   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Grateful",
-   "date": "2026-10-11",
-   "time": "18:00",
-   "url": "https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-hartle-and-the-hartle-gold-band-6-to-9pm-in-the-garden-10-at-the-door-3",
-   "price": "$15",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745725585371-4OYPGIK7MDQFFH89DBU2/thumbnail_Image.jpg"
-  },
-  {
-   "venue": "Kuumbwa Jazz",
-   "title": "Yellowjackets",
-   "date": "2026-10-11",
-   "time": "19:00",
-   "url": "https://www.kuumbwajazz.org/calendar/yellowjackets-2/",
-   "price": null,
-   "info": null,
-   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/yellowjackets-cropped.jpg"
-  },
-  {
-   "venue": "The Sand Bar",
-   "title": "John Michael Open Jam",
-   "date": "2026-10-11",
-   "time": "19:30",
-   "url": "https://thesandbarcapitola.com/event/john-michael-open-jam-22/",
-   "price": null,
-   "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/09/john-new.jpg"
-  },
   {
    "venue": "Ugly Mug",
    "title": "Open Mic",
@@ -725,6 +615,16 @@
   },
   {
    "venue": "Mission West",
+   "title": "Open At 10Am Every Sunday",
+   "date": "2026-10-18",
+   "time": "10:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
+   "venue": "Mission West",
    "title": "Dead On Deck",
    "date": "2026-10-18",
    "time": "14:00",
@@ -1014,6 +914,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/06/joel-frahm-trio-cropped.jpg"
   },
   {
+   "venue": "Mission West",
+   "title": "Hod And The Helpers, Eve's Peach, The Reno Casinos",
+   "date": "2026-10-22",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Dusk Dept.",
    "date": "2026-10-22",
@@ -1094,6 +1004,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_58fa464c33e34e79ba23f31a909d05c7~mv2.jpg\"]"
   },
   {
+   "venue": "Mission West",
+   "title": "Website Photo Shoot",
+   "date": "2026-10-23",
+   "time": "18:30",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Abbott Square",
    "title": "El Brick",
    "date": "2026-10-23",
@@ -1165,13 +1085,13 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Bellydance Community Showcase",
+   "title": "Bellydance In The Garden",
    "date": "2026-10-24",
    "time": "15:00",
-   "url": "https://www.thecrepeplace.com/shows-list/bellydance-community-showcase-saturday-september-13-3pm-in-the-garden-free-event",
+   "url": "https://www.thecrepeplace.com/shows-list/bellydance-in-the-garden",
    "price": "FREE",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784314784589-SQKI09M4NX97ALZ8LVRX/pNgcLYVG.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788289582829-8FRQUVOL27UOZJBMBY4T/Luna+Dance+Collective_362.JPG"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -2294,6 +2214,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1785210356924-CGBBGQ8796XR9W7WEZ0D/riotheatre-51746988995179-6609677677011160276-11.10.26_DonavonFrankenreiter_BandofHeathens_square.png"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Strange Relationship: Mike Owens Funk Band",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/matt-hartle-mike-owens-funk-band-tuesday-september-1-28pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791743798221-XILZBV3XBZ9OHD0L3XCF/images.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Jeffrey Martin",
    "date": "2026-11-10",
@@ -2384,6 +2314,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791159871407-UJABRLN6SUR1OIVBTATT/IMG_1189.JPG"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Elliot Ok, Joe Kaplow Band, Kai Killion",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/elliot-ok-joe-kaplow-band-kai-killion-thursday-november-12-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791744039839-1AZO6F1FUDEU13Z2YHBU/unnamed.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Jake Xerxes Fussell",
    "date": "2026-11-12",
@@ -2392,6 +2332,16 @@
    "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155950107"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Mark Holzinger Western Swing & Jazz",
+   "date": "2026-11-13",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/mark-holzinger-western-swing-jazz-friday-november-13-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791744721929-EC0CEVMVN87Z38HIL3PU/asset_f51c6ac8-c844-599b-ac10-67d361e84b04.webp"
   },
   {
    "venue": "Cork & Fork",
@@ -2522,6 +2472,16 @@
    "price": null,
    "info": null,
    "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac087fda540f064c396777b/1791002878808/"
+  },
+  {
+   "venue": "Mission West",
+   "title": "River Mouth",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Rio Theatre",
@@ -2794,6 +2754,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_6000894049f347cbba64d761bcdfec45~mv2.png"
   },
   {
+   "venue": "Mission West",
+   "title": "Ardvark",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Ugly Mug",
    "title": "Sam Baker",
    "date": "2026-11-20",
@@ -2844,14 +2814,24 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
   },
   {
-   "venue": "The Crepe Place",
-   "title": "Bellydance In The Garden",
+   "venue": "Mission West",
+   "title": "The JADe Trio",
    "date": "2026-11-21",
    "time": "15:00",
-   "url": "https://www.thecrepeplace.com/shows-list/bellydance-in-the-garden",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Bellydance Community Showcase",
+   "date": "2026-11-21",
+   "time": "15:00",
+   "url": "https://www.thecrepeplace.com/shows-list/bellydance-community-showcase-saturday-september-13-3pm-in-the-garden-free-event",
    "price": "FREE",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788289582829-8FRQUVOL27UOZJBMBY4T/Luna+Dance+Collective_362.JPG"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784314784589-SQKI09M4NX97ALZ8LVRX/pNgcLYVG.jpg"
   },
   {
    "venue": "Abbott Square",
@@ -2862,6 +2842,16 @@
    "price": null,
    "info": "Gabe Robledo started The MonDays in high school. Since the addition of singer/songwriter, Chuck Richards , the band has expanded into a…",
    "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac1c656960d701d0c0e8139/1791154976455/"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Kid Kameleon And The Lounge Lizards",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -2922,6 +2912,16 @@
    "price": null,
    "info": "Hot Club Soquel Live Django Jazz",
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790447269682-EUL0WFGUBKOHSR16412R/IMG_4063.jpeg"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Blue Lemonade",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -3002,6 +3002,16 @@
    "price": "Free – $12",
    "info": null,
    "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/orchestra-photo_16x9-scaled.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Dig It! Funk Night At The Crepe Place With Trianna Feruza And The Heavy Hitters",
+   "date": "2026-11-24",
+   "time": "21:00",
+   "url": "https://www.thecrepeplace.com/shows-list/dig-it-funk-night-at-the-crepe-place-with-trianna-feruza-and-the-heavy-hitters-tuesday-april-21-at-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1780961099757-SKCRWZT9JXOV8OAZ8V74/istockphoto-539120415-612x612.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -3115,6 +3125,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Open Mic",
+   "date": "2026-11-30",
+   "time": "19:00",
+   "url": "https://www.thecrepeplace.com/shows-list/open-mic-monday-august-11-7-10pm-free",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781801512758-CPCT7WTWI9XHW06E51M8/1781562597006_123_1.jpeg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "JAZZ THE DOG, FREE SHOW IN THE GARDEN, 5:30 to",
    "date": "2026-12-01",
    "time": "17:30",
@@ -3185,13 +3205,13 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Storytellers In The Bar",
+   "title": "Storytellers In The Bar, Carolyn Sills, Trianna Feruza, And Kay Craig",
    "date": "2026-12-03",
    "time": "19:00",
    "url": "https://www.thecrepeplace.com/shows-list/storytellers-in-the-bar-wednesday-july-8-7pm-free-show",
    "price": "FREE",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789146468813-RNV2U027YTUOD2JEO1F5/Carolyn-Sills_web.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791743063519-HUETCZNZRAVU3903VOIC/StoryTellers+%238+SQ1+.jpg"
   },
   {
    "venue": "Ugly Mug",
@@ -3252,6 +3272,16 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022844533"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Zoe Fitzgerald Carter",
+   "date": "2026-12-05",
+   "time": "17:00",
+   "url": "https://www.thecrepeplace.com/shows-list/zoe-fitzgerald-carter-saturday-december-5-from-5-to-7pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791747343216-J8FA0S50I0U2S94XNV8S/Zoe_3662Color-1_HiRes_by-Irene-Young-Zoe-FitzGerald-Carter.jpg"
   },
   {
    "venue": "Rio Theatre",
@@ -3344,6 +3374,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030758115"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Family Jam",
+   "date": "2026-12-07",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/family-jam-monday-march-16-from-6-9pm-free",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1773345282683-82CHMDIUQGOTGH43NPJM/5AB28C2B-61B6-4812-A331-6081109B27C2.JPG"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "The Bad Plus – Farewell Tour",
    "date": "2026-12-07",
@@ -3352,6 +3392,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/bad-plus-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Jazz On The Rocks",
+   "date": "2026-12-08",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/4b5sf6ktets5hscz9ha442kacsx5y9-r8779-2hpb2-wjk9t-5j98t",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1737066344818-HPE2P1BRPNT0YJSWIL9J/Screenshot+2025-01-13+at+11.52.46%E2%80%AFAM.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -3372,6 +3422,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/12/89/53/34_Listings.jpg?v=9"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Bob O'Neill's Absent Minds",
+   "date": "2026-12-09",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/bob-oneills-absent-minds-wednesday-october-7-from-530-to-730pm-on-the-garden-stage-free-show",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784302984167-11I7LKDHZ9LD7TLJC02U/IMG_5716.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -3472,16 +3532,6 @@
    "price": "$25",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1749136173555-M7FFJ4KSOFKN7F1AAPYA/IMG_0824.jpg"
-  },
-  {
-   "venue": "Catalyst Main Room",
-   "title": "Ski Mask the Slump God",
-   "date": "2026-12-11",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/santa-cruz-california/",
-   "price": null,
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/ski-mask-the-slump-god.jpeg"
   },
   {
    "venue": "Felton Music Hall",
@@ -3622,6 +3672,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/skylar-tang-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "The Ooo-Maus",
+   "date": "2026-12-17",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/slow-coast-the-ooo-maus-saturday-september-26-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791750029036-JF1U7DXIYI6Y9QPJZJS9/fc216f47-66ca-4d71-bf9d-5272a6be8751_1000x553.jpg"
   },
   {
    "venue": "Felton Music Hall",
