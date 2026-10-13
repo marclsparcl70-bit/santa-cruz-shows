@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-12T11:48-07:00",
+ "updated": "2026-10-13T07:18-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 17
+   "count": 20
   },
   {
    "venue": "Moe's Alley",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 84
+   "count": 83
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 69
+   "count": 68
   },
   {
    "venue": "Cat Alley Street",
@@ -34,7 +34,7 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 59
+   "count": 58
   },
   {
    "venue": "Woodhouse",
@@ -59,12 +59,12 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "venue": "UCSC Recital Hall",
@@ -94,12 +94,12 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 2
+   "count": 3
   },
   {
    "venue": "Cork & Fork",
@@ -1689,6 +1689,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/05/acoustic-alchemy-cropped.jpg"
   },
   {
+   "venue": "The Sand Bar",
+   "title": "Fuse",
+   "date": "2026-10-14",
+   "time": "19:00",
+   "url": "https://thesandbarcapitola.com/event/fuse-7/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2025/08/fuse.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Alborosie & Shengen Clan w/ Rise Up + Selecta 7",
    "date": "2026-10-14",
@@ -1907,6 +1917,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "The Sand Bar",
+   "title": "3 Upfront, Stench& El Normbo",
+   "date": "2026-10-16",
+   "time": "20:30",
+   "url": "https://thesandbarcapitola.com/event/3-upfront-stench-el-normbo/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/10/IMG_2047.jpeg"
   },
   {
    "venue": "Catalyst Main Room",
@@ -2226,7 +2246,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/98/79/54_Listings.jpg?v=6"
+   "image": "https://i.ticketweb.com/i/00/12/98/79/54_Listings.jpg?v=7"
   },
   {
    "venue": "Felton Music Hall",
@@ -2410,13 +2430,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Dusk Dept.",
+   "title": "Moe's Alley Presents: Dusk Dept. w/ The Westones",
    "date": "2026-10-22",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/02/68/64_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/13/02/68/64_Listings.jpg?v=6"
   },
   {
    "venue": "Rio Theatre",
@@ -2626,7 +2646,7 @@
    "url": "https://www.thecrepeplace.com/shows-list/casanostra-thursday-january-15-from-530-to-730pm-on-the-garden-stage-free-show",
    "price": "FREE",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1767378996260-NHK5V0WE1R94MVZGM8AX/event_post__Casanostra-Gypsy-Jazz_1753329774_3_fitbox_1000x600.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791841832219-YF8N31CCARXR5RKW6BCN/Casanostr+World+Music+Rectangle.jpg"
   },
   {
    "venue": "Cork & Fork",
@@ -2683,7 +2703,7 @@
    "title": "THE RUMBA MADRE, SUIKA T., MOTHERSHIP CONNECTION DJs",
    "date": "2026-10-24",
    "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/the-rumba-madre-eyes-like-lanterns-suika-t-saturday-october-24-8pm-15",
+   "url": "https://www.ticketweb.com/event/the-rumba-madre-suika-t-the-crepe-place-tickets/14376494?pl=thecrepeplace",
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1786743961528-N5LDD693JDC8SWB3J0VI/ab676161000051743575bbea56c678714be20e83.jpg"
@@ -2850,7 +2870,7 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "Master Class: Susan Muscarella – The Piano Trios of Bud Powell, Bill Evans & Keith Jarrett",
+   "title": "CANCELLED: Master Class: Susan Muscarella – The Piano Trios of Bud Powell, Bill Evans & Keith Jarrett",
    "date": "2026-10-27",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/master-class-susan-muscarella-the-piano-trios-of-bud-powell-bill-evans-keith-jarrett-2/",
@@ -2937,6 +2957,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "Catal Huyuk, Oraison, Angurgapi, & Queen Mage",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grimpire Entertainment is bringing its first touring package to Shanty Shack Brewing on Thursday, October 29th, with a haunting night of…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_4f5ea83559d94cc28722e13dc0c9ad9c~mv2.png\"]"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -3849,6 +3879,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1759698547918-3B05DDJAFXKAZDRNSDQW/funkyard.jpg"
   },
   {
+   "venue": "Catalyst Atrium",
+   "title": "BITE ME (in the atrium)",
+   "date": "2026-11-13",
+   "time": "19:00",
+   "url": "https://catalystclub.com/event/bite-me-in-the-atrium/the-catalyst-atrium/santa-cruz-california/",
+   "price": "$34.12",
+   "info": "Show: 7 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/bite-me-in-the-atrium.jpeg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "World Class Music Live Presents: Pipo Romero",
    "date": "2026-11-13",
@@ -4349,6 +4389,16 @@
    "image": null
   },
   {
+   "venue": "Catalyst Atrium",
+   "title": "WAVY TRAIN feat. Donald Glaude + Friends",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://catalystclub.com/event/wavy-train-feat-donald-glaude-friends/the-catalyst-atrium/santa-cruz-california/",
+   "price": "$29.99",
+   "info": "Doors: 7 pm Show: 7:30 pm · Ages 21 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/wavy-train-feat-donald-glaude-friends.jpeg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Painted Mandolin – 10th Anniversary Show",
    "date": "2026-11-21",
@@ -4547,6 +4597,16 @@
    "price": null,
    "info": "Doors 7:30 PM",
    "image": "https://i.ticketweb.com/i/00/12/99/57/74_Listings.jpg?v=6"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Poor House Bistro",
+   "date": "2026-11-28",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/7f3586225ebdd5d647cf910704029fb46e69a369",
+   "price": "$10",
+   "info": "Motown, Staxx",
+   "image": "https://static.wixstatic.com/media/cc50de_0beac3117ece45adb714a616ccfabe43~mv2.png"
   },
   {
    "venue": "The Crepe Place",
@@ -5027,6 +5087,16 @@
    "price": "$25",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1749136173555-M7FFJ4KSOFKN7F1AAPYA/IMG_0824.jpg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "Ski Mask the Slump God",
+   "date": "2026-12-11",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/santa-cruz-california/",
+   "price": null,
+   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/ski-mask-the-slump-god.jpeg"
   },
   {
    "venue": "Felton Music Hall",
