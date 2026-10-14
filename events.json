@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-13T07:18-07:00",
+ "updated": "2026-10-14T07:27-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "venue": "Moe's Alley",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 83
+   "count": 91
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -29,12 +29,12 @@
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 0
+   "count": 4
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 58
+   "count": 59
   },
   {
    "venue": "Woodhouse",
@@ -54,7 +54,7 @@
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 26
+   "count": 32
   },
   {
    "venue": "El Vaquero Winery",
@@ -94,12 +94,12 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "venue": "Cork & Fork",
@@ -1700,13 +1700,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Alborosie & Shengen Clan w/ Rise Up + Selecta 7",
+   "title": "*SOLD OUT - THANK YOU!* - Alborosie & Shengen Clan w/ Rise Up + Selecta 7",
    "date": "2026-10-14",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/57/94/03_Listings.jpg?v=6"
+   "image": "https://i.ticketweb.com/i/00/13/57/94/03_Listings.jpg?v=7"
   },
   {
    "venue": "Felton Music Hall",
@@ -1777,6 +1777,16 @@
    "price": null,
    "info": "Afrobeats Nite Santa Cruz is your bi-weekly dose of dance, rhythm, and pure vibes. Hosted by DJ Monk Earl at Abbott Square Market, it's…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1746040227117-OCPQZ129KMQRL7M3DUYT/1000000999.png"
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "For The Love…of Libras!",
+   "date": "2026-10-15",
+   "time": "19:00",
+   "url": "https://catalleystreet.com/event/for-the-love-of-libras/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/FTL-Oct-2.jpg"
   },
   {
    "venue": "Ugly Mug",
@@ -1867,6 +1877,16 @@
    "price": null,
    "info": "Man In Black performs classicJohnny Cash songs interpreted through an Americana style.",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1787515690290-W30498OW44NNDVVQHE1J/Man+In+Black.JPG"
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "Third Rail – IYKYK",
+   "date": "2026-10-16",
+   "time": "19:00",
+   "url": "https://catalleystreet.com/event/third-rail-iykyk/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/IYKYK-Crew-Party-Flyer.png"
   },
   {
    "venue": "Mission West",
@@ -2019,6 +2039,16 @@
    "image": null
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Forge Films Company party",
+   "date": "2026-10-17",
+   "time": "18:00",
+   "url": "https://catalleystreet.com/event/943/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/forge-film.jpg"
+  },
+  {
    "venue": "Cork & Fork",
    "title": "Leroy & Friends",
    "date": "2026-10-17",
@@ -2097,6 +2127,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "Lost In SBASS",
+   "date": "2026-10-17",
+   "time": "21:00",
+   "url": "https://catalleystreet.com/event/lost-in-sbass-31/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/a11a1993-5052-4fc1-beee-3ebc5c22025b.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -2317,6 +2357,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1773696996371-ALKV90F71LSBBTR9QQON/colorspiralillusion07.jpg"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Cribbage Tournament",
+   "date": "2026-10-21",
+   "time": "11:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -3290,7 +3340,7 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "Helen Sung Quartet – Oracles Quartet",
+   "title": "Helen Sung – Oracles Quartet",
    "date": "2026-11-02",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/helen-sung-quartet/",
@@ -4320,13 +4370,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Kabaka Pyramid (Night 1)",
+   "title": "Moe's Alley Presents: Kabaka Pyramid (Night 1) w/ Kava Jah & The Remedy + Selecta 7",
    "date": "2026-11-20",
    "time": "21:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/62/93/63_Listings.jpg?v=5"
+   "image": "https://i.ticketweb.com/i/00/13/62/93/63_Listings.jpg?v=6"
   },
   {
    "venue": "Felton Music Hall",
@@ -4430,13 +4480,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Kabaka Pyramid (Night 2)",
+   "title": "Moe's Alley Presents: Kabaka Pyramid (Night 2) w/ Lawgiver The Kingson + DJ Spleece",
    "date": "2026-11-21",
    "time": "21:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/63/22/63_Listings.jpg?v=3"
+   "image": "https://i.ticketweb.com/i/00/13/63/22/63_Listings.jpg?v=4"
   },
   {
    "venue": "Felton Music Hall",
@@ -4559,6 +4609,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1780961099757-SKCRWZT9JXOV8OAZ8V74/istockphoto-539120415-612x612.jpg"
   },
   {
+   "venue": "Mission West",
+   "title": "Joli",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "90s DJ NIGHT! With DJ JAHI & DJ WYZE1, 8PM TIL CLOSE! $10",
    "date": "2026-11-25",
@@ -4567,6 +4627,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1787254881832-CEX5O58J44UR1IP0W69T/9ec624_747946371fdd4f2599bf5545c5e0fa9b%7Emv2.jpg"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Wingin' It",
+   "date": "2026-11-27",
+   "time": "19:30",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Catalyst Main Room",
@@ -4619,6 +4689,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791216928405-R9VRJ9EFZX7XFMB6TCRY/image1.png"
   },
   {
+   "venue": "Mission West",
+   "title": "C Street Band",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Catalyst Main Room",
    "title": "DON CARLOS & JUNIOR TOOTS",
    "date": "2026-11-28",
@@ -4647,6 +4727,16 @@
    "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007809525"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Dead On Deck",
+   "date": "2026-11-29",
+   "time": "14:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -4727,6 +4817,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/kassa-overall-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Nucleus",
+   "date": "2026-12-02",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/nucleus-wednesday-december-2-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791908043056-II4LMSKUAL39AMQ3DKL2/IMG_6091.JPEG"
   },
   {
    "venue": "The Crepe Place",
@@ -5096,7 +5196,7 @@
    "url": "https://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/santa-cruz-california/",
    "price": null,
    "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/ski-mask-the-slump-god.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/ski-mask-the-slump-god-1.jpeg"
   },
   {
    "venue": "Felton Music Hall",
@@ -5187,6 +5287,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1789669346370-L4NO7HSUEC3K7GOF2BI3/gk-glasses.jpg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "The Rock and Roll Playhouse: Music of Bob Marley",
+   "date": "2026-12-13",
+   "time": null,
+   "url": "https://www.prekindle.com/event/14765-the-rock-and-roll-playhouse-music-of-bob-marley-felton",
+   "price": "$15",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948982262608"
   },
   {
    "venue": "Felton Music Hall",
@@ -5399,6 +5509,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/gerald-clayton-kurt-rosenwinkel-1.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Plastic Nancy, Empire Grade, Pink Scalona",
+   "date": "2027-01-15",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/plastic-nancy-madrone-saturday-january-24-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1763049768946-9P3LBIFEZYTF8KRYM81B/51036497_821879734815079_328879479944380416_n.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Arturo Vaca",
    "date": "2027-01-15",
@@ -5459,6 +5579,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1781200893999-CHENHNQDK5NCEPWQXJJA/Static_Social-Instagram_1080x1080_JesseCook_2027_Regional_RioTheatre_0121_28129.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Nels Andrews, Kimya Diggs, Scott Elliot Ferreter",
+   "date": "2027-01-21",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/nels-andrews-kimya-diggs-scott-elliot-ferreter-thursday-january-21-8pm-15",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791916895735-0RHTIJH8S044QZX9I2HP/Nels-Andrews-2020-web-2.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Andy McKee",
    "date": "2027-01-22",
@@ -5489,6 +5619,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1789756485692-9WG729C96W3PF5NUXBYN/1-22-27_TraeCrowder_8.5x11.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Oraison, Thief",
+   "date": "2027-01-22",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/oraison-album-release-thursday-december-11-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1760534842910-IGVXGIRCV8PIT72INJV4/0040943603_10.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "John McCutcheon",
    "date": "2027-01-22",
@@ -5507,6 +5647,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/vijay-and-wadada-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Rosebud",
+   "date": "2027-01-23",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/rosebud-friday-august-29-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1751133520127-U9N9PA1DY07MX5ZDZVRS/download.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -5602,11 +5752,11 @@
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Keller Williams",
    "date": "2027-01-30",
-   "time": "21:00",
+   "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
-   "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/06/74/34_Listings.jpg?v=4"
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/06/74/34_Listings.jpg?v=5"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -5647,6 +5797,26 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2023/08/Champian-Fulton-1.jpeg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "Little Stranger: Broken Hearted Boys Tour",
+   "date": "2027-02-05",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/little-stranger-broken-hearted-boys-tour/the-catalyst/santa-cruz-california/",
+   "price": null,
+   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/little-stranger.jpeg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Where's West",
+   "date": "2027-02-06",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/wheres-west-eternal-wave-the-crepe-place-tickets/14959713?pl=thecrepeplace",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1777478757388-8HZCL7X0OL9SFMSU36ZH/Screenshot-at-Nov-18-23-03-19.png"
   },
   {
    "venue": "Felton Music Hall",
@@ -5719,6 +5889,26 @@
    "image": "https://i.ticketweb.com/i/00/13/07/27/64_Listings.jpg?v=6"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Slingshot Improv Trio",
+   "date": "2027-02-12",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/slingshot-thursday-october-8-8pm-15",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789751078981-I9X88V4B13FKTUP4TQDB/p02.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "(((folkYEAH))) Presents: LAEL NEALE",
+   "date": "2027-02-13",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/folkyeah-presents-lael-neale-the-crepe-place-tickets/14378224?pl=thecrepeplace",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791914123379-UNJUN50PJ8SX8YN0VPSN/LN+by+Cristian+Bravo+1.jpeg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Hamilton de Holanda Trio",
    "date": "2027-02-15",
@@ -5767,6 +5957,16 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/07/41/74_Listings.jpg?v=4"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "The Jenny O'Leary Quartet",
+   "date": "2027-02-20",
+   "time": "17:00",
+   "url": "https://www.thecrepeplace.com/shows-list/the-jennu-oleary-quartet-wednesday-september-17-from-530-to-730pm-on-the-garden-stage-free-show",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1769920371250-42KALUNTJXJL7M33ORVX/Jenny%2BO%2527Leary%2BQuartet%2B.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -5897,6 +6097,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1789757096969-S5JEEJ9IZOYNW7ECI2XK/3-14-27_Alok_Web_V02.jpg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "The Rock and Roll Playhouse: Music of the Grateful Dead",
+   "date": "2027-03-14",
+   "time": null,
+   "url": "https://www.prekindle.com/event/24525-the-rock-and-roll-playhouse-music-of-the-grateful-dead-felton",
+   "price": "$15",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948982273272"
   },
   {
    "venue": "Kuumbwa Jazz",
