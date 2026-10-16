@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T07:29-07:00",
+ "updated": "2026-10-16T07:27-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -24,17 +24,17 @@
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 68
+   "count": 67
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 64
+   "count": 63
   },
   {
    "venue": "Woodhouse",
@@ -44,7 +44,7 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "Discretion Brewing",
@@ -59,12 +59,12 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 11
+   "count": 16
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "venue": "UCSC Recital Hall",
@@ -94,7 +94,7 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 13
+   "count": 7
   },
   {
    "venue": "The Sand Bar",
@@ -1839,6 +1839,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/07/bumpin-uglies-at-felton-music-hall.jpeg"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Matt Conable",
+   "date": "2026-10-16",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "Cork & Fork",
    "title": "Tsunami - Toms Birthday Bash!",
    "date": "2026-10-16",
@@ -1977,16 +1987,6 @@
    "price": "$87.87 to $115.21",
    "info": "Show: 9 am",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/live-in-the-atrium-luminarium-io-pacifica.jpeg"
-  },
-  {
-   "venue": "Ugly Mug",
-   "title": "Hot Club Soquel",
-   "date": "2026-10-17",
-   "time": "11:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel",
-   "price": null,
-   "info": "Hot Club Soquel Live Django Jazz",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790447269682-EUL0WFGUBKOHSR16412R/IMG_4063.jpeg"
   },
   {
    "venue": "Cork & Fork",
@@ -2407,6 +2407,16 @@
    "price": "$32",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949092131551"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open Acoustic Jam",
+   "date": "2026-10-22",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -3075,7 +3085,7 @@
    "time": "18:00",
    "url": "https://reservations.elvaquerowinery.com/events/25e67f6f333547f711c4f9e9df6e209f8f18b87c",
    "price": "$10",
-   "info": "Irish",
+   "info": "Irish · Food: My Moms Mole",
    "image": "https://static.wixstatic.com/media/cc50de_04b629dcefbd4e5c979cb130688cbc1f~mv2.png"
   },
   {
@@ -3199,6 +3209,16 @@
    "image": null
   },
   {
+   "venue": "Catalyst Main Room",
+   "title": "RAVE TO THE GRAVE",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "url": "https://catalystclub.com/event/rave-to-the-grave/the-catalyst/santa-cruz-california/",
+   "price": "$21.26",
+   "info": "Show: 7 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/rave-to-the-grave.jpeg"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "AJ Lee & Blue Summit: Pirates Ball",
    "date": "2026-10-31",
@@ -3290,13 +3310,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Parlor Greens",
+   "title": "Moe's Alley Presents: Parlor Greens w/ The GT's (The Grease Traps Rhythm Section)",
    "date": "2026-11-01",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/62/06/23_Listings.jpg?v=3"
+   "image": "https://i.ticketweb.com/i/00/13/62/06/23_Listings.jpg?v=6"
   },
   {
    "venue": "Felton Music Hall",
@@ -3599,6 +3619,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Bean Creek",
+   "date": "2026-11-07",
+   "time": "17:30",
+   "url": "https://reservations.elvaquerowinery.com/events/fa7a7bd45f176861df3d8d2078105796efa33c25",
+   "price": "$10",
+   "info": "Bluegrass · Food: SC Eatery",
+   "image": "https://static.wixstatic.com/media/cc50de_7063c25eaa8345829435c652713931c9~mv2.png"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Henry Diltz – Behind the Lens",
    "date": "2026-11-07",
@@ -3667,6 +3697,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Ripatti and Rose",
+   "date": "2026-11-08",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/53fdd6c07caa01af6944a025ce395986c1140505",
+   "price": "$10",
+   "info": "Rock, Originals · Food: High End Comdia",
+   "image": "https://static.wixstatic.com/media/cc50de_f232611f5c38463eb1326722f9fead58~mv2.png"
   },
   {
    "venue": "The Crepe Place",
@@ -3889,6 +3929,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155950107"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Nanci The Pie Lady",
+   "date": "2026-11-13",
+   "time": "15:30",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/nanci-the-pie-lady",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Mark Holzinger Western Swing & Jazz",
    "date": "2026-11-13",
@@ -3907,6 +3957,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Cruz Patrol",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/c47914f23b52a65d502dfd42a4846357b2e2939f",
+   "price": "$10",
+   "info": "Party Rock · Food: Corralitos Pizza ",
+   "image": "https://static.wixstatic.com/media/cc50de_812fa932e6e64c7a8a38a5a2b9d31658~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -4127,16 +4187,6 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177754343"
-  },
-  {
-   "venue": "Ugly Mug",
-   "title": "Hot Club Soquel",
-   "date": "2026-11-15",
-   "time": "11:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel-hyc9f-39ph9",
-   "price": null,
-   "info": "Hot Club Soquel Live Django Jazz",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790447269682-EUL0WFGUBKOHSR16412R/IMG_4063.jpeg"
   },
   {
    "venue": "Mission West",
@@ -4429,6 +4479,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784314784589-SQKI09M4NX97ALZ8LVRX/pNgcLYVG.jpg"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Fishhook",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/b27c7cfd5d3986b3adf29c8d890274fd08baa375",
+   "price": "$10",
+   "info": "Rock · Food: Chubbys",
+   "image": "https://static.wixstatic.com/media/cc50de_e500f742bbc04e5881669705eed43294~mv2.png"
+  },
+  {
    "venue": "Abbott Square",
    "title": "The Mondays",
    "date": "2026-11-21",
@@ -4507,16 +4567,6 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030752444"
-  },
-  {
-   "venue": "Ugly Mug",
-   "title": "Hot Club Soquel",
-   "date": "2026-11-22",
-   "time": "11:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/2026/10/17-hot-club-soquel-hyc9f",
-   "price": null,
-   "info": "Hot Club Soquel Live Django Jazz",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1790447269682-EUL0WFGUBKOHSR16412R/IMG_4063.jpeg"
   },
   {
    "venue": "Mission West",
@@ -4644,7 +4694,7 @@
    "date": "2026-11-25",
    "time": null,
    "url": "https://www.prekindle.com/event/93591-felton-comedy-night-felton",
-   "price": "$0",
+   "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981082822"
   },
@@ -4687,6 +4737,16 @@
    "price": null,
    "info": "Doors 7:30 PM",
    "image": "https://i.ticketweb.com/i/00/12/99/57/74_Listings.jpg?v=6"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Poor House Bistro",
+   "date": "2026-11-28",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/7f3586225ebdd5d647cf910704029fb46e69a369",
+   "price": "$10",
+   "info": "Motown, Staxx · Food: Chubby's Tacos",
+   "image": "https://static.wixstatic.com/media/cc50de_0beac3117ece45adb714a616ccfabe43~mv2.png"
   },
   {
    "venue": "The Crepe Place",
@@ -5119,6 +5179,16 @@
    "image": "https://i.ticketweb.com/i/00/13/03/51/24_Listings.jpg?v=2"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "The High Surf",
+   "date": "2026-12-09",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/the-high-surf-monkey-hands-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788356817155-5FKWU9E79FBM8PW5R07L/band+photo+at+the+lane.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Mike Renwick",
    "date": "2026-12-09",
@@ -5359,6 +5429,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949090761000"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Slow Coast",
+   "date": "2026-12-17",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/slow-coast-tuesday-august-18-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784130628366-O7WO6MOP24QGMD3TAO3U/Slow+Coast+2.png"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Skylar Tang Quartet",
    "date": "2026-12-17",
@@ -5454,7 +5534,7 @@
    "date": "2026-12-30",
    "time": null,
    "url": "https://www.prekindle.com/event/12155-felton-comedy-night-felton",
-   "price": "$0",
+   "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981082027"
   },
@@ -5529,6 +5609,16 @@
    "image": null
   },
   {
+   "venue": "Moe's Alley",
+   "title": "(((folkYEAH!))) Presents: Sister Nancy",
+   "date": "2027-01-14",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/09/84/34_Listings.jpg?v=2"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Kurt Rosenwinkel & Gerald Clayton",
    "date": "2027-01-15",
@@ -5594,7 +5684,7 @@
    "date": "2027-01-17",
    "time": null,
    "url": "https://www.prekindle.com/event/93536-tapers-choice-felton",
-   "price": "$0",
+   "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981159428"
   },
@@ -5647,16 +5737,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/andy-mckee-croppeed.jpg"
-  },
-  {
-   "venue": "Ugly Mug",
-   "title": "Hot Club Holo",
-   "date": "2027-01-22",
-   "time": "19:00",
-   "url": "https://www.cafeugly.com/live-music-the-mug/2027/1/22/hot-club-holodiloff",
-   "price": "$30",
-   "info": "The Ugly Mug presents Dave Holodiloff’s “Hot Club Holo” Acoustic All Stars Gypsy Jazz Ensemble",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1789505488292-PGOJFALCFX9RZRGLGORV/IMG_1179.jpeg"
   },
   {
    "venue": "Rio Theatre",
@@ -5854,7 +5934,7 @@
    "date": "2027-02-04",
    "time": null,
    "url": "https://www.prekindle.com/event/47878-skerryvore-felton",
-   "price": "$0",
+   "price": "$25",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948980921483"
   },
