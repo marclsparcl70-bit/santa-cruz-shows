@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-16T07:27-07:00",
+ "updated": "2026-10-17T07:20-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 40
+   "count": 39
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 90
+   "count": 95
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -29,37 +29,37 @@
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 63
+   "count": 64
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 12
+   "count": 22
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "Shanty Shack",
@@ -89,7 +89,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "Ugly Mug",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 21
+   "count": 20
   }
  ],
  "events": [
@@ -2455,7 +2455,7 @@
    "time": "18:30",
    "url": "https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz5y",
    "price": null,
-   "info": null,
+   "info": "Brian Fitzgerald",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1780030529749-KQCJ0CAW78K4EQVFGWGF/jazz+nightd+nre.png"
   },
   {
@@ -2610,7 +2610,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Silver Tongued Devils",
+   "title": "Silver Tongued Devils, Lady May And The Guitar",
    "date": "2026-10-23",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/silver-tongued-devils-friday-january-16-8pm-10",
@@ -2777,6 +2777,16 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/00/12/24_Listings.jpg?v=3"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Be Natural Music's Annual Halloween Concert",
+   "date": "2026-10-24",
+   "time": null,
+   "url": "https://www.prekindle.com/event/87848-be-natural-musics-annual-halloween-concert-felton",
+   "price": "$5",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948976333414"
   },
   {
    "venue": "Felton Music Hall",
@@ -3019,6 +3029,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_4f5ea83559d94cc28722e13dc0c9ad9c~mv2.png\"]"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Jazz Night",
+   "date": "2026-10-29",
+   "time": "18:30",
+   "url": "https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz5y-6zddl-trn37-xmhzp",
+   "price": null,
+   "info": "Sam Nicely",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1780030529749-KQCJ0CAW78K4EQVFGWGF/jazz+nightd+nre.png"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Laura Anglade",
    "date": "2026-10-29",
@@ -3175,8 +3195,8 @@
    "time": "16:00",
    "url": "https://abbottsquaremarket.com/events/afrobeats-and-more-halloween-party",
    "price": null,
-   "info": "More info coming soon.",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1787526616844-NO8MGPP5RNBFRE3M8LRM/Halloween+Event+Temporary+Poster.png"
+   "info": "Another epic Halloween is going down at Abbott Square. Dog costume contest at 5 pm, sign ups start at 4pm. Music Afrobeats Nite DJ Monk…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1792198778142-1U8DJUOTQ9PXSUOG1WHW/ABNSC26_Halloween_poster11x17_v01.jpeg"
   },
   {
    "venue": "El Vaquero Winery",
@@ -3249,6 +3269,16 @@
    "image": "https://i.ticketweb.com/i/00/12/98/58/94_Listings.jpg?v=4"
   },
   {
+   "venue": "Abbott Square",
+   "title": "The Trolley Drops - 1st Sundays",
+   "date": "2026-11-01",
+   "time": "13:00",
+   "url": "https://abbottsquaremarket.com/events/the-trolley-drops-1st-sundays-9z3td",
+   "price": null,
+   "info": "The Trolley Drops play hokum blues and novelty tunes from the 20s and 30s. Vocally rich, carefree, and infectiously fun, this good time…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1740027085666-7WEM3UNGIYTIK6886G8Z/Trolley+Drops.jpeg"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "The Back Porch Boys",
    "date": "2026-11-01",
@@ -3287,6 +3317,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1789064250852-1Q5WJLD6QUK86VUPOZ06/riotheatre-51746988995179-6648028041523688502-1024x512_+X_EventGroove_WME77.png"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-s8jnt-mxx5e-735bp-8a5ks",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -3489,6 +3529,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Jazz Night",
+   "date": "2026-11-05",
+   "time": "18:30",
+   "url": "https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz5y-6zddl",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1780030529749-KQCJ0CAW78K4EQVFGWGF/jazz+nightd+nre.png"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Gabrielle Cavassa",
    "date": "2026-11-05",
@@ -3609,6 +3659,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949113187501"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Buffalo Blues Trio, Free Brunch Show On The Garden Stage",
+   "date": "2026-11-07",
+   "time": "11:00",
+   "url": "https://www.thecrepeplace.com/shows-list/buffalo-blues-trio-free-brunch-show-on-the-garden-stage-11am-to-1pm",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779328754020-XIGGI6V64C7EPPZN65S2/IMG_6045.JPG"
+  },
+  {
    "venue": "Mission West",
    "title": "Hig Surf Board Swap",
    "date": "2026-11-07",
@@ -3627,6 +3687,16 @@
    "price": "$10",
    "info": "Bluegrass · Food: SC Eatery",
    "image": "https://static.wixstatic.com/media/cc50de_7063c25eaa8345829435c652713931c9~mv2.png"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Stax Johnson",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/stax-johnson",
+   "price": null,
+   "info": "Stax Johnson & Company are a high-energy rock ’n’ roll and blues-rock band hailing from California’s Central Coast, delivering…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1792202820421-Q135E2D3X5EUYG1VD961/Stax+Johnson+-+LF.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -3709,6 +3779,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_f232611f5c38463eb1326722f9fead58~mv2.png"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-hzbkz",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-11-08",
@@ -3720,13 +3800,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Southern Culture On The Skids",
+   "title": "Moe's Alley Presents: Southern Culture On The Skids w/ Dead Kampers",
    "date": "2026-11-08",
    "time": "19:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 6:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/48/80/53_Listings.jpg?v=5"
+   "image": "https://i.ticketweb.com/i/00/13/48/80/53_Listings.jpg?v=8"
   },
   {
    "venue": "Felton Music Hall",
@@ -3869,6 +3949,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109712832"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Joe Ferrara",
+   "date": "2026-11-12",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/joe-ferrara-friday-september-18-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1786732355344-UBVBT7SUOEVJILOX1GN1/FEATURES_150909927_AR_0_DQDZXPUFAZPM.webp"
+  },
+  {
    "venue": "Cork & Fork",
    "title": "Ukulele Night",
    "date": "2026-11-12",
@@ -3877,6 +3967,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Jazz Night",
+   "date": "2026-11-12",
+   "time": "18:30",
+   "url": "https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz5y-6zddl-trn37",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1780030529749-KQCJ0CAW78K4EQVFGWGF/jazz+nightd+nre.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -4105,8 +4205,8 @@
    "time": "19:00",
    "url": "https://abbottsquaremarket.com/events/milk-frog",
    "price": null,
-   "info": null,
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac087fda540f064c396777b/1791002878808/"
+   "info": "Milkfrog is a collection of local Santa Cruz musicians (Mike Cross, Randy Darr, Paul Garcia, Mike Sparber) who bring Grateful Dead and…",
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac087fda540f064c396777b/1792201040992/"
   },
   {
    "venue": "Mission West",
@@ -4187,6 +4287,16 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177754343"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Duncan Shipton Trio",
+   "date": "2026-11-15",
+   "time": "13:00",
+   "url": "https://abbottsquaremarket.com/events/duncan-shipton-trio-2",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ad2db4ddc3d0f68426b95f6/1792203637622/"
   },
   {
    "venue": "Mission West",
@@ -4399,6 +4509,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_6000894049f347cbba64d761bcdfec45~mv2.png"
   },
   {
+   "venue": "Abbott Square",
+   "title": "August Sun",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/august-sun",
+   "price": null,
+   "info": "August Sun is an original rock n' roll band born in the Santa Cruz Mountains of California.",
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ad2d5be47701266470b3343/1792202481442/"
+  },
+  {
    "venue": "Mission West",
    "title": "Ardvark",
    "date": "2026-11-20",
@@ -4495,8 +4615,8 @@
    "time": "19:00",
    "url": "https://abbottsquaremarket.com/events/the-mondays",
    "price": null,
-   "info": "Gabe Robledo started The MonDays in high school. Since the addition of singer/songwriter, Chuck Richards , the band has expanded into a…",
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac1c656960d701d0c0e8139/1791154976455/"
+   "info": "The Mondays is a latin funk band, that is known for electrifying arrangements, extended jam sessions, and infectious grooves. Fresh off…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1792201623439-1767EMPZNR8VZHVB1CRS/26.10.6+The+Mondays.jpg"
   },
   {
    "venue": "Mission West",
@@ -4579,6 +4699,16 @@
    "image": null
   },
   {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-s8jnt-mxx5e-735bp-8a5ks-s3mxl-5d8c6",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-11-22",
@@ -4596,7 +4726,7 @@
    "url": "https://www.riotheatre.com/events-2/2026/11/22/johncraigie",
    "price": null,
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1791312322934-L9D1ASVZOKARBS327ZTX/11-22-26_JohnCraigie_1920x1005.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792174333813-HOVA2Q5QJ3F2XVYZOVAW/Screen+Shot+2026-10-16+at+11.10.48+AM.png"
   },
   {
    "venue": "Felton Music Hall",
@@ -4739,6 +4869,16 @@
    "image": "https://i.ticketweb.com/i/00/12/99/57/74_Listings.jpg?v=6"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Moonalice",
+   "date": "2026-11-27",
+   "time": null,
+   "url": "https://www.prekindle.com/event/25867-moonalice-felton",
+   "price": "$20",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948976674293"
+  },
+  {
    "venue": "El Vaquero Winery",
    "title": "Poor House Bistro",
    "date": "2026-11-28",
@@ -4807,6 +4947,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-11-29",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-s8jnt-mxx5e-735bp-8a5ks-s3mxl",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -5160,6 +5310,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Strange Relationship: Mike Owens Funk Band",
+   "date": "2026-12-08",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/strange-relationship-tuesday-december-8-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792183433766-MI03EWL9QRNQGZUOPSCN/images.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "Bob O'Neill's Absent Minds",
    "date": "2026-12-09",
    "time": "17:30",
@@ -5229,6 +5389,16 @@
    "image": "https://i.ticketweb.com/i/00/13/00/12/44_Listings.jpg?v=4"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Basic",
+   "date": "2026-12-10",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/basic-the-crepe-place-tickets/14386394?pl=thecrepeplace",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792182644880-HNA70AV2BZHCB7JFNPU7/BASIC_by_MPA_72dpi.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Spanish Harlem Orchestra – Salsa Navidad – 9:00 PM",
    "date": "2026-12-10",
@@ -5284,7 +5454,7 @@
    "date": "2026-12-11",
    "time": "21:00",
    "url": "https://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/santa-cruz-california/",
-   "price": "$57.78",
+   "price": "$57.78 to $198.96",
    "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/ski-mask-the-slump-god-1.jpeg"
   },
@@ -5467,6 +5637,16 @@
    "price": "$32",
    "info": "with Cicada Rhythm",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151284236"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Pete Sawyer And The Left Hand Monkey Wrench Gang",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "url": "https://www.thecrepeplace.com/shows-list/pete-sawyer-and-left-handed-monkey-wrench-friday-july-31-7pm-on-the-garden-stage-15",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779143878184-NTIE3EUVH3LXQQBLYK1G/Untitled-2026-04-20T213319.775.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -5934,7 +6114,7 @@
    "date": "2027-02-04",
    "time": null,
    "url": "https://www.prekindle.com/event/47878-skerryvore-felton",
-   "price": "$25",
+   "price": "$32",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948980921483"
   },
@@ -6307,6 +6487,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "(((folkYEAH))) Presents: WORLD NEWS",
+   "date": "2027-03-27",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/folkyeah-presents-world-news-the-crepe-place-tickets/14386094?pl=thecrepeplace",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792175993955-C3MXNEUGZWD8GN0OU7I8/World+News+-+THE+WAY+IT+GOES+ARTWORK.jpg"
   },
   {
    "venue": "Felton Music Hall",
