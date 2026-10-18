@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-17T07:20-07:00",
+ "updated": "2026-10-18T07:20-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 20
+   "count": 18
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "venue": "Rio Theatre",
@@ -19,22 +19,22 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 95
+   "count": 94
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 67
+   "count": 66
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 2
+   "count": 0
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 64
+   "count": 63
   },
   {
    "venue": "Woodhouse",
@@ -49,7 +49,7 @@
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "Mission West",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 24
+   "count": 22
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,7 +89,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "Ugly Mug",
@@ -104,7 +104,7 @@
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 20
+   "count": 18
   }
  ],
  "events": [
@@ -2289,6 +2289,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949090800705"
   },
   {
+   "venue": "Mission West",
+   "title": "Oktoberfest The Irish Way",
+   "date": "2026-10-19",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Buster Williams Trio",
    "date": "2026-10-19",
@@ -2634,7 +2644,7 @@
    "date": "2026-10-23",
    "time": null,
    "url": "https://www.prekindle.com/event/93351-black-flag-felton",
-   "price": "$25",
+   "price": "$36",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172416905"
   },
@@ -3189,6 +3199,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114848029"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "John Michael - Solo",
+   "date": "2026-10-31",
+   "time": "14:30",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/john-michael-solo",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Abbott Square",
    "title": "Afrobeats and more Halloween party",
    "date": "2026-10-31",
@@ -3236,7 +3256,7 @@
    "url": "https://catalystclub.com/event/rave-to-the-grave/the-catalyst/santa-cruz-california/",
    "price": "$21.26",
    "info": "Show: 7 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/rave-to-the-grave.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/7PM–MIDNIGHT-1.png"
   },
   {
    "venue": "Rio Theatre",
@@ -4629,6 +4649,16 @@
    "image": null
   },
   {
+   "venue": "Rio Theatre",
+   "title": "Yala Lati, Melanie DeMore & Women Rise Choir",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://www.riotheatre.com/events-2/2026/11/21/yalalati",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792264359878-JHDUSKX22BTMNTPM9VAZ/Screen+Shot+2026-10-17+at+12.07.33+PM.png"
+  },
+  {
    "venue": "Catalyst Atrium",
    "title": "WAVY TRAIN feat. Donald Glaude + Friends",
    "date": "2026-11-21",
@@ -5390,7 +5420,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Basic",
+   "title": "Basic, Coffin Prick",
    "date": "2026-12-10",
    "time": "20:00",
    "url": "https://www.ticketweb.com/event/basic-the-crepe-place-tickets/14386394?pl=thecrepeplace",
@@ -5930,11 +5960,11 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Oraison, Thief",
+   "title": "Thief, Snakes Of Russia, Oraison",
    "date": "2027-01-22",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/oraison-album-release-thursday-december-11-8pm-10",
-   "price": "$10",
+   "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1760534842910-IGVXGIRCV8PIT72INJV4/0040943603_10.jpg"
   },
@@ -6406,7 +6436,7 @@
    "url": "https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium/santa-cruz-california/",
    "price": "$45.95",
    "info": "Doors: 7:30 pm Show: 8:30 pm · All Ages",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/the-lemonheads-the-love-chant-tour-1.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/the-lemonheads-the-love-chant-tour.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
