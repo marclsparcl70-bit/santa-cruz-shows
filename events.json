@@ -1,70 +1,70 @@
 {
- "updated": "2026-10-18T07:20-07:00",
+ "updated": "2026-10-19T07:32-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 94
+   "count": 97
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 66
+   "count": 65
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 0
+   "count": 2
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 63
+   "count": 62
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 5
+   "count": 7
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,7 +89,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "venue": "Ugly Mug",
@@ -104,7 +104,7 @@
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 18
+   "count": 17
   }
  ],
  "events": [
@@ -2289,6 +2289,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949090800705"
   },
   {
+   "venue": "Woodhouse",
+   "title": "Figure Drawing",
+   "date": "2026-10-19",
+   "time": "05:45",
+   "url": "https://www.woodhousebrews.com/events/2026/10/19/figure-drawing",
+   "price": null,
+   "info": "👻 ✏️ JOIN US MONDAY 10/19 FOR ANOTHER FIGURE DRAWING SPEAKEASY: A MULTI SENSORY CREATIVE EXPERIENCE! @woodhousebrews 🍻✨ 🎹 LIVE AMBIENT…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1792395058073-0L8EK3E33SDVUASRX5Y8/Screen+Shot+2026-10-19+at+12.29.20+AM.png"
+  },
+  {
    "venue": "Mission West",
    "title": "Oktoberfest The Irish Way",
    "date": "2026-10-19",
@@ -2589,6 +2599,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1791316332144-5A0MP3SVIU93LKLNWV83/10.6.26+El+Brick.jpg"
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Monster Pu$$y!",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "url": "https://catalleystreet.com/event/monster-puy/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/Monster-Pussy.jpg"
+  },
+  {
    "venue": "Mission West",
    "title": "Trestles/ Not Yet, Old Dog/ Slider",
    "date": "2026-10-23",
@@ -2769,6 +2789,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1786743961528-N5LDD693JDC8SWB3J0VI/ab676161000051743575bbea56c678714be20e83.jpg"
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Andi & Stu’s Anniversarypalooza!",
+   "date": "2026-10-24",
+   "time": "21:00",
+   "url": "https://catalleystreet.com/event/andi-stus-anniversarypalooza/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/Stu-takeover-copy.png"
+  },
+  {
    "venue": "Henfling's Tavern",
    "title": "Afrobeats Nite Halloween Edition w/ DJ Monk Earl",
    "date": "2026-10-24",
@@ -2807,6 +2837,16 @@
    "price": "$32",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949132705762"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open At 10Am Every Sunday",
+   "date": "2026-10-25",
+   "time": "10:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Mission West",
@@ -3037,6 +3077,16 @@
    "price": null,
    "info": "Grimpire Entertainment is bringing its first touring package to Shanty Shack Brewing on Thursday, October 29th, with a haunting night of…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_4f5ea83559d94cc28722e13dc0c9ad9c~mv2.png\"]"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "BeTV Presents: Phobophilia",
+   "date": "2026-10-29",
+   "time": "18:00",
+   "url": "https://www.woodhousebrews.com/events/2026/10/29/betv-presentsnbsp-phobophilia",
+   "price": null,
+   "info": "BeTV Presents: Phobophilia Thursday, October 29 | 6–10 PM Woodhouse Brewing, Santa Cruz The world’s ending … what’s on TV? Welcome to…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1792395304456-61BJS2B8UWT6KKDEZVCZ/IMG_4796.PNG"
   },
   {
    "venue": "Abbott Square",
@@ -3929,6 +3979,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949072153639"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Two Of Us, Live Jazz On The Garden Stage",
+   "date": "2026-11-11",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/two-of-us-live-jazz-on-the-garden-stage-saturday-february-7-from-5-to-7pm-free-event",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1769664576647-EB42LPFUVMCL9I49YWM3/Rebecca+and+Nancy.jpg"
+  },
+  {
    "venue": "Cork & Fork",
    "title": "Open Mic",
    "date": "2026-11-11",
@@ -4226,7 +4286,7 @@
    "url": "https://abbottsquaremarket.com/events/milk-frog",
    "price": null,
    "info": "Milkfrog is a collection of local Santa Cruz musicians (Mike Cross, Randy Darr, Paul Garcia, Mike Sparber) who bring Grateful Dead and…",
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ac087fda540f064c396777b/1792201040992/"
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1792364693726-TR35SA5JHLMUY1PUU99H/1792124408082162600_attach_140114172084730000.png"
   },
   {
    "venue": "Mission West",
@@ -4827,6 +4887,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1780961099757-SKCRWZT9JXOV8OAZ8V74/istockphoto-539120415-612x612.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Two Of Us, Live Jazz",
+   "date": "2026-11-25",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/two-of-us-live-jazz-on-the-garden-stage-saturday-may-30-from-5-to-7pm-free-event",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1775576991487-H05OKF1BYJGRA1F5LO33/E5F87844-822B-4793-B077-CA4BEB581771.png"
   },
   {
    "venue": "Mission West",
@@ -5699,6 +5769,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1769920448887-V5WQQ6GNBVE1HBBQG899/Jenny%2BO%27Leary%2BQuartet%2B.webp"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "A Very Poi Rogers Christmas",
+   "date": "2026-12-19",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/a-very-poi-rogers-christmas-saturday-december-19-8pm-15",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792343129088-419ZU4MPF9NJMM757DUZ/images.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "A John Prine Christmas with the Jenner Fox Band - Early Show",
    "date": "2026-12-19",
@@ -5727,6 +5807,26 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750961827298-O6CCNCUL1A6R165270T7/thumbnail_Image.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Jazz On The Rocks",
+   "date": "2026-12-22",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/4b5sf6ktets5hscz9ha442kacsx5y9-r8779-2hpb2-bf8sx",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1737066344818-HPE2P1BRPNT0YJSWIL9J/Screenshot+2025-01-13+at+11.52.46%E2%80%AFAM.png"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Velour!",
+   "date": "2026-12-23",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/events/2025/4/19/velour",
+   "price": null,
+   "info": "Velour draws inspiration from the smokin’ grooves of supergroups like the meters, galactic, the greyboy allstars, and the new…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1774511963817-44P1C36TKNSKGU37YM8R/VELOUR+copy.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -6417,6 +6517,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Marta-Sanchez-Cropped.jpeg"
+  },
+  {
+   "venue": "Catalyst Atrium",
+   "title": "Tommy Lefroy with Al Olender",
+   "date": "2027-03-04",
+   "time": "20:30",
+   "url": "https://catalystclub.com/event/tommy-lefroy-with-al-olender/the-catalyst-atrium/santa-cruz-california/",
+   "price": null,
+   "info": "Show: 8:30 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/tommy-lefroy-with-al-olender.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
