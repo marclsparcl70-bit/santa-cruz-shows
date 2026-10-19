@@ -427,6 +427,30 @@ def shanty_shack_with_fallback():
         return localgroove("Shanty Shack Brewing", "/santa-cruz/venue/shanty-shack-brewing")
 
 
+def lumos():
+    """Lumos candlelight concerts (string trio tributes) sold on Fatsoma; one Fatsoma page per city."""
+    out = []
+    for page in ("51a8ab41-fad0-4ffd-92be-4b92b4799cf0",   # lumos-santa-cruz-ca
+                 "617041bb-a457-43ff-baf8-7a5a90919afa"):  # lumos-aptos-ca
+        data = json.loads(get(f"https://api.fatsoma.com/v1/events?filter%5Bpage.id%5D={page}"
+                              "&include=location&page%5Bsize%5D=50"))
+        places = {i["id"]: i["attributes"] for i in data.get("included", []) if i["type"] == "locations"}
+        for e in data["data"]:
+            a = e["attributes"]
+            if a.get("expired"):
+                continue
+            dt = datetime.fromisoformat(a["starts-at"]).astimezone(TZ)
+            loc = (e.get("relationships", {}).get("location", {}).get("data") or {}).get("id")
+            place = places.get(loc, {})
+            where = ", ".join(x for x in (place.get("name"), place.get("city")) if x)
+            title = re.split(r"\s+[-\u2013]\s+|\s+in\s+[A-Z]", clean(a["name"]))[0]
+            price = f"${a['price-min'] // 100}+" if a.get("price-min") else None
+            out.append(event("Lumos Candlelight", title, dt.date(), dt.strftime("%H:%M"),
+                             f"https://www.fatsoma.com/e/{a['vanity-name']}/{a.get('seo-name') or ''}",
+                             price, where or None, a.get("asset-url")))
+    return out
+
+
 def manual(path):
     """Listings typed in by hand (e.g. from a venue's monthly PDF flyer)."""
     here = os.path.dirname(os.path.abspath(__file__))
@@ -459,6 +483,7 @@ VENUES = {
     "Ugly Mug": lambda: music_only(squarespace("Ugly Mug", "https://www.cafeugly.com", "/live-music-the-mug", tidy_mug)),
     "The Sand Bar": lambda: tribe("The Sand Bar", "https://thesandbarcapitola.com"),
     "Cork & Fork": lambda: wix_events("Cork & Fork", "https://www.corkandforkcapitola.com/music-events"),
+    "Lumos Candlelight": lumos,
 }
 
 
