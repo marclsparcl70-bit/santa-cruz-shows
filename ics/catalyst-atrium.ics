@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:65ccd89f2442d63d570f@santa-cruz-shows
-DTSTAMP:20261019T143237Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T120000
 SUMMARY:LUMINARIUM.IO PACIFICA @ Catalyst Atrium
@@ -39,7 +39,7 @@ URL:https://catalystclub.com/event/live-in-the-atrium-luminarium-io-pacifi
 END:VEVENT
 BEGIN:VEVENT
 UID:95dbca50584e7312b704@santa-cruz-shows
-DTSTAMP:20261019T143237Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T220000
 SUMMARY:BITE ME (in the atrium) @ Catalyst Atrium
@@ -51,7 +51,7 @@ URL:https://catalystclub.com/event/bite-me-in-the-atrium/the-catalyst-atri
 END:VEVENT
 BEGIN:VEVENT
 UID:0bd992e910b2e663a257@santa-cruz-shows
-DTSTAMP:20261019T143237Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261121T193000
 DTEND;TZID=America/Los_Angeles:20261121T223000
 SUMMARY:WAVY TRAIN feat. Donald Glaude + Friends @ Catalyst Atrium
@@ -64,7 +64,7 @@ URL:https://catalystclub.com/event/wavy-train-feat-donald-glaude-friends/t
 END:VEVENT
 BEGIN:VEVENT
 UID:5db4b26ea7e97cafe1a3@santa-cruz-shows
-DTSTAMP:20261019T143237Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20270127T200000
 DTEND;TZID=America/Los_Angeles:20270127T230000
 SUMMARY:Youth Fountain @ Catalyst Atrium
@@ -76,7 +76,7 @@ URL:https://catalystclub.com/event/youth-fountain/the-catalyst-atrium/sant
 END:VEVENT
 BEGIN:VEVENT
 UID:d0ca0d2b741b7f84c07c@santa-cruz-shows
-DTSTAMP:20261019T143237Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20270227T210000
 DTEND;TZID=America/Los_Angeles:20270228T000000
 SUMMARY:Girl Ultra: el Tour de RRRomeo @ Catalyst Atrium
@@ -89,7 +89,7 @@ URL:https://catalystclub.com/event/girl-ultra-el-tour-de-rrromeo/the-catal
 END:VEVENT
 BEGIN:VEVENT
 UID:99055685fa0d0937dec8@santa-cruz-shows
-DTSTAMP:20261019T143237Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20270304T203000
 DTEND;TZID=America/Los_Angeles:20270304T233000
 SUMMARY:Tommy Lefroy with Al Olender @ Catalyst Atrium
@@ -101,7 +101,7 @@ URL:https://catalystclub.com/event/tommy-lefroy-with-al-olender/the-cataly
 END:VEVENT
 BEGIN:VEVENT
 UID:64063469040a81aed00b@santa-cruz-shows
-DTSTAMP:20261019T143237Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20270306T203000
 DTEND;TZID=America/Los_Angeles:20270306T233000
 SUMMARY:The Lemonheads: The Love Chant Tour @ Catalyst Atrium

@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:bea9454593ff0304e3d1@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20260929T180000
 DTEND;TZID=America/Los_Angeles:20260929T210000
 SUMMARY:Tuesday JAM! @ Woodhouse
@@ -38,7 +38,7 @@ URL:https://www.woodhousebrews.com/events/2026/9/29/tuesday-jam
 END:VEVENT
 BEGIN:VEVENT
 UID:7df01192864a7ecbc6d9@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261006T180000
 DTEND;TZID=America/Los_Angeles:20261006T210000
 SUMMARY:Free Elements! @ Woodhouse
@@ -50,7 +50,7 @@ URL:https://www.woodhousebrews.com/events/2026/3/3/free-elements-7tsbd
 END:VEVENT
 BEGIN:VEVENT
 UID:46db8174db27b7e87a9c@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261008T180000
 DTEND;TZID=America/Los_Angeles:20261008T210000
 SUMMARY:Mick Adams Band! @ Woodhouse
@@ -62,7 +62,7 @@ URL:https://www.woodhousebrews.com/events/2026/10/8/mick-adams-band
 END:VEVENT
 BEGIN:VEVENT
 UID:af859242d1073d311e7d@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261009T180000
 DTEND;TZID=America/Los_Angeles:20261009T210000
 SUMMARY:Brian Fitzgerald Jazz Trio @ Woodhouse
@@ -74,7 +74,7 @@ URL:https://www.woodhousebrews.com/events/2026/6/25/brian-fitzgerald-jazz-
 END:VEVENT
 BEGIN:VEVENT
 UID:388358b10c4e6221a4e0@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Bongo Sidibe @ Woodhouse
@@ -86,7 +86,7 @@ URL:https://www.woodhousebrews.com/events/2026/7/18/bongo-sidibe
 END:VEVENT
 BEGIN:VEVENT
 UID:aa2851b4699b8941c293@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261016T193000
 DTEND;TZID=America/Los_Angeles:20261016T223000
 SUMMARY:FIRELIGHT IN THE FOREST (Pre FilmFest Performance) @ Woodhouse
@@ -100,7 +100,7 @@ URL:https://www.woodhousebrews.com/events/2026/10/16/firelight-in-the-fore
 END:VEVENT
 BEGIN:VEVENT
 UID:05632d601e21d5b012e3@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261018T160000
 DTEND;TZID=America/Los_Angeles:20261018T190000
 SUMMARY:BLVK H3RO LIVE & THE 3PEAT BAND + SELECTA 7 @ Woodhouse
@@ -114,7 +114,7 @@ URL:https://www.eventbrite.com/e/blvk-h3ro-live-the-3peat-band-selecta-7-s
 END:VEVENT
 BEGIN:VEVENT
 UID:94c6ab3333acb1737b7d@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261019T054500
 DTEND;TZID=America/Los_Angeles:20261019T084500
 SUMMARY:Figure Drawing @ Woodhouse
@@ -126,8 +126,35 @@ DESCRIPTION:👻 ✏️ JOIN US MONDAY 10/19 FOR ANOTHER FIGURE DRAWING SP
 URL:https://www.woodhousebrews.com/events/2026/10/19/figure-drawing
 END:VEVENT
 BEGIN:VEVENT
+UID:f6bd31cf9882b2bab447@santa-cruz-shows
+DTSTAMP:20261020T142737Z
+DTSTART;TZID=America/Los_Angeles:20261022T170000
+DTEND;TZID=America/Los_Angeles:20261022T200000
+SUMMARY:Afrobeats Nite Santa Cruz @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:Afrobeats Nite Santa Cruz Returns — A Cultural Revival at Wo
+ odhouse The heartbeat of Santa Cruz is about to change tempo. Created and
+ …\nhttps://www.woodhousebrews.com/events/2025/4/24/afrobeats-nite-santa
+ -cruz-returns-y59ny
+URL:https://www.woodhousebrews.com/events/2025/4/24/afrobeats-nite-santa-c
+ ruz-returns-y59ny
+END:VEVENT
+BEGIN:VEVENT
+UID:1b5a7bc8b871bc63b760@santa-cruz-shows
+DTSTAMP:20261020T142737Z
+DTSTART;TZID=America/Los_Angeles:20261024T183000
+DTEND;TZID=America/Los_Angeles:20261024T213000
+SUMMARY:Grateful Dads @ Woodhouse
+LOCATION:Woodhouse
+DESCRIPTION:Good vibes\, great music\, and a whole lotta Grateful Dead! 
+ 🌹⚡️ The Grateful Dads are bringing the magic of the Dead to Woodho
+ use for a…\nhttps://www.woodhousebrews.com/events/2026/10/24/grateful-d
+ ads
+URL:https://www.woodhousebrews.com/events/2026/10/24/grateful-dads
+END:VEVENT
+BEGIN:VEVENT
 UID:db75f0686709a8c5da3b@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261025T150000
 DTEND;TZID=America/Los_Angeles:20261025T180000
 SUMMARY:Edge of the West & Taylor Rae's Lemongrass @ Woodhouse
@@ -141,7 +168,7 @@ URL:https://www.woodhousebrews.com/events/2026/10/25/d4tywb5u1tnagnnda04h2
 END:VEVENT
 BEGIN:VEVENT
 UID:70666fed7349d21a3d87@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261029T180000
 DTEND;TZID=America/Los_Angeles:20261029T210000
 SUMMARY:BeTV Presents: Phobophilia @ Woodhouse
@@ -155,7 +182,7 @@ URL:https://www.woodhousebrews.com/events/2026/10/29/betv-presentsnbsp-pho
 END:VEVENT
 BEGIN:VEVENT
 UID:60f433ac4dd43b944b60@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261106T190000
 DTEND;TZID=America/Los_Angeles:20261106T220000
 SUMMARY:Los Pendejos Imbeciles Band @ Woodhouse
@@ -167,7 +194,7 @@ URL:https://www.woodhousebrews.com/events/2026/11/6/los-pendejos-imbeciles
 END:VEVENT
 BEGIN:VEVENT
 UID:14c1ca1716fed147e2e8@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261204T190000
 DTEND;TZID=America/Los_Angeles:20261204T220000
 SUMMARY:1970's Rock Revue @ Woodhouse
@@ -179,7 +206,7 @@ URL:https://www.woodhousebrews.com/events/2026/12/4/1970s-rock-revue
 END:VEVENT
 BEGIN:VEVENT
 UID:75af1d722c858bc758ba@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261206T170000
 DTEND;TZID=America/Los_Angeles:20261206T200000
 SUMMARY:Horse Feathers @ Woodhouse
@@ -191,7 +218,7 @@ URL:https://www.eventbrite.com/e/horse-feathers-tickets-1993861278758
 END:VEVENT
 BEGIN:VEVENT
 UID:60a52561d3480b924762@santa-cruz-shows
-DTSTAMP:20261019T143238Z
+DTSTAMP:20261020T142737Z
 DTSTART;TZID=America/Los_Angeles:20261223T190000
 DTEND;TZID=America/Los_Angeles:20261223T220000
 SUMMARY:Velour! @ Woodhouse

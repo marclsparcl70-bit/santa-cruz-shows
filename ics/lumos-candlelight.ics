@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Santa Cruz Shows//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Lumos Candlelight (Santa Cruz Shows)
+X-WR-TIMEZONE:America/Los_Angeles
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2906c08a2b3884cd676f@santa-cruz-shows
+DTSTAMP:20261020T142737Z
+DTSTART;TZID=America/Los_Angeles:20261023T183000
+DTEND;TZID=America/Los_Angeles:20261023T213000
+SUMMARY:A Queen vs. Elton John Candlelight Experience @ Lumos Candlelight
+LOCATION:Lumos Candlelight
+DESCRIPTION:$25+\nChrist Lutheran Church\, Aptos\nhttps://www.fatsoma.com/
+ e/mil8vdzz/a-queen-vs-elton-john-candlelight-experience-in-aptos-ca-frida
+ y-october-23rd
+URL:https://www.fatsoma.com/e/mil8vdzz/a-queen-vs-elton-john-candlelight-e
+ xperience-in-aptos-ca-friday-october-23rd
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ee89eb5b242f6e898c@santa-cruz-shows
+DTSTAMP:20261020T142737Z
+DTSTART;TZID=America/Los_Angeles:20261204T180000
+DTEND;TZID=America/Los_Angeles:20261204T210000
+SUMMARY:A Classical Christmas Candlelight Experience @ Lumos Candlelight
+LOCATION:Lumos Candlelight
+DESCRIPTION:$25+\nPeace United Church of Christ\, Santa Cruz\nhttps://www.
+ fatsoma.com/e/dk08i0yi/a-classical-christmas-candlelight-experience-in-sa
+ nta-cruz-ca-friday-december-4th
+URL:https://www.fatsoma.com/e/dk08i0yi/a-classical-christmas-candlelight-e
+ xperience-in-santa-cruz-ca-friday-december-4th
+END:VEVENT
+END:VCALENDAR
