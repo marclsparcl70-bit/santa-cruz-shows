@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-20T07:27-07:00",
+ "updated": "2026-10-21T07:29-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "venue": "Moe's Alley",
@@ -29,12 +29,12 @@
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 3
+   "count": 5
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 63
+   "count": 64
   },
   {
    "venue": "Woodhouse",
@@ -49,12 +49,12 @@
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 8
+   "count": 21
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 29
+   "count": 28
   },
   {
    "venue": "El Vaquero Winery",
@@ -2374,16 +2374,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1773696996371-ALKV90F71LSBBTR9QQON/colorspiralillusion07.jpg"
   },
   {
-   "venue": "Mission West",
-   "title": "Cribbage Tournament",
-   "date": "2026-10-21",
-   "time": "11:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "The Crepe Place",
    "title": "Joe Ferrara",
    "date": "2026-10-21",
@@ -2399,6 +2389,16 @@
    "date": "2026-10-21",
    "time": "18:00",
    "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-10-21-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
+   "venue": "Mission West",
+   "title": "Cribbage Tournament",
+   "date": "2026-10-21",
+   "time": "19:30",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
    "price": null,
    "info": null,
    "image": null
@@ -2542,6 +2542,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1783447180760-9MR0NA49K2BYBH280VBW/ToddRundgren_2026_VERT1.jpeg"
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "Father Taj & friends!",
+   "date": "2026-10-22",
+   "time": "21:00",
+   "url": "https://catalleystreet.com/event/father-taj-friends/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/HeartHouseOct26.png"
   },
   {
    "venue": "Felton Music Hall",
@@ -3277,11 +3287,11 @@
    "venue": "Moe's Alley",
    "title": "(((folkYEAH!))) Presents - The Mother Hips w/ Skyway Man",
    "date": "2026-10-30",
-   "time": "21:00",
+   "time": "20:30",
    "url": "https://moesalley.com/calendar",
    "price": null,
-   "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/91/55/34_Listings.jpg?v=11"
+   "info": "Doors 7:30 PM",
+   "image": "https://i.ticketweb.com/i/00/12/91/55/34_Listings.jpg?v=12"
   },
   {
    "venue": "Felton Music Hall",
@@ -3331,6 +3341,16 @@
    "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
    "price": null,
    "info": null,
+   "image": null
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Junebug Bayer ~ Halloween Show",
+   "date": "2026-10-31",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
    "image": null
   },
   {
@@ -3694,6 +3714,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1791311770460-3G1BXW7ZTU33ABUQKHWK/Screen+Shot+2026-10-06+at+11.30.57+AM.png"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "1st Friday w/ Local Honey",
+   "date": "2026-11-06",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "Cork & Fork",
    "title": "The Messiahs",
    "date": "2026-11-06",
@@ -3785,12 +3815,22 @@
   },
   {
    "venue": "Mission West",
-   "title": "Hig Surf Board Swap",
+   "title": "Rory Lynch, Andy Pankakes, Hig Surf And Board Swap",
    "date": "2026-11-07",
    "time": "15:00",
    "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
    "price": null,
    "info": null,
+   "image": null
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Love Creek",
+   "date": "2026-11-07",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
    "image": null
   },
   {
@@ -3872,6 +3912,16 @@
    "price": "$22",
    "info": "with John Convertino",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949067055056"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "NoJoKen",
+   "date": "2026-11-08",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
   },
   {
    "venue": "Cork & Fork",
@@ -4074,6 +4124,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109712832"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Bonny June & Bonfire",
+   "date": "2026-11-12",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Joe Ferrara",
    "date": "2026-11-12",
@@ -4161,6 +4221,16 @@
    "url": "https://www.corkandforkcapitola.com/event-details-registration/nanci-the-pie-lady",
    "price": null,
    "info": null,
+   "image": null
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Bob O’Neill’s Absent Minds",
+   "date": "2026-11-13",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
    "image": null
   },
   {
@@ -4292,6 +4362,16 @@
    "price": null,
    "info": "THE JAMISSARIES - Beer Brunch 2-5pm the 2nd Saturday of every month! Soulful Psychedelic, Funky Originals by Arindam Krishna Das and…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_bb95a50dbe2d42db93e68949d5586dda~mv2.jpg\"]"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Ken Margolis & Friends",
+   "date": "2026-11-14",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
   },
   {
    "venue": "Mission West",
@@ -4431,6 +4511,16 @@
    "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
    "price": null,
    "info": null,
+   "image": null
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "The Jade Trio",
+   "date": "2026-11-15",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
    "image": null
   },
   {
@@ -4604,6 +4694,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781544048015-58YD081SO3RA5GHWBUKK/images.jpg"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Neil Bradley",
+   "date": "2026-11-19",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "James Gordon Williams",
    "date": "2026-11-19",
@@ -4632,6 +4732,16 @@
    "price": "$18",
    "info": "with Shaky Feelin'",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031323794"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Bagwell and Troy",
+   "date": "2026-11-20",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
   },
   {
    "venue": "El Vaquero Winery",
@@ -4754,6 +4864,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_e500f742bbc04e5881669705eed43294~mv2.png"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Ashley Lloyd",
+   "date": "2026-11-21",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "Abbott Square",
    "title": "The Mondays",
    "date": "2026-11-21",
@@ -4782,6 +4902,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792264359878-JHDUSKX22BTMNTPM9VAZ/Screen+Shot+2026-10-17+at+12.07.33+PM.png"
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "Wavy Train feat. Donald Glaude & DJ Denise",
+   "date": "2026-11-21",
+   "time": "19:30",
+   "url": "https://catalleystreet.com/event/wavy-train-feat-donald-glaude-dj-denise/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/carly.jpg"
   },
   {
    "venue": "Catalyst Atrium",
@@ -4854,6 +4984,16 @@
    "image": null
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "7th Wave",
+   "date": "2026-11-22",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
+  },
+  {
    "venue": "Abbott Square",
    "title": "Salsa by The Sea Afterparty",
    "date": "2026-11-22",
@@ -4894,16 +5034,6 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114192494"
   },
   {
-   "venue": "The Crepe Place",
-   "title": "Taco Night And Family Jam",
-   "date": "2026-11-23",
-   "time": "18:00",
-   "url": "https://www.thecrepeplace.com/shows-list/taco-night-and-family-jam-monday-august-18-from-4-to-10pm",
-   "price": null,
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750966175691-HAFEIOPUNWAJDUF2UIU8/webmail.thecrepeplace.png"
-  },
-  {
    "venue": "Kuumbwa Jazz",
    "title": "Brian Blade & The Fellowship Band",
    "date": "2026-11-23",
@@ -4912,6 +5042,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/brian-blade-fellowship-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "(((folkYEAH))) Presents: PEARL CHARLES",
+   "date": "2026-11-23",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/folkyeah-presents-pearl-charles-the-crepe-place-tickets/14855443?pl=thecrepeplace",
+   "price": "$18",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792556254912-40LJ8O8WXFNBMPM7E5E4/379a9723_copy-edit2.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -4992,6 +5132,16 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981082822"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "The Owls",
+   "date": "2026-11-27",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
   },
   {
    "venue": "Mission West",
@@ -5302,6 +5452,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789139946716-G09DTZFHHCKNS7A4GBL6/The%2BSuitcase%2BJunket_1%2B%28Joanna%2BChattman%29.webp"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "Micro Mania Midget Wrestling",
+   "date": "2026-12-04",
+   "time": "20:30",
+   "url": "https://catalystclub.com/event/micro-mania-midget-wrestling-6/the-catalyst/santa-cruz-california/",
+   "price": null,
+   "info": "Doors: 7:30 pm Show: 8:30 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/micro-mania-midget-wrestling.jpeg"
   },
   {
    "venue": "Moe's Alley",
@@ -5765,6 +5925,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Open Mic",
+   "date": "2026-12-14",
+   "time": "19:00",
+   "url": "https://www.thecrepeplace.com/shows-list/open-mic-monday-july-14-7-10pm-free",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781801755208-QPOKNASTMUPAWDRDNTXQ/1781562597006_123_1.jpeg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "Shirley’S Gig: Dave Egan, Patti Maxine, Bob Basa, Paul Tarantino & Bill Bosch",
    "date": "2026-12-15",
    "time": "17:30",
@@ -5962,6 +6132,16 @@
    "price": "$27",
    "info": "with Boot Juice",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948986238680"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Taco Night And Family Jam",
+   "date": "2027-01-04",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/taco-night-and-family-jam-monday-august-18-from-4-to-10pm",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750966175691-HAFEIOPUNWAJDUF2UIU8/webmail.thecrepeplace.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -6639,7 +6819,7 @@
    "date": "2027-03-04",
    "time": "20:30",
    "url": "https://catalystclub.com/event/tommy-lefroy-with-al-olender/the-catalyst-atrium/santa-cruz-california/",
-   "price": null,
+   "price": "$28.72",
    "info": "Show: 8:30 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/tommy-lefroy-with-al-olender.jpeg"
   },
@@ -6822,6 +7002,16 @@
    "price": null,
    "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Chameleons",
+   "date": "2027-05-09",
+   "time": null,
+   "url": "https://www.prekindle.com/event/85199-chameleons-felton",
+   "price": "$40",
+   "info": "with Rose Garden Funeral Party",
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948970928794"
   },
   {
    "venue": "Felton Music Hall",
