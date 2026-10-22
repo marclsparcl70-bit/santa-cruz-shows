@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T07:29-07:00",
+ "updated": "2026-10-22T07:30-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -24,7 +24,7 @@
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 65
+   "count": 66
   },
   {
    "venue": "Cat Alley Street",
@@ -34,12 +34,12 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 64
+   "count": 60
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "venue": "Abbott Square",
@@ -54,7 +54,7 @@
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 28
+   "count": 27
   },
   {
    "venue": "El Vaquero Winery",
@@ -68,8 +68,8 @@
   },
   {
    "venue": "UCSC Recital Hall",
-   "ok": true,
-   "count": 5
+   "ok": false,
+   "error": "The read operation timed out"
   },
   {
    "venue": "Quarry Amphitheater",
@@ -2474,6 +2474,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789922654539-DF316RA5NC4SCIUEN3DM/IMG_6728.jpeg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Johnny G and Friends",
+   "date": "2026-10-22",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/johnny-g-and-friends",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "The Beer Scouts",
    "date": "2026-10-22",
@@ -2490,7 +2500,7 @@
    "time": "18:30",
    "url": "https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz5y",
    "price": null,
-   "info": "Brian Fitzgerald",
+   "info": "Brian Fitzgerald Trio",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1780030529749-KQCJ0CAW78K4EQVFGWGF/jazz+nightd+nre.png"
   },
   {
@@ -2531,7 +2541,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/02/68/64_Listings.jpg?v=6"
+   "image": "https://i.ticketweb.com/i/00/13/02/68/64_Listings.jpg?v=7"
   },
   {
    "venue": "Rio Theatre",
@@ -2672,6 +2682,16 @@
    "price": "$30",
    "info": "a great evening of songwriting and story telling",
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/ae451a3f-c95e-4af8-833c-8c4447e25a36/IMG_1150.PNG"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Velour!",
+   "date": "2026-10-23",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/events/2025/4/19/velour",
+   "price": null,
+   "info": "Velour draws inspiration from the smokin’ grooves of supergroups like the meters, galactic, the greyboy allstars, and the new…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1774511963817-44P1C36TKNSKGU37YM8R/VELOUR+copy.jpg"
   },
   {
    "venue": "Henfling's Tavern",
@@ -2822,16 +2842,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/cropped.jpg"
-  },
-  {
-   "venue": "UCSC Recital Hall",
-   "title": "One Night Only—A Faculty Recital",
-   "date": "2026-10-24",
-   "time": "19:30",
-   "url": "https://events.ucsc.edu/event/ono-oct-24-2026/",
-   "price": "Free – $12",
-   "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/10/photo-grid-16x9-extended-canvas.png"
   },
   {
    "venue": "The Crepe Place",
@@ -3202,6 +3212,16 @@
    "price": null,
    "info": "Live Music 5:30-7:30pm",
    "image": null
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "KAVA JAH Birthday Bash",
+   "date": "2026-10-30",
+   "time": "17:30",
+   "url": "https://www.woodhousebrews.com/events/2026/10/30/kava-jah-birthday-bash",
+   "price": null,
+   "info": "Announcing to you the 1st Annual KAVA JAH Birthday Bash🔥🔥🔥 Friday October 30th come join us at Woodhouse Brewery in Santa Cruz for a…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1792596669151-XOA8PH2BMGRBZ1IXQ5V9/Screen+Shot+2026-10-21+at+8.29.51+AM.png"
   },
   {
    "venue": "Cork & Fork",
@@ -3995,7 +4015,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "(((folkYEAH))) PRESENTS: ALEX CAMERON",
+   "title": "(((folkYEAH))) PRESENTS: ALEX CAMERON With JOSH DA COSTA",
    "date": "2026-11-09",
    "time": "19:00",
    "url": "https://www.ticketweb.com/event/folkyeah-presents-alex-cameron-the-crepe-place-tickets/14905423?pl=thecrepeplace",
@@ -4112,16 +4132,6 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782917057485-ZZC6OLPGW5NOQZXCV14T/npr.brightspotcdn.jpg"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "They Are Gutting a Body of Water",
-   "date": "2026-11-11",
-   "time": null,
-   "url": "https://www.prekindle.com/event/59369-they-are-gutting-a-body-of-water-felton",
-   "price": "$22",
-   "info": "with Dead Sullivan",
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949109712832"
   },
   {
    "venue": "Discretion Brewing",
@@ -4414,6 +4424,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1792364693726-TR35SA5JHLMUY1PUU99H/1792124408082162600_attach_140114172084730000.png"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "The Tom Ralston Band – Celebrating Santa Cruz Connections",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/the-tom-ralston-band-celebrating-santa-cruz-connections/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/cropped.jpg"
+  },
+  {
    "venue": "Mission West",
    "title": "River Mouth",
    "date": "2026-11-14",
@@ -4579,7 +4599,7 @@
    "date": "2026-11-15",
    "time": "21:00",
    "url": "https://catalystclub.com/event/the-california-honeydrops-sweet-like-that-tour-2026/the-catalyst/santa-cruz-california/",
-   "price": "$55.08",
+   "price": "$45.95 to $55.08",
    "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/07/the-california-honeydrops-sweet-like-that-tour-2026.jpeg"
   },
@@ -4612,16 +4632,6 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781801615877-CC11SKGD1TDC8CV9JOQO/1781562597006_123_1.jpeg"
-  },
-  {
-   "venue": "UCSC Recital Hall",
-   "title": "Music Ensemble Showcase Concert",
-   "date": "2026-11-16",
-   "time": "19:00",
-   "url": "https://events.ucsc.edu/event/music-ensemble-showcase-concert/",
-   "price": "Free",
-   "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/03/Spotlight-gold-GettyImages-1409481113.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -4724,16 +4734,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791474430879-5CF00W7WXIS38FLLLYQH/James-Durbin-667x1024.jpg"
   },
   {
-   "venue": "Felton Music Hall",
-   "title": "Rosebud & Shaky Feelin'",
-   "date": "2026-11-19",
-   "time": null,
-   "url": "https://www.prekindle.com/event/89535-rosebud-and-shaky-feelin-felton",
-   "price": "$18",
-   "info": "with Shaky Feelin'",
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949031323794"
-  },
-  {
    "venue": "Discretion Brewing",
    "title": "Bagwell and Troy",
    "date": "2026-11-20",
@@ -4782,16 +4782,6 @@
    "price": "$30",
    "info": "lyric writer, visual artist, and survivor Sam Baker",
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791413528394-CY9VIVXFE2F8GIO5J71I/IMG_1194.webp"
-  },
-  {
-   "venue": "UCSC Recital Hall",
-   "title": "UCSC Wind Ensemble",
-   "date": "2026-11-20",
-   "time": "19:30",
-   "url": "https://events.ucsc.edu/event/ucsc-wind-ensemble-fall-2026/",
-   "price": "$5 – $12",
-   "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/French-horns-GettyImages-149336432-scaled.jpg"
   },
   {
    "venue": "Henfling's Tavern",
@@ -5048,20 +5038,10 @@
    "title": "(((folkYEAH))) Presents: PEARL CHARLES",
    "date": "2026-11-23",
    "time": "20:00",
-   "url": "https://www.ticketweb.com/event/folkyeah-presents-pearl-charles-the-crepe-place-tickets/14855443?pl=thecrepeplace",
+   "url": "https://www.thecrepeplace.com/shows-list/folkyeah-presents-pearl-charles-saturday-july-11-7pm",
    "price": "$18",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792556254912-40LJ8O8WXFNBMPM7E5E4/379a9723_copy-edit2.jpg"
-  },
-  {
-   "venue": "Felton Music Hall",
-   "title": "THE RESIDENTS – ESKIMO LIVE",
-   "date": "2026-11-23",
-   "time": null,
-   "url": "https://www.prekindle.com/event/76833-the-residents-felton",
-   "price": "$45",
-   "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949090806340"
   },
   {
    "venue": "The Crepe Place",
@@ -5072,16 +5052,6 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745725872059-JCAHK7F5OZ2DDAZXLHOY/Screenshot%2B2025-01-13%2Bat%2B11.52.46%E2%80%AFAM.png"
-  },
-  {
-   "venue": "UCSC Recital Hall",
-   "title": "UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Symphony No. 5 in E minor, Op. 64",
-   "date": "2026-11-24",
-   "time": "19:30",
-   "url": "https://events.ucsc.edu/event/orchestra-fall-2026-27/",
-   "price": "Free – $12",
-   "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/orchestra-photo_16x9-scaled.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -5459,7 +5429,7 @@
    "date": "2026-12-04",
    "time": "20:30",
    "url": "https://catalystclub.com/event/micro-mania-midget-wrestling-6/the-catalyst/santa-cruz-california/",
-   "price": null,
+   "price": "$34.12 to $105.10",
    "info": "Doors: 7:30 pm Show: 8:30 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/micro-mania-midget-wrestling.jpeg"
   },
@@ -5955,6 +5925,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Joe Ferrara",
+   "date": "2026-12-16",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/obdfv5zg3ongrlzu4vl45mftfke0vs",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792627780569-ZVOR52MQ6GWGZY18DU4R/FEATURES_150909927_AR_0_DQDZXPUFAZPM.webp"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "Slow Coast",
    "date": "2026-12-17",
    "time": "17:30",
@@ -6084,16 +6064,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1737066344818-HPE2P1BRPNT0YJSWIL9J/Screenshot+2025-01-13+at+11.52.46%E2%80%AFAM.png"
   },
   {
-   "venue": "Woodhouse",
-   "title": "Velour!",
-   "date": "2026-12-23",
-   "time": "19:00",
-   "url": "https://www.woodhousebrews.com/events/2025/4/19/velour",
-   "price": null,
-   "info": "Velour draws inspiration from the smokin’ grooves of supergroups like the meters, galactic, the greyboy allstars, and the new…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1774511963817-44P1C36TKNSKGU37YM8R/VELOUR+copy.jpg"
-  },
-  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-12-27",
@@ -6102,6 +6072,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750956058933-0WQWBOWAAAPPTY4WDXGY/thumbnail_Image.jpg"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "(((folkYEAH!))) Presents - The Lemon Twigs w/ Tchotchke",
+   "date": "2026-12-30",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/09/12/74_Listings.jpg?v=10"
   },
   {
    "venue": "Felton Music Hall",
@@ -6404,16 +6384,6 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/camille-thurman-cropped.jpg"
   },
   {
-   "venue": "UCSC Recital Hall",
-   "title": "Martin Luther King Jr. Convocation",
-   "date": "2027-01-26",
-   "time": "18:00",
-   "url": "https://events.ucsc.edu/event/martin-luther-king-jr-convocation/",
-   "price": "Free",
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Kuumbwa Jazz",
    "title": "Master Class: Michel Petrucciani’s ‘Kuumbwa’ – The Story Behind the Album",
    "date": "2027-01-26",
@@ -6442,6 +6412,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/06/80/14_Listings.jpg?v=5"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Satan Es Real, Dominique And The Diamonds",
+   "date": "2027-01-27",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/satan-es-real-dominique-and-the-diamonds-wednesday-january-27-8pm-15",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792628347937-3Y0P92F0TJM7TXIR36CI/images.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
