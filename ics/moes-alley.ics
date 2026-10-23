@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:fa6529b4f1c626cfd715@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20260930T200000
 DTEND;TZID=America/Los_Angeles:20260930T230000
 SUMMARY:Thelma & The Sleaze w/ Micah Schnabel & Vanessa Jean Speckman @ Mo
@@ -37,7 +37,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:3059e0f633f909489f49@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261002T210000
 DTEND;TZID=America/Los_Angeles:20261003T000000
 SUMMARY:Moe's Alley Presents: Diggin Dirt (Night 1) @ Moe's Alley
@@ -47,7 +47,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:fb842875a6845512d569@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261002T210000
 DTEND;TZID=America/Los_Angeles:20261003T000000
 SUMMARY:Moe's Alley Presents: Diggin Dirt (Night 1) w/ Rachel Spung & The 
@@ -58,7 +58,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f5446c56e1534856acf1@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261003T210000
 DTEND;TZID=America/Los_Angeles:20261004T000000
 SUMMARY:Moe's Alley Presents: Diggin Dirt (Night 2) @ Moe's Alley
@@ -68,7 +68,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:95f53b9e03114553930e@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261003T210000
 DTEND;TZID=America/Los_Angeles:20261004T000000
 SUMMARY:Moe's Alley Presents: Diggin Dirt (Night 2) w/ Slingshot Improv Tr
@@ -79,7 +79,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6547c8fad3ec39a91eaf@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261006T200000
 DTEND;TZID=America/Los_Angeles:20261006T230000
 SUMMARY:Moe's Alley Presents: The Animeros w/ Flaco el Jandro y Los Perros
@@ -90,7 +90,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:3b2a51026ff5018609c2@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T230000
 SUMMARY:(((folkYEAH!))) Presents - Y La Bamba @ Moe's Alley
@@ -100,7 +100,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:509d09790c3b4bee60ce@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T230000
 SUMMARY:(((folkYEAH!))) Presents - Y La Bamba w/ Vanessa Zamora @ Moe's Al
@@ -111,7 +111,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:9cd328cc989d88f9e1b7@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261007T200000
 DTEND;TZID=America/Los_Angeles:20261007T230000
 SUMMARY:(((folkYEAH!))) Presents - Y La Bamba w/ Vanessa Zamora + Career W
@@ -122,7 +122,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:fad9b2745973e5525b15@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261009T210000
 DTEND;TZID=America/Los_Angeles:20261010T000000
 SUMMARY:Moe's Alley Presents: The Breaks @ Moe's Alley
@@ -132,7 +132,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:99ebdeaabdb3b7cb1be3@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261010T210000
 DTEND;TZID=America/Los_Angeles:20261011T000000
 SUMMARY:Moe's Alley Presents: Coffee Zombie Collective w/ Rabbit Truck @ M
@@ -143,7 +143,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:9b5e04941b301d41a04d@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261011T140000
 DTEND;TZID=America/Los_Angeles:20261011T170000
 SUMMARY:AC Myles & Band: Stratocaster Masters @ Moe's Alley
@@ -153,7 +153,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:8c723bfa2f8c46d39e60@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261014T200000
 DTEND;TZID=America/Los_Angeles:20261014T230000
 SUMMARY:*SOLD OUT - THANK YOU!* - Alborosie & Shengen Clan w/ Rise Up + Se
@@ -164,7 +164,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:edd5d4fc92d904452d61@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261015T200000
 DTEND;TZID=America/Los_Angeles:20261015T230000
 SUMMARY:Andre Cruz & The Black Diamond Rhythm Band w/ Trianna Feruza & The
@@ -175,7 +175,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:37f0c13367a09c6fc6fe@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261016T210000
 DTEND;TZID=America/Los_Angeles:20261017T000000
 SUMMARY:Moe's Alley Presents: Young Dubliners w/ Ockham's Razor @ Moe's Al
@@ -186,7 +186,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:a85d73a938fb217e5306@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261017T210000
 DTEND;TZID=America/Los_Angeles:20261018T000000
 SUMMARY:Moe's Alley Presents: B-Side Players w/ Elijah Emanuel @ Moe's All
@@ -197,7 +197,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ee0823c54dcd951a8c42@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261018T200000
 DTEND;TZID=America/Los_Angeles:20261018T230000
 SUMMARY:Moe's Alley Presents: Sqwerv w/ Flat Sun Society @ Moe's Alley
@@ -207,7 +207,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ee752b995c885d419472@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261021T193000
 DTEND;TZID=America/Los_Angeles:20261021T223000
 SUMMARY:Western Wednesday #95: Henry Warde x The Farmer & Adele @ Moe's Al
@@ -218,7 +218,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c53bbeb716e89de6a42e@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261022T200000
 DTEND;TZID=America/Los_Angeles:20261022T230000
 SUMMARY:Moe's Alley Presents: Dusk Dept. w/ The Westones @ Moe's Alley
@@ -228,7 +228,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6b2b13cf0f09a42c3418@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261023T210000
 DTEND;TZID=America/Los_Angeles:20261024T000000
 SUMMARY:Moe's Alley Presents: Lyrics Born "The LB Baby Tour" w/ Alwa Gordo
@@ -239,7 +239,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:1a9c549f4c63570e85a3@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261024T210000
 DTEND;TZID=America/Los_Angeles:20261025T000000
 SUMMARY:Moe's Alley Presents: Zepparella (Saturday Night Show) @ Moe's All
@@ -250,7 +250,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:497e465b4ba208f6cd03@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261025T160000
 DTEND;TZID=America/Los_Angeles:20261025T190000
 SUMMARY:Moe's Alley Presents: Zepparella (Sunday Matinee Show) @ Moe's All
@@ -261,7 +261,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:5e47d90a869961d90d49@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261027T200000
 DTEND;TZID=America/Los_Angeles:20261027T230000
 SUMMARY:Moe's Alley Presents: Wine Lips w/ Buddy Wynkoop @ Moe's Alley
@@ -271,7 +271,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:62a5f1e0a35025e90f9e@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261030T203000
 DTEND;TZID=America/Los_Angeles:20261030T233000
 SUMMARY:(((folkYEAH!))) Presents - The Mother Hips w/ Skyway Man @ Moe's A
@@ -282,7 +282,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:7fe4a1ccc9b2b1286b6c@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261031T210000
 DTEND;TZID=America/Los_Angeles:20261101T000000
 SUMMARY:Moe's Alley Halloween Bash with High Step Society + Floratura @ Mo
@@ -293,7 +293,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6f93268f485f0b93ceba@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261101T150000
 DTEND;TZID=America/Los_Angeles:20261101T180000
 SUMMARY:Moe's Alley Presents: Andrew Duhon Trio (Matinee Show) @ Moe's All
@@ -304,7 +304,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:f0705cd025b63fa171bd@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261101T200000
 DTEND;TZID=America/Los_Angeles:20261101T230000
 SUMMARY:Moe's Alley Presents: Parlor Greens w/ The GT's (The Grease Traps 
@@ -315,7 +315,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:b52d9e93f6894150f0ae@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261104T200000
 DTEND;TZID=America/Los_Angeles:20261104T230000
 SUMMARY:The Lowtimers w/ Red McAdam + Kentucky Mule @ Moe's Alley
@@ -325,7 +325,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:1b79255483cf83bf2e04@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261105T200000
 DTEND;TZID=America/Los_Angeles:20261105T230000
 SUMMARY:Moe's Alley Presents: Clay Street Unit w/ Blue Dream @ Moe's Alley
@@ -335,7 +335,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:fe0db18c7cf7c89b0584@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261107T210000
 DTEND;TZID=America/Los_Angeles:20261108T000000
 SUMMARY:(((folkYEAH!))) Presents - Legend Zeppelin @ Moe's Alley
@@ -345,7 +345,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:a1da9f79e6f307468fa6@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261108T190000
 DTEND;TZID=America/Los_Angeles:20261108T220000
 SUMMARY:Moe's Alley Presents: Southern Culture On The Skids w/ Dead Kamper
@@ -356,7 +356,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e5c7ade840301bf7ebef@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T230000
 SUMMARY:(((folkYEAH!))) Presents: Holy Wave @ Moe's Alley
@@ -366,7 +366,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ddd02d2e3dcc7c97cb58@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261110T200000
 DTEND;TZID=America/Los_Angeles:20261110T230000
 SUMMARY:Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreit
@@ -377,7 +377,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:9d2a3b8bc030f413a0d6@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261113T200000
 DTEND;TZID=America/Los_Angeles:20261113T230000
 SUMMARY:Moe's Alley Presents: Roger Clyne and PH Naffah @ Moe's Alley
@@ -387,7 +387,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:4390c86349ab6142f2ee@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261114T210000
 DTEND;TZID=America/Los_Angeles:20261115T000000
 SUMMARY:Moe's Alley Presents: Jon Spencer w/ Genre Is Death + DJ Archive 6
@@ -398,7 +398,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:561d55818184938cd2c9@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261115T160000
 DTEND;TZID=America/Los_Angeles:20261115T190000
 SUMMARY:Moe's Alley Presents: Drag The River - 30th Anniversary Tour w/ Th
@@ -409,7 +409,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:eda71f5e94f16abf6b85@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261117T200000
 DTEND;TZID=America/Los_Angeles:20261117T230000
 SUMMARY:The Goddamn Gallows w/ King Sickabilly + Rabbit Truck @ Moe's Alle
@@ -420,7 +420,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e8c69cbb7f93ffe991e9@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261120T210000
 DTEND;TZID=America/Los_Angeles:20261121T000000
 SUMMARY:Moe's Alley Presents: Kabaka Pyramid (Night 1) w/ Kava Jah & The R
@@ -431,7 +431,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:3af7b3321ca72e43f674@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261121T210000
 DTEND;TZID=America/Los_Angeles:20261122T000000
 SUMMARY:Moe's Alley Presents: Kabaka Pyramid (Night 2) w/ Lawgiver The Kin
@@ -442,7 +442,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:03ea415c4fb8e763f030@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261127T203000
 DTEND;TZID=America/Los_Angeles:20261127T233000
 SUMMARY:The Inciters w/ A-100s + Txe Fit @ Moe's Alley
@@ -452,7 +452,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6094623f0589c6cab512@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261204T210000
 DTEND;TZID=America/Los_Angeles:20261205T000000
 SUMMARY:Moe's Alley Presents: Dragon Smoke w/ Andre Cruz & Chris Lujan @ M
@@ -463,7 +463,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:719adf642bba48abb0c3@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261205T210000
 DTEND;TZID=America/Los_Angeles:20261206T000000
 SUMMARY:Hell's Belles - World Famous All-Female AC/DC Tribute Band w/ murd
@@ -474,7 +474,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:c3b7abe4cbf930f7526a@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261208T200000
 DTEND;TZID=America/Los_Angeles:20261208T230000
 SUMMARY:(((folkYEAH!))) Presents - Buck Meek w/ Kisser @ Moe's Alley
@@ -483,19 +483,19 @@ DESCRIPTION:Doors 7:00 PM\nhttps://moesalley.com/calendar
 URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:7a5ce984f72f7ba807fb@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+UID:644c110bbf247bcc90f1@santa-cruz-shows
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261209T200000
 DTEND;TZID=America/Los_Angeles:20261209T230000
-SUMMARY:Moe's Alley Presents: The James Hunter Six "Off The Fence Tour" @ 
- Moe's Alley
+SUMMARY:Moe's Alley Presents: The James Hunter Six "Off The Fence Tour" w/
+  Oscar LaDell @ Moe's Alley
 LOCATION:Moe's Alley
 DESCRIPTION:Doors 7:00 PM\nhttps://moesalley.com/calendar
 URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:e26048f651b9b5dfb3dc@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261210T200000
 DTEND;TZID=America/Los_Angeles:20261210T230000
 SUMMARY:Moe's Alley Presents: The Slackers @ Moe's Alley
@@ -504,18 +504,19 @@ DESCRIPTION:Doors 7:00 PM\nhttps://moesalley.com/calendar
 URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
-UID:1fc98508232f5ba75dc6@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+UID:7080f2ce3a1a06e92522@santa-cruz-shows
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261213T200000
 DTEND;TZID=America/Los_Angeles:20261213T230000
-SUMMARY:Moe's Alley Presents: Long Beach Dub Allstars @ Moe's Alley
+SUMMARY:Moe's Alley Presents: Long Beach Dub Allstars w/ Man Like Devin @ 
+ Moe's Alley
 LOCATION:Moe's Alley
 DESCRIPTION:Doors 7:00 PM\nhttps://moesalley.com/calendar
 URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:3fe301e24c1460a17143@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261219T200000
 DTEND;TZID=America/Los_Angeles:20261219T230000
 SUMMARY:Moe's Alley Presents: jackrabbit (featuring Dermot Mulroney) @ Moe
@@ -526,7 +527,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ac9570dc7e167948a5fc@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261230T200000
 DTEND;TZID=America/Los_Angeles:20261230T230000
 SUMMARY:(((folkYEAH!))) Presents - The Lemon Twigs w/ Tchotchke @ Moe's Al
@@ -537,7 +538,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ad49eef3dedc18539841@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20261231T210000
 DTEND;TZID=America/Los_Angeles:20270101T000000
 SUMMARY:Moe's Alley's NYE Bash with Wooster! @ Moe's Alley
@@ -547,7 +548,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:7c649a71e832859b5278@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20270108T210000
 DTEND;TZID=America/Los_Angeles:20270109T000000
 SUMMARY:Moe's Alley Presents: The Westones + Floratura @ Moe's Alley
@@ -557,7 +558,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:069995ef34395be94c3c@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20270110T190000
 DTEND;TZID=America/Los_Angeles:20270110T220000
 SUMMARY:Moe's Alley Presents: Ana Popovic @ Moe's Alley
@@ -567,7 +568,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6729e2c4d23e3679ed2b@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20270114T200000
 DTEND;TZID=America/Los_Angeles:20270114T230000
 SUMMARY:(((folkYEAH!))) Presents: Sister Nancy @ Moe's Alley
@@ -577,7 +578,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:1353d47eb2867443cffc@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20270127T200000
 DTEND;TZID=America/Los_Angeles:20270127T230000
 SUMMARY:Moe's Alley Presents: Angela Autumn @ Moe's Alley
@@ -587,7 +588,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:18d8ab6359ae9ccef38f@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20270130T200000
 DTEND;TZID=America/Los_Angeles:20270130T230000
 SUMMARY:Moe's Alley Presents: Keller Williams @ Moe's Alley
@@ -597,7 +598,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:6db6e9bc743bcd65fe5c@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20270212T200000
 DTEND;TZID=America/Los_Angeles:20270212T230000
 SUMMARY:Moe's Alley Presents: Eddie 9V @ Moe's Alley
@@ -607,7 +608,7 @@ URL:https://moesalley.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:141f2d6fd9522fbb00ad@santa-cruz-shows
-DTSTAMP:20261022T143029Z
+DTSTAMP:20261023T143207Z
 DTSTART;TZID=America/Los_Angeles:20270219T190000
 DTEND;TZID=America/Los_Angeles:20270219T220000
 SUMMARY:(((folkYEAH!))) Presents - Jess Williamson @ Moe's Alley

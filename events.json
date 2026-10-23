@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T07:30-07:00",
+ "updated": "2026-10-23T07:32-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,12 +9,12 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "venue": "The Crepe Place",
@@ -29,17 +29,17 @@
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 5
+   "count": 3
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 60
+   "count": 62
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Abbott Square",
@@ -49,12 +49,12 @@
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "venue": "El Vaquero Winery",
@@ -64,12 +64,12 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "UCSC Recital Hall",
-   "ok": false,
-   "error": "The read operation timed out"
+   "ok": true,
+   "count": 5
   },
   {
    "venue": "Quarry Amphitheater",
@@ -2729,9 +2729,19 @@
    "date": "2026-10-23",
    "time": null,
    "url": "https://www.prekindle.com/event/93351-black-flag-felton",
-   "price": "$36",
+   "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949172416905"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Eddie Hayes - Solo",
+   "date": "2026-10-24",
+   "time": "14:30",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/eddie-hayes-solo-1",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -2842,6 +2852,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/cropped.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "One Night Only—A Faculty Recital",
+   "date": "2026-10-24",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/ono-oct-24-2026/",
+   "price": "Free – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/10/photo-grid-16x9-extended-canvas.png"
   },
   {
    "venue": "The Crepe Place",
@@ -3112,6 +3132,16 @@
    "price": "$32",
    "info": "with Shawn D'amario",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949083236342"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open Acoustic Jam",
+   "date": "2026-10-29",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -3770,7 +3800,7 @@
    "time": "19:00",
    "url": "https://abbottsquaremarket.com/events/sambada-k3yzg",
    "price": null,
-   "info": "SambaDá will move through you and create an energy that is undeniable through downtown Santa Cruz. Do not miss this one! SambaDá…",
+   "info": "Made possible by Abbott Square Market and these amazing musicians. Free and all ages",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1702788326399-7XZN8Y5IQP6DPHGXDBFO/SambaDa.jpg"
   },
   {
@@ -4359,7 +4389,7 @@
    "date": "2026-11-13",
    "time": null,
    "url": "https://www.prekindle.com/event/77388-shakedown-citi-felton",
-   "price": "$22",
+   "price": "$17",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949051698934"
   },
@@ -4634,6 +4664,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781801615877-CC11SKGD1TDC8CV9JOQO/1781562597006_123_1.jpeg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "Music Ensemble Showcase Concert",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "url": "https://events.ucsc.edu/event/music-ensemble-showcase-concert/",
+   "price": "Free",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/03/Spotlight-gold-GettyImages-1409481113.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Shirley’S Gig: Dave Egan, Patti Maxine, Bob Basa, Paul Tarantino & Bill Bosch",
    "date": "2026-11-17",
@@ -4782,6 +4822,16 @@
    "price": "$30",
    "info": "lyric writer, visual artist, and survivor Sam Baker",
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791413528394-CY9VIVXFE2F8GIO5J71I/IMG_1194.webp"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Wind Ensemble",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/ucsc-wind-ensemble-fall-2026/",
+   "price": "$5 – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/French-horns-GettyImages-149336432-scaled.jpg"
   },
   {
    "venue": "Henfling's Tavern",
@@ -5038,7 +5088,7 @@
    "title": "(((folkYEAH))) Presents: PEARL CHARLES",
    "date": "2026-11-23",
    "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/folkyeah-presents-pearl-charles-saturday-july-11-7pm",
+   "url": "https://www.ticketweb.com/event/folkyeah-presents-pearl-charles-the-crepe-place-tickets/15054233?pl=thecrepeplace",
    "price": "$18",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792556254912-40LJ8O8WXFNBMPM7E5E4/379a9723_copy-edit2.jpg"
@@ -5052,6 +5102,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745725872059-JCAHK7F5OZ2DDAZXLHOY/Screenshot%2B2025-01-13%2Bat%2B11.52.46%E2%80%AFAM.png"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Symphony No. 5 in E minor, Op. 64",
+   "date": "2026-11-24",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/orchestra-fall-2026-27/",
+   "price": "Free – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/09/orchestra-photo_16x9-scaled.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -5524,6 +5584,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949005558849"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Holiday Crafternoon",
+   "date": "2026-12-06",
+   "time": "13:00",
+   "url": "https://abbottsquaremarket.com/events/holiday-crafternoon",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6adaad313cb3477975562b92/1792716686418/"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Chadeish Yameinu Presents: Hallelujah! The Songs of Leonard Cohen – Featuring the Dan & Laurel Quartet",
    "date": "2026-12-06",
@@ -5624,6 +5694,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792183433766-MI03EWL9QRNQGZUOPSCN/images.jpg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "The Frights",
+   "date": "2026-12-08",
+   "time": null,
+   "url": "https://www.prekindle.com/event/62732-the-frights-felton",
+   "price": "$32",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948967966165"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Bob O'Neill's Absent Minds",
    "date": "2026-12-09",
@@ -5635,13 +5715,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: The James Hunter Six \"Off The Fence Tour\"",
+   "title": "Moe's Alley Presents: The James Hunter Six \"Off The Fence Tour\" w/ Oscar LaDell",
    "date": "2026-12-09",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/03/51/24_Listings.jpg?v=2"
+   "image": "https://i.ticketweb.com/i/00/13/03/51/24_Listings.jpg?v=3"
   },
   {
    "venue": "The Crepe Place",
@@ -5845,13 +5925,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Long Beach Dub Allstars",
+   "title": "Moe's Alley Presents: Long Beach Dub Allstars w/ Man Like Devin",
    "date": "2026-12-13",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/06/43/94_Listings.jpg?v=3"
+   "image": "https://i.ticketweb.com/i/00/13/06/43/94_Listings.jpg?v=5"
   },
   {
    "venue": "Rio Theatre",
@@ -6114,6 +6194,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948986238680"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Fleetwood Macrame",
+   "date": "2027-01-01",
+   "time": null,
+   "url": "https://www.prekindle.com/event/35226-fleetwood-macrame-felton",
+   "price": "$50",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948968863256"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Taco Night And Family Jam",
    "date": "2027-01-04",
@@ -6132,6 +6222,16 @@
    "price": null,
    "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "(((folkYEAH))) Presents: THE LOVED ONES",
+   "date": "2027-01-08",
+   "time": "19:00",
+   "url": "https://www.thecrepeplace.com/shows-list/folkyeah-presents-the-loved-ones-friday-january-8-7pm-on-the-garden-stage",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792683637983-GVZJJG1VIU9WIBQ0RBO5/Loved-Ones-1-scaled.webp"
   },
   {
    "venue": "Moe's Alley",
@@ -6364,6 +6464,26 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034722324"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "Voyage Hot Club",
+   "date": "2027-01-24",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/voyage-hot-club/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/crop-1.jpg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Koo Koo",
+   "date": "2027-01-24",
+   "time": null,
+   "url": "https://www.prekindle.com/event/86822-koo-koo-felton",
+   "price": "$18",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948966792130"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Brandy Clark: Take Flight World Tour",
    "date": "2027-01-24",
@@ -6382,6 +6502,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/camille-thurman-cropped.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "Martin Luther King Jr. Convocation",
+   "date": "2027-01-26",
+   "time": "18:00",
+   "url": "https://events.ucsc.edu/event/martin-luther-king-jr-convocation/",
+   "price": "Free",
+   "info": null,
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6494,6 +6624,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Nicole-McCabe-2.jpg"
   },
   {
+   "venue": "Rio Theatre",
+   "title": "Take It to the Limit",
+   "date": "2027-02-04",
+   "time": "19:00",
+   "url": "https://www.riotheatre.com/events-2/2027/2/4/eaglestribute",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792694799609-2EITZ9UMBYGFI3F44JKY/TITTL_1080+x+1620_SANTA+CRUZ.jpeg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Skerryvore",
    "date": "2027-02-04",
@@ -6529,7 +6669,7 @@
    "date": "2027-02-05",
    "time": null,
    "url": "https://www.prekindle.com/event/59745-the-sways-felton",
-   "price": "$20",
+   "price": "$18",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948976241626"
   },
@@ -6729,7 +6869,7 @@
    "date": "2027-02-26",
    "time": null,
    "url": "https://www.prekindle.com/event/13641-caroline-rose-uncle-carols-world-of-fun-tour-felton",
-   "price": "$30",
+   "price": "$27",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971288152"
   },
@@ -6792,6 +6932,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Marta-Sanchez-Cropped.jpeg"
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "Electric Elton",
+   "date": "2027-03-04",
+   "time": "19:00",
+   "url": "https://www.riotheatre.com/events-2/2027/3/4/electricelton",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792726219564-KGVN2LKCR1B3B39PGP8T/ELTON_1080+x+1620_SANTA+CRUZ.jpeg"
   },
   {
    "venue": "Catalyst Atrium",
@@ -6989,7 +7139,7 @@
    "date": "2027-05-09",
    "time": null,
    "url": "https://www.prekindle.com/event/85199-chameleons-felton",
-   "price": "$40",
+   "price": "$32",
    "info": "with Rose Garden Funeral Party",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948970928794"
   },
