@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:7cfd15db83c0857172bf@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20260929T190000
 DTEND;TZID=America/Los_Angeles:20260929T220000
 SUMMARY:Dave DaSilva Jam Night @ The Sand Bar
@@ -37,7 +37,7 @@ URL:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-19/
 END:VEVENT
 BEGIN:VEVENT
 UID:6c6b84902eb33e3ec8f5@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20260930T190000
 DTEND;TZID=America/Los_Angeles:20260930T220000
 SUMMARY:Ted Welty @ The Sand Bar
@@ -47,7 +47,7 @@ URL:https://thesandbarcapitola.com/event/ted-welty-5/
 END:VEVENT
 BEGIN:VEVENT
 UID:488905b9c8393b500a0e@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261002T203000
 DTEND;TZID=America/Los_Angeles:20261002T233000
 SUMMARY:Vito &Friends @ The Sand Bar
@@ -57,7 +57,7 @@ URL:https://thesandbarcapitola.com/event/vito-friends-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:ac190b9c6c55a43c2ff0@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261003T203000
 DTEND;TZID=America/Los_Angeles:20261003T233000
 SUMMARY:Touch’d Too Much @ The Sand Bar
@@ -67,7 +67,7 @@ URL:https://thesandbarcapitola.com/event/touchd-too-much-15/
 END:VEVENT
 BEGIN:VEVENT
 UID:a04b3a24d502c02fdbbb@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T220000
 SUMMARY:The Joint Chiefs @ The Sand Bar
@@ -77,7 +77,7 @@ URL:https://thesandbarcapitola.com/event/the-joint-chiefs-18/
 END:VEVENT
 BEGIN:VEVENT
 UID:c28436b3bde693bef8b9@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261009T203000
 DTEND;TZID=America/Los_Angeles:20261009T233000
 SUMMARY:Extra Medium @ The Sand Bar
@@ -87,7 +87,7 @@ URL:https://thesandbarcapitola.com/event/extra-medium-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:0b825099911b64a0435d@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261010T203000
 DTEND;TZID=America/Los_Angeles:20261010T233000
 SUMMARY:Jefferson Hancock Band @ The Sand Bar
@@ -97,7 +97,7 @@ URL:https://thesandbarcapitola.com/event/jefferson-hancock-band-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:040bdb8a669c15d53330@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261011T193000
 DTEND;TZID=America/Los_Angeles:20261011T223000
 SUMMARY:John Michael Open Jam @ The Sand Bar
@@ -107,7 +107,7 @@ URL:https://thesandbarcapitola.com/event/john-michael-open-jam-22/
 END:VEVENT
 BEGIN:VEVENT
 UID:3fd0194eefcfeeea0827@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261012T180000
 DTEND;TZID=America/Los_Angeles:20261012T210000
 SUMMARY:Alex Lucero Band @ The Sand Bar
@@ -117,7 +117,7 @@ URL:https://thesandbarcapitola.com/event/alex-lucero-band-45/
 END:VEVENT
 BEGIN:VEVENT
 UID:ecde3546405f15ae13c8@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261013T190000
 DTEND;TZID=America/Los_Angeles:20261013T220000
 SUMMARY:Dave DaSilva Jam Night @ The Sand Bar
@@ -128,7 +128,7 @@ URL:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-20/
 END:VEVENT
 BEGIN:VEVENT
 UID:4a150e2024bc706cad18@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261014T190000
 DTEND;TZID=America/Los_Angeles:20261014T220000
 SUMMARY:Fuse @ The Sand Bar
@@ -138,7 +138,7 @@ URL:https://thesandbarcapitola.com/event/fuse-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:1f20ce7d495735a3f2c9@santa-cruz-shows
-DTSTAMP:20261023T143207Z
+DTSTAMP:20261024T142057Z
 DTSTART;TZID=America/Los_Angeles:20261016T203000
 DTEND;TZID=America/Los_Angeles:20261016T233000
 SUMMARY:3 Upfront\, Stench& El Normbo @ The Sand Bar
@@ -146,5 +146,56 @@ LOCATION:The Sand Bar
 DESCRIPTION:https://thesandbarcapitola.com/event/3-upfront-stench-el-normb
  o/
 URL:https://thesandbarcapitola.com/event/3-upfront-stench-el-normbo/
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb78dadebc9b7280213@santa-cruz-shows
+DTSTAMP:20261024T142057Z
+DTSTART;TZID=America/Los_Angeles:20261024T203000
+DTEND;TZID=America/Los_Angeles:20261024T233000
+SUMMARY:Lara Price @ The Sand Bar
+LOCATION:The Sand Bar
+DESCRIPTION:https://thesandbarcapitola.com/event/lara-price-2/
+URL:https://thesandbarcapitola.com/event/lara-price-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb4046c00fdac4339a1@santa-cruz-shows
+DTSTAMP:20261024T142057Z
+DTSTART;TZID=America/Los_Angeles:20261025T193000
+DTEND;TZID=America/Los_Angeles:20261025T223000
+SUMMARY:John Michael Open Jam @ The Sand Bar
+LOCATION:The Sand Bar
+DESCRIPTION:https://thesandbarcapitola.com/event/john-michael-open-jam-23/
+URL:https://thesandbarcapitola.com/event/john-michael-open-jam-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:0d3278597fef0a3bd7d9@santa-cruz-shows
+DTSTAMP:20261024T142057Z
+DTSTART;TZID=America/Los_Angeles:20261027T190000
+DTEND;TZID=America/Los_Angeles:20261027T220000
+SUMMARY:Dave DaSilva Jam Night @ The Sand Bar
+LOCATION:The Sand Bar
+DESCRIPTION:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-21
+ /
+URL:https://thesandbarcapitola.com/event/dave-dasilva-jam-night-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:de30d23dbeb6665a91e2@santa-cruz-shows
+DTSTAMP:20261024T142057Z
+DTSTART;TZID=America/Los_Angeles:20261028T190000
+DTEND;TZID=America/Los_Angeles:20261028T220000
+SUMMARY:T.Rollin Trio &Guest @ The Sand Bar
+LOCATION:The Sand Bar
+DESCRIPTION:https://thesandbarcapitola.com/event/t-rollin-trio-guest/
+URL:https://thesandbarcapitola.com/event/t-rollin-trio-guest/
+END:VEVENT
+BEGIN:VEVENT
+UID:39144657912d791844e6@santa-cruz-shows
+DTSTAMP:20261024T142057Z
+DTSTART;TZID=America/Los_Angeles:20261030T203000
+DTEND;TZID=America/Los_Angeles:20261030T233000
+SUMMARY:The Heartaches @ The Sand Bar
+LOCATION:The Sand Bar
+DESCRIPTION:https://thesandbarcapitola.com/event/the-heartaches/
+URL:https://thesandbarcapitola.com/event/the-heartaches/
 END:VEVENT
 END:VCALENDAR
