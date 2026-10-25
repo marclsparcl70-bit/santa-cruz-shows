@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:aa51b8a10cb4d8271bcb@santa-cruz-shows
-DTSTAMP:20261024T142057Z
+DTSTAMP:20261025T142112Z
 DTSTART;TZID=America/Los_Angeles:20261114T193000
 DTEND;TZID=America/Los_Angeles:20261114T223000
 SUMMARY:Tchaikovsky & Mendelssohn @ Santa Cruz Symphony
@@ -41,7 +41,7 @@ URL:https://www.santacruztickets.com/Online/default.asp?doWork::WScontent:
 END:VEVENT
 BEGIN:VEVENT
 UID:eeaa9287cb7519a26076@santa-cruz-shows
-DTSTAMP:20261024T142057Z
+DTSTAMP:20261025T142112Z
 DTSTART;TZID=America/Los_Angeles:20270116T193000
 DTEND;TZID=America/Los_Angeles:20270116T223000
 SUMMARY:Rachmaninoff’s 3rd @ Santa Cruz Symphony
@@ -56,7 +56,7 @@ URL:https://www.santacruztickets.com/Online/default.asp?doWork::WScontent:
 END:VEVENT
 BEGIN:VEVENT
 UID:3f2464338ce187db2278@santa-cruz-shows
-DTSTAMP:20261024T142057Z
+DTSTAMP:20261025T142112Z
 DTSTART;TZID=America/Los_Angeles:20270228T140000
 DTEND;TZID=America/Los_Angeles:20270228T170000
 SUMMARY:Peter and the Wolf @ Santa Cruz Symphony
@@ -70,7 +70,7 @@ URL:https://www.santacruztickets.com/Online/default.asp?doWork::WScontent:
 END:VEVENT
 BEGIN:VEVENT
 UID:0791c40569e21b74a5e6@santa-cruz-shows
-DTSTAMP:20261024T142057Z
+DTSTAMP:20261025T142112Z
 DTSTART;TZID=America/Los_Angeles:20270403T193000
 DTEND;TZID=America/Los_Angeles:20270403T223000
 SUMMARY:The Firebird @ Santa Cruz Symphony
@@ -85,7 +85,7 @@ URL:https://www.santacruztickets.com/Online/default.asp?doWork::WScontent:
 END:VEVENT
 BEGIN:VEVENT
 UID:ad72a489bfdf3208dd50@santa-cruz-shows
-DTSTAMP:20261024T142057Z
+DTSTAMP:20261025T142112Z
 DTSTART;TZID=America/Los_Angeles:20270501T193000
 DTEND;TZID=America/Los_Angeles:20270501T223000
 SUMMARY:Also Sprach Zarathustra @ Santa Cruz Symphony
@@ -100,7 +100,7 @@ URL:https://www.santacruztickets.com/Online/default.asp?doWork::WScontent:
 END:VEVENT
 BEGIN:VEVENT
 UID:8c78bc4b41f91bf9ea18@santa-cruz-shows
-DTSTAMP:20261024T142057Z
+DTSTAMP:20261025T142112Z
 DTSTART;TZID=America/Los_Angeles:20270612T193000
 DTEND;TZID=America/Los_Angeles:20270612T223000
 SUMMARY:Celebrating John Williams @ Santa Cruz Symphony

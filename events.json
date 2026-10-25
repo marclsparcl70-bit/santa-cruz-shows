@@ -1,75 +1,75 @@
 {
- "updated": "2026-10-24T07:20-07:00",
+ "updated": "2026-10-25T07:21-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 20
+   "count": 23
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 95
+   "count": 96
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 66
+   "count": 65
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 62
+   "count": 60
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 32
+   "count": 31
   },
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "venue": "Quarry Amphitheater",
@@ -89,7 +89,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "Ugly Mug",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 16
+   "count": 14
   },
   {
    "venue": "Lumos Candlelight",
@@ -3964,6 +3964,16 @@
    "image": null
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Death And Saxes",
+   "date": "2026-11-07",
+   "time": "17:00",
+   "url": "https://www.thecrepeplace.com/shows-list/death-and-saxes-friday-august-21-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1783092314422-DKWIM6OVB1SGXX76Q201/3608.jpg"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "Love Creek",
    "date": "2026-11-07",
@@ -4215,13 +4225,13 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Strange Relationship: Mike Owens Funk Band",
+   "title": "Strange Relationship: Funky Music",
    "date": "2026-11-10",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/matt-hartle-mike-owens-funk-band-tuesday-september-1-28pm-10",
    "price": "$10",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791743798221-XILZBV3XBZ9OHD0L3XCF/images.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792914729577-DJ0BE4THJA01AMS6W7CV/Strange+%281%29.PNG"
   },
   {
    "venue": "Felton Music Hall",
@@ -5634,6 +5644,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791674004721-FMJJ36NOZTPPMKKCU416/IMG_1201.jpeg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Death And Saxes",
+   "date": "2026-12-04",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/death-and-saxes-thursday-july-23-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1778634055857-BW2NIH5XP5MXOAR0Y9MT/3608.jpg"
+  },
+  {
    "venue": "Lumos Candlelight",
    "title": "A Classical Christmas Candlelight Experience",
    "date": "2026-12-04",
@@ -6564,6 +6584,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/goldings-bernstein-stewart-cropped.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Goodtwin, Not Yet Old Dog, Sun Kin",
+   "date": "2027-01-20",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/goodtwin-not-yet-old-dog-sun-kin-wednesday-january-20-8pm-15",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792914381017-Z4QNVNQ50ST72QVKSOES/0036002066_25.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Lara Downes",
    "date": "2027-01-21",
@@ -6854,6 +6884,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2023/08/Champian-Fulton-1.jpeg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Deadset 805",
+   "date": "2027-02-05",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/dead-set-805-thusday-april-16-8pm-10",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1774210268962-CNV4RDML5EMKSJ2ABDP4/deadset_logo.png"
+  },
+  {
    "venue": "Catalyst Main Room",
    "title": "Little Stranger: Broken Hearted Boys Tour",
    "date": "2027-02-05",
@@ -6878,7 +6918,7 @@
    "title": "Where's West",
    "date": "2027-02-06",
    "time": "20:00",
-   "url": "https://www.ticketweb.com/event/wheres-west-eternal-wave-the-crepe-place-tickets/14959713?pl=thecrepeplace",
+   "url": "https://www.thecrepeplace.com/shows-list/wheres-west-eternal-wave-friday-june-26-8pm-10",
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1777478757388-8HZCL7X0OL9SFMSU36ZH/Screenshot-at-Nov-18-23-03-19.png"
@@ -7064,6 +7104,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Claudia-Villela-cropped-1.jpg"
   },
   {
+   "venue": "Rio Theatre",
+   "title": "Banff Centre Mountain Film Festival World Tour 2027",
+   "date": "2027-02-26",
+   "time": "19:00",
+   "url": "https://www.riotheatre.com/events-2/2027/2/26/banffmountain",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792867697061-10KPOEE854YNOWZN2R9D/banff-2027-600x300.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Caroline Rose: Uncle Carols World of Fun Tour",
    "date": "2027-02-26",
@@ -7072,6 +7122,16 @@
    "price": "$27",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971288152"
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "Banff Centre Mountain Film Festival World Tour 2027",
+   "date": "2027-02-27",
+   "time": "19:00",
+   "url": "https://www.riotheatre.com/events-2/2027/2/27/banffmountain",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792867697061-10KPOEE854YNOWZN2R9D/banff-2027-600x300.jpg"
   },
   {
    "venue": "Catalyst Atrium",
@@ -7092,6 +7152,16 @@
    "price": null,
    "info": "Family Concert · Civic Auditorium",
    "image": null
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "Banff Centre Mountain Film Festival World Tour 2027",
+   "date": "2027-02-28",
+   "time": "15:00",
+   "url": "https://www.riotheatre.com/events-2/2027/2/28/banffmountain",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792867697061-10KPOEE854YNOWZN2R9D/banff-2027-600x300.jpg"
   },
   {
    "venue": "Felton Music Hall",
