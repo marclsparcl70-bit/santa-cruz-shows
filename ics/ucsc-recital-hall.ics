@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:919ebcd90b648bd60b8a@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20261002T193000
 DTEND;TZID=America/Los_Angeles:20261002T223000
 SUMMARY:Fire & Grace & Flamenco with special guests Fanny Ara and Ian Scar
@@ -37,7 +37,7 @@ URL:https://events.ucsc.edu/event/fireandgrace-10-02-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:aa7f508b98d01828a283@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20261005T190000
 DTEND;TZID=America/Los_Angeles:20261005T220000
 SUMMARY:NYC’s BlackBox Ensemble—experimental music concert\, featuring
@@ -48,7 +48,7 @@ URL:https://events.ucsc.edu/event/blackbox-10-05-26/
 END:VEVENT
 BEGIN:VEVENT
 UID:eed067a81f466c4c50b1@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20261010T190000
 DTEND;TZID=America/Los_Angeles:20261010T220000
 SUMMARY:Indian Classical Music—Nishat Khan\, sitar\, and Nitin Mitta\, t
@@ -59,7 +59,7 @@ URL:https://events.ucsc.edu/event/nishatkhan2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:00047b220a61bd1c3906@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20261024T193000
 DTEND;TZID=America/Los_Angeles:20261024T223000
 SUMMARY:One Night Only—A Faculty Recital @ UCSC Recital Hall
@@ -69,7 +69,7 @@ URL:https://events.ucsc.edu/event/ono-oct-24-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:42d0cba65d37a3a34b6d@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20261110T190000
 DTEND;TZID=America/Los_Angeles:20261110T220000
 SUMMARY:Emeriti Faculty Lecture\, Fall 2026 @ UCSC Recital Hall
@@ -80,7 +80,7 @@ URL:https://events.ucsc.edu/event/emeriti-faculty-lecture-fall-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:a511b81aa47f11af041a@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20261116T190000
 DTEND;TZID=America/Los_Angeles:20261116T220000
 SUMMARY:Music Ensemble Showcase Concert @ UCSC Recital Hall
@@ -91,7 +91,7 @@ URL:https://events.ucsc.edu/event/music-ensemble-showcase-concert/
 END:VEVENT
 BEGIN:VEVENT
 UID:6947ea786c037810dc7e@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20261120T193000
 DTEND;TZID=America/Los_Angeles:20261120T223000
 SUMMARY:UCSC Wind Ensemble @ UCSC Recital Hall
@@ -102,7 +102,7 @@ URL:https://events.ucsc.edu/event/ucsc-wind-ensemble-fall-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:20bc63135cb83ce121d6@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20261124T193000
 DTEND;TZID=America/Los_Angeles:20261124T223000
 SUMMARY:UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Sym
@@ -114,7 +114,7 @@ URL:https://events.ucsc.edu/event/orchestra-fall-2026-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:69616d8e9b3b0f71a96b@santa-cruz-shows
-DTSTAMP:20261025T142112Z
+DTSTAMP:20261026T153235Z
 DTSTART;TZID=America/Los_Angeles:20270126T180000
 DTEND;TZID=America/Los_Angeles:20270126T210000
 SUMMARY:Martin Luther King Jr. Convocation @ UCSC Recital Hall

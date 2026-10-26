@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T07:21-07:00",
+ "updated": "2026-10-26T08:32-07:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 96
+   "count": 95
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 65
+   "count": 64
   },
   {
    "venue": "Cat Alley Street",
@@ -34,27 +34,27 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 60
+   "count": 59
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "venue": "El Vaquero Winery",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 31
+   "count": 30
   },
   {
    "venue": "UCSC Recital Hall",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "venue": "Lumos Candlelight",
@@ -3465,10 +3465,10 @@
   },
   {
    "venue": "Cork & Fork",
-   "title": "Big Bad Wolf",
+   "title": "Big Bad Wolf - Halloween Party!",
    "date": "2026-10-31",
    "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/big-bad-wolf-2026-10-31-18-00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/big-bad-wolf-halloween-party-2026-10-31-18-00",
    "price": null,
    "info": null,
    "image": null
@@ -3481,7 +3481,7 @@
    "url": "https://catalystclub.com/event/rave-at-the-grave/the-catalyst/santa-cruz-california/",
    "price": "$21.26",
    "info": "Show: 7 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/rave-at-the-grave.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/Two-Rooms-One-Wicked-Halloween-party.-1.png"
   },
   {
    "venue": "Rio Theatre",
@@ -3512,6 +3512,16 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/12/98/58/94_Listings.jpg?v=4"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open At 10Am Every Sunday",
+   "date": "2026-11-01",
+   "time": "10:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Abbott Square",
