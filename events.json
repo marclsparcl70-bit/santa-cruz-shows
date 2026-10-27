@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-26T08:32-07:00",
+ "updated": "2026-10-27T07:42-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "venue": "Rio Theatre",
@@ -19,17 +19,17 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 95
+   "count": 94
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 64
+   "count": 66
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 1
+   "count": 4
   },
   {
    "venue": "Felton Music Hall",
@@ -69,7 +69,7 @@
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "venue": "Quarry Amphitheater",
@@ -3234,6 +3234,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1780030529749-KQCJ0CAW78K4EQVFGWGF/jazz+nightd+nre.png"
   },
   {
+   "venue": "Cat Alley Street",
+   "title": "Burner Happy Hour )'( The Last Dance",
+   "date": "2026-10-29",
+   "time": "19:00",
+   "url": "https://catalleystreet.com/event/burner-happy-hour-the-last-dance/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/843191882_1555914063240468_4023013047523160924_n.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Laura Anglade",
    "date": "2026-10-29",
@@ -3332,6 +3342,16 @@
    "price": null,
    "info": "Sweet VooDoo is a solid band of seasoned players bringing super danceable rock-n-funk-n-jams to the party. The voodoo that WE do will…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1694926424567-Z35PHNX4RI3BZNBS90AK/sWEET+vOODOO.jpg"
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "Bite Me Again!",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "url": "https://catalleystreet.com/event/bite-me-again/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/857106982_1625826665649745_4284188141776847848_n.jpg"
   },
   {
    "venue": "Mission West",
@@ -3462,6 +3482,16 @@
    "price": null,
    "info": "Live Music 5:30-7:30pm",
    "image": null
+  },
+  {
+   "venue": "Cat Alley Street",
+   "title": "Lost In SBASS, Halloween, Cat Alley Street 1-yr Anniversary!!",
+   "date": "2026-10-31",
+   "time": "18:00",
+   "url": "https://catalleystreet.com/event/lost-in-sbass-halloween-cat-alley-street-1-yr-anniversary/",
+   "price": null,
+   "info": null,
+   "image": "https://catalleystreet.com/wp-content/uploads/2026/10/LOB-Halloween.jpg"
   },
   {
    "venue": "Cork & Fork",
@@ -3679,7 +3709,7 @@
    "date": "2026-11-03",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/brown-dog-richard-tripps-the-ooo-maus-thursday-august-13-pm-10",
-   "price": "$10",
+   "price": "$5",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779801284447-4GS8KCHZ8DI8BL35FXSK/a3794247967_16.jpg"
   },
@@ -3871,7 +3901,7 @@
    "url": "https://reservations.elvaquerowinery.com/events/2f5a606dee8adf60ff6316678dd3df0ae49f535e",
    "price": "$10",
    "info": "Rockabilly",
-   "image": "https://static.wixstatic.com/media/cc50de_ccd580e40dd2427a974ad6f48d7c4d47~mv2.png"
+   "image": "https://static.wixstatic.com/media/cc50de_18b4e72f8baa4af5a5d78f387a9d0bc4~mv2.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -3972,16 +4002,6 @@
    "price": null,
    "info": null,
    "image": null
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "Death And Saxes",
-   "date": "2026-11-07",
-   "time": "17:00",
-   "url": "https://www.thecrepeplace.com/shows-list/death-and-saxes-friday-august-21-from-530-to-730pm-free-show-on-the-garden-stage",
-   "price": "FREE",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1783092314422-DKWIM6OVB1SGXX76Q201/3608.jpg"
   },
   {
    "venue": "Discretion Brewing",
@@ -4205,16 +4225,6 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents: Holy Wave",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=4"
-  },
-  {
-   "venue": "Moe's Alley",
    "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
    "date": "2026-11-10",
    "time": "20:00",
@@ -4222,6 +4232,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=6"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "(((folkYEAH!))) Presents: Holy Wave",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=4"
   },
   {
    "venue": "Rio Theatre",
@@ -4531,7 +4551,7 @@
    "url": "https://www.prekindle.com/event/77388-shakedown-citi-felton",
    "price": "$17",
    "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949051698934"
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963744567"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -5504,6 +5524,16 @@
    "image": null
   },
   {
+   "venue": "Moe's Alley",
+   "title": "The Joint Chiefs x Velour: Double Bill!",
+   "date": "2026-11-29",
+   "time": "16:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 3:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/11/44/64_Listings.jpg?v=2"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Salsa by The Sea Afterparty",
    "date": "2026-11-29",
@@ -5824,6 +5854,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/large-image-807.jpg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Jazz Big Band",
+   "date": "2026-12-06",
+   "time": "15:00",
+   "url": "https://events.ucsc.edu/event/ucsc-jazz-big-band-fall-2026/",
+   "price": "$5 – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/trumpet-players-GettyImages-817616438-1-scaled.jpg"
+  },
+  {
    "venue": "Woodhouse",
    "title": "Horse Feathers",
    "date": "2026-12-06",
@@ -6124,6 +6164,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/how-the-grouch-stole-christmas-tour.jpeg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: ORGŌNE",
+   "date": "2026-12-12",
+   "time": "21:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 8:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/11/36/54_Listings.jpg?v=3"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "JD McPherson - SOCKS: A Rock N’ Roll Christmas Tour",
    "date": "2026-12-12",
@@ -6384,6 +6434,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948966790051"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Death And Saxes",
+   "date": "2026-12-30",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/death-and-saxes-friday-august-21-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1783092314422-DKWIM6OVB1SGXX76Q201/3608.jpg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "(((folkYEAH!))) Presents - The Lemon Twigs w/ Tchotchke",
    "date": "2026-12-30",
@@ -6505,13 +6565,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents: Sister Nancy",
+   "title": "(((folkYEAH!))) Presents: Sister Nancy & The Steady Rock Band w/ Reggae Angels",
    "date": "2027-01-14",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/09/84/34_Listings.jpg?v=2"
+   "image": "https://i.ticketweb.com/i/00/13/09/84/34_Listings.jpg?v=4"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6532,6 +6592,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1763049768946-9P3LBIFEZYTF8KRYM81B/51036497_821879734815079_328879479944380416_n.jpg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "2000’s Rave",
+   "date": "2027-01-15",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/2000s-rave-2/the-catalyst/santa-cruz-california/",
+   "price": null,
+   "info": "Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2021/05/Catalyst-Default-Event-Image.png"
   },
   {
    "venue": "Felton Music Hall",
@@ -7255,6 +7325,16 @@
   },
   {
    "venue": "Kuumbwa Jazz",
+   "title": "Ambrose Akinmusire Quartet",
+   "date": "2027-03-09",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/ambrose-akinmusire-quartet/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Ambrose-Akinmusire-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
    "title": "Lucía",
    "date": "2027-03-10",
    "time": "19:00",
@@ -7325,6 +7405,16 @@
   },
   {
    "venue": "Kuumbwa Jazz",
+   "title": "Delbert Anderson Quartet – ‘Live at Kuumbwa’ Album Release Celebration",
+   "date": "2027-03-25",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/delbert-anderson-quartet-live-at-kuumbwa-album-release-celebration/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Delbert-Anderson-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
    "title": "David Nihill – Taking Tangents Tour",
    "date": "2027-03-26",
    "time": "19:30",
@@ -7342,6 +7432,16 @@
    "price": "$20",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792175993955-C3MXNEUGZWD8GN0OU7I8/World+News+-+THE+WAY+IT+GOES+ARTWORK.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Meshell Ndegeocello – 7:00 PM",
+   "date": "2027-03-30",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/meshell-ndegeocello-700-pm-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Meshell-Ndegeocello-cropped.jpg"
   },
   {
    "venue": "The Crepe Place",
