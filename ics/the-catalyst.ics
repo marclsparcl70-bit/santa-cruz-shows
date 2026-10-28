@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:0a705a7dd7753a4fe92c@santa-cruz-shows
-DTSTAMP:20261027T144255Z
+DTSTAMP:20261028T144619Z
 DTSTART;TZID=America/Los_Angeles:20261001T210000
 DTEND;TZID=America/Los_Angeles:20261002T000000
 SUMMARY:Steel Pulse – Reggae Against Racism Tour @ The Catalyst
@@ -39,7 +39,7 @@ URL:https://catalystclub.com/event/steel-pulse-reggae-against-racism-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:c98587d29bbcc0ac709f@santa-cruz-shows
-DTSTAMP:20261027T144255Z
+DTSTAMP:20261028T144619Z
 DTSTART;TZID=America/Los_Angeles:20261002T210000
 DTEND;TZID=America/Los_Angeles:20261003T000000
 SUMMARY:Twin Temple @ The Catalyst
@@ -51,7 +51,7 @@ URL:https://catalystclub.com/event/twin-temple/the-catalyst/santa-cruz-cal
 END:VEVENT
 BEGIN:VEVENT
 UID:2dbd7c30bf8118e56cd9@santa-cruz-shows
-DTSTAMP:20261027T144255Z
+DTSTAMP:20261028T144619Z
 DTSTART;TZID=America/Los_Angeles:20261009T210000
 DTEND;TZID=America/Los_Angeles:20261010T000000
 SUMMARY:It’s a 2000’s Party: Santa Cruz @ The Catalyst
@@ -64,7 +64,7 @@ URL:https://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-cata
 END:VEVENT
 BEGIN:VEVENT
 UID:e843eec86ebe2f0c1e08@santa-cruz-shows
-DTSTAMP:20261027T144255Z
+DTSTAMP:20261028T144619Z
 DTSTART;TZID=America/Los_Angeles:20261010T210000
 DTEND;TZID=America/Los_Angeles:20261011T000000
 SUMMARY:DOMi & JD BECK – WHO ASKED? Tour @ The Catalyst

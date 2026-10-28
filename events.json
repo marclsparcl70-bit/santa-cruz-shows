@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-27T07:42-07:00",
+ "updated": "2026-10-28T07:46-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 36
+   "count": 38
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 94
+   "count": 100
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 66
+   "count": 68
   },
   {
    "venue": "Cat Alley Street",
@@ -39,7 +39,7 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 5
+   "count": 8
   },
   {
    "venue": "Abbott Square",
@@ -59,7 +59,7 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "venue": "Shanty Shack",
@@ -69,7 +69,7 @@
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 6
+   "count": 9
   },
   {
    "venue": "Quarry Amphitheater",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "venue": "Lumos Candlelight",
@@ -3514,6 +3514,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/Two-Rooms-One-Wicked-Halloween-party.-1.png"
   },
   {
+   "venue": "Woodhouse",
+   "title": "Tokyo Hot Tub - DizzAster - Marli Moves",
+   "date": "2026-10-31",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/events/2026/9/25/tokyo-hot-tub-dizzaster-",
+   "price": null,
+   "info": "Halloween.. we’re turning Woodhouse into something a little stranger. Expect music, performance, art, dancing, strange beautiful humans…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793175208997-MTDCC70L3JXKR29AEDMZ/IMG_4796.jpg"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "AJ Lee & Blue Summit: Pirates Ball",
    "date": "2026-10-31",
@@ -3562,6 +3572,16 @@
    "price": null,
    "info": "The Trolley Drops play hokum blues and novelty tunes from the 20s and 30s. Vocally rich, carefree, and infectiously fun, this good time…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1740027085666-7WEM3UNGIYTIK6886G8Z/Trolley+Drops.jpeg"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Saloon Pick-Up Party!",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/saloon-pick-up-party",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -3844,6 +3864,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/gabrielle-cavassa-cropped.jpg"
   },
   {
+   "venue": "Woodhouse",
+   "title": "Camellia Boutros Band & Flat SUN Society!",
+   "date": "2026-11-05",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/events/2026/11/5/camellia-boutros-band-amp-flat-sun-society",
+   "price": null,
+   "info": "Camellia Boutros is a Lebanese Palestinian multi-instrumentalist, composer, and cultural worker based in San Francisco. Established in…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793164125585-IWCZIM7GJKEJATXCWSE6/CAMELLIA.jpg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Clay Street Unit w/ Blue Dream",
    "date": "2026-11-05",
@@ -4022,6 +4052,16 @@
    "price": "$10",
    "info": "Bluegrass · Food: SC Eatery",
    "image": "https://static.wixstatic.com/media/cc50de_7063c25eaa8345829435c652713931c9~mv2.png"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Puffball Collective!",
+   "date": "2026-11-07",
+   "time": "18:30",
+   "url": "https://www.woodhousebrews.com/events/2025/3/21/puffball-collective",
+   "price": null,
+   "info": "Funky Americana dance jams ~ happy feet ~ spirit lifting ~ revelry The Puffball Collective Features: Doug Dirt (The Banana Slug String…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1742575633580-K2KK1RRU30LLWAV54KWY/Screenshot+2025-03-21+at+9.46.49+AM.png"
   },
   {
    "venue": "Abbott Square",
@@ -4225,16 +4265,6 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=6"
-  },
-  {
-   "venue": "Moe's Alley",
    "title": "(((folkYEAH!))) Presents: Holy Wave",
    "date": "2026-11-10",
    "time": "20:00",
@@ -4242,6 +4272,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=4"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=6"
   },
   {
    "venue": "Rio Theatre",
@@ -4774,6 +4814,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_3db4edc8b4314ebfa2d1a2c2d77e1202~mv2.png"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Mick Adams Band",
+   "date": "2026-11-15",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6ae14be09b8a04f399ecea0e",
+   "price": "$25",
+   "info": "Food: Annual Chili Cook Off Competition",
+   "image": "https://static.wixstatic.com/media/cc50de_d8b5f1330e404c4b8586c0faf5e07d69~mv2.png"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Drag The River - 30th Anniversary Tour w/ Thanks Buddy",
    "date": "2026-11-15",
@@ -4914,6 +4964,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/06/as-i-lay-dying.jfif"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Two Runner w/ Dessert Boys",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/11/04/04_Listings.jpg?v=3"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Mr Vale's Math Class, El Duo",
    "date": "2026-11-18",
@@ -4964,6 +5024,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791474430879-5CF00W7WXIS38FLLLYQH/James-Durbin-667x1024.jpg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Empire Grade (EP Release Party) w/ Rosewood & Dirtkicker + DJ Gavi_N",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/11/65/14_Listings.jpg?v=5"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "Bagwell and Troy",
    "date": "2026-11-20",
@@ -5012,6 +5082,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "(((folkYEAH))) Presents: MATTSON BORN CHILLERS: THE JARED MATTSON BAND",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://www.thecrepeplace.com/shows-list/folkyeah-presents-jared-mattson-band-friday-novembe-20-8pm-15",
+   "price": "$18",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793126384556-0SVSLG1YKR8GHQP1J1L3/20210718_JaredMattson-04590-2.jpg"
   },
   {
    "venue": "Ugly Mug",
@@ -5394,6 +5474,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_58fa464c33e34e79ba23f31a909d05c7~mv2.jpg\"]"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "THE LAST WALTZ FIFTY YEAR SOIREE! Featuring KENTUCK MULE and many special guests",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/the-last-waltz-fifty-year-soiree-friday-november-27-from-6-to-9pm-on-the-garden-stage-20",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793129863225-IW8SXJI231V2GMA2JCEM/the-last-waltz.jpg"
+  },
+  {
    "venue": "Mission West",
    "title": "Wingin' It",
    "date": "2026-11-27",
@@ -5531,7 +5621,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 3:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/11/44/64_Listings.jpg?v=2"
+   "image": "https://i.ticketweb.com/i/00/13/11/44/64_Listings.jpg?v=3"
   },
   {
    "venue": "Abbott Square",
@@ -5684,6 +5774,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791674004721-FMJJ36NOZTPPMKKCU416/IMG_1201.jpeg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Jazz Combos",
+   "date": "2026-12-03",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/ucsc-jazz-combos-fall-2026/",
+   "price": "$5 – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/trumpet-players-GettyImages-817616438-scaled-e1760989701552.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Death And Saxes",
    "date": "2026-12-04",
@@ -5712,6 +5812,16 @@
    "price": null,
    "info": "1970’s Jazz-Rock Revue If you wish the era of 1970’s jazz-rock and progressive rock never ended, then this is the band for you! Joshua…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1786598163400-W69A2CZDLLDZL5MOT7IS/JRR_Logo_7.3.26+%281%29.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Concert Choir",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/ucsc-concert-choir-fall-2026/",
+   "price": "$5 – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/choral-book-GettyImages-1447119629.jpg"
   },
   {
    "venue": "Henfling's Tavern",
@@ -5792,6 +5902,16 @@
    "price": "Sold out",
    "info": "An intimate evening with Sully Tuttle",
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1785091203857-2ZK54H2IDPTYGWG0UBC8/IMG_1120.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Chamber Singers",
+   "date": "2026-12-05",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/ucsc-chamber-singers-fall-2026/",
+   "price": "$5 – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/singers-mics-GettyImages-183305123.jpg"
   },
   {
    "venue": "Catalyst Main Room",
@@ -6424,6 +6544,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750956058933-0WQWBOWAAAPPTY4WDXGY/thumbnail_Image.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Jazz The Dog: Free Show In The Garden",
+   "date": "2026-12-29",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/jazz-the-dog-free-show-in-the-garden-tuesday-april-1-from-530-to-730pm",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1741192521745-X90476Y1YZGHBUHKAGSI/JazzTheDog.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Steely Dead - A Sonic Fusion of the Grateful Dead and Steely Dan",
    "date": "2026-12-29",
@@ -6495,6 +6625,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2027-01-03",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-hartle-and-the-hartle-gold-band-6-to-9pm-in-the-garden-10-at-the-door-3",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745725585371-4OYPGIK7MDQFFH89DBU2/thumbnail_Image.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "Taco Night And Family Jam",
    "date": "2027-01-04",
    "time": "18:00",
@@ -6518,8 +6658,8 @@
    "title": "(((folkYEAH))) Presents: THE LOVED ONES",
    "date": "2027-01-08",
    "time": "19:00",
-   "url": "https://www.thecrepeplace.com/shows-list/folkyeah-presents-the-loved-ones-friday-january-8-7pm-on-the-garden-stage",
-   "price": null,
+   "url": "https://www.ticketweb.com/event/folkyeah-presents-the-loved-the-crepe-place-tickets/14404244?pl=thecrepeplace",
+   "price": "$25",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792683637983-GVZJJG1VIU9WIBQ0RBO5/Loved-Ones-1-scaled.webp"
   },
@@ -6532,6 +6672,16 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/05/15/64_Listings.jpg?v=2"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2027-01-10",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-hartle-and-the-hartle-gold-band-6-to-9pm-in-the-garden-10-at-the-door-2",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745607730905-8ZXY292QTOOWFQILLKM6/thumbnail_Image.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -6594,14 +6744,14 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1763049768946-9P3LBIFEZYTF8KRYM81B/51036497_821879734815079_328879479944380416_n.jpg"
   },
   {
-   "venue": "Catalyst Main Room",
-   "title": "2000’s Rave",
+   "venue": "Moe's Alley",
+   "title": "No-Brainer Productions presents: Chum - A Tribute To Phish",
    "date": "2027-01-15",
    "time": "21:00",
-   "url": "https://catalystclub.com/event/2000s-rave-2/the-catalyst/santa-cruz-california/",
+   "url": "https://moesalley.com/calendar",
    "price": null,
-   "info": "Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2021/05/Catalyst-Default-Event-Image.png"
+   "info": "Doors 8:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/65/16/13_Listings.jpg?v=4"
   },
   {
    "venue": "Felton Music Hall",
@@ -6642,6 +6792,16 @@
    "price": "$23",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981141981"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2027-01-17",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-hartle-and-the-hartle-gold-band-6-to-9pm-in-the-garden-10-at-the-door-1",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745604362017-6I0E4QMV6T3E21ZUHZNR/thumbnail_Image.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -7085,6 +7245,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Bellydance In The Garden",
+   "date": "2027-02-13",
+   "time": "15:00",
+   "url": "https://www.thecrepeplace.com/shows-list/bellydance-in-the-garden",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793128708703-SKPZ6SNDV2D6NA5X71MH/Luna+DC.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "(((folkYEAH))) Presents: LAEL NEALE, SPACEMOTH",
    "date": "2027-02-13",
    "time": "19:00",
@@ -7135,13 +7305,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents - Jess Williamson",
+   "title": "(((folkYEAH!))) Presents - Jess Williamson w/ Andrew Sa",
    "date": "2027-02-19",
    "time": "19:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/07/41/74_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/13/07/41/74_Listings.jpg?v=6"
   },
   {
    "venue": "The Crepe Place",
@@ -7172,6 +7342,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/linda-may-han-oh-cropped.jpg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Mike Love (Solo) - Music Is The Cure Tour",
+   "date": "2027-02-24",
+   "time": null,
+   "url": "https://www.prekindle.com/event/85422-mike-love-solo-music-is-the-cure-tour-felton",
+   "price": "$24",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948966143605"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -7325,6 +7505,26 @@
   },
   {
    "venue": "Kuumbwa Jazz",
+   "title": "Benny Green Trio feat. Christian McBride & Carl Allen – 7:00 PM",
+   "date": "2027-03-08",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/benny-green-trio-feat-christian-mcbride-carl-allen-700-pm/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Benny-Green-TRIO-Cropped.jpeg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Benny Green Trio feat. Christian McBride & Carl Allen – 9:00 PM",
+   "date": "2027-03-08",
+   "time": "21:00",
+   "url": "https://www.kuumbwajazz.org/calendar/benny-green-trio-feat-christian-mcbride-carl-allen-900-pm/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Benny-Green-TRIO-Cropped.jpeg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
    "title": "Ambrose Akinmusire Quartet",
    "date": "2027-03-09",
    "time": "19:00",
@@ -7439,6 +7639,16 @@
    "date": "2027-03-30",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/meshell-ndegeocello-700-pm-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Meshell-Ndegeocello-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Meshell Ndegeocello – 9:00 PM",
+   "date": "2027-03-30",
+   "time": "21:00",
+   "url": "https://www.kuumbwajazz.org/calendar/meshell-ndegeocello-900-pm-2/",
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Meshell-Ndegeocello-cropped.jpg"
