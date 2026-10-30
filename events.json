@@ -1,40 +1,40 @@
 {
- "updated": "2026-10-29T07:48-07:00",
+ "updated": "2026-10-30T12:01-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 20
+   "count": 24
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 99
+   "count": 98
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 69
+   "count": 68
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 60
+   "count": 59
   },
   {
    "venue": "Woodhouse",
@@ -44,12 +44,12 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "venue": "Mission West",
@@ -58,8 +58,8 @@
   },
   {
    "venue": "El Vaquero Winery",
-   "ok": false,
-   "error": "<urlopen error [Errno 111] Connection refused>"
+   "ok": true,
+   "count": 12
   },
   {
    "venue": "Shanty Shack",
@@ -99,7 +99,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "venue": "Cork & Fork",
@@ -3285,7 +3285,7 @@
   },
   {
    "venue": "Discretion Brewing",
-   "title": "Cruz Control",
+   "title": "Jazz On Tap",
    "date": "2026-10-30",
    "time": "17:30",
    "url": "https://www.discretionbrewing.com/events/",
@@ -3312,6 +3312,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Juice of the Barley with Opener Sharon Allen",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/25e67f6f333547f711c4f9e9df6e209f8f18b87c",
+   "price": "$10",
+   "info": "Irish · Food: My Moms Mole",
+   "image": "https://static.wixstatic.com/media/cc50de_04b629dcefbd4e5c979cb130688cbc1f~mv2.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -3342,6 +3352,16 @@
    "price": null,
    "info": null,
    "image": "https://catalleystreet.com/wp-content/uploads/2026/10/857106982_1625826665649745_4284188141776847848_n.jpg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "SILOCIN, EMPIRE GRADE, BURNOUT, UNIVERSE, GAVIN TURNER & JADED",
+   "date": "2026-10-30",
+   "time": "19:00",
+   "url": "https://catalystclub.com/event/silocin-empire-grade-burnout-universe-gavin-turner-jaded/the-catalyst/santa-cruz-california/",
+   "price": "$21.26",
+   "info": "Doors: 6 pm Show: 7 pm · Ages 18 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/silocin-empire-grade-burnout-universe-gavin-turner-jaded-1.jpeg"
   },
   {
    "venue": "Mission West",
@@ -3395,13 +3415,13 @@
   },
   {
    "venue": "The Sand Bar",
-   "title": "The Heartaches",
+   "title": "The Heartquakes",
    "date": "2026-10-30",
    "time": "20:30",
    "url": "https://thesandbarcapitola.com/event/the-heartaches/",
    "price": null,
    "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/09/qtq80-nGwPsI.jpeg"
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/10/IMG_2533.jpeg"
   },
   {
    "venue": "Felton Music Hall",
@@ -3421,13 +3441,13 @@
    "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
    "info": "Join us on Halloween for a spooky good time with delicious brews and Octoberfest-style food. DJ Zinner831 will be spinning funk vinyl…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_00bbd958507b463695ab94ed634fd71e~mv2.jpg\"]"
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_0719dd4fbc194dc3939f2f3b8cf9dbc9~mv2.jpg\"]"
   },
   {
    "venue": "Cork & Fork",
    "title": "John Michael - Solo",
    "date": "2026-10-31",
-   "time": "14:30",
+   "time": "15:00",
    "url": "https://www.corkandforkcapitola.com/event-details-registration/john-michael-solo",
    "price": null,
    "info": null,
@@ -3442,6 +3462,16 @@
    "price": null,
    "info": "Another epic Halloween is going down at Abbott Square. Dog costume contest at 5 pm, sign ups start at 4pm. Music Afrobeats Nite DJ Monk…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1792198778142-1U8DJUOTQ9PXSUOG1WHW/ABNSC26_Halloween_poster11x17_v01.jpeg"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Joint Chiefs Halloween Party",
+   "date": "2026-10-31",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/b4ddc18ee797b682083996631e4065565928a7e8",
+   "price": "$10",
+   "info": "Funk, Party · Food: Riot Bites",
+   "image": "https://static.wixstatic.com/media/cc50de_348f84eac4774505ac8b9a3710b22270~mv2.png"
   },
   {
    "venue": "Mission West",
@@ -3491,7 +3521,7 @@
    "url": "https://catalystclub.com/event/rave-at-the-grave/the-catalyst/santa-cruz-california/",
    "price": "$21.26",
    "info": "Show: 7 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/Two-Rooms-One-Wicked-Halloween-party.-1.png"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/rave-at-the-grave-1.jpeg"
   },
   {
    "venue": "Woodhouse",
@@ -3522,16 +3552,6 @@
    "price": "$20",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789226248429-YLGVYEGF83GPA5GN1HYO/scream-of-fear1.jpg"
-  },
-  {
-   "venue": "The Sand Bar",
-   "title": "What’s good & Dub Soljah Costume party",
-   "date": "2026-10-31",
-   "time": "20:30",
-   "url": "https://thesandbarcapitola.com/event/whats-good-dub-soljah-costume-party/",
-   "price": null,
-   "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2025/04/dub-souljah.jpg"
   },
   {
    "venue": "The Sand Bar",
@@ -3570,8 +3590,18 @@
    "time": "13:00",
    "url": "https://abbottsquaremarket.com/events/the-trolley-drops-1st-sundays-9z3td",
    "price": null,
-   "info": "The Trolley Drops play hokum blues and novelty tunes from the 20s and 30s. Vocally rich, carefree, and infectiously fun, this good time…",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1740027085666-7WEM3UNGIYTIK6886G8Z/Trolley+Drops.jpeg"
+   "info": "The Trolley Drops Brass Jug Band plays their energetic blend of old time dance music, folk jazz, old blues & novelty tunes from the 20s…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1793320423379-W90EF5VJXKKPUPCFJ3QD/IMG_2030.jpeg"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Saloon Pick-Up Party!",
+   "date": "2026-11-01",
+   "time": "14:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/saloon-pick-up-party",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -3592,6 +3622,16 @@
    "price": null,
    "info": "Doors 2:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/58/59/93_Listings.jpg?v=5"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "C Street",
+   "date": "2026-11-01",
+   "time": "15:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "C-Street is a rocking Americana trio with roots in Bonny Doon and Westside Santa Cruz. Charlie Powell on guitar and mandolin, Steve…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_2088ee068c554791abe021f1437d1561~mv2.jpg\"]"
   },
   {
    "venue": "Rio Theatre",
@@ -3672,6 +3712,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1764602397234-DHYWU3D1BYN53D2AVZOM/sci-on-tap-logo-1.jpg"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Dumb Questions Night",
+   "date": "2026-11-02",
+   "time": "18:30",
+   "url": "https://abbottsquaremarket.com/events/dumb-questions-night-1",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1793325849011-OLTMRAGVJD6P5SL7IWCO/1000018453.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -3804,6 +3854,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038970724"
   },
   {
+   "venue": "Mission West",
+   "title": "Open Acoustic Jam",
+   "date": "2026-11-05",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "JUG BAND JAM Hosted By THE TROLLEY DROPS JUG BAND",
    "date": "2026-11-05",
@@ -3902,6 +3962,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "El Brick",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/2f5a606dee8adf60ff6316678dd3df0ae49f535e",
+   "price": "$10",
+   "info": "Rockabilly",
+   "image": "https://static.wixstatic.com/media/cc50de_18b4e72f8baa4af5a5d78f387a9d0bc4~mv2.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -4014,6 +4084,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Bean Creek",
+   "date": "2026-11-07",
+   "time": "17:30",
+   "url": "https://reservations.elvaquerowinery.com/events/fa7a7bd45f176861df3d8d2078105796efa33c25",
+   "price": "$10",
+   "info": "Bluegrass · Food: SC Eatery",
+   "image": "https://static.wixstatic.com/media/cc50de_7063c25eaa8345829435c652713931c9~mv2.png"
+  },
+  {
    "venue": "Woodhouse",
    "title": "Puffball Collective!",
    "date": "2026-11-07",
@@ -4122,6 +4202,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Ripatti and Rose",
+   "date": "2026-11-08",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/53fdd6c07caa01af6944a025ce395986c1140505",
+   "price": "$10",
+   "info": "Rock, Originals · Food: High End Comdia",
+   "image": "https://static.wixstatic.com/media/cc50de_f232611f5c38463eb1326722f9fead58~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -4294,6 +4384,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Pierre-cropped.jpg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Western Wednesday #96: Kentucky Mule x Jerry Logan & The Country Squires",
+   "date": "2026-11-11",
+   "time": "19:30",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/12/24/34_Listings.jpg?v=3"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "The Wind Ups, Cold Water Law Firm",
    "date": "2026-11-11",
@@ -4444,6 +4544,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Cruz Patrol",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/c47914f23b52a65d502dfd42a4846357b2e2939f",
+   "price": "$10",
+   "info": "Party Rock · Food: Corralitos Pizza ",
+   "image": "https://static.wixstatic.com/media/cc50de_812fa932e6e64c7a8a38a5a2b9d31658~mv2.png"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Funkyard",
    "date": "2026-11-13",
@@ -4572,6 +4682,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791390067204-GIXY9IP8HTS4E5OICXQV/Slve+Bobcat+Club+presents+%281%29.jpg"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Chili Cook Off (Members)",
+   "date": "2026-11-14",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/ffead5aef9347135cdf754f844f2091ad5830e37",
+   "price": "$10",
+   "info": "TBD · Food: Chili :)",
+   "image": "https://static.wixstatic.com/media/cc50de_f98d8a3f2c174e64a90cdab8d8e1b097~mv2.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -4732,6 +4852,26 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Chili Cook Off (Members)",
+   "date": "2026-11-15",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/bce83c5ace13c19d3ff2671c28f9c2e38354aaeb",
+   "price": "$10",
+   "info": "Food: Chili :)",
+   "image": "https://static.wixstatic.com/media/cc50de_3db4edc8b4314ebfa2d1a2c2d77e1202~mv2.png"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Mick Adams Band (Non Member Reservations)",
+   "date": "2026-11-15",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6ae14be09b8a04f399ecea0e",
+   "price": "$25",
+   "info": "Food: Annual Chili Cook Off Competition",
+   "image": "https://static.wixstatic.com/media/cc50de_d8b5f1330e404c4b8586c0faf5e07d69~mv2.png"
   },
   {
    "venue": "Moe's Alley",
@@ -4974,6 +5114,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "James Durbin Revival!",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/39e197edf0386a3c58ff27ebff984b6021162fa8",
+   "price": "$15",
+   "info": "Rock",
+   "image": "https://static.wixstatic.com/media/cc50de_6000894049f347cbba64d761bcdfec45~mv2.png"
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Wild Iris",
    "date": "2026-11-20",
@@ -5092,6 +5242,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784314784589-SQKI09M4NX97ALZ8LVRX/pNgcLYVG.jpg"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Fishhook",
+   "date": "2026-11-21",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/b27c7cfd5d3986b3adf29c8d890274fd08baa375",
+   "price": "$10",
+   "info": "Rock · Food: Chubbys",
+   "image": "https://static.wixstatic.com/media/cc50de_e500f742bbc04e5881669705eed43294~mv2.png"
   },
   {
    "venue": "Discretion Brewing",
@@ -5364,6 +5524,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981082822"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Dance-Giving",
+   "date": "2026-11-27",
+   "time": "17:00",
+   "url": "https://abbottsquaremarket.com/events/dance-giving",
+   "price": null,
+   "info": "Grab your friends and fam, bring those out-of-town visitors, and come shake your tailfeathers with us! We’ve got 5 of the Bay Area’s…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1793321897193-QMX15YI7HANP7JO4RYWJ/1000018408.jpg"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "The Owls",
    "date": "2026-11-27",
@@ -5454,6 +5624,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791216928405-R9VRJ9EFZX7XFMB6TCRY/image1.png"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Absent Minds",
+   "date": "2026-11-28",
+   "time": "17:30",
+   "url": "https://reservations.elvaquerowinery.com/events/6adb8c9e9224c0cbe7eb45be",
+   "price": "$10",
+   "info": "Rock",
+   "image": "https://static.wixstatic.com/media/cc50de_cd7485b6944d4a6790a1e1a405709b16~mv2.png"
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Climbing Trees",
    "date": "2026-11-28",
@@ -5472,6 +5652,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "China Cats",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/events/2025/11/29/china-cats-2plsr",
+   "price": null,
+   "info": "he China Cats are: Matt Hartle , lead guitar and vocals Scott Cooper , rhythm guitar and vocals Steve Sofranko , keyboards and vocals…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793337846934-4E89BWC90DWP5OH7HBTQ/IMG_4706.jpg"
   },
   {
    "venue": "Catalyst Main Room",
@@ -5751,7 +5941,17 @@
    "url": "https://catalystclub.com/event/micro-mania-midget-wrestling-6/the-catalyst/santa-cruz-california/",
    "price": "$34.12 to $105.10",
    "info": "Doors: 7:30 pm Show: 8:30 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/micro-mania-midget-wrestling.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/858995057_1716318600054610_1529837779530005776_n.jpg"
+  },
+  {
+   "venue": "Catalyst Atrium",
+   "title": "BALD & BOUJEE (PITBULL THEMED Y2K NIGHT)",
+   "date": "2026-12-04",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/bald-boujee-pitbull-themed-y2k-night/the-catalyst-atrium/santa-cruz-california/",
+   "price": null,
+   "info": "Doors: 8:30 pm Show: 9 pm · Ages 18 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2021/05/Catalyst-Default-Event-Image.png"
   },
   {
    "venue": "Moe's Alley",
@@ -5834,6 +6034,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781367069415-CPBPQ3JQ8CRGD81390H7/C9F17583-8B9C-4857-BC87-21700E1356DD.jpeg"
   },
   {
+   "venue": "Catalyst Atrium",
+   "title": "DANCE… 4 U (SLAYYYTER & CHARLI XCX THEMED HYPERPOP NIGHT)",
+   "date": "2026-12-05",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/dance-4-u-slayyyter-charli-xcx-themed-hyperpop-night/the-catalyst-atrium/santa-cruz-california/",
+   "price": null,
+   "info": "Doors: 8:30 pm Show: 9 pm · Ages 18 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/dance-4-u-slayyyter-charli-xcx-themed-hyperpop-night.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Hell's Belles - World Famous All-Female AC/DC Tribute Band w/ murdershow",
    "date": "2026-12-05",
@@ -5861,7 +6071,7 @@
    "url": "https://abbottsquaremarket.com/events/holiday-crafternoon",
    "price": null,
    "info": null,
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6adaad313cb3477975562b92/1792716686418/"
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1793323816252-130MB52J76A2FWT71ST9/Crafternoon.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6359,7 +6569,7 @@
    "date": "2026-12-18",
    "time": "20:00",
    "url": "https://catalystclub.com/event/starcrawler/the-catalyst-atrium/santa-cruz-california/",
-   "price": null,
+   "price": "$28.72",
    "info": "Doors: 7:30 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/starcrawler.jpeg"
   },
@@ -6662,6 +6872,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1763049768946-9P3LBIFEZYTF8KRYM81B/51036497_821879734815079_328879479944380416_n.jpg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "2000’s Rave",
+   "date": "2027-01-15",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/2000s-rave-2/the-catalyst/santa-cruz-california/",
+   "price": null,
+   "info": "Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/2000s-rave.jpeg"
   },
   {
    "venue": "Moe's Alley",
@@ -7269,7 +7489,7 @@
    "date": "2027-02-24",
    "time": null,
    "url": "https://www.prekindle.com/event/85422-mike-love-solo-music-is-the-cure-tour-felton",
-   "price": "$24",
+   "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948966143605"
   },
@@ -7291,7 +7511,7 @@
    "url": "https://www.riotheatre.com/events-2/2027/2/26/banffmountain",
    "price": null,
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792867697061-10KPOEE854YNOWZN2R9D/banff-2027-600x300.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793385115500-GRO0J7JSWWMF36DKAFBV/banff-2027-1200x800.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -7311,7 +7531,7 @@
    "url": "https://www.riotheatre.com/events-2/2027/2/27/banffmountain",
    "price": null,
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792867697061-10KPOEE854YNOWZN2R9D/banff-2027-600x300.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793385191013-ZBLYYHRMY234CUKEFY7D/banff-2027-1200x800.jpg"
   },
   {
    "venue": "Catalyst Atrium",
@@ -7329,7 +7549,7 @@
    "date": "2027-02-27",
    "time": null,
    "url": "https://www.prekindle.com/event/35217-the-english-beat-felton",
-   "price": "$40",
+   "price": "$36",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948961071893"
   },
@@ -7351,7 +7571,7 @@
    "url": "https://www.riotheatre.com/events-2/2027/2/28/banffmountain",
    "price": null,
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1792867697061-10KPOEE854YNOWZN2R9D/banff-2027-600x300.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793385291982-LUYERC564L75FU359XZZ/banff-2027-1200x800.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -7379,7 +7599,7 @@
    "date": "2027-03-02",
    "time": "20:00",
    "url": "https://catalystclub.com/event/codefendants-jakob-nowell-and-the-castle/the-catalyst-atrium/santa-cruz-california/",
-   "price": null,
+   "price": "$28.72",
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/AtriumCodefendants.png"
   },
@@ -7441,7 +7661,7 @@
    "url": "https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium/santa-cruz-california/",
    "price": "$45.95",
    "info": "Doors: 7:30 pm Show: 8:30 pm · All Ages",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/the-lemonheads-the-love-chant-tour-1.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/the-lemonheads-the-love-chant-tour.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
