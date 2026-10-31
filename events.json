@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-30T12:01-07:00",
+ "updated": "2026-10-31T11:18-07:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 24
+   "count": 21
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "venue": "Rio Theatre",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 98
+   "count": 97
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -29,7 +29,7 @@
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 3
+   "count": 2
   },
   {
    "venue": "Felton Music Hall",
@@ -39,22 +39,22 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "El Vaquero Winery",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 30
+   "count": 29
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,22 +89,22 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "Lumos Candlelight",
@@ -3574,6 +3574,16 @@
    "image": "https://i.ticketweb.com/i/00/12/98/58/94_Listings.jpg?v=4"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Jerry's Middle Finger - Halloween Ball",
+   "date": "2026-10-31",
+   "time": null,
+   "url": "https://www.prekindle.com/event/88127-jerrys-middle-finger-felton",
+   "price": "$40",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114848029"
+  },
+  {
    "venue": "Mission West",
    "title": "Open At 10Am Every Sunday",
    "date": "2026-11-01",
@@ -3632,6 +3642,16 @@
    "price": null,
    "info": "C-Street is a rocking Americana trio with roots in Bonny Doon and Westside Santa Cruz. Charlie Powell on guitar and mandolin, Steve…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_2088ee068c554791abe021f1437d1561~mv2.jpg\"]"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Alex Lucero",
+   "date": "2026-11-01",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/3d9af26a106c111efe27b87ce7510131f7debc45",
+   "price": "$10",
+   "info": "Originals, Rock · Food: Tacos El Jesse",
+   "image": "https://static.wixstatic.com/media/cc50de_4101f1d0b49b49b9b1899a8a476e82fd~mv2.png"
   },
   {
    "venue": "Rio Theatre",
@@ -3744,6 +3764,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789227458233-X7UUCNOB8294YXZQV25F/1781562597006_123_1.webp"
   },
   {
+   "venue": "Woodhouse",
+   "title": "ELECTION FEST",
+   "date": "2026-11-03",
+   "time": "15:00",
+   "url": "https://www.woodhousebrews.com/events/2026/11/3/election-fest",
+   "price": null,
+   "info": "Election watch party variety show with live music open mic open rant soapbox with the Jamissaries Band, legendary Clan Dyken Band,…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793387275300-7LYWWKGPQRQIQ5AGRCNG/ELECTION.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "JAZZ THE DOG, In the Garden, 5:30 to",
    "date": "2026-11-03",
@@ -3792,6 +3822,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Free Elements!",
+   "date": "2026-11-04",
+   "time": "18:00",
+   "url": "https://www.woodhousebrews.com/events/2026/5/5/free-elements-1-8nct4-e3xdn",
+   "price": null,
+   "info": "This Santa Cruz-based band brings a fun, loose style and a tight sound. Fresh takes on classic covers and diverse song selections will…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793426696963-ANQ395ZZ9G17YH53WGL4/IMG_9876.jpg"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -5944,16 +5984,6 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/858995057_1716318600054610_1529837779530005776_n.jpg"
   },
   {
-   "venue": "Catalyst Atrium",
-   "title": "BALD & BOUJEE (PITBULL THEMED Y2K NIGHT)",
-   "date": "2026-12-04",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/bald-boujee-pitbull-themed-y2k-night/the-catalyst-atrium/santa-cruz-california/",
-   "price": null,
-   "info": "Doors: 8:30 pm Show: 9 pm · Ages 18 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2021/05/Catalyst-Default-Event-Image.png"
-  },
-  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Dragon Smoke w/ Andre Cruz & Chris Lujan",
    "date": "2026-12-04",
@@ -6032,16 +6062,6 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781367069415-CPBPQ3JQ8CRGD81390H7/C9F17583-8B9C-4857-BC87-21700E1356DD.jpeg"
-  },
-  {
-   "venue": "Catalyst Atrium",
-   "title": "DANCE… 4 U (SLAYYYTER & CHARLI XCX THEMED HYPERPOP NIGHT)",
-   "date": "2026-12-05",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/dance-4-u-slayyyter-charli-xcx-themed-hyperpop-night/the-catalyst-atrium/santa-cruz-california/",
-   "price": null,
-   "info": "Doors: 8:30 pm Show: 9 pm · Ages 18 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/dance-4-u-slayyyter-charli-xcx-themed-hyperpop-night.jpeg"
   },
   {
    "venue": "Moe's Alley",
@@ -7601,7 +7621,7 @@
    "url": "https://catalystclub.com/event/codefendants-jakob-nowell-and-the-castle/the-catalyst-atrium/santa-cruz-california/",
    "price": "$28.72",
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/AtriumCodefendants.png"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/codefendants-jakob-nowell-and-the-castle.jpeg"
   },
   {
    "venue": "Shanty Shack Brewing",
