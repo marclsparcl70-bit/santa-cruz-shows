@@ -1,25 +1,25 @@
 {
- "updated": "2026-10-31T11:18-07:00",
+ "updated": "2026-11-01T10:46-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 97
+   "count": 96
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -29,32 +29,32 @@
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 2
+   "count": 1
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 59
+   "count": 58
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "El Vaquero Winery",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "venue": "Lumos Candlelight",
@@ -3709,7 +3709,7 @@
    "date": "2026-11-01",
    "time": null,
    "url": "https://www.prekindle.com/event/38484-stanley-simmons-felton",
-   "price": "$14",
+   "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949113188183"
   },
@@ -5742,6 +5742,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Diamonds in the Rough John Prine Tribute",
+   "date": "2026-11-29",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6ae26ace9b8a04f399ecea15",
+   "price": "$10",
+   "info": "John Prine Tribute",
+   "image": ""
   },
   {
    "venue": "Moe's Alley",
@@ -7987,6 +7997,16 @@
    "venue": "Shanty Shack Brewing",
    "title": "Jug Band Jam with the Trolley Drops",
    "date": "2027-09-02",
+   "time": "17:45",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "Jug Band Jam with the Trolley Drops",
+   "date": "2027-10-07",
    "time": "17:45",
    "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
