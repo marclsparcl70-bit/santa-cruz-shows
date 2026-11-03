@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-02T14:37-08:00",
+ "updated": "2026-11-03T12:26-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 37
+   "count": 38
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 22
+   "count": 24
   },
   {
    "venue": "The Crepe Place",
@@ -24,7 +24,7 @@
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 67
+   "count": 66
   },
   {
    "venue": "Cat Alley Street",
@@ -34,7 +34,7 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 58
+   "count": 59
   },
   {
    "venue": "Woodhouse",
@@ -44,12 +44,12 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 13
+   "count": 25
   },
   {
    "venue": "Mission West",
@@ -59,7 +59,7 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 10
+   "count": 12
   },
   {
    "venue": "Shanty Shack",
@@ -99,7 +99,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "Cork & Fork",
@@ -3819,7 +3819,7 @@
    "date": "2026-11-03",
    "time": null,
    "url": "https://www.prekindle.com/event/56962-los-gaiteros-de-san-jacinto-felton",
-   "price": "$27",
+   "price": "$35",
    "info": "with Fruko, Los Toscos+carmelo Torres",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949077207760"
   },
@@ -4864,6 +4864,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_f98d8a3f2c174e64a90cdab8d8e1b097~mv2.png"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "The Heartquakers (non member reservations)",
+   "date": "2026-11-14",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6aea2979536ff5c7e0b0693b",
+   "price": "$25",
+   "info": "Rock, Couuntry, Pop · Food: Annual Chili Cook-Off Competition",
+   "image": "https://static.wixstatic.com/media/cc50de_1601769c94e84c2582e44c953ddbf4b7~mv2.png"
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Kentucky Mule with Country Risqué",
    "date": "2026-11-14",
@@ -5704,6 +5714,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Diamonds in the Rough John Prine Tribute",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6ae26ace9b8a04f399ecea15",
+   "price": "$10",
+   "info": "John Prine Tribute",
+   "image": "https://static.wixstatic.com/media/cc50de_f20a937684f74f7496eb52d29d5d7924~mv2.png"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Salsa by The Sea Afterparty",
    "date": "2026-11-22",
@@ -5832,6 +5852,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Country For A Cause: A Benefit for the Second Harvest Food Bank featuring The Henry Warde Band",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/12/59/64_Listings.jpg?v=3"
   },
   {
    "venue": "The Crepe Place",
@@ -6074,6 +6104,16 @@
    "image": null
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Lefty Rosa",
+   "date": "2026-11-29",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
+  },
+  {
    "venue": "Cork & Fork",
    "title": "Big Bad Wolf - Janell's Birthday Bash",
    "date": "2026-11-29",
@@ -6284,6 +6324,16 @@
    "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/trumpet-players-GettyImages-817616438-scaled-e1760989701552.jpg"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "1st Friday w/ Local Honey",
+   "date": "2026-12-04",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Death And Saxes",
    "date": "2026-12-04",
@@ -6354,6 +6404,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/858995057_1716318600054610_1529837779530005776_n.jpg"
   },
   {
+   "venue": "Catalyst Atrium",
+   "title": "BALD & BOUJEE (PITBULL THEMED Y2K NIGHT)",
+   "date": "2026-12-04",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/bald-boujee-pitbull-themed-y2k-night/the-catalyst-atrium/santa-cruz-california/",
+   "price": "$26.56",
+   "info": "Doors: 8:30 pm Show: 9 pm · Ages 18 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/bald-boujee-pitbull-themed-y2k-night.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Dragon Smoke w/ Andre Cruz & Chris Lujan",
    "date": "2026-12-04",
@@ -6372,6 +6432,16 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022844533"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Love Creek",
+   "date": "2026-12-05",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -6462,6 +6532,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1793323816252-130MB52J76A2FWT71ST9/Crafternoon.png"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "The Back Porch Boys",
+   "date": "2026-12-06",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6694,6 +6774,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030753461"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Pattie Gilbert & Good Company Trio",
+   "date": "2026-12-11",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "The X-Mas Banditos",
    "date": "2026-12-11",
@@ -6784,6 +6874,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_bb95a50dbe2d42db93e68949d5586dda~mv2.jpg\"]"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "The Trolley Drops",
+   "date": "2026-12-12",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Victor Wooten & the Wooten Brothers at the Rio Theatre",
    "date": "2026-12-12",
@@ -6832,6 +6932,16 @@
    "price": "$29",
    "info": "with Melissa Carper",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949015629451"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Jazz On Tap",
+   "date": "2026-12-13",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
   },
   {
    "venue": "Cork & Fork",
@@ -6944,6 +7054,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792627780569-ZVOR52MQ6GWGZY18DU4R/FEATURES_150909927_AR_0_DQDZXPUFAZPM.webp"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "The Messiahs",
+   "date": "2026-12-17",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Slow Coast",
    "date": "2026-12-17",
@@ -6982,6 +7102,16 @@
    "price": "$32",
    "info": "with Cicada Rhythm",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949151284236"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Steve Abrams",
+   "date": "2026-12-18",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -7024,6 +7154,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1769920448887-V5WQQ6GNBVE1HBBQG899/Jenny%2BO%27Leary%2BQuartet%2B.webp"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Ashley Lloyd",
+   "date": "2026-12-19",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: jackrabbit (featuring Dermot Mulroney)",
    "date": "2026-12-19",
@@ -7064,6 +7204,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949044620172"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "The Jenny O’Leary Quartet",
+   "date": "2026-12-20",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-12-20",
@@ -7082,6 +7232,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1737066344818-HPE2P1BRPNT0YJSWIL9J/Screenshot+2025-01-13+at+11.52.46%E2%80%AFAM.png"
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "Junebug Bayer",
+   "date": "2026-12-26",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -7122,6 +7282,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1783092314422-DKWIM6OVB1SGXX76Q201/3608.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "No-Brainer Productions Presents: Wasabi",
+   "date": "2026-12-30",
+   "time": "19:30",
+   "url": "https://www.ticketweb.com/event/wasabi-the-crepe-place-tickets/14416054?pl=thecrepeplace",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1787255507523-FCJK4WY3BOSDHN5SLQBD/IMG_3437_800.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -7415,6 +7585,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Brian Fitzgerald Trio",
+   "date": "2027-01-20",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/brian-fitzgerald-trio-wednesday-march-18-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1768587483775-FDCTQXOO8B1SREDYAMW8/Brian-Fitzgerald-rr-jones.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "Goodtwin, Not Yet Old Dog, Sun Kin",
    "date": "2027-01-20",
    "time": "20:00",
@@ -7504,6 +7684,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/vijay-and-wadada-cropped.jpg"
   },
   {
+   "venue": "Rio Theatre",
+   "title": "She Adventures Film Tour",
+   "date": "2027-01-23",
+   "time": "19:00",
+   "url": "https://www.riotheatre.com/events-2/2027/1/23/sheadventures",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793733375351-FJHYU9JSAZ0NA4CODQ97/She+Adventures+Signature.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Rosebud",
    "date": "2027-01-23",
@@ -7582,6 +7772,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/05/michel-petrucciani-cropped.jpg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "City of the Sun",
+   "date": "2027-01-26",
+   "time": null,
+   "url": "https://www.prekindle.com/event/46549-city-of-the-sun-felton",
+   "price": "$20",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948953910145"
   },
   {
    "venue": "Catalyst Atrium",
@@ -8422,6 +8622,16 @@
    "price": null,
    "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "Paula Poundstone",
+   "date": "2027-08-27",
+   "time": "20:00",
+   "url": "https://www.riotheatre.com/events-2/2027/8/27/paulapoundstone",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793733814442-TARR7OOS5BJ1EQ1WTRDQ/paula272.jpg"
   },
   {
    "venue": "Shanty Shack Brewing",
