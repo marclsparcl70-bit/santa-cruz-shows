@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T12:26-08:00",
+ "updated": "2026-11-04T12:41-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,22 +9,22 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 38
+   "count": 39
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 98
+   "count": 100
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 66
+   "count": 68
   },
   {
    "venue": "Cat Alley Street",
@@ -34,12 +34,12 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 59
+   "count": 58
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Abbott Square",
@@ -54,7 +54,7 @@
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 18
+   "count": 19
   },
   {
    "venue": "El Vaquero Winery",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 28
+   "count": 19
   },
   {
    "venue": "UCSC Recital Hall",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 21
+   "count": 8
   },
   {
    "venue": "Lumos Candlelight",
@@ -3919,9 +3919,9 @@
    "date": "2026-11-04",
    "time": null,
    "url": "https://www.prekindle.com/event/68192-strawberry-fuzz-felton",
-   "price": "$16",
+   "price": "$20",
    "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949038970724"
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948953263185"
   },
   {
    "venue": "Mission West",
@@ -3952,6 +3952,16 @@
    "price": null,
    "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
+  },
+  {
+   "venue": "Shanty Shack Brewing",
+   "title": "John Rybak & Friends",
+   "date": "2026-11-05",
+   "time": "18:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "\"Deeply rooted and well-versed in American roots music and early southern blues John + Friends will take you on a musical road trip…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_e68561ebe289466ab89466e33013d9b3~mv2.jpg\"]"
   },
   {
    "venue": "Abbott Square",
@@ -4191,7 +4201,7 @@
    "url": "https://reservations.elvaquerowinery.com/events/fa7a7bd45f176861df3d8d2078105796efa33c25",
    "price": "$10",
    "info": "Bluegrass · Food: SC Eatery",
-   "image": "https://static.wixstatic.com/media/cc50de_7063c25eaa8345829435c652713931c9~mv2.png"
+   "image": "https://static.wixstatic.com/media/cc50de_1435db485cd84e78bddae072802c8603~mv2.png"
   },
   {
    "venue": "Mission West",
@@ -4288,6 +4298,16 @@
    "title": "Open At 10Am Every Sunday",
    "date": "2026-11-08",
    "time": "10:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
+   "venue": "Mission West",
+   "title": "Dead in The Afternoon: One Man Gone",
+   "date": "2026-11-08",
+   "time": "14:00",
    "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
    "price": null,
    "info": null,
@@ -4714,6 +4734,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_812fa932e6e64c7a8a38a5a2b9d31658~mv2.png"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Violet Visions",
+   "date": "2026-11-13",
+   "time": "18:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "We play a genre fusion of Folk, Punk, Funk, Gypsy, Jazz, Reggae, Rock. We consist of a two piece with Enzo on Acoustic Guitar, Devii as…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_0270466660df485fa1fd184ff62422af~mv2.png\"]"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Funkyard",
    "date": "2026-11-13",
@@ -4945,6 +4975,16 @@
   },
   {
    "venue": "Catalyst Main Room",
+   "title": "ISAIAH RASHAD M&G + VIP UPGRADES",
+   "date": "2026-11-14",
+   "time": "20:00",
+   "url": "https://catalystclub.com/event/isaiah-rashad-mg-vip-upgrades/the-catalyst/santa-cruz-california/",
+   "price": "$121.30 to $231.36",
+   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/isaiah-rashad-mg-vip-upgrades.jpeg"
+  },
+  {
+   "venue": "Catalyst Main Room",
    "title": "ISAIAH RASHAD: Lil Sunny’s Awful Road Trip",
    "date": "2026-11-14",
    "time": "20:00",
@@ -5159,9 +5199,9 @@
    "date": "2026-11-16",
    "time": "19:00",
    "url": "https://www.thecrepeplace.com/shows-list/young-in-the-way-monday-november-16-on-the-garden-stage-10",
-   "price": "$10",
+   "price": "FREE",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793564529857-1HFPPO4S0GDDZ9OQ6V43/GoodMedicine_Website_MasonsChildren_Image_2.png"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793749341749-3J5VJYEUC7E7RSMLMY1E/Screenshot+2026-08-30+at+5.55.40%E2%80%AFAM.JPEG"
   },
   {
    "venue": "UCSC Recital Hall",
@@ -5171,7 +5211,7 @@
    "url": "https://events.ucsc.edu/event/music-ensemble-showcase-concert/",
    "price": "Free",
    "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/10/UCSC-Celtic-Ensemble.jpg"
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/10/UCSC-Celtic-Ensemble-edited-for-lighting.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -5228,20 +5268,10 @@
    "title": "Foster Andersen Benefit",
    "date": "2026-11-18",
    "time": "17:00",
-   "url": "https://www.woodhousebrews.com/events/2026/11/18/foster-andersen-benefit",
+   "url": "https://www.eventbrite.com/e/benefit-for-foster-anderson-the-executive-director-of-shared-adventures-tickets-2003041624419?aff=oddtdtcreator",
    "price": null,
-   "info": null,
+   "info": "Don’t miss this event! Get your tickets here: TICKETS",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793212187742-VDQSBZJWP1SA7IOY4OBD/Foster.jpg"
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Open Mic",
-   "date": "2026-11-18",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-11-18-18-00",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Rio Theatre",
@@ -5314,16 +5344,6 @@
    "image": null
   },
   {
-   "venue": "Cork & Fork",
-   "title": "Johnny G and Friends",
-   "date": "2026-11-19",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/johnny-g-and-friends-2026-11-19-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Shanty Shack Brewing",
    "title": "Until Bones",
    "date": "2026-11-19",
@@ -5381,16 +5401,6 @@
    "url": "https://www.discretionbrewing.com/events/",
    "price": null,
    "info": "Live Music 5:30-7:30pm",
-   "image": null
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Shawn and Matt",
-   "date": "2026-11-20",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/shawn-and-matt-2026-11-20-18-00",
-   "price": null,
-   "info": null,
    "image": null
   },
   {
@@ -5554,16 +5564,6 @@
    "image": null
   },
   {
-   "venue": "Cork & Fork",
-   "title": "Leroy & Friends",
-   "date": "2026-11-21",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/leroy-friends-2026-11-21-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Abbott Square",
    "title": "The Mondays",
    "date": "2026-11-21",
@@ -5704,16 +5704,6 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_f67531fcbbb1450f8d0faa38b93be6d5~mv2.jpg\"]"
   },
   {
-   "venue": "Cork & Fork",
-   "title": "Bonny June & Bonfire",
-   "date": "2026-11-22",
-   "time": "16:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/bonny-june-bonfire-2026-11-22-16-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "El Vaquero Winery",
    "title": "Diamonds in the Rough John Prine Tribute",
    "date": "2026-11-22",
@@ -5834,16 +5824,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1775576991487-H05OKF1BYJGRA1F5LO33/E5F87844-822B-4793-B077-CA4BEB581771.png"
   },
   {
-   "venue": "Cork & Fork",
-   "title": "Open Mic",
-   "date": "2026-11-25",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-11-25-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Mission West",
    "title": "Joli",
    "date": "2026-11-25",
@@ -5882,16 +5862,6 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981082822"
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Happy Thanksgiving!",
-   "date": "2026-11-26",
-   "time": "00:01",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/happy-thanksgiving",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Abbott Square",
@@ -6014,16 +5984,6 @@
    "image": "https://static.wixstatic.com/media/cc50de_cd7485b6944d4a6790a1e1a405709b16~mv2.png"
   },
   {
-   "venue": "Cork & Fork",
-   "title": "Vinny Johnson Blues Band",
-   "date": "2026-11-28",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/vinny-johnson-blues-band-2026-11-28-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Shanty Shack Brewing",
    "title": "Climbing Trees",
    "date": "2026-11-28",
@@ -6084,6 +6044,26 @@
    "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/11/qtq80-77DcAH.jpeg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Space Heater + Fire Peach: Carlos' Birthday Bash!",
+   "date": "2026-11-28",
+   "time": "21:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 8:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/13/06/64_Listings.jpg?v=4"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Repetitive Behavior, Placate",
+   "date": "2026-11-28",
+   "time": "21:00",
+   "url": "https://www.thecrepeplace.com/shows-list/repetitive-behavior-placate-saturday-november-28-9pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793752092735-ZOAGM85DJBBTD056V8KT/Untitled-design.png"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "The Coffis Brothers",
    "date": "2026-11-28",
@@ -6111,16 +6091,6 @@
    "url": "https://www.discretionbrewing.com/events/",
    "price": null,
    "info": "Live Music 3-5pm",
-   "image": null
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Big Bad Wolf - Janell's Birthday Bash",
-   "date": "2026-11-29",
-   "time": "16:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/big-bad-wolf-janells-birthday-bash-1",
-   "price": null,
-   "info": null,
    "image": null
   },
   {
@@ -6234,16 +6204,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791432775455-CLXAI3WCB4PRU9OERUSX/159C4484-99B3-4281-93B4-56E7DCF33E16.png"
   },
   {
-   "venue": "Cork & Fork",
-   "title": "Open Mic",
-   "date": "2026-12-02",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-12-02-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Kuumbwa Jazz",
    "title": "Kassa Overall",
    "date": "2026-12-02",
@@ -6272,16 +6232,6 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788382269416-PVXK67KQY0DQIGE9S2QO/jug+band+at+crepe+Dec.pages.jpg"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2026-12-03",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6674,16 +6624,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784302984167-11I7LKDHZ9LD7TLJC02U/IMG_5716.jpg"
   },
   {
-   "venue": "Cork & Fork",
-   "title": "Open Mic",
-   "date": "2026-12-09",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-12-09-18-00",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: The James Hunter Six \"Off The Fence Tour\" w/ Oscar LaDell",
    "date": "2026-12-09",
@@ -6792,16 +6732,6 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1762798284542-UISCJQN5P2ZGY23JEOSI/IMG_2266.jpg"
-  },
-  {
-   "venue": "Cork & Fork",
-   "title": "Rivets & Rust",
-   "date": "2026-12-11",
-   "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/rivets-rust",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6944,16 +6874,6 @@
    "image": null
   },
   {
-   "venue": "Cork & Fork",
-   "title": "Pink Lizards",
-   "date": "2026-12-13",
-   "time": "16:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/pink-lizards-4",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-12-13",
@@ -6962,6 +6882,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1753381202956-KYQZNX18LY0VXQ541HEU/thumbnail_Image.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Home for the Holidays – An Irish Christmas",
+   "date": "2026-12-13",
+   "time": "19:30",
+   "url": "https://www.kuumbwajazz.org/calendar/home-for-the-holidays-an-irish-christmas/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/12.13.26-photo.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -7125,10 +7055,10 @@
   },
   {
    "venue": "Catalyst Atrium",
-   "title": "Starcrawler",
+   "title": "Starcrawler with Sluttony",
    "date": "2026-12-18",
    "time": "20:00",
-   "url": "https://catalystclub.com/event/starcrawler/the-catalyst-atrium/santa-cruz-california/",
+   "url": "https://catalystclub.com/event/starcrawler-with-sluttony/the-catalyst-atrium/santa-cruz-california/",
    "price": "$28.72",
    "info": "Doors: 7:30 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/starcrawler.jpeg"
@@ -7345,6 +7275,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Funk Face",
+   "date": "2027-01-02",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/funk-face-saturday-january-2-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793750584766-AX27JNT2Z3GEHGRAS2KI/images.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2027-01-03",
    "time": "18:00",
@@ -7362,16 +7302,6 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750966175691-HAFEIOPUNWAJDUF2UIU8/webmail.thecrepeplace.png"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-01-07",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
    "venue": "The Crepe Place",
@@ -7482,16 +7412,6 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1763049768946-9P3LBIFEZYTF8KRYM81B/51036497_821879734815079_328879479944380416_n.jpg"
-  },
-  {
-   "venue": "Catalyst Main Room",
-   "title": "2000’s Rave",
-   "date": "2027-01-15",
-   "time": "21:00",
-   "url": "https://catalystclub.com/event/2000s-rave-2/the-catalyst/santa-cruz-california/",
-   "price": null,
-   "info": "Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/2000s-rave.jpeg"
   },
   {
    "venue": "Moe's Alley",
@@ -7781,7 +7701,7 @@
    "url": "https://www.prekindle.com/event/46549-city-of-the-sun-felton",
    "price": "$20",
    "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948953910145"
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948953840968"
   },
   {
    "venue": "Catalyst Atrium",
@@ -7808,7 +7728,7 @@
    "title": "Satan Es Real, Dominique And The Diamonds",
    "date": "2027-01-27",
    "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/satan-es-real-dominique-and-the-diamonds-wednesday-january-27-8pm-15",
+   "url": "https://www.ticketweb.com/event/satan-es-real-dominique-the-crepe-place-tickets/14419074?pl=thecrepeplace",
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792628347937-3Y0P92F0TJM7TXIR36CI/images.jpg"
@@ -7844,6 +7764,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789141716593-1C5K173UV6N19MPLQWMB/elephant+stone+sq.png"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "Gadan",
+   "date": "2027-01-30",
+   "time": "19:30",
+   "url": "https://www.kuumbwajazz.org/calendar/gadan/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Gadan-JPG-crop.jpg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Keller Williams",
    "date": "2027-01-30",
@@ -7862,16 +7792,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/the-cookers-cropped.jpg"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-02-04",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8105,6 +8025,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Powerplant, Faze",
+   "date": "2027-02-19",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/powerplant-faze-the-crepe-place-tickets/14418834?pl=thecrepeplace",
+   "price": "$18",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793749733937-C2Y67RLVVQPGHR3LPFY1/Harry+Hooper+1.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "The Jenny O'Leary Quartet",
    "date": "2027-02-20",
    "time": "17:00",
@@ -8184,6 +8114,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793385191013-ZBLYYHRMY234CUKEFY7D/banff-2027-1200x800.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Kentucky Mule",
+   "date": "2027-02-27",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/kentucky-mule-saturday-february-27-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793751807122-QDNJLF3OCGE9MG3M98CA/kentucky-mule-FINAL.webp"
+  },
+  {
    "venue": "Catalyst Atrium",
    "title": "Girl Ultra: el Tour de RRRomeo",
    "date": "2027-02-27",
@@ -8252,16 +8192,6 @@
    "price": "$28.72",
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/codefendants-jakob-nowell-and-the-castle.jpeg"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-03-04",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8389,7 +8319,7 @@
    "date": "2027-03-18",
    "time": null,
    "url": "https://www.prekindle.com/event/56886-pepper-felton",
-   "price": "$0",
+   "price": "$55",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948955140872"
   },
@@ -8494,16 +8424,6 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981202993"
   },
   {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-04-01",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
-  },
-  {
    "venue": "Santa Cruz Symphony",
    "title": "The Firebird",
    "date": "2027-04-03",
@@ -8512,6 +8432,16 @@
    "price": null,
    "info": "Classical Series Concert 4 · Civic Auditorium",
    "image": null
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "ABBA Gold Tour with ABRA Cadabra",
+   "date": "2027-04-11",
+   "time": "19:00",
+   "url": "https://www.riotheatre.com/events-2/2027/4/11/abba",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793820395262-5ZSL5IPVIZSEV0RQX19I/ABBA+GOLD_1080+x+1620_SANTA+CRUZ.jpeg"
   },
   {
    "venue": "Rio Theatre",
@@ -8532,16 +8462,6 @@
    "price": null,
    "info": "Classical Series Concert 5 · Civic Auditorium",
    "image": null
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-05-06",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   },
   {
    "venue": "Rio Theatre",
@@ -8584,16 +8504,6 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/trio-mandili-cropped.jpg"
   },
   {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-06-03",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
-  },
-  {
    "venue": "Santa Cruz Symphony",
    "title": "Celebrating John Williams",
    "date": "2027-06-12",
@@ -8604,26 +8514,6 @@
    "image": null
   },
   {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-07-01",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-08-05",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
-  },
-  {
    "venue": "Rio Theatre",
    "title": "Paula Poundstone",
    "date": "2027-08-27",
@@ -8632,26 +8522,6 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793733814442-TARR7OOS5BJ1EQ1WTRDQ/paula272.jpg"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-09-02",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
-  },
-  {
-   "venue": "Shanty Shack Brewing",
-   "title": "Jug Band Jam with the Trolley Drops",
-   "date": "2027-10-07",
-   "time": "17:45",
-   "url": "https://www.shantyshackbrewing.com/events",
-   "price": null,
-   "info": "Grab your voices, kazoos, washboards, and ukes and come on down to Shanty Shack for a jug band jam for everyone. Songbooks will be…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_71b227fdb3bd402e89faeb28e04adeb5~mv2.jpg\"]"
   }
  ]
 }
