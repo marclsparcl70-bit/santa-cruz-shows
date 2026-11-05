@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-04T12:41-08:00",
+ "updated": "2026-11-05T12:57-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 21
+   "count": 26
   },
   {
    "venue": "Moe's Alley",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 100
+   "count": 99
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -34,12 +34,12 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 58
+   "count": 57
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "venue": "Abbott Square",
@@ -59,12 +59,12 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "UCSC Recital Hall",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 8
+   "count": 20
   },
   {
    "venue": "Lumos Candlelight",
@@ -4194,16 +4194,6 @@
    "image": null
   },
   {
-   "venue": "El Vaquero Winery",
-   "title": "Bean Creek",
-   "date": "2026-11-07",
-   "time": "17:30",
-   "url": "https://reservations.elvaquerowinery.com/events/fa7a7bd45f176861df3d8d2078105796efa33c25",
-   "price": "$10",
-   "info": "Bluegrass · Food: SC Eatery",
-   "image": "https://static.wixstatic.com/media/cc50de_1435db485cd84e78bddae072802c8603~mv2.png"
-  },
-  {
    "venue": "Mission West",
    "title": "Gary Blackburn Band",
    "date": "2026-11-07",
@@ -4990,7 +4980,7 @@
    "time": "20:00",
    "url": "https://catalystclub.com/event/isaiah-rashad-lil-sunnys-awful-road-trip/the-catalyst/santa-cruz-california/",
    "price": "$52.38 to $274.56",
-   "info": "Doors: 7 pm Show: 8 pm · All Ages",
+   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/isaiah-rashad-lil-sunnys-awful-road-trip-2.jpeg"
   },
   {
@@ -5274,6 +5264,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793212187742-VDQSBZJWP1SA7IOY4OBD/Foster.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-11-18",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-11-18-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Rio Theatre",
    "title": "TCB-The Toni Cade Bambara School of Organizing",
    "date": "2026-11-18",
@@ -5325,11 +5325,11 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Mr Vale's Math Class, El Duo",
+   "title": "Mr Vale's Math Class",
    "date": "2026-11-18",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/mr-vales-math-class-wednesday-november-18-8pm-10",
-   "price": "$10",
+   "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781544048015-58YD081SO3RA5GHWBUKK/images.jpg"
   },
@@ -5341,6 +5341,16 @@
    "url": "https://www.discretionbrewing.com/events/",
    "price": null,
    "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Johnny G and Friends",
+   "date": "2026-11-19",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/johnny-g-and-friends-2026-11-19-18-00",
+   "price": null,
+   "info": null,
    "image": null
   },
   {
@@ -5401,6 +5411,16 @@
    "url": "https://www.discretionbrewing.com/events/",
    "price": null,
    "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Shawn and Matt",
+   "date": "2026-11-20",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/shawn-and-matt-2026-11-20-18-00",
+   "price": null,
+   "info": null,
    "image": null
   },
   {
@@ -5564,6 +5584,16 @@
    "image": null
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Leroy & Friends",
+   "date": "2026-11-21",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/leroy-friends-2026-11-21-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Abbott Square",
    "title": "The Mondays",
    "date": "2026-11-21",
@@ -5572,6 +5602,16 @@
    "price": null,
    "info": "The Mondays is a latin funk band, that is known for electrifying arrangements, extended jam sessions, and infectious grooves. Fresh off…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1792201623439-1767EMPZNR8VZHVB1CRS/26.10.6+The+Mondays.jpg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "Surf City Line Dance",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://catalystclub.com/event/surf-city-line-dance-2/",
+   "price": null,
+   "info": "Show: 7 pm",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/NOV.png"
   },
   {
    "venue": "Mission West",
@@ -5704,6 +5744,16 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_f67531fcbbb1450f8d0faa38b93be6d5~mv2.jpg\"]"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Bonny June & Bonfire",
+   "date": "2026-11-22",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/bonny-june-bonfire-2026-11-22-16-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "El Vaquero Winery",
    "title": "Diamonds in the Rough John Prine Tribute",
    "date": "2026-11-22",
@@ -5824,6 +5874,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1775576991487-H05OKF1BYJGRA1F5LO33/E5F87844-822B-4793-B077-CA4BEB581771.png"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-11-25",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-11-25-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Mission West",
    "title": "Joli",
    "date": "2026-11-25",
@@ -5862,6 +5922,16 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981082822"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Happy Thanksgiving!",
+   "date": "2026-11-26",
+   "time": "00:01",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/happy-thanksgiving",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Abbott Square",
@@ -5984,6 +6054,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_cd7485b6944d4a6790a1e1a405709b16~mv2.png"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Vinny Johnson Blues Band",
+   "date": "2026-11-28",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/vinny-johnson-blues-band-2026-11-28-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Climbing Trees",
    "date": "2026-11-28",
@@ -6094,6 +6174,16 @@
    "image": null
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Big Bad Wolf - Janell's Birthday Bash",
+   "date": "2026-11-29",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/big-bad-wolf-janells-birthday-bash-1",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "The Joint Chiefs x Velour: Double Bill!",
    "date": "2026-11-29",
@@ -6125,13 +6215,13 @@
   },
   {
    "venue": "Rio Theatre",
-   "title": "SANDRA BERNHARD",
+   "title": "SANDRA BERNHARD - POSTPONED",
    "date": "2026-11-29",
    "time": "19:00",
    "url": "https://www.riotheatre.com/events-2/2026/11/29/sandrabernhard",
    "price": null,
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1781721642751-FAK0TFRWL69MO4FZAQ2C/trimSandraMED_22Caught_Off_Guard22_Social_Promo_28Full_color29.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793877054540-FIAC1SF53RIRYDYUFP0D/sandrasm.jpg"
   },
   {
    "venue": "The Sand Bar",
@@ -6202,6 +6292,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791432775455-CLXAI3WCB4PRU9OERUSX/159C4484-99B3-4281-93B4-56E7DCF33E16.png"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-12-02",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-12-02-18-00",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6454,6 +6554,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781367069415-CPBPQ3JQ8CRGD81390H7/C9F17583-8B9C-4857-BC87-21700E1356DD.jpeg"
   },
   {
+   "venue": "Catalyst Atrium",
+   "title": "DANCE… 4 U (SLAYYYTER & CHARLI XCX THEMED HYPERPOP NIGHT)",
+   "date": "2026-12-05",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/dance-4-u-slayyyter-charli-xcx-themed-hyperpop-night/the-catalyst-atrium/santa-cruz-california/",
+   "price": "$26.56",
+   "info": "Doors: 8:30 pm Show: 9 pm · Ages 18 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/dance-4-u-slayyyter-charli-xcx-themed-hyperpop-night.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Hell's Belles - World Famous All-Female AC/DC Tribute Band w/ murdershow",
    "date": "2026-12-05",
@@ -6624,6 +6734,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784302984167-11I7LKDHZ9LD7TLJC02U/IMG_5716.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Open Mic",
+   "date": "2026-12-09",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/open-mic-2026-12-09-18-00",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: The James Hunter Six \"Off The Fence Tour\" w/ Oscar LaDell",
    "date": "2026-12-09",
@@ -6732,6 +6852,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1762798284542-UISCJQN5P2ZGY23JEOSI/IMG_2266.jpg"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Rivets & Rust",
+   "date": "2026-12-11",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/rivets-rust",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6874,6 +7004,16 @@
    "image": null
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Pink Lizards",
+   "date": "2026-12-13",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/pink-lizards-4",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-12-13",
@@ -6964,6 +7104,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788727067031-R5USCJ3K28X2U8BDUAPH/Shirley%27s+Gig+%28+square+image+%29.jpeg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "El Vez y Los Centuries Christmas Show",
+   "date": "2026-12-15",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/12/78/84_Listings.jpg?v=6"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Willi Carlisle",
    "date": "2026-12-15",
@@ -7048,7 +7198,7 @@
    "title": "Pete Sawyer And The Left Hand Monkey Wrench Gang",
    "date": "2026-12-18",
    "time": "19:00",
-   "url": "https://www.thecrepeplace.com/shows-list/pete-sawyer-and-left-handed-monkey-wrench-friday-july-31-7pm-on-the-garden-stage-15",
+   "url": "https://www.ticketweb.com/event/pete-sawyer-and-the-left-the-crepe-place-tickets/14422594?pl=thecrepeplace",
    "price": "$20",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1779143878184-NTIE3EUVH3LXQQBLYK1G/Untitled-2026-04-20T213319.775.png"
@@ -7092,6 +7242,16 @@
    "price": null,
    "info": "Live Music 5:30-7:30pm",
    "image": null
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "Surf City Line Dance",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "url": "https://catalystclub.com/event/surf-city-line-dance-3/",
+   "price": null,
+   "info": "Show: 7 pm",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/dec.png"
   },
   {
    "venue": "Moe's Alley",
@@ -7250,8 +7410,8 @@
    "time": "21:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
-   "info": "Doors 12:00 AM",
-   "image": "https://i.ticketweb.com/i/00/13/03/10/44_Listings.jpg?v=5"
+   "info": "Doors 8:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/03/10/44_Listings.jpg?v=6"
   },
   {
    "venue": "Felton Music Hall",
@@ -7414,6 +7574,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1763049768946-9P3LBIFEZYTF8KRYM81B/51036497_821879734815079_328879479944380416_n.jpg"
   },
   {
+   "venue": "Catalyst Main Room",
+   "title": "2000’s Rave",
+   "date": "2027-01-15",
+   "time": "21:00",
+   "url": "https://catalystclub.com/event/2000s-rave-2/the-catalyst/santa-cruz-california/",
+   "price": "$21.26 to $26.56",
+   "info": "Show: 9 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/10/2000s-rave.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "No-Brainer Productions presents: Chum - A Tribute To Phish",
    "date": "2027-01-15",
@@ -7432,6 +7602,16 @@
    "price": "$18",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949014557611"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "Surf City Line Dance",
+   "date": "2027-01-16",
+   "time": "19:00",
+   "url": "https://catalystclub.com/event/surf-city-line-dance-4/the-catalyst/santa-cruz-california/",
+   "price": null,
+   "info": "Show: 7 pm",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/jan.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8044,6 +8224,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1769920371250-42KALUNTJXJL7M33ORVX/Jenny%2BO%2527Leary%2BQuartet%2B.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Mariee Siou, Tispur",
+   "date": "2027-02-20",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/mariee-siou-the-crepe-place-tickets/14424904?pl=thecrepeplace",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793899859399-IR9QWPEU0OJ03PI7CGVR/Mariee%2BRed%2B-%2BNicolas%2BStokes.webp"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Fink",
    "date": "2027-02-21",
@@ -8059,6 +8249,16 @@
    "date": "2027-02-22",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/linda-may-han-oh/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/linda-may-han-oh-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Master Class: Linda May Han Oh",
+   "date": "2027-02-23",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/master-class-linda-may-han-oh/",
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/linda-may-han-oh-cropped.jpg"
@@ -8305,6 +8505,16 @@
   },
   {
    "venue": "Kuumbwa Jazz",
+   "title": "Master Class: Ulysses Owens, Jr. – The Art of Understanding Jazz Drumming",
+   "date": "2027-03-17",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/master-class-ulysses-owens-jr-the-art-of-understanding-jazz-drumming/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Ulysses-Owens-Jr.-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
    "title": "Kristen Strom Quartet",
    "date": "2027-03-18",
    "time": "19:00",
@@ -8405,7 +8615,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Cory Branan",
+   "title": "Cory Branan, Victoria Lynn",
    "date": "2027-03-31",
    "time": "20:00",
    "url": "https://www.ticketweb.com/event/cory-branan-the-crepe-place-tickets/14391304?pl=thecrepeplace",
