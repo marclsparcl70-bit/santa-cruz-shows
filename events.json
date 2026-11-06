@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T12:57-08:00",
+ "updated": "2026-11-06T12:16-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 39
+   "count": 38
   },
   {
    "venue": "Rio Theatre",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 99
+   "count": 98
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -39,12 +39,12 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 7
+   "count": 8
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "venue": "Discretion Brewing",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 18
+   "count": 16
   },
   {
    "venue": "UCSC Recital Hall",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 20
+   "count": 21
   },
   {
    "venue": "Lumos Candlelight",
@@ -4149,7 +4149,7 @@
    "date": "2026-11-06",
    "time": null,
    "url": "https://www.prekindle.com/event/94723-elijah-scott-felton",
-   "price": "$20",
+   "price": "$35",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949113187501"
   },
@@ -4182,6 +4182,16 @@
    "price": null,
    "info": "Who We Are The Band: The Upside , a versatile cover band playing classic, highly recognizable hits from the 70's, 80s, 90s, and beyond.…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ce196e3853aa42d09fce862c29256ee7~mv2.jpg\"]"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Mark Creech and Eric Malmberg",
+   "date": "2026-11-07",
+   "time": "15:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/mark-creech-and-eric-malmberg",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -4325,10 +4335,10 @@
   },
   {
    "venue": "Cork & Fork",
-   "title": "The Messiahs",
+   "title": "10 o’ Clock Lunch Band",
    "date": "2026-11-08",
    "time": "16:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/the-messiahs-2026-11-08-16-00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/10-o-clock-lunch-band",
    "price": null,
    "info": null,
    "image": null
@@ -4562,6 +4572,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782917057485-ZZC6OLPGW5NOQZXCV14T/npr.brightspotcdn.jpg"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open Acoustic Jam",
+   "date": "2026-11-12",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -4869,7 +4889,7 @@
    "date": "2026-11-14",
    "time": "16:00",
    "url": "https://www.ticketweb.com/event/bands-for-bobcats-boogie-the-crepe-place-tickets/14354674?pl=thecrepeplace",
-   "price": null,
+   "price": "$35",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791390067204-GIXY9IP8HTS4E5OICXQV/Slve+Bobcat+Club+presents+%281%29.jpg"
   },
@@ -5114,6 +5134,16 @@
    "image": null
   },
   {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-11-15",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-83agk-bl58g-5338n-hzbkz-wxklk",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-11-15",
@@ -5225,7 +5255,7 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "(((folkYEAH!))) Presents: John Carroll Kirby",
+   "title": "CANCELLED – (((folkYEAH!))) Presents: John Carroll Kirby",
    "date": "2026-11-17",
    "time": "19:30",
    "url": "https://www.kuumbwajazz.org/calendar/folkyeah-presents-john-carroll-kirby/",
@@ -5362,6 +5392,16 @@
    "price": null,
    "info": "Full band original music",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_e7bd0cd70ffb4ff4bfb7d76d5a7b9357~mv2.jpg\"]"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Jazz Night",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "url": "https://abbottsquaremarket.com/events/jazz-night-mwcta-mn6bf-cxemg-twz5y-6zddl-trn37-awpld",
+   "price": null,
+   "info": "Jenny O’Leary Quartet",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1780030529749-KQCJ0CAW78K4EQVFGWGF/jazz+nightd+nre.png"
   },
   {
    "venue": "The Sand Bar",
@@ -5969,7 +6009,7 @@
    "date": "2026-11-27",
    "time": "18:00",
    "url": "https://www.thecrepeplace.com/shows-list/the-last-waltz-fifty-year-soiree-friday-november-27-from-6-to-9pm-on-the-garden-stage-20",
-   "price": "$20",
+   "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793129863225-IW8SXJI231V2GMA2JCEM/the-last-waltz.jpg"
   },
@@ -6055,10 +6095,10 @@
   },
   {
    "venue": "Cork & Fork",
-   "title": "Vinny Johnson Blues Band",
+   "title": "Vinny Johnson Blues Band - Kat’s Birthday Bash",
    "date": "2026-11-28",
    "time": "18:00",
-   "url": "https://www.corkandforkcapitola.com/event-details-registration/vinny-johnson-blues-band-2026-11-28-18-00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/vinny-johnson-blues-band-kats-birthday-bash-2026-11-28-18-00",
    "price": null,
    "info": null,
    "image": null
@@ -6072,6 +6112,16 @@
    "price": null,
    "info": "The Santa Cruz locals that make up Climbing Trees feel most at home playing music that encourages their neighbors to drop by during…",
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_019995a4dc9e44f388855bd9d35784c3~mv2.jpg\"]"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Dan Frechette",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/dan-frechette",
+   "price": null,
+   "info": "Dan's signature guitar playing style is a beaming nod to the the great guitar masters: Pete Townshend, Norman Blake and Doc Watson. Dan…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1737068657182-GQBYX7OCZVOIHB4KN5RV/1000000851.jpg"
   },
   {
    "venue": "Mission West",
@@ -6504,6 +6554,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791747343216-J8FA0S50I0U2S94XNV8S/Zoe_3662Color-1_HiRes_by-Irene-Young-Zoe-FitzGerald-Carter.jpg"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "Lori Rivera & Friends: Comfort & Joy",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/lori-rivera-friends-comfort-joy/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/lori-jpg-cropped.jpg"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "Teton Gravity Research presents 'Actually, It Is Rocket Science'",
    "date": "2026-12-05",
@@ -6864,6 +6924,16 @@
    "image": null
   },
   {
+   "venue": "Woodhouse",
+   "title": "Winter Apocolypse",
+   "date": "2026-12-11",
+   "time": "18:00",
+   "url": "https://www.woodhousebrews.com/events/2026/12/11/winter-apocolypse",
+   "price": null,
+   "info": "Overview Enter a warm, strange world after the apocalypse. An immersive night of fashion, art, music & female creativity at Woodhouse.…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793938934478-VJEVEKFNDFO2ZCYE40Q8/Screenshot+2026-10-19+at+1.52.16%E2%80%AFPM.png"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "A Cosmic Charlie Brown Christmas – Featuring Jason Crosby & Friends",
    "date": "2026-12-11",
@@ -7192,6 +7262,16 @@
    "price": null,
    "info": "Live Music 5:30-7:30pm",
    "image": null
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Dancing to the Oldies",
+   "date": "2026-12-18",
+   "time": "18:30",
+   "url": "https://www.woodhousebrews.com/events/2026/12/18/dancing-to-the-oldies",
+   "price": null,
+   "info": "Dancing to the Oldies! Richard Simmons Jazzercise Extravaganza Friday, December 18 | 6:30 PM Woodhouse Blending & Brewing Break out the…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793944651083-2QZYOXYZXXFLRKHE88BU/Simons.jpeg"
   },
   {
    "venue": "The Crepe Place",
@@ -8172,6 +8252,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/CHEF-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "(((folkYEAH))) Presents: SYLVIE",
+   "date": "2027-02-16",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/folkyeah-presents-sylvie-the-crepe-place-tickets/14426904?pl=thecrepeplace",
+   "price": "$25",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793920357550-GU0EFS3ZEDGDNEKTIOU7/Tree.webp"
   },
   {
    "venue": "Kuumbwa Jazz",
