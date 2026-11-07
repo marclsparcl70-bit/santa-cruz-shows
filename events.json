@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T12:16-08:00",
+ "updated": "2026-11-07T10:30-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,17 +9,17 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 38
+   "count": 37
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 98
+   "count": 97
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -34,37 +34,37 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 57
+   "count": 56
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 16
+   "count": 25
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,7 +89,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "Ugly Mug",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "Lumos Candlelight",
@@ -4289,7 +4289,7 @@
    "date": "2026-11-07",
    "time": null,
    "url": "https://www.prekindle.com/event/15388-jeffrey-foucault-felton",
-   "price": "$22",
+   "price": "$27",
    "info": "with John Convertino",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949067055056"
   },
@@ -4311,16 +4311,6 @@
    "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
    "price": null,
    "info": null,
-   "image": null
-  },
-  {
-   "venue": "Discretion Brewing",
-   "title": "NoJoKen",
-   "date": "2026-11-08",
-   "time": "15:00",
-   "url": "https://www.discretionbrewing.com/events/",
-   "price": null,
-   "info": "Live Music 3-5pm",
    "image": null
   },
   {
@@ -4465,16 +4455,6 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents: Holy Wave w/ Queen Serene",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=5"
-  },
-  {
-   "venue": "Moe's Alley",
    "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
    "date": "2026-11-10",
    "time": "20:00",
@@ -4482,6 +4462,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=7"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "(((folkYEAH!))) Presents: Holy Wave w/ Queen Serene",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=5"
   },
   {
    "venue": "Rio Theatre",
@@ -6554,6 +6544,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791747343216-J8FA0S50I0U2S94XNV8S/Zoe_3662Color-1_HiRes_by-Irene-Young-Zoe-FitzGerald-Carter.jpg"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Love Creek",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/love-creek-1",
+   "price": null,
+   "info": "psychedelic funky jams out of Santa Cruz, CA",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1788538092779-FI4XWEJ6LEUTTQO5NXTK/518721683_743230128453331_1123989360750454287_n.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Lori Rivera & Friends: Comfort & Joy",
    "date": "2026-12-05",
@@ -6654,6 +6654,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1793323816252-130MB52J76A2FWT71ST9/Crafternoon.png"
   },
   {
+   "venue": "Abbott Square",
+   "title": "The Trolley Drops - 1st Sundays",
+   "date": "2026-12-06",
+   "time": "13:00",
+   "url": "https://abbottsquaremarket.com/events/the-trolley-drops-1st-sundays-6d9wc",
+   "price": null,
+   "info": "The Trolley Drops play hokum blues and novelty tunes from the 20s and 30s. Vocally rich, carefree, and infectiously fun, this good time…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1740027085666-7WEM3UNGIYTIK6886G8Z/Trolley+Drops.jpeg"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "The Back Porch Boys",
    "date": "2026-12-06",
@@ -6692,6 +6702,16 @@
    "price": null,
    "info": "There are bands you listen to, and then there are bands you experience. Horse Feathers has spent nearly two decades crafting songs that…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1783991039062-9WIMLPH2X7DV8OLSN0SN/HF+PRESS+PHOTO+SING+ALONG.jpg"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-12-06",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-4mczx",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -6934,6 +6954,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793938934478-VJEVEKFNDFO2ZCYE40Q8/Screenshot+2026-10-19+at+1.52.16%E2%80%AFPM.png"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Burnout",
+   "date": "2026-12-11",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/burnout",
+   "price": null,
+   "info": "Burnout is a four-piece indie rock and country band hailing from Ventura and Santa Cruz, California. Drawing inspiration from artists…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1752789118352-JHVLNK2Q581XJT3X4VIK/Screenshot_20250717-145026.png"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "A Cosmic Charlie Brown Christmas – Featuring Jason Crosby & Friends",
    "date": "2026-12-11",
@@ -7014,6 +7044,16 @@
    "image": null
   },
   {
+   "venue": "Abbott Square",
+   "title": "Cooper Street",
+   "date": "2026-12-12",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/cooper-street",
+   "price": null,
+   "info": "Americana Rock with Soul from the Heart of Santa Cruz",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1794020789789-J7ISKKA3UISV9WRN2SX2/26.11.2+Cooper+Street+-+The+Band.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Victor Wooten & the Wooten Brothers at the Rio Theatre",
    "date": "2026-12-12",
@@ -7084,6 +7124,16 @@
    "image": null
   },
   {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-12-13",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-4mczx-a32r8",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Grateful",
    "date": "2026-12-13",
@@ -7142,6 +7192,16 @@
    "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949013363990"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Twistmas",
+   "date": "2026-12-14",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/twistmas",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6aeea9c0a159305d9aa332e9/1794026043063/"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -7224,6 +7284,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784130628366-O7WO6MOP24QGMD3TAO3U/Slow+Coast+2.png"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Twistmas Carolers",
+   "date": "2026-12-17",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/twistmas-carolers",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6aeeae8df29ba508b98c7ce6/1794030174415/"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Skylar Tang Quartet",
    "date": "2026-12-17",
@@ -7272,6 +7342,16 @@
    "price": null,
    "info": "Dancing to the Oldies! Richard Simmons Jazzercise Extravaganza Friday, December 18 | 6:30 PM Woodhouse Blending & Brewing Break out the…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793944651083-2QZYOXYZXXFLRKHE88BU/Simons.jpeg"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Rasquache Liberation Front",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/rasquache-liberation-front-1",
+   "price": null,
+   "info": "Originals & Covers Come Dance to cosmic cumbias, rock-son jarocho & Mexican-Americana!",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1702788009503-N0J3BPJVZ6OPBIBL83WP/Rasquache.png"
   },
   {
    "venue": "The Crepe Place",
@@ -7382,6 +7462,16 @@
    "price": null,
    "info": "Live Music 3-5pm",
    "image": null
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-12-20",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-4mczx-a32r8-lnga8",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
   },
   {
    "venue": "The Crepe Place",
