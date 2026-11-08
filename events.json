@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T10:30-08:00",
+ "updated": "2026-11-08T10:41-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "venue": "Rio Theatre",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 97
+   "count": 95
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -34,7 +34,7 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 56
+   "count": 55
   },
   {
    "venue": "Woodhouse",
@@ -44,7 +44,7 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "venue": "Discretion Brewing",
@@ -54,7 +54,7 @@
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 18
+   "count": 16
   },
   {
    "venue": "El Vaquero Winery",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,7 +89,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Ugly Mug",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "Lumos Candlelight",
@@ -4314,6 +4314,16 @@
    "image": null
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Junebug Bayer",
+   "date": "2026-11-08",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Janet Noguera",
    "date": "2026-11-08",
@@ -4389,7 +4399,7 @@
    "date": "2026-11-08",
    "time": null,
    "url": "https://www.prekindle.com/event/88144-peach-tree-rascals-felton",
-   "price": "$20",
+   "price": "$28",
    "info": "with Michael Sneed",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949014610245"
   },
@@ -4455,16 +4465,6 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=7"
-  },
-  {
-   "venue": "Moe's Alley",
    "title": "(((folkYEAH!))) Presents: Holy Wave w/ Queen Serene",
    "date": "2026-11-10",
    "time": "20:00",
@@ -4472,6 +4472,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=5"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=7"
   },
   {
    "venue": "Rio Theatre",
@@ -5419,7 +5429,7 @@
    "date": "2026-11-19",
    "time": "19:00",
    "url": "https://www.ticketweb.com/event/james-durbin-revival-the-crepe-place-tickets/14369934?pl=thecrepeplace",
-   "price": "$20",
+   "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791474430879-5CF00W7WXIS38FLLLYQH/James-Durbin-667x1024.jpg"
   },
@@ -6364,6 +6374,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791908043056-II4LMSKUAL39AMQ3DKL2/IMG_6091.JPEG"
   },
   {
+   "venue": "Woodhouse",
+   "title": "Taps for Trails with Ventana Wilderness Alliance",
+   "date": "2026-12-03",
+   "time": "17:00",
+   "url": "https://www.woodhousebrews.com/events/2026/12/3/taps-for-trails-with-ventana-wilderness-alliance",
+   "price": null,
+   "info": "Taps for Trails with Ventana Wilderness Alliance + Live Music with the Mick Adams Band Great beer, incredible music, and a great cause!…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1794160974289-XOZBIV84957K2XUE6LLX/VWA+Taps+for+Trails.png"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "TWISTMAS CAROLING Hosted By TROLLEY DROPS JUG BAND",
    "date": "2026-12-03",
@@ -6442,6 +6462,16 @@
    "price": "$25+",
    "info": "Peace United Church of Christ, Santa Cruz",
    "image": "https://cdn2.fatsoma.com/media/W1siZiIsInB1YmxpYy8yMDI2LzkvMS8yMC80LzUyLzE1OS9SYWNrTXVsdGlwYXJ0MjAyNjA5MDEtNTQtZGV2ODg3LmpwZyJdXQ"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "AZA – Moroccan Music",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/aza-moroccan-music/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/AZA-cropped.jpg"
   },
   {
    "venue": "Woodhouse",
@@ -8621,7 +8651,7 @@
    "url": "https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium/santa-cruz-california/",
    "price": "$45.95",
    "info": "Doors: 7:30 pm Show: 8:30 pm · All Ages",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/the-lemonheads-the-love-chant-tour.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-lemonheads-the-love-chant-tour.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
