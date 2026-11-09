@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08T10:41-08:00",
+ "updated": "2026-11-09T15:18-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 26
+   "count": 27
   },
   {
    "venue": "Moe's Alley",
@@ -14,12 +14,12 @@
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 95
+   "count": 96
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -39,37 +39,37 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 7
+   "count": 9
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 9
+   "count": 13
   },
   {
    "venue": "Quarry Amphitheater",
@@ -104,7 +104,7 @@
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Lumos Candlelight",
@@ -4404,6 +4404,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949014610245"
   },
   {
+   "venue": "The Sand Bar",
+   "title": "The Tonewheels",
+   "date": "2026-11-09",
+   "time": "18:00",
+   "url": "https://thesandbarcapitola.com/event/the-tonewheels/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/11/IMG_2664.jpeg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Marcus Shelby Nonet – Birth of the Cool: Revisited",
    "date": "2026-11-09",
@@ -4465,16 +4475,6 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "(((folkYEAH!))) Presents: Holy Wave w/ Queen Serene",
-   "date": "2026-11-10",
-   "time": "20:00",
-   "url": "https://moesalley.com/calendar",
-   "price": null,
-   "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=5"
-  },
-  {
-   "venue": "Moe's Alley",
    "title": "Moe's Alley Presents - Rolling Together Revue: Donavon Frankenreiter + The Band Of Heathens (Live at The Rio Theatre)",
    "date": "2026-11-10",
    "time": "20:00",
@@ -4482,6 +4482,16 @@
    "price": null,
    "info": "Doors 7:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/59/45/53_Listings.jpg?v=7"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "(((folkYEAH!))) Presents: Holy Wave w/ Queen Serene",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/55/80/73_Listings.jpg?v=5"
   },
   {
    "venue": "Rio Theatre",
@@ -4674,6 +4684,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791159871407-UJABRLN6SUR1OIVBTATT/IMG_1189.JPG"
   },
   {
+   "venue": "Woodhouse",
+   "title": "Whiskerman",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/events/2026/11/12/whiskerman",
+   "price": null,
+   "info": "Whiskerman! Outside stage: Over the last 7 years the Oakland band has developed an underground reputation for tackling the sublime with…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1794259288700-8Y0JL9HPEUNY8SD13J0R/BC9348B0-.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Elliot Ok, Joe Kaplow Band, Kai Killion",
    "date": "2026-11-12",
@@ -4704,8 +4724,18 @@
    "image": null
   },
   {
+   "venue": "Woodhouse",
+   "title": "OUTERNATIONAL - Global Bass Dance Party",
+   "date": "2026-11-13",
+   "time": "17:00",
+   "url": "https://www.woodhousebrews.com/events/2026/11/13/outernational-global-bass-dance-party",
+   "price": null,
+   "info": "OUTERNATIONAL: Global Bass Dance Party Featuring Selecta 7, Rudi B & Special Guest DJ Ill Tones Get ready for a night of heavy bass,…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1794168377946-NHPQ3IXHC6P04VQ7T438/image0.jpeg"
+  },
+  {
    "venue": "Discretion Brewing",
-   "title": "Bob O’Neill’s Absent Minds",
+   "title": "Death and Saxes",
    "date": "2026-11-13",
    "time": "17:30",
    "url": "https://www.discretionbrewing.com/events/",
@@ -5042,6 +5072,16 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949177754343"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open At 10Am Every Sunday",
+   "date": "2026-11-15",
+   "time": "10:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Abbott Square",
@@ -5924,6 +5964,16 @@
    "image": null
   },
   {
+   "venue": "Catalyst Atrium",
+   "title": "BLACKOUT WEDNESDAY",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "url": "https://catalystclub.com/event/blackout-wednesday/the-catalyst-atrium/santa-cruz-california/",
+   "price": "$28.72",
+   "info": "Show: 7 pm · Ages 18 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/blackout-wednesday.jpeg"
+  },
+  {
    "venue": "Mission West",
    "title": "Joli",
    "date": "2026-11-25",
@@ -6025,12 +6075,12 @@
   },
   {
    "venue": "Catalyst Main Room",
-   "title": "Jackie Greene",
+   "title": "Jackie Greene with Tim Bluhm (Mother Hips)",
    "date": "2026-11-27",
    "time": "20:00",
-   "url": "https://catalystclub.com/event/jackie-greene/the-catalyst/santa-cruz-california/",
+   "url": "https://catalystclub.com/event/jackie-greene-with-tim-bluhm-mother-hips/the-catalyst/santa-cruz-california/",
    "price": "$40.55",
-   "info": "Doors: 7 pm Show: 8 pm",
+   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/jackie-greene.jpeg"
   },
   {
@@ -7581,7 +7631,7 @@
    "url": "https://www.ticketweb.com/event/wasabi-the-crepe-place-tickets/14416054?pl=thecrepeplace",
    "price": "$15",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1787255507523-FCJK4WY3BOSDHN5SLQBD/IMG_3437_800.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794247229061-9WF83DR4RIW227WJF4ZP/IMG_8534.JPG"
   },
   {
    "venue": "Moe's Alley",
@@ -7742,6 +7792,16 @@
    "price": null,
    "info": "Live Music 5:30-7:30pm",
    "image": null
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Casanostra",
+   "date": "2027-01-14",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/casanostra-thursday-january-15-from-530-to-730pm-on-the-garden-stage-free-show",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791841832219-YF8N31CCARXR5RKW6BCN/Casanostr+World+Music+Rectangle.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -7962,6 +8022,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1760534842910-IGVXGIRCV8PIT72INJV4/0040943603_10.jpg"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Trestles",
+   "date": "2027-01-22",
+   "time": "21:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 8:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/11/56/94_Listings.jpg?v=3"
   },
   {
    "venue": "Felton Music Hall",
@@ -8465,7 +8535,7 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "Master Class: Linda May Han Oh",
+   "title": "Master Class: Linda May Han Oh – The Bandleader/Sideperson Balance",
    "date": "2027-02-23",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/master-class-linda-may-han-oh/",
@@ -8594,6 +8664,36 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/TYREEK_McDOLE-cropped.jpg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "Ensemble Showcase Concert",
+   "date": "2027-03-01",
+   "time": "19:00",
+   "url": "https://events.ucsc.edu/event/ensemble-showcase-concert/",
+   "price": "Free",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/11-21-24-UCSC-Orchestra-CL-013-scaled.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "ONO: Guitars",
+   "date": "2027-03-01",
+   "time": "19:00",
+   "url": "https://events.ucsc.edu/event/ono-guitars/",
+   "price": "Free",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Copy-of-UCSC-Classical-Guitar-Ensemble.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "Orchestra Concert",
+   "date": "2027-03-02",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/orchestra-concert/",
+   "price": "Free – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/11-21-24-UCSC-Orchestra-CL-004-scaled.jpg"
+  },
+  {
    "venue": "Catalyst Atrium",
    "title": "CODEFENDANTS + Jakob Nowell and THE CASTLE",
    "date": "2027-03-02",
@@ -8644,6 +8744,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/The-Klezmatic-cropped.jpg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "Wind Ensemble Concert",
+   "date": "2027-03-05",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/wind-ensemble-concert/",
+   "price": "$5 – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/03-17-24-Jazz-Ensembles-RP-001-scaled.jpg"
+  },
+  {
    "venue": "Catalyst Atrium",
    "title": "The Lemonheads: The Love Chant Tour",
    "date": "2027-03-06",
@@ -8692,6 +8802,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/LUCIA-cropped.jpg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Moontricks",
+   "date": "2027-03-13",
+   "time": null,
+   "url": "https://www.prekindle.com/event/86856-moontricks-felton",
+   "price": "$0",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948945459275"
   },
   {
    "venue": "Rio Theatre",
@@ -8782,6 +8902,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/Delbert-Anderson-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "(((folkYEAH))) Presents: OSCAR LINDSEY",
+   "date": "2027-03-26",
+   "time": "19:00",
+   "url": "https://www.ticketweb.com/event/folkyeah-presents-oscar-lindsey-the-crepe-place-tickets/14434344?pl=thecrepeplace",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794245923202-DHB4JHZQ6NPFIOKZH0BW/ColeSilberman.OscarLindsey-film-07.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8882,6 +9012,16 @@
    "price": null,
    "info": "Classical Series Concert 5 · Civic Auditorium",
    "image": null
+  },
+  {
+   "venue": "Rio Theatre",
+   "title": "GST x The Rio Theatre Presents: Silversun Pickups Tenterhooks Tour",
+   "date": "2027-05-06",
+   "time": "20:00",
+   "url": "https://www.riotheatre.com/events-2/2027/5/6/silversun",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1794167635036-8D7M8AXQIL8O6GPZ982V/5-6-27_SilversunPickups_Native_V038.5x11.jpg"
   },
   {
    "venue": "Rio Theatre",
