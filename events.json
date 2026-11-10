@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T15:18-08:00",
+ "updated": "2026-11-10T12:44-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 36
+   "count": 37
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 96
+   "count": 95
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 68
+   "count": 67
   },
   {
    "venue": "Cat Alley Street",
@@ -34,12 +34,12 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 55
+   "count": 58
   },
   {
    "venue": "Woodhouse",
-   "ok": true,
-   "count": 9
+   "ok": false,
+   "error": "Expecting value: line 1 column 1 (char 0)"
   },
   {
    "venue": "Abbott Square",
@@ -99,7 +99,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Cork & Fork",
@@ -4519,7 +4519,7 @@
    "date": "2026-11-10",
    "time": null,
    "url": "https://www.prekindle.com/event/89816-jeffery-martin-felton",
-   "price": "$27",
+   "price": "$32",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949072153639"
   },
@@ -4684,16 +4684,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791159871407-UJABRLN6SUR1OIVBTATT/IMG_1189.JPG"
   },
   {
-   "venue": "Woodhouse",
-   "title": "Whiskerman",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "url": "https://www.woodhousebrews.com/events/2026/11/12/whiskerman",
-   "price": null,
-   "info": "Whiskerman! Outside stage: Over the last 7 years the Oakland band has developed an underground reputation for tackling the sublime with…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1794259288700-8Y0JL9HPEUNY8SD13J0R/BC9348B0-.jpg"
-  },
-  {
    "venue": "The Crepe Place",
    "title": "Elliot Ok, Joe Kaplow Band, Kai Killion",
    "date": "2026-11-12",
@@ -4722,16 +4712,6 @@
    "price": null,
    "info": null,
    "image": null
-  },
-  {
-   "venue": "Woodhouse",
-   "title": "OUTERNATIONAL - Global Bass Dance Party",
-   "date": "2026-11-13",
-   "time": "17:00",
-   "url": "https://www.woodhousebrews.com/events/2026/11/13/outernational-global-bass-dance-party",
-   "price": null,
-   "info": "OUTERNATIONAL: Global Bass Dance Party Featuring Selecta 7, Rudi B & Special Guest DJ Ill Tones Get ready for a night of heavy bass,…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1794168377946-NHPQ3IXHC6P04VQ7T438/image0.jpeg"
   },
   {
    "venue": "Discretion Brewing",
@@ -5029,7 +5009,7 @@
    "date": "2026-11-14",
    "time": "20:00",
    "url": "https://catalystclub.com/event/isaiah-rashad-lil-sunnys-awful-road-trip/the-catalyst/santa-cruz-california/",
-   "price": "$52.38 to $274.56",
+   "price": "$52.38",
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/isaiah-rashad-lil-sunnys-awful-road-trip-2.jpeg"
   },
@@ -5265,7 +5245,7 @@
   },
   {
    "venue": "UCSC Recital Hall",
-   "title": "Music Ensemble Showcase Concert",
+   "title": "Music Ensemble Showcase Concert—Percussion, Flute, Classical Guitar, Horn Quartet, and Celtic ensembles",
    "date": "2026-11-16",
    "time": "19:00",
    "url": "https://events.ucsc.edu/event/music-ensemble-showcase-concert/",
@@ -5322,16 +5302,6 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790623854897-P0KYR9SE3K4AAFI2ZFN3/ddpromo3web.jpg"
-  },
-  {
-   "venue": "Woodhouse",
-   "title": "Foster Andersen Benefit",
-   "date": "2026-11-18",
-   "time": "17:00",
-   "url": "https://www.eventbrite.com/e/benefit-for-foster-anderson-the-executive-director-of-shared-adventures-tickets-2003041624419?aff=oddtdtcreator",
-   "price": null,
-   "info": "Don’t miss this event! Get your tickets here: TICKETS",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793212187742-VDQSBZJWP1SA7IOY4OBD/Foster.jpg"
   },
   {
    "venue": "Cork & Fork",
@@ -6184,16 +6154,6 @@
    "image": null
   },
   {
-   "venue": "Woodhouse",
-   "title": "China Cats",
-   "date": "2026-11-28",
-   "time": "19:00",
-   "url": "https://www.woodhousebrews.com/events/2025/11/29/china-cats-2plsr",
-   "price": null,
-   "info": "he China Cats are: Matt Hartle , lead guitar and vocals Scott Cooper , rhythm guitar and vocals Steve Sofranko , keyboards and vocals…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793337846934-4E89BWC90DWP5OH7HBTQ/IMG_4706.jpg"
-  },
-  {
    "venue": "Catalyst Main Room",
    "title": "DON CARLOS & JUNIOR TOOTS",
    "date": "2026-11-28",
@@ -6424,16 +6384,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791908043056-II4LMSKUAL39AMQ3DKL2/IMG_6091.JPEG"
   },
   {
-   "venue": "Woodhouse",
-   "title": "Taps for Trails with Ventana Wilderness Alliance",
-   "date": "2026-12-03",
-   "time": "17:00",
-   "url": "https://www.woodhousebrews.com/events/2026/12/3/taps-for-trails-with-ventana-wilderness-alliance",
-   "price": null,
-   "info": "Taps for Trails with Ventana Wilderness Alliance + Live Music with the Mick Adams Band Great beer, incredible music, and a great cause!…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1794160974289-XOZBIV84957K2XUE6LLX/VWA+Taps+for+Trails.png"
-  },
-  {
    "venue": "The Crepe Place",
    "title": "TWISTMAS CAROLING Hosted By TROLLEY DROPS JUG BAND",
    "date": "2026-12-03",
@@ -6445,7 +6395,7 @@
   },
   {
    "venue": "Kuumbwa Jazz",
-   "title": "Isaiah Sharkey",
+   "title": "CANCELLED – Isaiah Sharkey",
    "date": "2026-12-03",
    "time": "19:00",
    "url": "https://www.kuumbwajazz.org/calendar/isaiah-sharkey/",
@@ -6522,16 +6472,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/AZA-cropped.jpg"
-  },
-  {
-   "venue": "Woodhouse",
-   "title": "1970's Rock Revue",
-   "date": "2026-12-04",
-   "time": "19:00",
-   "url": "https://www.woodhousebrews.com/events/2026/12/4/1970s-rock-revue",
-   "price": null,
-   "info": "1970’s Jazz-Rock Revue If you wish the era of 1970’s jazz-rock and progressive rock never ended, then this is the band for you! Joshua…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1786598163400-W69A2CZDLLDZL5MOT7IS/JRR_Logo_7.3.26+%281%29.jpg"
   },
   {
    "venue": "UCSC Recital Hall",
@@ -6774,16 +6714,6 @@
    "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/trumpet-players-GettyImages-817616438-1-scaled.jpg"
   },
   {
-   "venue": "Woodhouse",
-   "title": "Horse Feathers",
-   "date": "2026-12-06",
-   "time": "17:00",
-   "url": "https://www.eventbrite.com/e/horse-feathers-tickets-1993861278758",
-   "price": null,
-   "info": "There are bands you listen to, and then there are bands you experience. Horse Feathers has spent nearly two decades crafting songs that…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1783991039062-9WIMLPH2X7DV8OLSN0SN/HF+PRESS+PHOTO+SING+ALONG.jpg"
-  },
-  {
    "venue": "Abbott Square",
    "title": "Salsa by The Sea Afterparty",
    "date": "2026-12-06",
@@ -7024,16 +6954,6 @@
    "image": null
   },
   {
-   "venue": "Woodhouse",
-   "title": "Winter Apocolypse",
-   "date": "2026-12-11",
-   "time": "18:00",
-   "url": "https://www.woodhousebrews.com/events/2026/12/11/winter-apocolypse",
-   "price": null,
-   "info": "Overview Enter a warm, strange world after the apocalypse. An immersive night of fashion, art, music & female creativity at Woodhouse.…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793938934478-VJEVEKFNDFO2ZCYE40Q8/Screenshot+2026-10-19+at+1.52.16%E2%80%AFPM.png"
-  },
-  {
    "venue": "Abbott Square",
    "title": "Burnout",
    "date": "2026-12-11",
@@ -7269,7 +7189,7 @@
    "date": "2026-12-13",
    "time": null,
    "url": "https://www.prekindle.com/event/38918-labiahead-felton",
-   "price": "$20",
+   "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949013363990"
   },
@@ -7412,16 +7332,6 @@
    "price": null,
    "info": "Live Music 5:30-7:30pm",
    "image": null
-  },
-  {
-   "venue": "Woodhouse",
-   "title": "Dancing to the Oldies",
-   "date": "2026-12-18",
-   "time": "18:30",
-   "url": "https://www.woodhousebrews.com/events/2026/12/18/dancing-to-the-oldies",
-   "price": null,
-   "info": "Dancing to the Oldies! Richard Simmons Jazzercise Extravaganza Friday, December 18 | 6:30 PM Woodhouse Blending & Brewing Break out the…",
-   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793944651083-2QZYOXYZXXFLRKHE88BU/Simons.jpeg"
   },
   {
    "venue": "Abbott Square",
@@ -8194,6 +8104,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2025/05/ChrisCain_web.jpg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: North Mississippi Allstars",
+   "date": "2027-01-29",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/10/71/84_Listings.jpg?v=4"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "The Arcadian Wild - Make It Out Alive Tour",
    "date": "2027-01-29",
@@ -8704,6 +8624,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/codefendants-jakob-nowell-and-the-castle.jpeg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Darlingside",
+   "date": "2027-03-02",
+   "time": null,
+   "url": "https://www.prekindle.com/event/78586-darlingside-felton",
+   "price": "$0",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948944955924"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Marta Sánchez Sextet",
    "date": "2027-03-04",
@@ -9024,6 +8954,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1794167635036-8D7M8AXQIL8O6GPZ982V/5-6-27_SilversunPickups_Native_V038.5x11.jpg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Earth Tongue",
+   "date": "2027-05-07",
+   "time": null,
+   "url": "https://www.prekindle.com/event/41468-earth-tongue-felton",
+   "price": "$0",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948944955176"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "DIIV",
    "date": "2027-05-09",
@@ -9072,6 +9012,16 @@
    "price": null,
    "info": "Pops Benefit Concert · Civic Auditorium",
    "image": null
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Boogie Belgique",
+   "date": "2027-06-20",
+   "time": null,
+   "url": "https://www.prekindle.com/event/45786-boogie-belgique-felton",
+   "price": "$0",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948944506941"
   },
   {
    "venue": "Rio Theatre",
