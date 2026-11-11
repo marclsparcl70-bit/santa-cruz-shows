@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T12:44-08:00",
+ "updated": "2026-11-11T13:05-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,22 +9,22 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 37
+   "count": 36
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 25
+   "count": 24
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 95
+   "count": 93
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 67
+   "count": 66
   },
   {
    "venue": "Cat Alley Street",
@@ -99,7 +99,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "venue": "Cork & Fork",
@@ -5031,7 +5031,7 @@
    "url": "https://thesandbarcapitola.com/event/fully-charged/",
    "price": null,
    "info": null,
-   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/11/qtq80-77DcAH.jpeg"
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/11/IMG_2718.jpeg"
   },
   {
    "venue": "Moe's Alley",
@@ -6459,7 +6459,7 @@
    "date": "2026-12-04",
    "time": "18:00",
    "url": "https://www.fatsoma.com/e/dk08i0yi/a-classical-christmas-candlelight-experience-in-santa-cruz-ca-friday-december-4th",
-   "price": "$25+",
+   "price": "$20+",
    "info": "Peace United Church of Christ, Santa Cruz",
    "image": "https://cdn2.fatsoma.com/media/W1siZiIsInB1YmxpYy8yMDI2LzkvMS8yMC80LzUyLzE1OS9SYWNrTXVsdGlwYXJ0MjAyNjA5MDEtNTQtZGV2ODg3LmpwZyJdXQ"
   },
@@ -6472,16 +6472,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/AZA-cropped.jpg"
-  },
-  {
-   "venue": "UCSC Recital Hall",
-   "title": "UCSC Concert Choir",
-   "date": "2026-12-04",
-   "time": "19:30",
-   "url": "https://events.ucsc.edu/event/ucsc-concert-choir-fall-2026/",
-   "price": "$5 – $12",
-   "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/choral-book-GettyImages-1447119629.jpg"
   },
   {
    "venue": "Henfling's Tavern",
@@ -7364,6 +7354,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/starcrawler.jpeg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Event Santa Cruz Presents: Bloodsugar, Charity Kiss & Brendon B",
+   "date": "2026-12-18",
+   "time": "20:30",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:30 PM",
+   "image": "https://i.ticketweb.com/i/00/13/14/59/04_Listings.jpg?v=4"
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Rosebud",
    "date": "2026-12-19",
@@ -8154,6 +8154,16 @@
    "image": "https://i.ticketweb.com/i/00/13/06/74/34_Listings.jpg?v=5"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Ify & Erika Solve Every Problem",
+   "date": "2027-01-30",
+   "time": null,
+   "url": "https://www.prekindle.com/event/73331-ify-and-erika-solve-every-problem-felton",
+   "price": "$0",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948943935173"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "The Cookers – 20th Anniversary",
    "date": "2027-02-01",
@@ -8684,6 +8694,16 @@
    "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/03-17-24-Jazz-Ensembles-RP-001-scaled.jpg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Jazz Combos",
+   "date": "2027-03-06",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/ucsc-jazz-combos-3/",
+   "price": "Free",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/trumpet-players-GettyImages-817616438-scaled-e1760989701552.jpg"
+  },
+  {
    "venue": "Catalyst Atrium",
    "title": "The Lemonheads: The Love Chant Tour",
    "date": "2027-03-06",
@@ -8734,12 +8754,22 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/LUCIA-cropped.jpg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Concert Choir",
+   "date": "2027-03-12",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/ucsc-concert-choir-fall-2026/",
+   "price": "$5 – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/choral-book-GettyImages-1447119629.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Moontricks",
    "date": "2027-03-13",
    "time": null,
    "url": "https://www.prekindle.com/event/86856-moontricks-felton",
-   "price": "$0",
+   "price": "$24",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948945459275"
   },
