@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T13:05-08:00",
+ "updated": "2026-11-12T13:21-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 93
+   "count": 92
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 66
+   "count": 65
   },
   {
    "venue": "Cat Alley Street",
@@ -34,7 +34,7 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 58
+   "count": 59
   },
   {
    "venue": "Woodhouse",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 18
+   "count": 17
   },
   {
    "venue": "Lumos Candlelight",
@@ -4699,7 +4699,7 @@
    "date": "2026-11-12",
    "time": null,
    "url": "https://www.prekindle.com/event/38882-jake-xerxes-fussell-felton",
-   "price": "$20",
+   "price": "$25",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949155950107"
   },
@@ -4815,13 +4815,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Roger Clyne and PH Naffah",
+   "title": "Moe's Alley Presents: Roger Clyne and PH Naffah w/ Alex Lucero",
    "date": "2026-11-13",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/46/06/83_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/13/46/06/83_Listings.jpg?v=7"
   },
   {
    "venue": "The Crepe Place",
@@ -4999,7 +4999,7 @@
    "date": "2026-11-14",
    "time": "20:00",
    "url": "https://catalystclub.com/event/isaiah-rashad-mg-vip-upgrades/the-catalyst/santa-cruz-california/",
-   "price": "$121.30 to $231.36",
+   "price": null,
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/isaiah-rashad-mg-vip-upgrades.jpeg"
   },
@@ -6082,6 +6082,16 @@
    "price": null,
    "info": null,
    "image": "https://thesandbarcapitola.com/wp-content/uploads/2025/08/the-joint-chiefs-new.png"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Fresh Serve Open Call Drag Show",
+   "date": "2026-11-27",
+   "time": "21:00",
+   "url": "https://www.thecrepeplace.com/shows-list/fresh-serve-open-call-drag-show-friday-november-27-9pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794503579409-BR9U06WZQSNWHX4I56ZU/November+Fresh+Serve+Flyer.png"
   },
   {
    "venue": "Felton Music Hall",
@@ -8159,7 +8169,7 @@
    "date": "2027-01-30",
    "time": null,
    "url": "https://www.prekindle.com/event/73331-ify-and-erika-solve-every-problem-felton",
-   "price": "$0",
+   "price": "$34",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948943935173"
   },
@@ -8392,6 +8402,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/CHEF-cropped.jpg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Cliff Cash",
+   "date": "2027-02-18",
+   "time": null,
+   "url": "https://www.prekindle.com/event/68478-cliff-cash-felton",
+   "price": "$34",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948941354590"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8639,7 +8659,7 @@
    "date": "2027-03-02",
    "time": null,
    "url": "https://www.prekindle.com/event/78586-darlingside-felton",
-   "price": "$0",
+   "price": "$35",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948944955924"
   },
@@ -8989,7 +9009,7 @@
    "date": "2027-05-07",
    "time": null,
    "url": "https://www.prekindle.com/event/41468-earth-tongue-felton",
-   "price": "$0",
+   "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948944955176"
   },
@@ -9049,7 +9069,7 @@
    "date": "2027-06-20",
    "time": null,
    "url": "https://www.prekindle.com/event/45786-boogie-belgique-felton",
-   "price": "$0",
+   "price": "$18",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948944506941"
   },
