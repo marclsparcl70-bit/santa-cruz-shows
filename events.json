@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T13:21-08:00",
+ "updated": "2026-11-13T12:29-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 92
+   "count": 90
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -34,37 +34,37 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 59
+   "count": 58
   },
   {
    "venue": "Woodhouse",
-   "ok": false,
-   "error": "Expecting value: line 1 column 1 (char 0)"
+   "ok": true,
+   "count": 10
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 15
+   "count": 13
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 9
+   "count": 12
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "UCSC Recital Hall",
@@ -94,17 +94,17 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 15
+   "count": 14
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 17
+   "count": 16
   },
   {
    "venue": "Lumos Candlelight",
@@ -4714,6 +4714,16 @@
    "image": null
   },
   {
+   "venue": "Woodhouse",
+   "title": "OUTERNATIONAL - Global Bass Dance Party",
+   "date": "2026-11-13",
+   "time": "17:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "OUTERNATIONAL: Global Bass Dance Party Featuring Selecta 7, Rudi B & Special Guest DJ Ill Tones Get ready for a night of heavy bass,…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1794168377946-NHPQ3IXHC6P04VQ7T438/image0.jpeg?format=750w"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "Death and Saxes",
    "date": "2026-11-13",
@@ -4725,7 +4735,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Mark Holzinger Western Swing & Jazz",
+   "title": "Cancelled Due To Weather- Mark Holzinger Western Swing & Jazz",
    "date": "2026-11-13",
    "time": "17:30",
    "url": "https://www.thecrepeplace.com/shows-list/mark-holzinger-western-swing-jazz-friday-november-13-from-530-to-730pm-free-show-on-the-garden-stage",
@@ -4829,7 +4839,7 @@
    "date": "2026-11-13",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/flat-sun-society-friday-november-13-8pm-15",
-   "price": "$12",
+   "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782916269103-9BL7E94D7CFV52XR90ZC/Artist.png"
   },
@@ -4859,7 +4869,7 @@
    "date": "2026-11-13",
    "time": null,
    "url": "https://www.prekindle.com/event/77388-shakedown-citi-felton",
-   "price": "$17",
+   "price": "$20",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948963744567"
   },
@@ -4982,6 +4992,16 @@
    "price": "$30",
    "info": "From Folk to Blues Sharon Allen and The Dusty Boots",
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791339704862-EJ7EQO0DON1J7IG052GG/IMG_1191.jpeg"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Velour!",
+   "date": "2026-11-14",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "Velour draws inspiration from the smokin’ grooves of supergroups like the meters, galactic, the greyboy allstars, and the new…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1774511963817-44P1C36TKNSKGU37YM8R/VELOUR+copy.jpg?format=750w"
   },
   {
    "venue": "Santa Cruz Symphony",
@@ -5264,6 +5284,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788727800433-SCQTASK6TTPFFVQC0XBX/Shirley%27s+Gig+%28+square+image+%29.jpeg"
   },
   {
+   "venue": "Woodhouse",
+   "title": "Tuesday JAM!",
+   "date": "2026-11-17",
+   "time": "18:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "This is the place to be on Tuesday! This weekly jam fest features rotating bands, open jam sessions, vendors, activities and all the…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1790319444020-4PHURSJ3YEDL6YLYN5W8/BAZAAR+copy.jpg?format=750w"
+  },
+  {
    "venue": "The Sand Bar",
    "title": "David DaSilva Jam Night",
    "date": "2026-11-17",
@@ -5302,6 +5332,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1790623854897-P0KYR9SE3K4AAFI2ZFN3/ddpromo3web.jpg"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Foster Andersen Benefit",
+   "date": "2026-11-18",
+   "time": "17:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "Don’t miss this event! Get your tickets here: TICKETS",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793212187742-VDQSBZJWP1SA7IOY4OBD/Foster.jpg?format=750w"
   },
   {
    "venue": "Cork & Fork",
@@ -5571,7 +5611,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/62/93/63_Listings.jpg?v=6"
+   "image": "https://i.ticketweb.com/i/00/13/62/93/63_Listings.jpg?v=7"
   },
   {
    "venue": "Felton Music Hall",
@@ -5751,7 +5791,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/63/22/63_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/13/63/22/63_Listings.jpg?v=5"
   },
   {
    "venue": "Felton Music Hall",
@@ -6164,6 +6204,16 @@
    "image": null
   },
   {
+   "venue": "Woodhouse",
+   "title": "China Cats",
+   "date": "2026-11-28",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "he China Cats are: Matt Hartle , lead guitar and vocals Scott Cooper , rhythm guitar and vocals Steve Sofranko , keyboards and vocals…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793337846934-4E89BWC90DWP5OH7HBTQ/IMG_4706.jpg?format=750w"
+  },
+  {
    "venue": "Catalyst Main Room",
    "title": "DON CARLOS & JUNIOR TOOTS",
    "date": "2026-11-28",
@@ -6394,6 +6444,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791908043056-II4LMSKUAL39AMQ3DKL2/IMG_6091.JPEG"
   },
   {
+   "venue": "Woodhouse",
+   "title": "Taps for Trails with Ventana Wilderness Alliance",
+   "date": "2026-12-03",
+   "time": "17:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "Taps for Trails with Ventana Wilderness Alliance + Live Music with the Mick Adams Band Great beer, incredible music, and a great cause!…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1794160974289-XOZBIV84957K2XUE6LLX/VWA+Taps+for+Trails.png?format=750w"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "TWISTMAS CAROLING Hosted By TROLLEY DROPS JUG BAND",
    "date": "2026-12-03",
@@ -6464,6 +6524,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1778634055857-BW2NIH5XP5MXOAR0Y9MT/3608.jpg"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Resquache Liberation Front",
+   "date": "2026-12-04",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6af5024d06c5d47238ad22eb",
+   "price": "$10",
+   "info": "Tex Mex Cumbia · Food: TBS",
+   "image": ""
+  },
+  {
    "venue": "Lumos Candlelight",
    "title": "A Classical Christmas Candlelight Experience",
    "date": "2026-12-04",
@@ -6482,6 +6552,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/AZA-cropped.jpg"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "1970's Rock Revue",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "1970’s Jazz-Rock Revue If you wish the era of 1970’s jazz-rock and progressive rock never ended, then this is the band for you! Joshua…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1786598163400-W69A2CZDLLDZL5MOT7IS/JRR_Logo_7.3.26+%281%29.jpg?format=750w"
   },
   {
    "venue": "Henfling's Tavern",
@@ -6714,6 +6794,16 @@
    "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/trumpet-players-GettyImages-817616438-1-scaled.jpg"
   },
   {
+   "venue": "Woodhouse",
+   "title": "Horse Feathers",
+   "date": "2026-12-06",
+   "time": "17:00",
+   "url": "https://www.eventbrite.com/e/horse-feathers-tickets-1993861278758",
+   "price": null,
+   "info": "There are bands you listen to, and then there are bands you experience. Horse Feathers has spent nearly two decades crafting songs that…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1783991039062-9WIMLPH2X7DV8OLSN0SN/HF+PRESS+PHOTO+SING+ALONG.jpg?format=750w"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Salsa by The Sea Afterparty",
    "date": "2026-12-06",
@@ -6801,7 +6891,7 @@
    "url": "https://www.thecrepeplace.com/shows-list/strange-relationship-tuesday-december-8-8pm-10",
    "price": "$10",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792183433766-MI03EWL9QRNQGZUOPSCN/images.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794599539774-QGMF91YS6AKA9IRGDRRH/Dec.PNG"
   },
   {
    "venue": "Felton Music Hall",
@@ -6954,6 +7044,26 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "To Be or Not To Be - A Murder Mystery Musical",
+   "date": "2026-12-11",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6af66c04c8960e65e6ad22ea",
+   "price": "$25",
+   "info": "Live Musical · Food: S and B (Sandwiches and Burgers) ",
+   "image": "https://static.wixstatic.com/media/cc50de_7d5ac347fd584d96a1a43a874dd921d4~mv2.png"
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Winter Apocolypse",
+   "date": "2026-12-11",
+   "time": "18:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "Overview Enter a warm, strange world after the apocalypse. An immersive night of fashion, art, music & female creativity at Woodhouse.…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793938934478-VJEVEKFNDFO2ZCYE40Q8/Screenshot+2026-10-19+at+1.52.16%E2%80%AFPM.png?format=750w"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Burnout",
    "date": "2026-12-11",
@@ -7042,6 +7152,16 @@
    "price": null,
    "info": "Live Music 3-5pm",
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "To Be or Not To Be - A Murder Mystery Musical",
+   "date": "2026-12-12",
+   "time": "17:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6af66c6d06c5d47238ad22f1",
+   "price": "$25",
+   "info": "Live Musical  · Food: S and B ( Sandwiches and Burgers) ",
+   "image": "https://static.wixstatic.com/media/cc50de_c4b5d9b89e394f08b57de913a5c0d5d0~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -7332,6 +7452,16 @@
    "price": null,
    "info": "Live Music 5:30-7:30pm",
    "image": null
+  },
+  {
+   "venue": "Woodhouse",
+   "title": "Dancing to the Oldies",
+   "date": "2026-12-18",
+   "time": "18:30",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "Dancing to the Oldies! Richard Simmons Jazzercise Extravaganza Friday, December 18 | 6:30 PM Woodhouse Blending & Brewing Break out the…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793944651083-2QZYOXYZXXFLRKHE88BU/Simons.jpeg?format=750w"
   },
   {
    "venue": "Abbott Square",
@@ -8030,8 +8160,8 @@
    "time": null,
    "url": "https://www.prekindle.com/event/98341-brandy-clark-take-flight-world-tour-felton",
    "price": "$27",
-   "info": null,
-   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949014902685"
+   "info": "with The Carlile Family Band",
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948939466119"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8250,7 +8380,7 @@
    "time": null,
    "url": "https://www.prekindle.com/event/59745-the-sways-felton",
    "price": "$18",
-   "info": null,
+   "info": "with Abigail Rose",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948976241626"
   },
   {
@@ -8542,6 +8672,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793385191013-ZBLYYHRMY234CUKEFY7D/banff-2027-1200x800.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Troy Ramey – An Evening of Songs & Stories",
+   "date": "2027-02-27",
+   "time": "19:30",
+   "url": "https://www.kuumbwajazz.org/calendar/troy-ramey-an-evening-of-songs-stories/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/banner-jpg.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -9009,7 +9149,7 @@
    "date": "2027-05-07",
    "time": null,
    "url": "https://www.prekindle.com/event/41468-earth-tongue-felton",
-   "price": "$20",
+   "price": "$18",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948944955176"
   },
