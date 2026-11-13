@@ -154,6 +154,19 @@ def squarespace(venue, base, path, tidy=None):
     return out
 
 
+def woodhouse():
+    """woodhousebrews.com moved off Squarespace (Nov 2026); /calendar now reads /api/events.
+    Its event urls point at a hidden *.squarespace.com backend, so link the public calendar instead."""
+    base = "https://www.woodhousebrews.com"
+    out = []
+    for e in json.loads(get(base + "/api/events")).get("events", []):
+        dt = datetime.fromtimestamp(e["start"] / 1000, timezone.utc).astimezone(TZ)
+        out.append(event("Woodhouse", clean(e.get("title")), dt.date(), dt.strftime("%H:%M"),
+                         e.get("tickets") or base + "/calendar", None,
+                         clean(e.get("excerpt")) or None, e.get("image")))
+    return out
+
+
 DAYS = r"(MON|TUES|WEDNES|THURS|FRI|SATUR|SUN)DAY"
 
 
@@ -469,7 +482,7 @@ VENUES = {
     "Kuumbwa Jazz": lambda: tribe("Kuumbwa Jazz", "https://www.kuumbwajazz.org"),
     "Cat Alley Street": lambda: tribe("Cat Alley Street", "https://catalleystreet.com"),
     "Felton Music Hall": felton,
-    "Woodhouse": lambda: music_only(squarespace("Woodhouse", "https://www.woodhousebrews.com", "/events")),
+    "Woodhouse": lambda: music_only(woodhouse()),
     "Abbott Square": lambda: music_only(squarespace("Abbott Square", "https://abbottsquaremarket.com", "/events")),
     "Discretion Brewing": discretion,
     "Mission West": mission_west,
