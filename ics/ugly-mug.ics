@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:89107c2517ca1c4dd103@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20260930T190000
 DTEND;TZID=America/Los_Angeles:20260930T220000
 SUMMARY:Gráinne Hunt with Jules Stewart @ Ugly Mug
@@ -39,7 +39,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/9/30/grainne-hunt-and
 END:VEVENT
 BEGIN:VEVENT
 UID:ed0c3c3c8f51bdd54ca3@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261003T190000
 DTEND;TZID=America/Los_Angeles:20261003T220000
 SUMMARY:Understory @ Ugly Mug
@@ -50,7 +50,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/3/understory
 END:VEVENT
 BEGIN:VEVENT
 UID:6b3d32aa44550ec53438@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261005T170000
 DTEND;TZID=America/Los_Angeles:20261005T200000
 SUMMARY:Open Mic @ Ugly Mug
@@ -63,7 +63,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/3w5hyl2zmky48hp-g472b-tjga
 END:VEVENT
 BEGIN:VEVENT
 UID:ebeba73f6662abcc699e@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261008T190000
 DTEND;TZID=America/Los_Angeles:20261008T220000
 SUMMARY:Levyosn @ Ugly Mug
@@ -74,7 +74,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/8/levyosn-duo
 END:VEVENT
 BEGIN:VEVENT
 UID:8bb6ffca84acaeba9899@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261009T190000
 DTEND;TZID=America/Los_Angeles:20261009T220000
 SUMMARY:The Rough Romance Tour @ Ugly Mug
@@ -87,7 +87,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/9-flagshipromance-
 END:VEVENT
 BEGIN:VEVENT
 UID:344ef65977e3618b7310@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261012T170000
 DTEND;TZID=America/Los_Angeles:20261012T200000
 SUMMARY:Open Mic @ Ugly Mug
@@ -100,7 +100,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/r35yjjw7te9s24c-gfwlm-ak9c
 END:VEVENT
 BEGIN:VEVENT
 UID:182c105cce17952759fd@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261013T190000
 DTEND;TZID=America/Los_Angeles:20261013T220000
 SUMMARY:Peppino D’Agostino @ Ugly Mug
@@ -112,7 +112,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/13/peppino-d-agost
 END:VEVENT
 BEGIN:VEVENT
 UID:6e0137e78e3598866af8@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261015T190000
 DTEND;TZID=America/Los_Angeles:20261015T220000
 SUMMARY:Chevy D & Old Tree Ex?erience @ Ugly Mug
@@ -124,7 +124,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/15-chevy-d-old-tre
 END:VEVENT
 BEGIN:VEVENT
 UID:c2e7b24590c0b7577601@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261023T190000
 DTEND;TZID=America/Los_Angeles:20261023T220000
 SUMMARY:Michael McNevin with The Keller Sisters @ Ugly Mug
@@ -137,7 +137,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/8/24/michael-mcnevin-
 END:VEVENT
 BEGIN:VEVENT
 UID:d10bea80fdf8c1ffec02@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T220000
 SUMMARY:Bonny June and Bonfire Halloween Show @ Ugly Mug
@@ -150,7 +150,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/10/30-bonny-june-bonf
 END:VEVENT
 BEGIN:VEVENT
 UID:be180fae8208e9b86c36@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261112T190000
 DTEND;TZID=America/Los_Angeles:20261112T220000
 SUMMARY:Benny Bleu\, Alison Steele & Sonia Shell @ Ugly Mug
@@ -163,7 +163,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/11/12-benny-bleu-alis
 END:VEVENT
 BEGIN:VEVENT
 UID:b2054aa7223e8cc906e3@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261114T190000
 DTEND;TZID=America/Los_Angeles:20261114T220000
 SUMMARY:Sharon Allen & The Dusty Boots @ Ugly Mug
@@ -175,8 +175,21 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/11/14-sharon-allen-du
  sty-boots
 END:VEVENT
 BEGIN:VEVENT
+UID:d87efd2f31e8dcfa326f@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261116T170000
+DTEND;TZID=America/Los_Angeles:20261116T200000
+SUMMARY:Open Mic @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:Every Monday\, Soquel Comes Alive At 5 with Ugly Mug Soquel’
+ s Open Mic!\nhttps://www.cafeugly.com/live-music-the-mug/njgs77nan778cy2-
+ z8r7s-npzre
+URL:https://www.cafeugly.com/live-music-the-mug/njgs77nan778cy2-z8r7s-npzr
+ e
+END:VEVENT
+BEGIN:VEVENT
 UID:c49ea4a3ee05a62db1c2@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261120T190000
 DTEND;TZID=America/Los_Angeles:20261120T220000
 SUMMARY:Sam Baker @ Ugly Mug
@@ -186,8 +199,33 @@ DESCRIPTION:$30\nlyric writer\, visual artist\, and survivor Sam Baker\nht
 URL:https://www.cafeugly.com/live-music-the-mug/2026/11/20/sam-baker
 END:VEVENT
 BEGIN:VEVENT
+UID:a513754f6b81ee148286@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261123T170000
+DTEND;TZID=America/Los_Angeles:20261123T200000
+SUMMARY:Open Mic @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:Every Monday\, Soquel Comes Alive At 5 with Ugly Mug Soquel’
+ s Open Mic!\nhttps://www.cafeugly.com/live-music-the-mug/kbr9b8d3f37al43-
+ bwy4f-gp6sr
+URL:https://www.cafeugly.com/live-music-the-mug/kbr9b8d3f37al43-bwy4f-gp6s
+ r
+END:VEVENT
+BEGIN:VEVENT
+UID:aaeb034ce7bfd76c51d6@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261130T170000
+DTEND;TZID=America/Los_Angeles:20261130T200000
+SUMMARY:Open Mic @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:Every Monday\, Soquel Comes Alive At 5 with Ugly Mug Soquel’
+ s Open Mic!\nhttps://www.cafeugly.com/live-music-the-mug/cz8b24bth5jr757-
+ zjf6j
+URL:https://www.cafeugly.com/live-music-the-mug/cz8b24bth5jr757-zjf6j
+END:VEVENT
+BEGIN:VEVENT
 UID:30c3f3eb0601f7285779@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261203T190000
 DTEND;TZID=America/Los_Angeles:20261203T220000
 SUMMARY:Santa Cruz Sessions @ Ugly Mug
@@ -200,7 +238,7 @@ URL:https://www.cafeugly.com/live-music-the-mug/2026/12/3/santa-cruz-sessi
 END:VEVENT
 BEGIN:VEVENT
 UID:b328bdc3e4420f141201@santa-cruz-shows
-DTSTAMP:20261113T204742Z
+DTSTAMP:20261114T185812Z
 DTSTART;TZID=America/Los_Angeles:20261205T190000
 DTEND;TZID=America/Los_Angeles:20261205T220000
 SUMMARY:Sully Tuttle @ Ugly Mug
@@ -208,5 +246,84 @@ LOCATION:Ugly Mug
 DESCRIPTION:Sold out\nAn intimate evening with Sully Tuttle\nhttps://www.c
  afeugly.com/live-music-the-mug/2026/12/5/sully-tuttle
 URL:https://www.cafeugly.com/live-music-the-mug/2026/12/5/sully-tuttle
+END:VEVENT
+BEGIN:VEVENT
+UID:f8886101c95c4a90841b@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261207T170000
+DTEND;TZID=America/Los_Angeles:20261207T200000
+SUMMARY:Open Mic @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:Every Monday\, Soquel Comes Alive At 5 with Ugly Mug Soquel’
+ s Open Mic!\nhttps://www.cafeugly.com/live-music-the-mug/2022/6/13/open-m
+ ic-every-monday-530p-730p-es5ay-d8eb8-jgtkl-fd87t-ccm2y-t73ce-6gyyk-bkrk7
+ -cam39-6ce34-hrnfh-28j9k-pxbzd-z9wch-wd48t-2cdsm-6tpa4-9wfyr-d43r6-98tt7-
+ ry9nj-dzrc8-lgzjl-ga6dw-ap2h2-7dk85
+URL:https://www.cafeugly.com/live-music-the-mug/2022/6/13/open-mic-every-m
+ onday-530p-730p-es5ay-d8eb8-jgtkl-fd87t-ccm2y-t73ce-6gyyk-bkrk7-cam39-6ce
+ 34-hrnfh-28j9k-pxbzd-z9wch-wd48t-2cdsm-6tpa4-9wfyr-d43r6-98tt7-ry9nj-dzrc
+ 8-lgzjl-ga6dw-ap2h2-7dk85
+END:VEVENT
+BEGIN:VEVENT
+UID:a395e0ed8180341e020f@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261211T163000
+DTEND;TZID=America/Los_Angeles:20261211T193000
+SUMMARY:Adam Scow with MUSAIC- Vijay Pat & Friends @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:$20\nhttps://www.cafeugly.com/live-music-the-mug/2026/12/11/ad
+ am-scow-with-musaic-vijay-pat-amp-friends-fri-1211-7-9p-20adv
+URL:https://www.cafeugly.com/live-music-the-mug/2026/12/11/adam-scow-with-
+ musaic-vijay-pat-amp-friends-fri-1211-7-9p-20adv
+END:VEVENT
+BEGIN:VEVENT
+UID:424a82aa878ecf2089d7@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261212T190000
+DTEND;TZID=America/Los_Angeles:20261212T220000
+SUMMARY:Mbira Dzasoko @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:$30\nhttps://www.cafeugly.com/live-music-the-mug/2026/12/12/mu
+ sic-from-zimbabwe-wsteve-spitalny-sat-1212-7-9p-
+URL:https://www.cafeugly.com/live-music-the-mug/2026/12/12/music-from-zimb
+ abwe-wsteve-spitalny-sat-1212-7-9p-
+END:VEVENT
+BEGIN:VEVENT
+UID:b2db362576cbbdf0b859@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261214T170000
+DTEND;TZID=America/Los_Angeles:20261214T200000
+SUMMARY:Open Mic @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:Every Monday\, Soquel Comes Alive At 5 with Ugly Mug Soquel’
+ s Open Mic!\nhttps://www.cafeugly.com/live-music-the-mug/3w5hyl2zmky48hp-
+ g472b-tjga9-86xwe-6y6lr-t2txs
+URL:https://www.cafeugly.com/live-music-the-mug/3w5hyl2zmky48hp-g472b-tjga
+ 9-86xwe-6y6lr-t2txs
+END:VEVENT
+BEGIN:VEVENT
+UID:684ea799e72c774b191b@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261217T190000
+DTEND;TZID=America/Los_Angeles:20261217T220000
+SUMMARY:The Josefina Show @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:$15\nhttps://www.cafeugly.com/live-music-the-mug/2026/12/17/th
+ e-josefina-show-thu-1217-7-10p-15
+URL:https://www.cafeugly.com/live-music-the-mug/2026/12/17/the-josefina-sh
+ ow-thu-1217-7-10p-15
+END:VEVENT
+BEGIN:VEVENT
+UID:0063011b447d12518630@santa-cruz-shows
+DTSTAMP:20261114T185812Z
+DTSTART;TZID=America/Los_Angeles:20261221T170000
+DTEND;TZID=America/Los_Angeles:20261221T200000
+SUMMARY:Open Mic @ Ugly Mug
+LOCATION:Ugly Mug
+DESCRIPTION:Every Monday\, Soquel Comes Alive At 5 with Ugly Mug Soquel’
+ s Open Mic!\nhttps://www.cafeugly.com/live-music-the-mug/r35yjjw7te9s24c-
+ gfwlm-ak9cb-34t2f
+URL:https://www.cafeugly.com/live-music-the-mug/r35yjjw7te9s24c-gfwlm-ak9c
+ b-34t2f
 END:VEVENT
 END:VCALENDAR

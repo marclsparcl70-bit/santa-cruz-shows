@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-13T12:47-08:00",
+ "updated": "2026-11-14T10:58-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 27
+   "count": 25
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 35
+   "count": 34
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 90
+   "count": 89
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 65
+   "count": 64
   },
   {
    "venue": "Cat Alley Street",
@@ -34,42 +34,42 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 58
+   "count": 57
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 22
+   "count": 27
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 13
+   "count": 17
   },
   {
    "venue": "Quarry Amphitheater",
@@ -89,22 +89,22 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 4
+   "count": 13
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 16
+   "count": 14
   },
   {
    "venue": "Lumos Candlelight",
@@ -5224,6 +5224,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099798287"
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Open Mic",
+   "date": "2026-11-16",
+   "time": "17:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/njgs77nan778cy2-z8r7s-npzre",
+   "price": null,
+   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1685994489876-I0AWW0QESPJSUVRGUMBS/IMG_0460.jpeg"
+  },
+  {
    "venue": "The Sand Bar",
    "title": "Alex Lucero Band",
    "date": "2026-11-16",
@@ -5541,7 +5551,7 @@
    "url": "https://abbottsquaremarket.com/events/august-sun",
    "price": null,
    "info": "August Sun is an original rock n' roll band born in the Santa Cruz Mountains of California.",
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6ad2d5be47701266470b3343/1792202481442/"
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1794622423449-76WTSSEQJ984497NP44A/26.11.3+August+Sun.jpg"
   },
   {
    "venue": "Mission West",
@@ -5804,6 +5814,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030752444"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Joe Bland",
+   "date": "2026-11-22",
+   "time": "13:00",
+   "url": "https://abbottsquaremarket.com/events/joe-bland",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1794621833145-WX7VUDZXFWZ050TWRXXW/IMG_20261113_172244.jpg"
+  },
+  {
    "venue": "Mission West",
    "title": "Blue Lemonade",
    "date": "2026-11-22",
@@ -5904,6 +5924,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949114192494"
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Open Mic",
+   "date": "2026-11-23",
+   "time": "17:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/kbr9b8d3f37al43-bwy4f-gp6sr",
+   "price": null,
+   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1582668073069-YBVFQR38CUAJTUZ8TC5Z/IMG-1032.jpg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Brian Blade & The Fellowship Band",
    "date": "2026-11-23",
@@ -5979,9 +6009,9 @@
    "date": "2026-11-25",
    "time": "19:00",
    "url": "https://catalystclub.com/event/blackout-wednesday/the-catalyst-atrium/santa-cruz-california/",
-   "price": "$28.72",
+   "price": "$15.86",
    "info": "Show: 7 pm · Ages 18 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/blackout-wednesday.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/Blackout-Wednesday-Instagram-post-2.png"
   },
   {
    "venue": "Mission West",
@@ -6354,6 +6384,16 @@
    "image": null
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Open Mic",
+   "date": "2026-11-30",
+   "time": "17:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/cz8b24bth5jr757-zjf6j",
+   "price": null,
+   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1582667882624-7EFCIHYF44QAVWLQBHYF/IMG-1043.jpg"
+  },
+  {
    "venue": "The Sand Bar",
    "title": "The Mick Adams Band",
    "date": "2026-11-30",
@@ -6491,7 +6531,7 @@
    "url": "https://www.cafeugly.com/live-music-the-mug/2026/12/3/santa-cruz-sessions",
    "price": "$30",
    "info": "SANTA CRUZ SESSIONS Brock Davis · Michael Schoolcraft · Andy Barr with Amy Merrill ·",
-   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1791674004721-FMJJ36NOZTPPMKKCU416/IMG_1201.jpeg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1794616886092-XAE6ISZPZNIR2M0K5NAO/IMG_1201.jpg"
   },
   {
    "venue": "UCSC Recital Hall",
@@ -6542,6 +6582,16 @@
    "price": "$20+",
    "info": "Peace United Church of Christ, Santa Cruz",
    "image": "https://cdn2.fatsoma.com/media/W1siZiIsInB1YmxpYy8yMDI2LzkvMS8yMC80LzUyLzE1OS9SYWNrTXVsdGlwYXJ0MjAyNjA5MDEtNTQtZGV2ODg3LmpwZyJdXQ"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Santa Cruz Latin Collective",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/santa-cruz-latin-collective-1",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7c28a356f3f21a16de1b3/1794622282826/"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6622,6 +6672,16 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949022844533"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Be Natural",
+   "date": "2026-12-05",
+   "time": "12:00",
+   "url": "https://abbottsquaremarket.com/events/be-natural-1",
+   "price": null,
+   "info": "Youth rock show presented by Be Natural music school.",
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7d6c6767c7133ef3141ab/1794627475371/"
   },
   {
    "venue": "Discretion Brewing",
@@ -6834,6 +6894,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030758115"
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Open Mic",
+   "date": "2026-12-07",
+   "time": "17:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2022/6/13/open-mic-every-monday-530p-730p-es5ay-d8eb8-jgtkl-fd87t-ccm2y-t73ce-6gyyk-bkrk7-cam39-6ce34-hrnfh-28j9k-pxbzd-z9wch-wd48t-2cdsm-6tpa4-9wfyr-d43r6-98tt7-ry9nj-dzrc8-lgzjl-ga6dw-ap2h2-7dk85",
+   "price": null,
+   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1722789587235-IB79P2X684H6Z5SZOK5I/IMG_5575.jpeg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Family Jam",
    "date": "2026-12-07",
@@ -7014,6 +7084,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030753461"
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Adam Scow with MUSAIC- Vijay Pat & Friends",
+   "date": "2026-12-11",
+   "time": "16:30",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/12/11/adam-scow-with-musaic-vijay-pat-amp-friends-fri-1211-7-9p-20adv",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1794614405264-33EMKONUFJO2Z40XET6P/Vijay.jpg"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "Pattie Gilbert & Good Company Trio",
    "date": "2026-12-11",
@@ -7164,14 +7244,14 @@
    "image": "https://static.wixstatic.com/media/cc50de_c4b5d9b89e394f08b57de913a5c0d5d0~mv2.png"
   },
   {
-   "venue": "Abbott Square",
-   "title": "Cooper Street",
+   "venue": "Ugly Mug",
+   "title": "Mbira Dzasoko",
    "date": "2026-12-12",
    "time": "19:00",
-   "url": "https://abbottsquaremarket.com/events/cooper-street",
-   "price": null,
-   "info": "Americana Rock with Soul from the Heart of Santa Cruz",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1794020789789-J7ISKKA3UISV9WRN2SX2/26.11.2+Cooper+Street+-+The+Band.jpg"
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/12/12/music-from-zimbabwe-wsteve-spitalny-sat-1212-7-9p-",
+   "price": "$30",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1794615255464-KVUQ7WJ8Y6PIMNP8M2FI/IMG_1211.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -7314,6 +7394,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949013363990"
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Open Mic",
+   "date": "2026-12-14",
+   "time": "17:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/3w5hyl2zmky48hp-g472b-tjga9-86xwe-6y6lr-t2txs",
+   "price": null,
+   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1659745768360-467A03DN65LT33H00XGW/CEF4DAC8-B6A7-4D4F-ABA4-33DBCBAA8835.jpg"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Twistmas",
    "date": "2026-12-14",
@@ -7384,6 +7474,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792627780569-ZVOR52MQ6GWGZY18DU4R/FEATURES_150909927_AR_0_DQDZXPUFAZPM.webp"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Esperitmo Christmas Jazz",
+   "date": "2026-12-16",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/esperitmo-christmas-jazz",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7db1b356f3f21a16f2988/1794628457998/"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "The Messiahs",
    "date": "2026-12-17",
@@ -7422,6 +7522,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/skylar-tang-cropped.jpg"
+  },
+  {
+   "venue": "Ugly Mug",
+   "title": "The Josefina Show",
+   "date": "2026-12-17",
+   "time": "19:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/2026/12/17/the-josefina-show-thu-1217-7-10p-15",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1794616165804-VU0R04X09WHRQTQP6T7O/IMG_4588.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -7534,6 +7644,16 @@
    "image": null
   },
   {
+   "venue": "Abbott Square",
+   "title": "Cooper Street",
+   "date": "2026-12-19",
+   "time": "19:00",
+   "url": "https://abbottsquaremarket.com/events/cooper-street",
+   "price": null,
+   "info": "Americana Rock with Soul from the Heart of Santa Cruz",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1794020789789-J7ISKKA3UISV9WRN2SX2/26.11.2+Cooper+Street+-+The+Band.jpg"
+  },
+  {
    "venue": "Catalyst Main Room",
    "title": "Surf City Line Dance",
    "date": "2026-12-19",
@@ -7584,6 +7704,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949044620172"
   },
   {
+   "venue": "Abbott Square",
+   "title": "Joe Ferrara",
+   "date": "2026-12-20",
+   "time": "13:00",
+   "url": "https://abbottsquaremarket.com/events/joe-ferrara-2",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1794628868805-LINC48A84J7CNV1UMKOL/JOE+Ferrara+SANTA.jpg"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "The Jenny O’Leary Quartet",
    "date": "2026-12-20",
@@ -7614,6 +7744,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750961827298-O6CCNCUL1A6R165270T7/thumbnail_Image.jpg"
   },
   {
+   "venue": "Ugly Mug",
+   "title": "Open Mic",
+   "date": "2026-12-21",
+   "time": "17:00",
+   "url": "https://www.cafeugly.com/live-music-the-mug/r35yjjw7te9s24c-gfwlm-ak9cb-34t2f",
+   "price": null,
+   "info": "Every Monday, Soquel Comes Alive At 5 with Ugly Mug Soquel’s Open Mic!",
+   "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1687974432968-UXVWZ4SD8RFRFP3FNL2M/IMG_9633.jpeg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Jazz On The Rocks",
    "date": "2026-12-22",
@@ -7632,6 +7772,16 @@
    "price": null,
    "info": "Live Music 3-5pm",
    "image": null
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "Salsa by The Sea Afterparty",
+   "date": "2026-12-27",
+   "time": "18:00",
+   "url": "https://abbottsquaremarket.com/events/salsa-by-the-sea-afterparty-1-jb89k-k8j3p-5ace6-sm7rs-4mczx-a32r8-lnga8-hej4b",
+   "price": null,
+   "info": "Every Sunday evening join us for the Salsa by The Sea Afterparty. Featuring various local DJ’s.",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1784240509849-9RBB9NH064NG89YFZUSN/IMG_20260716_151753.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -7792,6 +7942,16 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948960889862"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Mark Karan's Budz",
+   "date": "2027-01-09",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/mark-karans-budz-saturday-january-9-8pm-20",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794607942627-GYCOQ3YF7KJC6FBRJSHO/https___cdn.evbuc.com_images_1190944867_305622612882_1_original.jpg"
   },
   {
    "venue": "The Crepe Place",
@@ -8871,7 +9031,7 @@
    "url": "https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium/santa-cruz-california/",
    "price": "$45.95",
    "info": "Doors: 7:30 pm Show: 8:30 pm · All Ages",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-lemonheads-the-love-chant-tour.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-lemonheads-the-love-chant-tour-1.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -9192,6 +9352,46 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/trio-mandili-cropped.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Spring Opera—A Gentleman’s Guide to Love and Murder",
+   "date": "2027-05-27",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/spring-opera-2027/2027-05-27/",
+   "price": null,
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Spotlight-gold-GettyImages-1409481113.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Spring Opera—A Gentleman’s Guide to Love and Murder",
+   "date": "2027-05-28",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/spring-opera-2027/2027-05-28/",
+   "price": null,
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Spotlight-gold-GettyImages-1409481113.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Spring Opera—A Gentleman’s Guide to Love and Murder",
+   "date": "2027-05-29",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/spring-opera-2027/2027-05-29/",
+   "price": null,
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Spotlight-gold-GettyImages-1409481113.jpg"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Spring Opera—A Gentleman’s Guide to Love and Murder",
+   "date": "2027-05-30",
+   "time": "15:00",
+   "url": "https://events.ucsc.edu/event/spring-opera-2027/2027-05-30/",
+   "price": null,
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Spotlight-gold-GettyImages-1409481113.jpg"
   },
   {
    "venue": "Santa Cruz Symphony",
