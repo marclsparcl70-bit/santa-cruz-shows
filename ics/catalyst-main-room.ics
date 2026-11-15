@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:4065b9d4fe6d8751d6e7@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261001T210000
 DTEND;TZID=America/Los_Angeles:20261002T000000
 SUMMARY:Steel Pulse – Reggae Against Racism Tour @ Catalyst Main Room
@@ -39,7 +39,7 @@ URL:https://catalystclub.com/event/steel-pulse-reggae-against-racism-tour/
 END:VEVENT
 BEGIN:VEVENT
 UID:fdbaf12bbf9cfa4d1426@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261002T210000
 DTEND;TZID=America/Los_Angeles:20261003T000000
 SUMMARY:Twin Temple @ Catalyst Main Room
@@ -51,7 +51,7 @@ URL:https://catalystclub.com/event/twin-temple/the-catalyst/santa-cruz-cal
 END:VEVENT
 BEGIN:VEVENT
 UID:91acd1d1edeb31b54756@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261009T210000
 DTEND;TZID=America/Los_Angeles:20261010T000000
 SUMMARY:It’s a 2000’s Party: Santa Cruz @ Catalyst Main Room
@@ -64,7 +64,7 @@ URL:https://catalystclub.com/event/its-a-2000s-party-santa-cruz-4/the-cata
 END:VEVENT
 BEGIN:VEVENT
 UID:f0a1bbc068829a74fc28@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261010T210000
 DTEND;TZID=America/Los_Angeles:20261011T000000
 SUMMARY:DOMi & JD BECK – WHO ASKED? Tour @ Catalyst Main Room
@@ -76,7 +76,7 @@ URL:https://catalystclub.com/event/domi-jd-beck-who-asked-tour/the-catalys
 END:VEVENT
 BEGIN:VEVENT
 UID:ae1b8f29be0f412fd29a@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261016T210000
 DTEND;TZID=America/Los_Angeles:20261017T000000
 SUMMARY:XAVIER WULF PRESENTS: THE COOL WORLD TOUR @ Catalyst Main Room
@@ -89,7 +89,7 @@ URL:https://catalystclub.com/event/xavier-wulf-presents-the-cool-world-tou
 END:VEVENT
 BEGIN:VEVENT
 UID:6e99b96b86d551f1dc0a@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261017T200000
 DTEND;TZID=America/Los_Angeles:20261017T230000
 SUMMARY:The Floozies @ Catalyst Main Room
@@ -102,7 +102,7 @@ URL:https://catalystclub.com/event/the-floozies/the-catalyst/santa-cruz-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:749cb1279c82df8363d1@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261019T200000
 DTEND;TZID=America/Los_Angeles:20261019T230000
 SUMMARY:Last Dinosaurs @ Catalyst Main Room
@@ -115,7 +115,7 @@ URL:https://catalystclub.com/event/last-dinosaurs/the-catalyst/santa-cruz-
 END:VEVENT
 BEGIN:VEVENT
 UID:36949e1dad3191909ca7@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261024T190000
 DTEND;TZID=America/Los_Angeles:20261024T220000
 SUMMARY:Surf City Line Dance with Live Music from Barnstormer @ Catalyst M
@@ -129,7 +129,7 @@ URL:https://catalystclub.com/event/surf-city-line-dance-with-live-music-fr
 END:VEVENT
 BEGIN:VEVENT
 UID:5efcafa713f82061153f@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261030T190000
 DTEND;TZID=America/Los_Angeles:20261030T220000
 SUMMARY:SILOCIN\, EMPIRE GRADE\, BURNOUT\, UNIVERSE\, GAVIN TURNER & JADED
@@ -143,7 +143,7 @@ URL:https://catalystclub.com/event/silocin-empire-grade-burnout-universe-g
 END:VEVENT
 BEGIN:VEVENT
 UID:bf0e25b3e561800ba709@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261031T190000
 DTEND;TZID=America/Los_Angeles:20261031T220000
 SUMMARY:RAVE AT THE GRAVE @ Catalyst Main Room
@@ -155,7 +155,7 @@ URL:https://catalystclub.com/event/rave-at-the-grave/the-catalyst/santa-cr
 END:VEVENT
 BEGIN:VEVENT
 UID:ad3b690bfa13696d050d@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261113T210000
 DTEND;TZID=America/Los_Angeles:20261114T000000
 SUMMARY:Andre Nickatina **Rescheduled from 6/27** @ Catalyst Main Room
@@ -168,7 +168,7 @@ URL:https://catalystclub.com/event/andre-nickatina-rescheduled-from-6-27/t
 END:VEVENT
 BEGIN:VEVENT
 UID:a1c33227cd10a0344793@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261114T200000
 DTEND;TZID=America/Los_Angeles:20261114T230000
 SUMMARY:ISAIAH RASHAD M&G + VIP UPGRADES @ Catalyst Main Room
@@ -181,7 +181,7 @@ URL:https://catalystclub.com/event/isaiah-rashad-mg-vip-upgrades/the-catal
 END:VEVENT
 BEGIN:VEVENT
 UID:94513f2653510bd35de8@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261114T200000
 DTEND;TZID=America/Los_Angeles:20261114T230000
 SUMMARY:ISAIAH RASHAD: Lil Sunny’s Awful Road Trip @ Catalyst Main Room
@@ -194,84 +194,89 @@ URL:https://catalystclub.com/event/isaiah-rashad-lil-sunnys-awful-road-tri
 END:VEVENT
 BEGIN:VEVENT
 UID:4449310e3b4bef2e726a@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261115T210000
 DTEND;TZID=America/Los_Angeles:20261116T000000
 SUMMARY:THE CALIFORNIA HONEYDROPS – SWEET LIKE THAT TOUR 2026 @ Catalyst
   Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:$45.95 to $55.08\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nht
- tps://catalystclub.com/event/the-california-honeydrops-sweet-like-that-to
- ur-2026/the-catalyst/santa-cruz-california/
+DESCRIPTION:$63.08\nThe Sweet Like That Tour | A Night of Soul\, Funk\, Bl
+ ues & Nonstop Dancing · Doors: 8 pm Show: 9 pm · Ages 16 and up\nhttps:
+ //catalystclub.com/event/the-california-honeydrops-sweet-like-that-tour-2
+ 026/the-catalyst/santa-cruz-california/
 URL:https://catalystclub.com/event/the-california-honeydrops-sweet-like-th
  at-tour-2026/the-catalyst/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:395dad69c8e0672f49ae@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261118T193000
 DTEND;TZID=America/Los_Angeles:20261118T223000
 SUMMARY:As I Lay Dying @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:$40.02 to $45.41\nDoors: 6:30 pm Show: 7:30 pm · Ages 16 and 
- up\nhttps://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz
- -california/
+DESCRIPTION:$40.02 to $45.41\nMetalcore Heavyweights As I Lay Dying with S
+ pecial Guests The Curse Within for One Crushing Night of Metal · Doors: 
+ 6:30 pm Show: 7:30…\nhttps://catalystclub.com/event/as-i-lay-dying/the-
+ catalyst/santa-cruz-california/
 URL:https://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz-
  california/
 END:VEVENT
 BEGIN:VEVENT
 UID:cf50054aff749070d852@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261121T190000
 DTEND;TZID=America/Los_Angeles:20261121T220000
 SUMMARY:Surf City Line Dance @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:Show: 7 pm\nhttps://catalystclub.com/event/surf-city-line-danc
+DESCRIPTION:Grab Your Boots! Beginner Lessons\, Country Music & Dancing Al
+ l Night · Show: 7 pm\nhttps://catalystclub.com/event/surf-city-line-danc
  e-2/
 URL:https://catalystclub.com/event/surf-city-line-dance-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:cc36224cad9dc1aabf8a@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261127T200000
 DTEND;TZID=America/Los_Angeles:20261127T230000
 SUMMARY:Jackie Greene with Tim Bluhm (Mother Hips) @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:$40.55\nDoors: 7 pm Show: 8 pm · Ages 16 and up\nhttps://cata
- lystclub.com/event/jackie-greene-with-tim-bluhm-mother-hips/the-catalyst/
- santa-cruz-california/
+DESCRIPTION:$40.55\nA Special Night of Americana & Roots Rock · Doors: 7 
+ pm Show: 8 pm · Ages 16 and up\nhttps://catalystclub.com/event/jackie-gr
+ eene-with-tim-bluhm-mother-hips/the-catalyst/santa-cruz-california/
 URL:https://catalystclub.com/event/jackie-greene-with-tim-bluhm-mother-hip
  s/the-catalyst/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
-UID:8a1bc7f6e189ffc748d1@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+UID:1f856d0e0efe0ba8d6cb@santa-cruz-shows
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261128T200000
 DTEND;TZID=America/Los_Angeles:20261128T230000
-SUMMARY:DON CARLOS & JUNIOR TOOTS @ Catalyst Main Room
+SUMMARY:DON CARLOS & JUNIOR TOOTS with PACIFIC ROOTS @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:$57.78\nDoors: 7 pm Show: 8 pm · Ages 16 and up\nhttps://cata
- lystclub.com/event/don-carlos-junior-toots/the-catalyst/santa-cruz-califo
- rnia/
-URL:https://catalystclub.com/event/don-carlos-junior-toots/the-catalyst/sa
- nta-cruz-california/
+DESCRIPTION:$57.78\nA Night of Legendary Roots Reggae with Don Carlos\, Ju
+ nior Toots & Santa Cruz Favorites Pacific Roots · Doors: 7 pm Show: 8 pm
+  · Ages 16…\nhttps://catalystclub.com/event/don-carlos-junior-toots-wi
+ th-pacific-roots/the-catalyst/santa-cruz-california/
+URL:https://catalystclub.com/event/don-carlos-junior-toots-with-pacific-ro
+ ots/the-catalyst/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
-UID:3a80ccc8b89dd79437ae@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+UID:efeb97165e77b2eb4f8c@santa-cruz-shows
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261204T203000
 DTEND;TZID=America/Los_Angeles:20261204T233000
-SUMMARY:Micro Mania Midget Wrestling @ Catalyst Main Room
+SUMMARY:MicroMania Midget Wrestling @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:$34.12 to $105.10\nDoors: 7:30 pm Show: 8:30 pm · Ages 16 and
-  up\nhttps://catalystclub.com/event/micro-mania-midget-wrestling-6/the-ca
- talyst/santa-cruz-california/
-URL:https://catalystclub.com/event/micro-mania-midget-wrestling-6/the-cata
- lyst/santa-cruz-california/
+DESCRIPTION:$34.12 to $105.10\nThe Biggest Little Show in America Returns 
+ for a Wild Holiday Wrestling Showdown! · Doors: 7:30 pm Show: 8:30 pm ·
+  Ages 16 and up\nhttps://catalystclub.com/event/micromania-midget-wrestli
+ ng/the-catalyst/santa-cruz-california/
+URL:https://catalystclub.com/event/micromania-midget-wrestling/the-catalys
+ t/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:f78965fcc922f7b6fc8e@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261205T200000
 DTEND;TZID=America/Los_Angeles:20261205T230000
 SUMMARY:The Expendables @ Catalyst Main Room
@@ -283,44 +288,47 @@ URL:https://catalystclub.com/event/the-expendables-3/the-catalyst/santa-cr
 END:VEVENT
 BEGIN:VEVENT
 UID:1fe61cb464d534798160@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261211T210000
 DTEND;TZID=America/Los_Angeles:20261212T000000
 SUMMARY:Ski Mask the Slump God @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:$57.78 to $198.96\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nh
- ttps://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/santa
- -cruz-california/
+DESCRIPTION:$57.78 to $198.96\nLightning-Fast Flows\, Heavy Beats & an Exp
+ losive Night of Hip-Hop · Doors: 8 pm Show: 9 pm · Ages 16 and up\nhttp
+ s://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/santa-cr
+ uz-california/
 URL:https://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/s
  anta-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:75adb7c7a854c34f9dd4@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261212T210000
 DTEND;TZID=America/Los_Angeles:20261213T000000
 SUMMARY:How The Grouch Stole Christmas Tour @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:$34.12 to $51.85\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nht
- tps://catalystclub.com/event/how-the-grouch-stole-christmas-tour/the-cata
- lyst/santa-cruz-california/
+DESCRIPTION:$34.12 to $51.85\nThe Grouch & Eligh with Brother Ali and Lyri
+ cs Born | A Holiday Celebration of Underground Hip-Hop · Doors: 8 pm Sho
+ w: 9 pm · Ages 16 and up\nhttps://catalystclub.com/event/how-the-grouch-
+ stole-christmas-tour/the-catalyst/santa-cruz-california/
 URL:https://catalystclub.com/event/how-the-grouch-stole-christmas-tour/the
  -catalyst/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:68d73e8c51d5a1617919@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261219T190000
 DTEND;TZID=America/Los_Angeles:20261219T220000
 SUMMARY:Surf City Line Dance @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:Show: 7 pm\nhttps://catalystclub.com/event/surf-city-line-danc
+DESCRIPTION:Grab Your Boots! Beginner Lessons\, Country Music & Dancing Al
+ l Night · Show: 7 pm\nhttps://catalystclub.com/event/surf-city-line-danc
  e-3/
 URL:https://catalystclub.com/event/surf-city-line-dance-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:26873d7ac5a28f8ce542@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20270115T210000
 DTEND;TZID=America/Los_Angeles:20270116T000000
 SUMMARY:2000’s Rave @ Catalyst Main Room
@@ -332,26 +340,28 @@ URL:https://catalystclub.com/event/2000s-rave-2/the-catalyst/santa-cruz-ca
 END:VEVENT
 BEGIN:VEVENT
 UID:542a844a5e2a5867935d@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20270116T190000
 DTEND;TZID=America/Los_Angeles:20270116T220000
 SUMMARY:Surf City Line Dance @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:Show: 7 pm\nhttps://catalystclub.com/event/surf-city-line-danc
- e-4/the-catalyst/santa-cruz-california/
+DESCRIPTION:Grab Your Boots! Beginner Line Dance Lessons Followed by a Nig
+ ht of Country Music & Dancing · Show: 7 pm\nhttps://catalystclub.com/eve
+ nt/surf-city-line-dance-4/the-catalyst/santa-cruz-california/
 URL:https://catalystclub.com/event/surf-city-line-dance-4/the-catalyst/san
  ta-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:f8f1bc246d22d5a45be2@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20270205T210000
 DTEND;TZID=America/Los_Angeles:20270206T000000
 SUMMARY:Little Stranger: Broken Hearted Boys Tour @ Catalyst Main Room
 LOCATION:Catalyst Main Room
-DESCRIPTION:$44.79 to $158.92\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nh
- ttps://catalystclub.com/event/little-stranger-broken-hearted-boys-tour/th
- e-catalyst/santa-cruz-california/
+DESCRIPTION:$44.79 to $158.92\nBroken Hearted Boys Tour with Shwayze & Dam
+ n Skippy | Hip-Hop\, Reggae & Funk · Doors: 8 pm Show: 9 pm · Ages 16 a
+ nd up\nhttps://catalystclub.com/event/little-stranger-broken-hearted-boys
+ -tour/the-catalyst/santa-cruz-california/
 URL:https://catalystclub.com/event/little-stranger-broken-hearted-boys-tou
  r/the-catalyst/santa-cruz-california/
 END:VEVENT

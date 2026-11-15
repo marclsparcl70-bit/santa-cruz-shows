@@ -1,30 +1,30 @@
 {
- "updated": "2026-11-14T10:58-08:00",
+ "updated": "2026-11-15T11:37-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 89
+   "count": 92
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 64
+   "count": 63
   },
   {
    "venue": "Cat Alley Street",
@@ -34,37 +34,37 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 57
+   "count": 56
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 27
+   "count": 26
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 11
+   "count": 12
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 11
+   "count": 9
   },
   {
    "venue": "UCSC Recital Hall",
@@ -79,7 +79,7 @@
   {
    "venue": "Santa Cruz Symphony",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "venue": "Bruno's Bar & Grill",
@@ -89,22 +89,22 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 14
+   "count": 16
   },
   {
    "venue": "Lumos Candlelight",
@@ -5209,8 +5209,8 @@
    "date": "2026-11-15",
    "time": "21:00",
    "url": "https://catalystclub.com/event/the-california-honeydrops-sweet-like-that-tour-2026/the-catalyst/santa-cruz-california/",
-   "price": "$45.95 to $55.08",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "price": "$63.08",
+   "info": "The Sweet Like That Tour | A Night of Soul, Funk, Blues & Nonstop Dancing · Doors: 8 pm Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/07/11-15-26_CaliforniaHoneydrops_11x17-1-scaled.jpg"
   },
   {
@@ -5219,7 +5219,7 @@
    "date": "2026-11-15",
    "time": null,
    "url": "https://www.prekindle.com/event/47511-the-cactus-blossoms-felton",
-   "price": "$22",
+   "price": "$30",
    "info": "with Margo Cilker",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949099798287"
   },
@@ -5400,8 +5400,8 @@
    "time": "19:30",
    "url": "https://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz-california/",
    "price": "$40.02 to $45.41",
-   "info": "Doors: 6:30 pm Show: 7:30 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/06/as-i-lay-dying.jfif"
+   "info": "Metalcore Heavyweights As I Lay Dying with Special Guests The Curse Within for One Crushing Night of Metal · Doors: 6:30 pm Show: 7:30…",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/as-i-lay-dying.jpeg"
   },
   {
    "venue": "Moe's Alley",
@@ -5710,8 +5710,8 @@
    "time": "19:00",
    "url": "https://catalystclub.com/event/surf-city-line-dance-2/",
    "price": null,
-   "info": "Show: 7 pm",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/NOV.png"
+   "info": "Grab Your Boots! Beginner Lessons, Country Music & Dancing All Night · Show: 7 pm",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/Saturday-November-21-4.png"
   },
   {
    "venue": "Mission West",
@@ -6005,10 +6005,10 @@
   },
   {
    "venue": "Catalyst Atrium",
-   "title": "BLACKOUT WEDNESDAY",
+   "title": "BLACKOUT WEDNESDAY with DJ SARDINE",
    "date": "2026-11-25",
    "time": "19:00",
-   "url": "https://catalystclub.com/event/blackout-wednesday/the-catalyst-atrium/santa-cruz-california/",
+   "url": "https://catalystclub.com/event/blackout-wednesday-with-dj-sardine/the-catalyst-atrium/santa-cruz-california/",
    "price": "$15.86",
    "info": "Show: 7 pm · Ages 18 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/Blackout-Wednesday-Instagram-post-2.png"
@@ -6101,7 +6101,7 @@
    "url": "https://www.thecrepeplace.com/shows-list/the-last-waltz-fifty-year-soiree-friday-november-27-from-6-to-9pm-on-the-garden-stage-20",
    "price": "$10",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793129863225-IW8SXJI231V2GMA2JCEM/the-last-waltz.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794685089321-XSS95NHRV5I1IP9WMBF8/IMG_3622.jpg"
   },
   {
    "venue": "Mission West",
@@ -6120,7 +6120,7 @@
    "time": "20:00",
    "url": "https://catalystclub.com/event/jackie-greene-with-tim-bluhm-mother-hips/the-catalyst/santa-cruz-california/",
    "price": "$40.55",
-   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "info": "A Special Night of Americana & Roots Rock · Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/jackie-greene.jpeg"
   },
   {
@@ -6245,12 +6245,12 @@
   },
   {
    "venue": "Catalyst Main Room",
-   "title": "DON CARLOS & JUNIOR TOOTS",
+   "title": "DON CARLOS & JUNIOR TOOTS with PACIFIC ROOTS",
    "date": "2026-11-28",
    "time": "20:00",
-   "url": "https://catalystclub.com/event/don-carlos-junior-toots/the-catalyst/santa-cruz-california/",
+   "url": "https://catalystclub.com/event/don-carlos-junior-toots-with-pacific-roots/the-catalyst/santa-cruz-california/",
    "price": "$57.78",
-   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "info": "A Night of Legendary Roots Reggae with Don Carlos, Junior Toots & Santa Cruz Favorites Pacific Roots · Doors: 7 pm Show: 8 pm · Ages 16…",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/DonCarlosLineup-1.png"
   },
   {
@@ -6571,7 +6571,7 @@
    "url": "https://reservations.elvaquerowinery.com/events/6af5024d06c5d47238ad22eb",
    "price": "$10",
    "info": "Tex Mex Cumbia · Food: TBS",
-   "image": ""
+   "image": "https://static.wixstatic.com/media/cc50de_54faf6d08a61484ebe3d19319d42e108~mv2.png"
   },
   {
    "venue": "Lumos Candlelight",
@@ -6635,13 +6635,13 @@
   },
   {
    "venue": "Catalyst Main Room",
-   "title": "Micro Mania Midget Wrestling",
+   "title": "MicroMania Midget Wrestling",
    "date": "2026-12-04",
    "time": "20:30",
-   "url": "https://catalystclub.com/event/micro-mania-midget-wrestling-6/the-catalyst/santa-cruz-california/",
+   "url": "https://catalystclub.com/event/micromania-midget-wrestling/the-catalyst/santa-cruz-california/",
    "price": "$34.12 to $105.10",
-   "info": "Doors: 7:30 pm Show: 8:30 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/858995057_1716318600054610_1529837779530005776_n.jpg"
+   "info": "The Biggest Little Show in America Returns for a Wild Holiday Wrestling Showdown! · Doors: 7:30 pm Show: 8:30 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/micromania-midget-wrestling.jpeg"
   },
   {
    "venue": "Catalyst Atrium",
@@ -6854,6 +6854,16 @@
    "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/trumpet-players-GettyImages-817616438-1-scaled.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "The Messiahs",
+   "date": "2026-12-06",
+   "time": "16:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/the-messiahs-19",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Woodhouse",
    "title": "Horse Feathers",
    "date": "2026-12-06",
@@ -6905,13 +6915,13 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Family Jam",
+   "title": "Christmas Banditos Jamboree",
    "date": "2026-12-07",
    "time": "18:00",
    "url": "https://www.thecrepeplace.com/shows-list/family-jam-monday-march-16-from-6-9pm-free",
    "price": "FREE",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1773345282683-82CHMDIUQGOTGH43NPJM/5AB28C2B-61B6-4812-A331-6081109B27C2.JPG"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794685059374-3NNA9KY1RONOKVE5ALIG/IMG_0263.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -7200,7 +7210,7 @@
    "time": "21:00",
    "url": "https://catalystclub.com/event/ski-mask-the-slump-god-2/the-catalyst/santa-cruz-california/",
    "price": "$57.78 to $198.96",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "info": "Lightning-Fast Flows, Heavy Beats & an Explosive Night of Hip-Hop · Doors: 8 pm Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/ski-mask-the-slump-god-1.jpeg"
   },
   {
@@ -7244,6 +7254,16 @@
    "image": "https://static.wixstatic.com/media/cc50de_c4b5d9b89e394f08b57de913a5c0d5d0~mv2.png"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Shawn and Matt",
+   "date": "2026-12-12",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/shawn-and-matt-2026-12-12-18-00-1",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Ugly Mug",
    "title": "Mbira Dzasoko",
    "date": "2026-12-12",
@@ -7280,7 +7300,7 @@
    "time": "21:00",
    "url": "https://catalystclub.com/event/how-the-grouch-stole-christmas-tour/the-catalyst/santa-cruz-california/",
    "price": "$34.12 to $51.85",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "info": "The Grouch & Eligh with Brother Ali and Lyrics Born | A Holiday Celebration of Underground Hip-Hop · Doors: 8 pm Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/how-the-grouch-stole-christmas-tour.jpeg"
   },
   {
@@ -7585,7 +7605,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Pete Sawyer And The Left Hand Monkey Wrench Gang",
+   "title": "No Brainer Productions Presents: Pete Sawyer And The Left Hand Monkey Wrench Gang",
    "date": "2026-12-18",
    "time": "19:00",
    "url": "https://www.ticketweb.com/event/pete-sawyer-and-the-left-the-crepe-place-tickets/14422594?pl=thecrepeplace",
@@ -7600,8 +7620,8 @@
    "time": "20:00",
    "url": "https://catalystclub.com/event/starcrawler-with-sluttony/the-catalyst-atrium/santa-cruz-california/",
    "price": "$28.72",
-   "info": "Doors: 7:30 pm Show: 8 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/starcrawler.jpeg"
+   "info": "Explosive LA Rock Meets Santa Cruz Punk & Grunge for One Wild Night · Doors: 7:30 pm Show: 8 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/starcrawler-with-sluttony.jpeg"
   },
   {
    "venue": "Moe's Alley",
@@ -7644,6 +7664,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Jeffrey Halford and the Healers",
+   "date": "2026-12-19",
+   "time": "17:30",
+   "url": "https://reservations.elvaquerowinery.com/events/6af5027806c5d47238ad22ec",
+   "price": "$10",
+   "info": "Originals",
+   "image": ""
+  },
+  {
    "venue": "Abbott Square",
    "title": "Cooper Street",
    "date": "2026-12-19",
@@ -7660,8 +7690,8 @@
    "time": "19:00",
    "url": "https://catalystclub.com/event/surf-city-line-dance-3/",
    "price": null,
-   "info": "Show: 7 pm",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/dec.png"
+   "info": "Grab Your Boots! Beginner Lessons, Country Music & Dancing All Night · Show: 7 pm",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/Saturday-November-21-5.png"
   },
   {
    "venue": "Moe's Alley",
@@ -7724,6 +7754,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Big Bad Wolf",
+   "date": "2026-12-20",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6af502970634c35167ad22e8",
+   "price": "$10",
+   "info": "Party ",
+   "image": "https://static.wixstatic.com/media/cc50de_dbeed99ccaa74a2ab5d4e46c6921794c~mv2.png"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Salsa by The Sea Afterparty",
    "date": "2026-12-20",
@@ -7774,6 +7814,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Joint Chiefs Early New Years Party!",
+   "date": "2026-12-27",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6af502c106c5d47238ad22ed",
+   "price": "$10",
+   "info": "Funk, Fun!",
+   "image": "https://static.wixstatic.com/media/cc50de_c0d24b01dc3b468da85e5ceafe30c034~mv2.png"
+  },
+  {
    "venue": "Abbott Square",
    "title": "Salsa by The Sea Afterparty",
    "date": "2026-12-27",
@@ -7792,6 +7842,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750956058933-0WQWBOWAAAPPTY4WDXGY/thumbnail_Image.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Open Mic",
+   "date": "2026-12-28",
+   "time": "19:00",
+   "url": "https://www.thecrepeplace.com/shows-list/open-mic",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789227458233-X7UUCNOB8294YXZQV25F/1781562597006_123_1.webp"
   },
   {
    "venue": "The Crepe Place",
@@ -7915,6 +7975,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "JAZZ THE DOG, In the Garden, 5:30 to",
+   "date": "2027-01-05",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/jazz-the-dog-dinner-show-jlmp3",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782920950974-FYLH0R5WT8YK9TKAMLLB/394946073_10226430426039449_7643824922107314814_n.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "(((folkYEAH))) Presents: THE LOVED ONES",
    "date": "2027-01-08",
    "time": "19:00",
@@ -7945,10 +8015,10 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Mark Karan's Budz",
+   "title": "No Brainer Productions Presents: Mark Karan's Buds",
    "date": "2027-01-09",
    "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/mark-karans-budz-saturday-january-9-8pm-20",
+   "url": "https://www.ticketweb.com/event/mark-karans-buds-the-crepe-place-tickets/14448604?pl=thecrepeplace",
    "price": "$20",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794607942627-GYCOQ3YF7KJC6FBRJSHO/https___cdn.evbuc.com_images_1190944867_305622612882_1_original.jpg"
@@ -7982,6 +8052,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Nora-Brown-and-Stephanie-Coleman-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Jazz On The Rocks",
+   "date": "2027-01-12",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/jazz-on-the-rocks-july-22-530-to-730pm-in-the-garden-free",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1748373195041-Q16RK3BHVG5883FSP0I6/Screenshot%2B2025-01-13%2Bat%2B11.52.46%E2%80%AFAM.png"
   },
   {
    "venue": "The Crepe Place",
@@ -8051,7 +8131,7 @@
    "url": "https://catalystclub.com/event/2000s-rave-2/the-catalyst/santa-cruz-california/",
    "price": "$21.26 to $26.56",
    "info": "Show: 9 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/2000s-rave.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/2000s-rave.jpeg"
   },
   {
    "venue": "Moe's Alley",
@@ -8080,8 +8160,8 @@
    "time": "19:00",
    "url": "https://catalystclub.com/event/surf-city-line-dance-4/the-catalyst/santa-cruz-california/",
    "price": null,
-   "info": "Show: 7 pm",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/jan.png"
+   "info": "Grab Your Boots! Beginner Line Dance Lessons Followed by a Night of Country Music & Dancing · Show: 7 pm",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/Saturday-November-21-6.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8172,6 +8252,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792914381017-Z4QNVNQ50ST72QVKSOES/0036002066_25.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Bob O'Neill's Absent Minds",
+   "date": "2027-01-21",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/bob-oneills-absent-minds-thursday-july-2-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781648509301-N9RLBNRS7J0XO5ZRALHB/IMG_5716.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8365,12 +8455,12 @@
   },
   {
    "venue": "Catalyst Atrium",
-   "title": "Youth Fountain",
+   "title": "Youth Fountain with Relate",
    "date": "2027-01-27",
    "time": "20:00",
-   "url": "https://catalystclub.com/event/youth-fountain/the-catalyst-atrium/santa-cruz-california/",
+   "url": "https://catalystclub.com/event/youth-fountain-with-relate/the-catalyst-atrium/santa-cruz-california/",
    "price": "$28.72",
-   "info": "Show: 8 pm · All Ages",
+   "info": "With Special Guest Relate | An Explosive Night of Emo, Pop-Punk & Melodic Hardcore · Show: 8 pm · All Ages",
    "image": "https://catalystclub.com/wp-content/uploads/2026/09/youth-fountain.jpeg"
   },
   {
@@ -8530,7 +8620,7 @@
    "time": "21:00",
    "url": "https://catalystclub.com/event/little-stranger-broken-hearted-boys-tour/the-catalyst/santa-cruz-california/",
    "price": "$44.79 to $158.92",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "info": "Broken Hearted Boys Tour with Shwayze & Damn Skippy | Hip-Hop, Reggae & Funk · Doors: 8 pm Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/little-stranger.jpeg"
   },
   {
@@ -8860,7 +8950,7 @@
    "time": "21:00",
    "url": "https://catalystclub.com/event/girl-ultra-el-tour-de-rrromeo/the-catalyst-atrium/santa-cruz-california/",
    "price": "$30.88",
-   "info": "Doors: 8 pm Show: 9 pm · Ages 16 and up",
+   "info": "el Tour de RRRomeo | Latin R&B, Indie Pop & Electrifying Late-Night Grooves · Doors: 8 pm Show: 9 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/girl-ultra-el-tour-de-rrromeo.jpeg"
   },
   {
@@ -8990,7 +9080,7 @@
    "time": "20:30",
    "url": "https://catalystclub.com/event/tommy-lefroy-with-al-olender/the-catalyst-atrium/santa-cruz-california/",
    "price": "$28.72",
-   "info": "Show: 8:30 pm · Ages 16 and up",
+   "info": "Dreamy Indie Rock, Captivating Harmonies & Heartfelt Songwriting · Show: 8:30 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/10/tommy-lefroy-with-al-olender.jpeg"
   },
   {
@@ -9030,7 +9120,7 @@
    "time": "20:30",
    "url": "https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium/santa-cruz-california/",
    "price": "$45.95",
-   "info": "Doors: 7:30 pm Show: 8:30 pm · All Ages",
+   "info": "The Love Chant Tour | '90s Alternative Rock Classics, Timeless Hits & New Music · Doors: 7:30 pm Show: 8:30 pm · All Ages",
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-lemonheads-the-love-chant-tour-1.jpeg"
   },
   {

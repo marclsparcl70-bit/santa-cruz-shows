@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:65ccd89f2442d63d570f@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T120000
 SUMMARY:LUMINARIUM.IO PACIFICA @ Catalyst Atrium
@@ -39,7 +39,7 @@ URL:https://catalystclub.com/event/live-in-the-atrium-luminarium-io-pacifi
 END:VEVENT
 BEGIN:VEVENT
 UID:95dbca50584e7312b704@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T220000
 SUMMARY:BITE ME (in the atrium) @ Catalyst Atrium
@@ -51,7 +51,7 @@ URL:https://catalystclub.com/event/bite-me-in-the-atrium/the-catalyst-atri
 END:VEVENT
 BEGIN:VEVENT
 UID:0bd992e910b2e663a257@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261121T193000
 DTEND;TZID=America/Los_Angeles:20261121T223000
 SUMMARY:WAVY TRAIN feat. Donald Glaude + Friends @ Catalyst Atrium
@@ -63,20 +63,21 @@ URL:https://catalystclub.com/event/wavy-train-feat-donald-glaude-friends/t
  he-catalyst-atrium/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
-UID:78b0a999c487a7180d78@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+UID:272e4ca907041c5ceb5a@santa-cruz-shows
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261125T190000
 DTEND;TZID=America/Los_Angeles:20261125T220000
-SUMMARY:BLACKOUT WEDNESDAY @ Catalyst Atrium
+SUMMARY:BLACKOUT WEDNESDAY with DJ SARDINE @ Catalyst Atrium
 LOCATION:Catalyst Atrium
 DESCRIPTION:$15.86\nShow: 7 pm · Ages 18 and up\nhttps://catalystclub.com
- /event/blackout-wednesday/the-catalyst-atrium/santa-cruz-california/
-URL:https://catalystclub.com/event/blackout-wednesday/the-catalyst-atrium/
- santa-cruz-california/
+ /event/blackout-wednesday-with-dj-sardine/the-catalyst-atrium/santa-cruz-
+ california/
+URL:https://catalystclub.com/event/blackout-wednesday-with-dj-sardine/the-
+ catalyst-atrium/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:a2b974e103bd5e7d6352@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261204T210000
 DTEND;TZID=America/Los_Angeles:20261205T000000
 SUMMARY:BALD & BOUJEE (PITBULL THEMED Y2K NIGHT) @ Catalyst Atrium
@@ -89,7 +90,7 @@ URL:https://catalystclub.com/event/bald-boujee-pitbull-themed-y2k-night/th
 END:VEVENT
 BEGIN:VEVENT
 UID:6e9f201468230d85cb26@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261205T210000
 DTEND;TZID=America/Los_Angeles:20261206T000000
 SUMMARY:DANCE… 4 U (SLAYYYTER & CHARLI XCX THEMED HYPERPOP NIGHT) @ Cata
@@ -103,45 +104,49 @@ URL:https://catalystclub.com/event/dance-4-u-slayyyter-charli-xcx-themed-h
 END:VEVENT
 BEGIN:VEVENT
 UID:cdeb1fb00f57d0407e3a@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20261218T200000
 DTEND;TZID=America/Los_Angeles:20261218T230000
 SUMMARY:Starcrawler with Sluttony @ Catalyst Atrium
 LOCATION:Catalyst Atrium
-DESCRIPTION:$28.72\nDoors: 7:30 pm Show: 8 pm · Ages 16 and up\nhttps://c
- atalystclub.com/event/starcrawler-with-sluttony/the-catalyst-atrium/santa
- -cruz-california/
+DESCRIPTION:$28.72\nExplosive LA Rock Meets Santa Cruz Punk & Grunge for O
+ ne Wild Night · Doors: 7:30 pm Show: 8 pm · Ages 16 and up\nhttps://cat
+ alystclub.com/event/starcrawler-with-sluttony/the-catalyst-atrium/santa-c
+ ruz-california/
 URL:https://catalystclub.com/event/starcrawler-with-sluttony/the-catalyst-
  atrium/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
-UID:5db4b26ea7e97cafe1a3@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+UID:4dc6e80fc725f82ab6ed@santa-cruz-shows
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20270127T200000
 DTEND;TZID=America/Los_Angeles:20270127T230000
-SUMMARY:Youth Fountain @ Catalyst Atrium
+SUMMARY:Youth Fountain with Relate @ Catalyst Atrium
 LOCATION:Catalyst Atrium
-DESCRIPTION:$28.72\nShow: 8 pm · All Ages\nhttps://catalystclub.com/event
- /youth-fountain/the-catalyst-atrium/santa-cruz-california/
-URL:https://catalystclub.com/event/youth-fountain/the-catalyst-atrium/sant
- a-cruz-california/
+DESCRIPTION:$28.72\nWith Special Guest Relate | An Explosive Night of Emo\
+ , Pop-Punk & Melodic Hardcore · Show: 8 pm · All Ages\nhttps://catalyst
+ club.com/event/youth-fountain-with-relate/the-catalyst-atrium/santa-cruz-
+ california/
+URL:https://catalystclub.com/event/youth-fountain-with-relate/the-catalyst
+ -atrium/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:d0ca0d2b741b7f84c07c@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20270227T210000
 DTEND;TZID=America/Los_Angeles:20270228T000000
 SUMMARY:Girl Ultra: el Tour de RRRomeo @ Catalyst Atrium
 LOCATION:Catalyst Atrium
-DESCRIPTION:$30.88\nDoors: 8 pm Show: 9 pm · Ages 16 and up\nhttps://cata
- lystclub.com/event/girl-ultra-el-tour-de-rrromeo/the-catalyst-atrium/sant
- a-cruz-california/
+DESCRIPTION:$30.88\nel Tour de RRRomeo | Latin R&B\, Indie Pop & Electrify
+ ing Late-Night Grooves · Doors: 8 pm Show: 9 pm · Ages 16 and up\nhttps
+ ://catalystclub.com/event/girl-ultra-el-tour-de-rrromeo/the-catalyst-atri
+ um/santa-cruz-california/
 URL:https://catalystclub.com/event/girl-ultra-el-tour-de-rrromeo/the-catal
  yst-atrium/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:db3dcc94591ce9cf0bf7@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20270302T200000
 DTEND;TZID=America/Los_Angeles:20270302T230000
 SUMMARY:CODEFENDANTS + Jakob Nowell and THE CASTLE @ Catalyst Atrium
@@ -154,27 +159,29 @@ URL:https://catalystclub.com/event/codefendants-jakob-nowell-and-the-castl
 END:VEVENT
 BEGIN:VEVENT
 UID:99055685fa0d0937dec8@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20270304T203000
 DTEND;TZID=America/Los_Angeles:20270304T233000
 SUMMARY:Tommy Lefroy with Al Olender @ Catalyst Atrium
 LOCATION:Catalyst Atrium
-DESCRIPTION:$28.72\nShow: 8:30 pm · Ages 16 and up\nhttps://catalystclub.
- com/event/tommy-lefroy-with-al-olender/the-catalyst-atrium/santa-cruz-cal
- ifornia/
+DESCRIPTION:$28.72\nDreamy Indie Rock\, Captivating Harmonies & Heartfelt 
+ Songwriting · Show: 8:30 pm · Ages 16 and up\nhttps://catalystclub.com/
+ event/tommy-lefroy-with-al-olender/the-catalyst-atrium/santa-cruz-califor
+ nia/
 URL:https://catalystclub.com/event/tommy-lefroy-with-al-olender/the-cataly
  st-atrium/santa-cruz-california/
 END:VEVENT
 BEGIN:VEVENT
 UID:64063469040a81aed00b@santa-cruz-shows
-DTSTAMP:20261114T185812Z
+DTSTAMP:20261115T193715Z
 DTSTART;TZID=America/Los_Angeles:20270306T203000
 DTEND;TZID=America/Los_Angeles:20270306T233000
 SUMMARY:The Lemonheads: The Love Chant Tour @ Catalyst Atrium
 LOCATION:Catalyst Atrium
-DESCRIPTION:$45.95\nDoors: 7:30 pm Show: 8:30 pm · All Ages\nhttps://cata
- lystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium
- /santa-cruz-california/
+DESCRIPTION:$45.95\nThe Love Chant Tour | '90s Alternative Rock Classics\,
+  Timeless Hits & New Music · Doors: 7:30 pm Show: 8:30 pm · All Ages\nh
+ ttps://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-cata
+ lyst-atrium/santa-cruz-california/
 URL:https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-
  catalyst-atrium/santa-cruz-california/
 END:VEVENT
