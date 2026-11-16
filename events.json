@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-15T11:37-08:00",
+ "updated": "2026-11-16T15:15-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 92
+   "count": 95
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 63
+   "count": 64
   },
   {
    "venue": "Cat Alley Street",
@@ -44,7 +44,7 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 26
+   "count": 24
   },
   {
    "venue": "Discretion Brewing",
@@ -54,17 +54,17 @@
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 10
+   "count": 14
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 12
+   "count": 10
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,7 +89,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "venue": "Ugly Mug",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "Lumos Candlelight",
@@ -5778,7 +5778,7 @@
    "title": "Jason Beard's Bring Joy",
    "date": "2026-11-21",
    "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/jason-beards-bring-joy-saturday-july-26-8pm-15",
+   "url": "https://www.ticketweb.com/event/jason-beards-bring-joy-the-crepe-place-tickets/14451614?pl=thecrepeplace",
    "price": "$20",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1747928300350-6SP4P0NFPKVJWQR1DJQI/download.jpg"
@@ -5812,6 +5812,16 @@
    "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030752444"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Open At 10Am Every Sunday",
+   "date": "2026-11-22",
+   "time": "10:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Abbott Square",
@@ -6444,6 +6454,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/ricardo-peixoto-cropped.jpg"
   },
   {
+   "venue": "Mission West",
+   "title": "Maxwell and Andy",
+   "date": "2026-12-02",
+   "time": "17:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Leroy & Friends Featuring Luna",
    "date": "2026-12-02",
@@ -6529,7 +6549,7 @@
    "date": "2026-12-03",
    "time": "19:00",
    "url": "https://www.cafeugly.com/live-music-the-mug/2026/12/3/santa-cruz-sessions",
-   "price": "$30",
+   "price": "$10",
    "info": "SANTA CRUZ SESSIONS Brock Davis · Michael Schoolcraft · Andy Barr with Amy Merrill ·",
    "image": "https://images.squarespace-cdn.com/content/v1/5bfb76e5ee1759eea45278af/1794616886092-XAE6ISZPZNIR2M0K5NAO/IMG_1201.jpg"
   },
@@ -6602,6 +6622,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/AZA-cropped.jpg"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Bite Me",
+   "date": "2026-12-04",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Woodhouse",
@@ -6724,6 +6754,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/lori-jpg-cropped.jpg"
   },
   {
+   "venue": "Mission West",
+   "title": "Eric Morrison & The Mysteries with Moving Van",
+   "date": "2026-12-05",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Rio Theatre",
    "title": "Teton Gravity Research presents 'Actually, It Is Rocket Science'",
    "date": "2026-12-05",
@@ -6794,6 +6834,16 @@
    "image": "https://i.ticketweb.com/i/00/12/98/57/94_Listings.jpg?v=3"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Holiday Makers Market",
+   "date": "2026-12-05",
+   "time": null,
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Beer, Local Makers, Live Music",
+   "image": null
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Niko Rubio: late night swim in california tour",
    "date": "2026-12-05",
@@ -6822,6 +6872,16 @@
    "price": null,
    "info": "The Trolley Drops play hokum blues and novelty tunes from the 20s and 30s. Vocally rich, carefree, and infectiously fun, this good time…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1740027085666-7WEM3UNGIYTIK6886G8Z/Trolley+Drops.jpeg"
+  },
+  {
+   "venue": "Mission West",
+   "title": "Love Creek",
+   "date": "2026-12-06",
+   "time": "14:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -7604,6 +7664,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1702788009503-N0J3BPJVZ6OPBIBL83WP/Rasquache.png"
   },
   {
+   "venue": "Mission West",
+   "title": "Lu-Nasty",
+   "date": "2026-12-18",
+   "time": "19:00",
+   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "No Brainer Productions Presents: Pete Sawyer And The Left Hand Monkey Wrench Gang",
    "date": "2026-12-18",
@@ -8141,7 +8211,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/65/16/13_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/13/65/16/13_Listings.jpg?v=6"
   },
   {
    "venue": "Felton Music Hall",
@@ -8174,6 +8244,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/arun-ramamurthy-cropped.jpg"
   },
   {
+   "venue": "Catalyst Atrium",
+   "title": "COMEDY NIGHT Starring Chad Opitz with Tyrik Woods",
+   "date": "2027-01-16",
+   "time": "19:30",
+   "url": "https://catalystclub.com/event/comedy-night-starring-chad-opitz-with-tyrik-woods/the-catalyst-atrium/santa-cruz-california/",
+   "price": "$28.72 to $40.55",
+   "info": "Standout Comedians from the San Francisco Comedy Competition, Live at The Catalyst! · Show: 7:30 pm · Ages 18 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/comedy-night-starring-chad-opitz-with-tyrik-woods-1.jpeg"
+  },
+  {
    "venue": "Santa Cruz Symphony",
    "title": "Rachmaninoff’s 3rd",
    "date": "2027-01-16",
@@ -8182,6 +8262,16 @@
    "price": null,
    "info": "Classical Series Concert 3 · Civic Auditorium",
    "image": null
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: The Untouchables w/ Monkey",
+   "date": "2027-01-16",
+   "time": "21:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 8:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/15/27/54_Listings.jpg?v=4"
   },
   {
    "venue": "Felton Music Hall",
@@ -8249,7 +8339,7 @@
    "date": "2027-01-20",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/goodtwin-not-yet-old-dog-sun-kin-wednesday-january-20-8pm-15",
-   "price": "$10",
+   "price": "$12",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792914381017-Z4QNVNQ50ST72QVKSOES/0036002066_25.jpg"
   },
@@ -8282,6 +8372,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1781200893999-CHENHNQDK5NCEPWQXJJA/Static_Social-Instagram_1080x1080_JesseCook_2027_Regional_RioTheatre_0121_28129.jpg"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Teenage Bottlerocket w/ Brendan Kelly",
+   "date": "2027-01-21",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/15/27/24_Listings.jpg?v=2"
   },
   {
    "venue": "The Crepe Place",
@@ -8382,6 +8482,16 @@
    "price": "$20",
    "info": "with Rainbow Girls",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949034722324"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2027-01-24",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/grateful-sunday-with-matt-hartle-and-the-hartle-gold-band-6-to-9pm-in-the-garden-10-at-the-door",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745600052491-IN7B94EEVMAQ0CQ0KQS0/thumbnail_Image.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8504,6 +8614,16 @@
    "image": "https://i.ticketweb.com/i/00/13/10/71/84_Listings.jpg?v=4"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Return To Nagoya, Gnarl Sagan, Outpost 31",
+   "date": "2027-01-29",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/return-to-nagoya-vox-yomi-born-jealous-friday-july-3-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1777476604889-NDBYKBFFSCSX43SAECXX/ab6761610000e5ebbb52f808832b2704b2a0520c.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "The Arcadian Wild - Make It Out Alive Tour",
    "date": "2027-01-29",
@@ -8552,6 +8672,16 @@
    "price": "$34",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948943935173"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2027-01-31",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/pya74htdydmpjcg6r39nrgll9dycej",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750962180563-SKSP4SP3TCF93KUGBCL3/thumbnail_Image.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8652,6 +8782,16 @@
    "price": "$37",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949006704145"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Grateful",
+   "date": "2027-02-07",
+   "time": "18:00",
+   "url": "https://www.thecrepeplace.com/shows-list/3psamk86a3dc368nafxpc57ceypg2r",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750962418971-NXL3FOZ54CS5BH2C7MLT/thumbnail_Image.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -9164,6 +9304,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/LUCIA-cropped.jpg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Cursive - Happy Hollow 20th Anniversary",
+   "date": "2027-03-11",
+   "time": null,
+   "url": "https://www.prekindle.com/event/46915-cursive-happy-hollow-20th-anniversary-felton",
+   "price": "$0",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948935508220"
+  },
+  {
    "venue": "UCSC Recital Hall",
    "title": "UCSC Concert Choir",
    "date": "2027-03-12",
@@ -9304,6 +9454,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792175993955-C3MXNEUGZWD8GN0OU7I8/World+News+-+THE+WAY+IT+GOES+ARTWORK.jpg"
   },
   {
+   "venue": "Catalyst Main Room",
+   "title": "An Evening with Y&T",
+   "date": "2027-03-27",
+   "time": "20:00",
+   "url": "https://catalystclub.com/event/an-evening-with-yt/the-catalyst/santa-cruz-california/",
+   "price": null,
+   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/an-evening-with-yt.jpeg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Meshell Ndegeocello – 7:00 PM",
    "date": "2027-03-30",
@@ -9352,6 +9512,16 @@
    "price": null,
    "info": "Classical Series Concert 4 · Civic Auditorium",
    "image": null
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Magos Herrera",
+   "date": "2027-04-08",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/magos-herrera/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Magos-Herrera-cropped.jpeg"
   },
   {
    "venue": "Rio Theatre",
