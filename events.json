@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:15-08:00",
+ "updated": "2026-11-17T14:05-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,7 +9,7 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 34
+   "count": 36
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 95
+   "count": 93
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 64
+   "count": 69
   },
   {
    "venue": "Cat Alley Street",
@@ -34,12 +34,12 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 56
+   "count": 59
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "venue": "Abbott Square",
@@ -49,7 +49,7 @@
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 19
+   "count": 22
   },
   {
    "venue": "Mission West",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 8
+   "count": 9
   },
   {
    "venue": "UCSC Recital Hall",
@@ -94,12 +94,12 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 11
+   "count": 10
   },
   {
    "venue": "Cork & Fork",
@@ -5434,6 +5434,16 @@
    "image": null
   },
   {
+   "venue": "Woodhouse",
+   "title": "Square Dance Santa Cruz",
+   "date": "2026-11-19",
+   "time": "17:30",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": "We are thrilled to return for our monthly SANTA CRUZ SQUARE DANCE ✨! 5:30pm old time tunes jam (bring your instrument!) This event is…",
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1774939556952-HYNUJ0I592RAWBKURA1Y/SQUARE+DANCE.jpg?format=750w"
+  },
+  {
    "venue": "Cork & Fork",
    "title": "Johnny G and Friends",
    "date": "2026-11-19",
@@ -5535,12 +5545,12 @@
   },
   {
    "venue": "Shanty Shack Brewing",
-   "title": "Wild Iris",
+   "title": "Mudfrog",
    "date": "2026-11-20",
    "time": "18:00",
    "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": "Wild Iris is a songwriting collaboration between Kate Mullikin and Bryan Shelton from Santa Cruz, CA. Wild Iris is an acoustic mix of…",
+   "info": null,
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_cc766e0068af43a28648a17f8cc2278b~mv2.jpg\"]"
   },
   {
@@ -5750,8 +5760,8 @@
    "time": "19:30",
    "url": "https://catalystclub.com/event/wavy-train-feat-donald-glaude-friends/the-catalyst-atrium/santa-cruz-california/",
    "price": "$29.99",
-   "info": "Doors: 7 pm Show: 7:30 pm · Ages 21 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/10/wavy-train-feat-donald-glaude-friends.jpeg"
+   "info": "Doors: 7 pm Show: 7:30 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/wavy-train-feat-donald-glaude-friends.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -5860,8 +5870,8 @@
    "time": "15:00",
    "url": "https://www.shantyshackbrewing.com/events",
    "price": null,
-   "info": "East Side Sound reimagines Latin, reggae, oldies, and rock with chill, guitar-driven vibes. Darin's smooth vocals, Liam's jazz-infused…",
-   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_f67531fcbbb1450f8d0faa38b93be6d5~mv2.jpg\"]"
+   "info": "EastSide Sound East Side Sound is a three-piece band made up of musicians who come together every week, sometimes begrudgingly, in the…",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_39da07a1e03d41758e835f74d3e0cb37~mv2.png\"]"
   },
   {
    "venue": "Cork & Fork",
@@ -6094,6 +6104,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Jeffersons Revival",
+   "date": "2026-11-27",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6afbb4aa45453b69e12286e6",
+   "price": "$10",
+   "info": "CCR",
+   "image": "https://static.wixstatic.com/media/cc50de_3738981e41f44c758012e6869aa9557f~mv2.png"
+  },
+  {
    "venue": "Shanty Shack Brewing",
    "title": "Love Creek",
    "date": "2026-11-27",
@@ -6184,6 +6204,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948976674293"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "The Untangled Band",
+   "date": "2026-11-28",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Rivets & Rust",
    "date": "2026-11-28",
@@ -6248,7 +6278,7 @@
    "title": "China Cats",
    "date": "2026-11-28",
    "time": "19:00",
-   "url": "https://www.woodhousebrews.com/calendar",
+   "url": "https://mountainmusicproductions.com/event/6679522/774008166/china-cats-grateful-thanksgiving-at-woodhouse-blending-brewing",
    "price": null,
    "info": "he China Cats are: Matt Hartle , lead guitar and vocals Scott Cooper , rhythm guitar and vocals Steve Sofranko , keyboards and vocals…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793337846934-4E89BWC90DWP5OH7HBTQ/IMG_4706.jpg?format=750w"
@@ -6584,22 +6614,12 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1778634055857-BW2NIH5XP5MXOAR0Y9MT/3608.jpg"
   },
   {
-   "venue": "El Vaquero Winery",
-   "title": "Resquache Liberation Front",
-   "date": "2026-12-04",
-   "time": "18:00",
-   "url": "https://reservations.elvaquerowinery.com/events/6af5024d06c5d47238ad22eb",
-   "price": "$10",
-   "info": "Tex Mex Cumbia · Food: TBS",
-   "image": "https://static.wixstatic.com/media/cc50de_54faf6d08a61484ebe3d19319d42e108~mv2.png"
-  },
-  {
    "venue": "Lumos Candlelight",
    "title": "A Classical Christmas Candlelight Experience",
    "date": "2026-12-04",
    "time": "18:00",
    "url": "https://www.fatsoma.com/e/dk08i0yi/a-classical-christmas-candlelight-experience-in-santa-cruz-ca-friday-december-4th",
-   "price": "$20+",
+   "price": "$25+",
    "info": "Peace United Church of Christ, Santa Cruz",
    "image": "https://cdn2.fatsoma.com/media/W1siZiIsInB1YmxpYy8yMDI2LzkvMS8yMC80LzUyLzE1OS9SYWNrTXVsdGlwYXJ0MjAyNjA5MDEtNTQtZGV2ODg3LmpwZyJdXQ"
   },
@@ -6642,6 +6662,16 @@
    "price": null,
    "info": "1970’s Jazz-Rock Revue If you wish the era of 1970’s jazz-rock and progressive rock never ended, then this is the band for you! Joshua…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1786598163400-W69A2CZDLLDZL5MOT7IS/JRR_Logo_7.3.26+%281%29.jpg?format=750w"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Concert Choir",
+   "date": "2026-12-04",
+   "time": "19:30",
+   "url": "https://events.ucsc.edu/event/concert-choir-fall-2026-27/",
+   "price": "$5 – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/choral-book-GettyImages-1447119629.jpg"
   },
   {
    "venue": "Henfling's Tavern",
@@ -7094,6 +7124,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949092129298"
   },
   {
+   "venue": "Discretion Brewing",
+   "title": "Ryan Price",
+   "date": "2026-12-10",
+   "time": "17:30",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 5:30-7:30pm",
+   "image": null
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Maxwell Apra",
    "date": "2026-12-10",
@@ -7208,7 +7248,7 @@
    "title": "Winter Apocolypse",
    "date": "2026-12-11",
    "time": "18:00",
-   "url": "https://www.woodhousebrews.com/calendar",
+   "url": "https://www.eventbrite.com/e/winter-apocalypse-fashion-show-tickets-2003631151711?aff=oddtdtcreator",
    "price": null,
    "info": "Overview Enter a warm, strange world after the apocalypse. An immersive night of fashion, art, music & female creativity at Woodhouse.…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793938934478-VJEVEKFNDFO2ZCYE40Q8/Screenshot+2026-10-19+at+1.52.16%E2%80%AFPM.png?format=750w"
@@ -7594,6 +7634,16 @@
    "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6aeeae8df29ba508b98c7ce6/1794030174415/"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Dub Souljah and Dubside",
+   "date": "2026-12-17",
+   "time": "18:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "Reggae, rock, and dub double bill.",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_d4fc2b75917147048f7993bb2caed318~mv2.jpeg\"]"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Skylar Tang Quartet",
    "date": "2026-12-17",
@@ -7648,7 +7698,7 @@
    "title": "Dancing to the Oldies",
    "date": "2026-12-18",
    "time": "18:30",
-   "url": "https://www.woodhousebrews.com/calendar",
+   "url": "https://www.eventbrite.com/e/dancing-to-the-oldies-a-richard-simmons-jazzercise-extravaganza-tickets-2003317683118?aff=oddtdtcreator",
    "price": null,
    "info": "Dancing to the Oldies! Richard Simmons Jazzercise Extravaganza Friday, December 18 | 6:30 PM Woodhouse Blending & Brewing Break out the…",
    "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1793944651083-2QZYOXYZXXFLRKHE88BU/Simons.jpeg?format=750w"
@@ -7877,6 +7927,16 @@
    "venue": "Discretion Brewing",
    "title": "Junebug Bayer",
    "date": "2026-12-26",
+   "time": "15:00",
+   "url": "https://www.discretionbrewing.com/events/",
+   "price": null,
+   "info": "Live Music 3-5pm",
+   "image": null
+  },
+  {
+   "venue": "Discretion Brewing",
+   "title": "RnD Band",
+   "date": "2026-12-27",
    "time": "15:00",
    "url": "https://www.discretionbrewing.com/events/",
    "price": null,
@@ -8251,7 +8311,7 @@
    "url": "https://catalystclub.com/event/comedy-night-starring-chad-opitz-with-tyrik-woods/the-catalyst-atrium/santa-cruz-california/",
    "price": "$28.72 to $40.55",
    "info": "Standout Comedians from the San Francisco Comedy Competition, Live at The Catalyst! · Show: 7:30 pm · Ages 18 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/comedy-night-starring-chad-opitz-with-tyrik-woods-1.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/Comedy-Night-•-Mint-•-Editable-Layers.png"
   },
   {
    "venue": "Santa Cruz Symphony",
@@ -8282,6 +8342,16 @@
    "price": "$23",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981141981"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents a Double Bill with Anthony Arya & Anthony Cullins",
+   "date": "2027-01-17",
+   "time": "16:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 3:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/15/95/34_Listings.jpg?v=3"
   },
   {
    "venue": "The Crepe Place",
@@ -9044,6 +9114,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793385115500-GRO0J7JSWWMF36DKAFBV/banff-2027-1200x800.jpg"
   },
   {
+   "venue": "UCSC Recital Hall",
+   "title": "“One Night Only” Music Faculty Guitar Concert with William Coulter and Christopher Mallett",
+   "date": "2027-02-26",
+   "time": "19:00",
+   "url": "https://events.ucsc.edu/event/ono-guitar-2026-27/",
+   "price": null,
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Copy-of-UCSC-Classical-Guitar-Ensemble.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Caroline Rose: Uncle Carols World of Fun Tour",
    "date": "2027-02-26",
@@ -9145,30 +9225,20 @@
   },
   {
    "venue": "UCSC Recital Hall",
-   "title": "Ensemble Showcase Concert",
+   "title": "Music Department Ensemble Showcase Concert",
    "date": "2027-03-01",
    "time": "19:00",
-   "url": "https://events.ucsc.edu/event/ensemble-showcase-concert/",
+   "url": "https://events.ucsc.edu/event/ensemble-showcase-winter-2027/",
    "price": "Free",
    "info": null,
    "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/11-21-24-UCSC-Orchestra-CL-013-scaled.jpg"
   },
   {
    "venue": "UCSC Recital Hall",
-   "title": "ONO: Guitars",
-   "date": "2027-03-01",
-   "time": "19:00",
-   "url": "https://events.ucsc.edu/event/ono-guitars/",
-   "price": "Free",
-   "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Copy-of-UCSC-Classical-Guitar-Ensemble.jpg"
-  },
-  {
-   "venue": "UCSC Recital Hall",
-   "title": "Orchestra Concert",
+   "title": "UCSC Orchestra",
    "date": "2027-03-02",
    "time": "19:30",
-   "url": "https://events.ucsc.edu/event/orchestra-concert/",
+   "url": "https://events.ucsc.edu/event/orchestra-winter-2026-27/",
    "price": "Free – $12",
    "info": null,
    "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/11-21-24-UCSC-Orchestra-CL-004-scaled.jpg"
@@ -9244,6 +9314,16 @@
    "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/03-17-24-Jazz-Ensembles-RP-001-scaled.jpg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Sam Burchfield",
+   "date": "2027-03-05",
+   "time": null,
+   "url": "https://www.prekindle.com/event/65639-sam-burchfield-felton",
+   "price": "$25",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948934378547"
+  },
+  {
    "venue": "UCSC Recital Hall",
    "title": "UCSC Jazz Combos",
    "date": "2027-03-06",
@@ -9262,6 +9342,16 @@
    "price": "$45.95",
    "info": "The Love Chant Tour | '90s Alternative Rock Classics, Timeless Hits & New Music · Doors: 7:30 pm Show: 8:30 pm · All Ages",
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-lemonheads-the-love-chant-tour-1.jpeg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Grateful Shred",
+   "date": "2027-03-07",
+   "time": null,
+   "url": "https://www.prekindle.com/event/37247-grateful-shred-felton",
+   "price": "$34",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948934552454"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -9309,7 +9399,7 @@
    "date": "2027-03-11",
    "time": null,
    "url": "https://www.prekindle.com/event/46915-cursive-happy-hollow-20th-anniversary-felton",
-   "price": "$0",
+   "price": "$30",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948935508220"
   },
@@ -9318,7 +9408,7 @@
    "title": "UCSC Concert Choir",
    "date": "2027-03-12",
    "time": "19:30",
-   "url": "https://events.ucsc.edu/event/ucsc-concert-choir-fall-2026/",
+   "url": "https://events.ucsc.edu/event/concert-choir-winter-2026-27/",
    "price": "$5 – $12",
    "info": null,
    "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/choral-book-GettyImages-1447119629.jpg"
@@ -9461,7 +9551,7 @@
    "url": "https://catalystclub.com/event/an-evening-with-yt/the-catalyst/santa-cruz-california/",
    "price": null,
    "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/an-evening-with-yt.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/an-evening-with-yt-1.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -9504,6 +9594,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981202993"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "Kandace Springs",
+   "date": "2027-04-03",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/kandace-springs-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Kandace-Springs-cropped.jpg"
+  },
+  {
    "venue": "Santa Cruz Symphony",
    "title": "The Firebird",
    "date": "2027-04-03",
@@ -9534,6 +9634,66 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1793820395262-5ZSL5IPVIZSEV0RQX19I/ABBA+GOLD_1080+x+1620_SANTA+CRUZ.jpeg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Son Rompe Pera",
+   "date": "2027-04-11",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/15/27/94_Listings.jpg?v=4"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Slow Crush",
+   "date": "2027-04-11",
+   "time": null,
+   "url": "https://www.prekindle.com/event/25413-slow-crush-felton",
+   "price": "$27",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948934387162"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Varijashree Venugopal",
+   "date": "2027-04-14",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/varijashree-venugopal/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Varijashree-Venugopal-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Melissa Aldana Quartet",
+   "date": "2027-04-19",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/melissa-aldana-quartet-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Melissa-Aldana-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "María Grand Quartet",
+   "date": "2027-04-21",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/maria-grand-quartet/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Maria-Grand-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Camila Meza",
+   "date": "2027-04-22",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/camila-meza-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Camila-Meza-Cropped.jpg"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "FashionTeens 2027",
    "date": "2027-04-23",
@@ -9542,6 +9702,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1779301081386-XRWLJT73QGDLWJB9E367/riotheatre-51746988995179-6549607442521843628-Screenshot+2026-01-06+at+2.04.33%E2%80%AFPM.png"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Ekep Nkwelle",
+   "date": "2027-04-28",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/ekep-nkwelle-3/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Ekep-Nkwelle-cropped.jpeg"
   },
   {
    "venue": "Santa Cruz Symphony",
