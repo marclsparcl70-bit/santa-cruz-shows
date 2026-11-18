@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-17T14:05-08:00",
+ "updated": "2026-11-18T13:44-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 24
+   "count": 25
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 36
+   "count": 35
   },
   {
    "venue": "Rio Theatre",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 93
+   "count": 91
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 69
+   "count": 68
   },
   {
    "venue": "Cat Alley Street",
@@ -34,12 +34,12 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 59
+   "count": 61
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Abbott Square",
@@ -59,7 +59,7 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 10
+   "count": 11
   },
   {
    "venue": "Shanty Shack",
@@ -69,7 +69,7 @@
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 17
+   "count": 19
   },
   {
    "venue": "Quarry Amphitheater",
@@ -99,7 +99,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "Cork & Fork",
@@ -5394,16 +5394,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1784772571968-GNDBAUV681KF9SCOCBQI/bE1gi12A.jpg"
   },
   {
-   "venue": "Catalyst Main Room",
-   "title": "As I Lay Dying",
-   "date": "2026-11-18",
-   "time": "19:30",
-   "url": "https://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz-california/",
-   "price": "$40.02 to $45.41",
-   "info": "Metalcore Heavyweights As I Lay Dying with Special Guests The Curse Within for One Crushing Night of Metal · Doors: 6:30 pm Show: 7:30…",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/as-i-lay-dying.jpeg"
-  },
-  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: Two Runner w/ Dessert Boys",
    "date": "2026-11-18",
@@ -5422,6 +5412,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781544048015-58YD081SO3RA5GHWBUKK/images.jpg"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "As I Lay Dying",
+   "date": "2026-11-18",
+   "time": "20:30",
+   "url": "https://catalystclub.com/event/as-i-lay-dying/the-catalyst/santa-cruz-california/",
+   "price": "$52.38",
+   "info": "Metalcore Heavyweights As I Lay Dying with Special Guests The Curse Within for One Crushing Night of Metal · Doors: 7:30 pm Show: 8:30…",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/as-i-lay-dying.jpeg"
   },
   {
    "venue": "Discretion Brewing",
@@ -5721,7 +5721,7 @@
    "url": "https://catalystclub.com/event/surf-city-line-dance-2/",
    "price": null,
    "info": "Grab Your Boots! Beginner Lessons, Country Music & Dancing All Night · Show: 7 pm",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/Saturday-November-21-4.png"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/VGarciaAtrium-1.png"
   },
   {
    "venue": "Mission West",
@@ -5841,7 +5841,7 @@
    "url": "https://abbottsquaremarket.com/events/joe-bland",
    "price": null,
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1794621833145-WX7VUDZXFWZ050TWRXXW/IMG_20261113_172244.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1795034716451-KPVL97SKCK6153GLLJ30/IMG_20261118_123704.jpg"
   },
   {
    "venue": "Mission West",
@@ -6031,7 +6031,7 @@
    "url": "https://catalystclub.com/event/blackout-wednesday-with-dj-sardine/the-catalyst-atrium/santa-cruz-california/",
    "price": "$15.86",
    "info": "Show: 7 pm · Ages 18 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/Blackout-Wednesday-Instagram-post-2.png"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/Blackout-Wednesday-Social.png"
   },
   {
    "venue": "Mission West",
@@ -6612,6 +6612,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1778634055857-BW2NIH5XP5MXOAR0Y9MT/3608.jpg"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Resquache Liberation Front",
+   "date": "2026-12-04",
+   "time": "18:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6af5024d06c5d47238ad22eb",
+   "price": "$10",
+   "info": "Tex Mex Cumbia",
+   "image": "https://static.wixstatic.com/media/cc50de_54faf6d08a61484ebe3d19319d42e108~mv2.png"
   },
   {
    "venue": "Lumos Candlelight",
@@ -7791,7 +7801,7 @@
    "url": "https://reservations.elvaquerowinery.com/events/6af5027806c5d47238ad22ec",
    "price": "$10",
    "info": "Originals",
-   "image": ""
+   "image": "https://static.wixstatic.com/media/cc50de_4c9b9a9ae1114c8f8695d22c4f791e13~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -7881,7 +7891,7 @@
    "url": "https://reservations.elvaquerowinery.com/events/6af502970634c35167ad22e8",
    "price": "$10",
    "info": "Party ",
-   "image": "https://static.wixstatic.com/media/cc50de_dbeed99ccaa74a2ab5d4e46c6921794c~mv2.png"
+   "image": "https://static.wixstatic.com/media/cc50de_0a1c440eb822414fb16ee6ed96e3091b~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -7951,7 +7961,7 @@
    "url": "https://reservations.elvaquerowinery.com/events/6af502c106c5d47238ad22ed",
    "price": "$10",
    "info": "Funk, Fun!",
-   "image": "https://static.wixstatic.com/media/cc50de_c0d24b01dc3b468da85e5ceafe30c034~mv2.png"
+   "image": "https://static.wixstatic.com/media/cc50de_274ee9d39868483f9b6f3f044b4997c3~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -8884,6 +8894,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/kenny-barron-cropped.jpg"
   },
   {
+   "venue": "Catalyst Atrium",
+   "title": "Vincen García",
+   "date": "2027-02-09",
+   "time": "20:00",
+   "url": "https://catalystclub.com/event/vincen-garc%c3%ada/the-catalyst-atrium/santa-cruz-california/",
+   "price": "$34.12",
+   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/vincen-garcia.jpeg"
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "Ladysmith Black Mambazo at the Rio Theatre",
    "date": "2027-02-10",
@@ -8932,6 +8952,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1789751078981-I9X88V4B13FKTUP4TQDB/p02.jpg"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Tommy Castro",
+   "date": "2027-02-12",
+   "time": null,
+   "url": "https://www.prekindle.com/event/63892-tommy-castro-felton",
+   "price": "$25",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948933216256"
   },
   {
    "venue": "The Crepe Place",
@@ -9034,6 +9064,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793749733937-C2Y67RLVVQPGHR3LPFY1/Harry+Hooper+1.jpg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Sun Kil Moon",
+   "date": "2027-02-19",
+   "time": null,
+   "url": "https://www.prekindle.com/event/71732-sun-kil-moon-felton",
+   "price": "$25",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948933263232"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "The Jenny O'Leary Quartet",
    "date": "2027-02-20",
@@ -9132,6 +9172,16 @@
    "price": "$27",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948971288152"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Family Opera—Maurice Ravel’s “L’Enfant et les Sortiléges” (The Child and the Spells)",
+   "date": "2027-02-27",
+   "time": "13:00",
+   "url": "https://events.ucsc.edu/event/family-opera/2027-02-27/3/",
+   "price": "Free",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Theater-seats-stage-GettyImages-1001928116.jpg"
   },
   {
    "venue": "Rio Theatre",
@@ -9305,13 +9355,13 @@
   },
   {
    "venue": "UCSC Recital Hall",
-   "title": "Wind Ensemble Concert",
+   "title": "UCSC Wind Ensemble",
    "date": "2027-03-05",
    "time": "19:30",
-   "url": "https://events.ucsc.edu/event/wind-ensemble-concert/",
+   "url": "https://events.ucsc.edu/event/wind-winter-2026-27/",
    "price": "$5 – $12",
    "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/03-17-24-Jazz-Ensembles-RP-001-scaled.jpg"
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/01/ucsc-wind-ensemble-performing-now-v0-0qcuq77s204c1-e1770757738276.webp"
   },
   {
    "venue": "Felton Music Hall",
@@ -9328,8 +9378,8 @@
    "title": "UCSC Jazz Combos",
    "date": "2027-03-06",
    "time": "19:30",
-   "url": "https://events.ucsc.edu/event/ucsc-jazz-combos-3/",
-   "price": "Free",
+   "url": "https://events.ucsc.edu/event/jazz-combos-winter-2026-27/",
+   "price": "$5 – $12",
    "info": null,
    "image": "https://events.ucsc.edu/wp-content/uploads/2025/10/trumpet-players-GettyImages-817616438-scaled-e1760989701552.jpg"
   },
@@ -9399,7 +9449,7 @@
    "date": "2027-03-11",
    "time": null,
    "url": "https://www.prekindle.com/event/46915-cursive-happy-hollow-20th-anniversary-felton",
-   "price": "$30",
+   "price": "$27",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948935508220"
   },
