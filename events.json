@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T13:44-08:00",
+ "updated": "2026-11-19T13:59-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -14,17 +14,17 @@
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 91
+   "count": 90
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 68
+   "count": 70
   },
   {
    "venue": "Cat Alley Street",
@@ -34,12 +34,12 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 61
+   "count": 63
   },
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "venue": "Abbott Square",
@@ -54,22 +54,22 @@
   {
    "venue": "Mission West",
    "ok": true,
-   "count": 14
+   "count": 0
   },
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 11
+   "count": 13
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 9
+   "count": 10
   },
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 19
+   "count": 20
   },
   {
    "venue": "Quarry Amphitheater",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 9
+   "count": 8
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 15
+   "count": 16
   },
   {
    "venue": "Lumos Candlelight",
@@ -5505,13 +5505,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Empire Grade (EP Release Party) w/ Rosewood & Dirtkicker + DJ Gavi_N",
+   "title": "*CANCELLED* Empire Grade (EP Release Party) w/ Rosewood & Dirtkicker + DJ Gavi_N",
    "date": "2026-11-19",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/11/65/14_Listings.jpg?v=5"
+   "image": "https://i.ticketweb.com/i/00/13/11/65/14_Listings.jpg?v=6"
   },
   {
    "venue": "Discretion Brewing",
@@ -5562,16 +5562,6 @@
    "price": null,
    "info": "August Sun is an original rock n' roll band born in the Santa Cruz Mountains of California.",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1794622423449-76WTSSEQJ984497NP44A/26.11.3+August+Sun.jpg"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Ardvark",
-   "date": "2026-11-20",
-   "time": "19:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "The Crepe Place",
@@ -5654,16 +5644,6 @@
    "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_ca1d317941f44dd7b270126fb908218a~mv2.jpg\"]"
   },
   {
-   "venue": "Mission West",
-   "title": "The JADe Trio",
-   "date": "2026-11-21",
-   "time": "15:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "The Crepe Place",
    "title": "Bellydance Community Showcase",
    "date": "2026-11-21",
@@ -5722,16 +5702,6 @@
    "price": null,
    "info": "Grab Your Boots! Beginner Lessons, Country Music & Dancing All Night · Show: 7 pm",
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/VGarciaAtrium-1.png"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Kid Kameleon And The Lounge Lizards",
-   "date": "2026-11-21",
-   "time": "19:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Rio Theatre",
@@ -5824,16 +5794,6 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949030752444"
   },
   {
-   "venue": "Mission West",
-   "title": "Open At 10Am Every Sunday",
-   "date": "2026-11-22",
-   "time": "10:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Abbott Square",
    "title": "Joe Bland",
    "date": "2026-11-22",
@@ -5842,16 +5802,6 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1795034716451-KPVL97SKCK6153GLLJ30/IMG_20261118_123704.jpg"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Blue Lemonade",
-   "date": "2026-11-22",
-   "time": "14:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -6034,16 +5984,6 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/Blackout-Wednesday-Social.png"
   },
   {
-   "venue": "Mission West",
-   "title": "Joli",
-   "date": "2026-11-25",
-   "time": "19:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Moe's Alley",
    "title": "Country For A Cause: A Benefit for the Second Harvest Food Bank featuring The Henry Warde Band",
    "date": "2026-11-25",
@@ -6134,16 +6074,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1794685089321-XSS95NHRV5I1IP9WMBF8/IMG_3622.jpg"
   },
   {
-   "venue": "Mission West",
-   "title": "Wingin' It",
-   "date": "2026-11-27",
-   "time": "19:30",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "Catalyst Main Room",
    "title": "Jackie Greene with Tim Bluhm (Mother Hips)",
    "date": "2026-11-27",
@@ -6204,6 +6134,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948976674293"
   },
   {
+   "venue": "Shanty Shack Brewing",
+   "title": "Bobby's Shorts",
+   "date": "2026-11-28",
+   "time": "14:00",
+   "url": "https://www.shantyshackbrewing.com/events",
+   "price": null,
+   "info": "New Grateful Dead cover band from experienced local musicians.",
+   "image": "[\"https:\\/\\/static.wixstatic.com\\/media\\/7502f1_29321be4c42446fd9d204266ef519d50~mv2.jpg\"]"
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "The Untangled Band",
    "date": "2026-11-28",
@@ -6262,16 +6202,6 @@
    "price": null,
    "info": "Dan's signature guitar playing style is a beaming nod to the the great guitar masters: Pete Townshend, Norman Blake and Doc Watson. Dan…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1737068657182-GQBYX7OCZVOIHB4KN5RV/1000000851.jpg"
-  },
-  {
-   "venue": "Mission West",
-   "title": "C Street Band",
-   "date": "2026-11-28",
-   "time": "19:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Woodhouse",
@@ -6342,16 +6272,6 @@
    "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007809525"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Dead On Deck",
-   "date": "2026-11-29",
-   "time": "14:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -6484,16 +6404,6 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/07/ricardo-peixoto-cropped.jpg"
   },
   {
-   "venue": "Mission West",
-   "title": "Maxwell and Andy",
-   "date": "2026-12-02",
-   "time": "17:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "The Crepe Place",
    "title": "Leroy & Friends Featuring Luna",
    "date": "2026-12-02",
@@ -6525,7 +6435,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Nucleus",
+   "title": "Nucleus, Erin Malsbury",
    "date": "2026-12-02",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/nucleus-wednesday-december-2-8pm-10",
@@ -6625,10 +6535,10 @@
   },
   {
    "venue": "Lumos Candlelight",
-   "title": "A Classical Christmas Candlelight Experience",
+   "title": "A Classical Christmas Candlelit Experience",
    "date": "2026-12-04",
    "time": "18:00",
-   "url": "https://www.fatsoma.com/e/dk08i0yi/a-classical-christmas-candlelight-experience-in-santa-cruz-ca-friday-december-4th",
+   "url": "https://www.fatsoma.com/e/dk08i0yi/a-classical-christmas-candlelit-experience-in-santa-cruz-ca-friday-december-4th",
    "price": "$25+",
    "info": "Peace United Church of Christ, Santa Cruz",
    "image": "https://cdn2.fatsoma.com/media/W1siZiIsInB1YmxpYy8yMDI2LzkvMS8yMC80LzUyLzE1OS9SYWNrTXVsdGlwYXJ0MjAyNjA5MDEtNTQtZGV2ODg3LmpwZyJdXQ"
@@ -6640,8 +6550,8 @@
    "time": "19:00",
    "url": "https://abbottsquaremarket.com/events/santa-cruz-latin-collective-1",
    "price": null,
-   "info": null,
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7c28a356f3f21a16de1b3/1794622282826/"
+   "info": "Santa Cruz Latin Collective is a dynamic Latin music ensemble based in Santa Cruz, California, bringing together the infectious rhythms…",
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7c28a356f3f21a16de1b3/1795047279080/"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6652,16 +6562,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/AZA-cropped.jpg"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Bite Me",
-   "date": "2026-12-04",
-   "time": "19:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Woodhouse",
@@ -6754,6 +6654,36 @@
    "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7d6c6767c7133ef3141ab/1794627475371/"
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Christmas Party with Billy Reese (Members)",
+   "date": "2026-12-05",
+   "time": "14:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6afe007c720ea4789ee6d8d7",
+   "price": "$10",
+   "info": "Holiday Music! · Food: Cookies and Lite Bites",
+   "image": ""
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Christmas Party with Billy Reese (Non Members",
+   "date": "2026-12-05",
+   "time": "14:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6afe00c30540c4bf48e6d8d7",
+   "price": "$10",
+   "info": "Holiday Music · Food: Cookies!",
+   "image": ""
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Eddie Hayes Solo",
+   "date": "2026-12-05",
+   "time": "15:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/eddie-hayes-solo-2",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Discretion Brewing",
    "title": "Love Creek",
    "date": "2026-12-05",
@@ -6792,16 +6722,6 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/lori-jpg-cropped.jpg"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Eric Morrison & The Mysteries with Moving Van",
-   "date": "2026-12-05",
-   "time": "19:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Rio Theatre",
@@ -6912,16 +6832,6 @@
    "price": null,
    "info": "The Trolley Drops play hokum blues and novelty tunes from the 20s and 30s. Vocally rich, carefree, and infectiously fun, this good time…",
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1740027085666-7WEM3UNGIYTIK6886G8Z/Trolley+Drops.jpeg"
-  },
-  {
-   "venue": "Mission West",
-   "title": "Love Creek",
-   "date": "2026-12-06",
-   "time": "14:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
   },
   {
    "venue": "Discretion Brewing",
@@ -7115,7 +7025,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "The High Surf",
+   "title": "The High Surf, Victoria Lynn",
    "date": "2026-12-09",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/the-high-surf-monkey-hands-8pm-10",
@@ -7152,6 +7062,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791308597125-G1HAGGP5K7U7FVFVDI13/Resized_P1027800.jpeg"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Karin Phoenix Welcome Back Party",
+   "date": "2026-12-10",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/karin-phoenix-welcome-back-party",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -7345,7 +7265,7 @@
   },
   {
    "venue": "Discretion Brewing",
-   "title": "The Trolley Drops",
+   "title": "Twistmas Caroling w/ The Trolley Drops",
    "date": "2026-12-12",
    "time": "15:00",
    "url": "https://www.discretionbrewing.com/events/",
@@ -7402,6 +7322,16 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1782498156478-CDC4X6N3OA9OAR1DU4EW/wooten-brothers-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "NO BRAINER PRODUCTIONS PRESENTS: JAM and the BUTTERED BISCUITS",
+   "date": "2026-12-12",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/no-brainer-productions-presents-jam-the-crepe-place-tickets/15060153?pl=thecrepeplace",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795118807515-0UHG3S48PY1LEKRVNF5O/images.jpg"
   },
   {
    "venue": "Catalyst Main Room",
@@ -7724,16 +7654,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1702788009503-N0J3BPJVZ6OPBIBL83WP/Rasquache.png"
   },
   {
-   "venue": "Mission West",
-   "title": "Lu-Nasty",
-   "date": "2026-12-18",
-   "time": "19:00",
-   "url": "https://missionwestbar.com/santa-cruz-santa-cruz-westside-mission-west-bar-events",
-   "price": null,
-   "info": null,
-   "image": null
-  },
-  {
    "venue": "The Crepe Place",
    "title": "No Brainer Productions Presents: Pete Sawyer And The Left Hand Monkey Wrench Gang",
    "date": "2026-12-18",
@@ -7984,6 +7904,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750956058933-0WQWBOWAAAPPTY4WDXGY/thumbnail_Image.jpg"
   },
   {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Man or Astro-Man?",
+   "date": "2026-12-27",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/65/52/73_Listings.jpg?v=4"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Open Mic",
    "date": "2026-12-28",
@@ -8155,7 +8085,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "No Brainer Productions Presents: Mark Karan's Buds",
+   "title": "No Brainer Productions Presents: Mark Karan's Budz",
    "date": "2027-01-09",
    "time": "20:00",
    "url": "https://www.ticketweb.com/event/mark-karans-buds-the-crepe-place-tickets/14448604?pl=thecrepeplace",
@@ -8684,6 +8614,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2025/05/ChrisCain_web.jpg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Tony Jupiter",
+   "date": "2027-01-28",
+   "time": null,
+   "url": "https://www.prekindle.com/event/31747-tony-jupiter-felton",
+   "price": "$18",
+   "info": null,
+   "image": "http://www.prekindle.com/images/prekindle-logo.png"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley Presents: North Mississippi Allstars",
    "date": "2027-01-29",
@@ -8844,6 +8784,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948976241626"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "World Class Music Live Presents: Damir Imamovic Trio",
+   "date": "2027-02-06",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/world-class-music-live-presents-damir-imamovic-trio/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Damir-jpg-CROPPED.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Where's West",
    "date": "2027-02-06",
@@ -8872,6 +8822,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1750962418971-NXL3FOZ54CS5BH2C7MLT/thumbnail_Image.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "World Class Music Live Presents: Damir Imamovic Trio",
+   "date": "2027-02-07",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/world-class-music-live-presents-damir-imamovic-trio-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Damir-jpg-CROPPED.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -8959,7 +8919,7 @@
    "date": "2027-02-12",
    "time": null,
    "url": "https://www.prekindle.com/event/63892-tommy-castro-felton",
-   "price": "$25",
+   "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948933216256"
   },
@@ -9069,7 +9029,7 @@
    "date": "2027-02-19",
    "time": null,
    "url": "https://www.prekindle.com/event/71732-sun-kil-moon-felton",
-   "price": "$25",
+   "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948933263232"
   },
@@ -9369,7 +9329,7 @@
    "date": "2027-03-05",
    "time": null,
    "url": "https://www.prekindle.com/event/65639-sam-burchfield-felton",
-   "price": "$25",
+   "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948934378547"
   },
@@ -9399,7 +9359,7 @@
    "date": "2027-03-07",
    "time": null,
    "url": "https://www.prekindle.com/event/37247-grateful-shred-felton",
-   "price": "$34",
+   "price": "$31",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948934552454"
   },
@@ -9472,6 +9432,16 @@
    "price": "$24",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948945459275"
+  },
+  {
+   "venue": "UCSC Recital Hall",
+   "title": "UCSC Jazz Big Band—with guest artist Dann Zinn, renowned Bay Area saxophonist/flutist",
+   "date": "2027-03-14",
+   "time": "15:00",
+   "url": "https://events.ucsc.edu/event/jazz-big-band-with-dann-zinn/",
+   "price": "Free – $12",
+   "info": null,
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Photo-16x9-of-Dann-Zinn.png"
   },
   {
    "venue": "Rio Theatre",
@@ -9699,7 +9669,7 @@
    "date": "2027-04-11",
    "time": null,
    "url": "https://www.prekindle.com/event/25413-slow-crush-felton",
-   "price": "$27",
+   "price": "$24",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948934387162"
   },
@@ -9764,6 +9734,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Ekep-Nkwelle-cropped.jpeg"
   },
   {
+   "venue": "Felton Music Hall",
+   "title": "Magenta Wave",
+   "date": "2027-04-30",
+   "time": null,
+   "url": "https://www.prekindle.com/event/86337-magenta-wave-felton",
+   "price": "$16",
+   "info": null,
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948932648160"
+  },
+  {
    "venue": "Santa Cruz Symphony",
    "title": "Also Sprach Zarathustra",
    "date": "2027-05-01",
@@ -9822,6 +9802,16 @@
    "price": "$22",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949007431354"
+  },
+  {
+   "venue": "Catalyst Main Room",
+   "title": "The Wailers — Exodus 2027 World Tour: Album of the Century",
+   "date": "2027-05-13",
+   "time": "20:00",
+   "url": "https://catalystclub.com/event/the-wailers-exodus-2027-world-tour-album-of-the-century/the-catalyst/santa-cruz-california/",
+   "price": "$49.14",
+   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-wailers-exodus-2027-world-tour-album-of-the-century-1.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
