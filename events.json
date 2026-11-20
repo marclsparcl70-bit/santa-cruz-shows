@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T13:59-08:00",
+ "updated": "2026-11-20T13:42-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -24,7 +24,7 @@
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 70
+   "count": 69
   },
   {
    "venue": "Cat Alley Street",
@@ -39,17 +39,17 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "venue": "Mission West",
@@ -59,12 +59,12 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 13
+   "count": 14
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "UCSC Recital Hall",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 16
+   "count": 15
   },
   {
    "venue": "Lumos Candlelight",
@@ -5540,7 +5540,7 @@
    "time": "18:00",
    "url": "https://reservations.elvaquerowinery.com/events/39e197edf0386a3c58ff27ebff984b6021162fa8",
    "price": "$15",
-   "info": "Rock",
+   "info": "Rock · Food: Riot Bites",
    "image": "https://static.wixstatic.com/media/cc50de_6000894049f347cbba64d761bcdfec45~mv2.png"
   },
   {
@@ -5629,7 +5629,7 @@
    "date": "2026-11-20",
    "time": null,
    "url": "https://www.prekindle.com/event/94528-andrew-mcmahon-felton",
-   "price": "$43",
+   "price": "$53",
    "info": "with Ivory Layne",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527949131412110"
   },
@@ -5660,7 +5660,7 @@
    "time": "17:00",
    "url": "https://reservations.elvaquerowinery.com/events/b27c7cfd5d3986b3adf29c8d890274fd08baa375",
    "price": "$10",
-   "info": "Rock · Food: Chubbys",
+   "info": "Rock · Food: Corralitos Pizza",
    "image": "https://static.wixstatic.com/media/cc50de_e500f742bbc04e5881669705eed43294~mv2.png"
   },
   {
@@ -5840,7 +5840,7 @@
    "time": "16:00",
    "url": "https://reservations.elvaquerowinery.com/events/6ae26ace9b8a04f399ecea15",
    "price": "$10",
-   "info": "John Prine Tribute",
+   "info": "John Prine Tribute · Food: Mattia Pizza",
    "image": "https://static.wixstatic.com/media/cc50de_f20a937684f74f7496eb52d29d5d7924~mv2.png"
   },
   {
@@ -6050,7 +6050,7 @@
    "time": "18:00",
    "url": "https://reservations.elvaquerowinery.com/events/6afbb4aa45453b69e12286e6",
    "price": "$10",
-   "info": "CCR",
+   "info": "CCR · Food: SC Eatery",
    "image": "https://static.wixstatic.com/media/cc50de_3738981e41f44c758012e6869aa9557f~mv2.png"
   },
   {
@@ -6530,7 +6530,7 @@
    "time": "18:00",
    "url": "https://reservations.elvaquerowinery.com/events/6af5024d06c5d47238ad22eb",
    "price": "$10",
-   "info": "Tex Mex Cumbia",
+   "info": "Tex Mex Cumbia · Food: Tacos El Jesse",
    "image": "https://static.wixstatic.com/media/cc50de_54faf6d08a61484ebe3d19319d42e108~mv2.png"
   },
   {
@@ -7204,6 +7204,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/cosmic-crop-1.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "No Brainer Productions Presents: Shred Is Dead",
+   "date": "2026-12-11",
+   "time": "19:30",
+   "url": "https://www.ticketweb.com/event/no-brainer-productions-presents-shred-the-crepe-place-tickets/15061063?pl=thecrepeplace",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795135826626-INDWD0KAIFQA1P73O947/B2CF90A4-9A01-4B59-A014-7D040721CD6B.png"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "LIVE! ON STAGE: JONATHAN RICHMAN featuring TOMMY LARKINS on the drums!",
    "date": "2026-12-11",
@@ -7212,16 +7222,6 @@
    "price": null,
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1785211297293-JEO8FRJULYS94Z2CL5OZ/Jeff_Heyman_A1005535-1_5678.jpeg"
-  },
-  {
-   "venue": "The Crepe Place",
-   "title": "The Flamin' Groovies",
-   "date": "2026-12-11",
-   "time": "20:00",
-   "url": "https://www.ticketweb.com/event/the-flamin-groovies-the-crepe-place-tickets/14279814?pl=thecrepeplace",
-   "price": "$25",
-   "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1749136173555-M7FFJ4KSOFKN7F1AAPYA/IMG_0824.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -7382,6 +7382,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Ripatti Rose Band",
+   "date": "2026-12-13",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6affbdc565e2e1b7aae6d8fc",
+   "price": "$10",
+   "info": "Rock ",
+   "image": "https://static.wixstatic.com/media/cc50de_ca0710bcb6be42e88ba58cd58be55d9f~mv2.png"
   },
   {
    "venue": "Abbott Square",
@@ -7681,7 +7691,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:30 PM",
-   "image": "https://i.ticketweb.com/i/00/13/14/59/04_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/13/14/59/04_Listings.jpg?v=5"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -7720,7 +7730,7 @@
    "time": "17:30",
    "url": "https://reservations.elvaquerowinery.com/events/6af5027806c5d47238ad22ec",
    "price": "$10",
-   "info": "Originals",
+   "info": "Originals · Food: Mattia Pizza",
    "image": "https://static.wixstatic.com/media/cc50de_4c9b9a9ae1114c8f8695d22c4f791e13~mv2.png"
   },
   {
@@ -8619,9 +8629,9 @@
    "date": "2027-01-28",
    "time": null,
    "url": "https://www.prekindle.com/event/31747-tony-jupiter-felton",
-   "price": "$18",
+   "price": "$16",
    "info": null,
-   "image": "http://www.prekindle.com/images/prekindle-logo.png"
+   "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948929418453"
   },
   {
    "venue": "Moe's Alley",
@@ -8712,6 +8722,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/the-cookers-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Jess Kerber, Milk Thistle",
+   "date": "2027-02-02",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/milk-thistle-jess-kerber-tuesday-february-2-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795145028725-E5205DM4K98F8MSI47SL/a1252780037_10.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8860,7 +8880,7 @@
    "time": "20:00",
    "url": "https://catalystclub.com/event/vincen-garc%c3%ada/the-catalyst-atrium/santa-cruz-california/",
    "price": "$34.12",
-   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "info": "High-Energy Funk, Jazz Fusion & Incredible Bass Grooves · Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/vincen-garcia.jpeg"
   },
   {
@@ -9569,8 +9589,8 @@
    "date": "2027-03-27",
    "time": "20:00",
    "url": "https://catalystclub.com/event/an-evening-with-yt/the-catalyst/santa-cruz-california/",
-   "price": null,
-   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "price": "$42.71 to $87.34",
+   "info": "Legendary Bay Area Hard Rock, Classic Hits & Blistering Guitar Solos · Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/an-evening-with-yt-1.jpeg"
   },
   {
@@ -9642,6 +9662,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Magos-Herrera-cropped.jpeg"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Moe's Alley Presents: Drakulas",
+   "date": "2027-04-08",
+   "time": "20:00",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://ticketweb.site/sharedassets/images/default-event.jpg"
   },
   {
    "venue": "Rio Theatre",
@@ -9810,7 +9840,7 @@
    "time": "20:00",
    "url": "https://catalystclub.com/event/the-wailers-exodus-2027-world-tour-album-of-the-century/the-catalyst/santa-cruz-california/",
    "price": "$49.14",
-   "info": "Doors: 7 pm Show: 8 pm · Ages 16 and up",
+   "info": "Celebrating 50 Years of Bob Marley & The Wailers' Legendary Exodus Album · Doors: 7 pm Show: 8 pm · Ages 16 and up",
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-wailers-exodus-2027-world-tour-album-of-the-century-1.jpeg"
   },
   {
