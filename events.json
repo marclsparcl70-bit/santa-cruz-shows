@@ -1,40 +1,40 @@
 {
- "updated": "2026-11-21T12:23-08:00",
+ "updated": "2026-11-22T12:36-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 25
+   "count": 23
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 23
+   "count": 22
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 90
+   "count": 88
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 69
+   "count": 68
   },
   {
    "venue": "Cat Alley Street",
    "ok": true,
-   "count": 1
+   "count": 0
   },
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 62
+   "count": 61
   },
   {
    "venue": "Woodhouse",
@@ -44,12 +44,12 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "Mission West",
@@ -59,12 +59,12 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 8
+   "count": 7
   },
   {
    "venue": "UCSC Recital Hall",
@@ -89,7 +89,7 @@
   {
    "venue": "Henfling's Tavern",
    "ok": true,
-   "count": 4
+   "count": 3
   },
   {
    "venue": "Ugly Mug",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 14
+   "count": 13
   },
   {
    "venue": "Lumos Candlelight",
@@ -6255,7 +6255,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Repetitive Behavior, Placate",
+   "title": "Repetitive Behavior, Placate, C.R.A.P.",
    "date": "2026-11-28",
    "time": "21:00",
    "url": "https://www.thecrepeplace.com/shows-list/repetitive-behavior-placate-saturday-november-28-9pm-10",
@@ -6561,7 +6561,7 @@
    "url": "https://abbottsquaremarket.com/events/santa-cruz-latin-collective-1",
    "price": null,
    "info": "Santa Cruz Latin Collective is a dynamic Latin music ensemble based in Santa Cruz, California, bringing together the infectious rhythms…",
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7c28a356f3f21a16de1b3/1795047279080/"
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1795307364574-N2125MIR8JVJ7M2SA0D5/5.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -6662,6 +6662,26 @@
    "price": null,
    "info": "Youth rock show presented by Be Natural music school.",
    "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7d6c6767c7133ef3141ab/1794627475371/"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Case Sale Party with Billy Reese (Members)",
+   "date": "2026-12-05",
+   "time": "14:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6afe007c720ea4789ee6d8d7",
+   "price": "$10",
+   "info": "Holiday Music! · Food: Cookies and Lite Bites",
+   "image": "https://static.wixstatic.com/media/cc50de_1c48cc28869e440aa26d2d2b536321a9~mv2.png"
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Case Sale Party with Billy Reese (Non Members)",
+   "date": "2026-12-05",
+   "time": "14:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6afe00c30540c4bf48e6d8d7",
+   "price": "$10",
+   "info": "Holiday Music · Food: Cookies!",
+   "image": "https://static.wixstatic.com/media/cc50de_6c2e379ea6fe4cfcad6a3a1ccfaf965b~mv2.png"
   },
   {
    "venue": "Cork & Fork",
@@ -6820,8 +6840,8 @@
    "time": "13:00",
    "url": "https://abbottsquaremarket.com/events/the-trolley-drops-1st-sundays-6d9wc",
    "price": null,
-   "info": "The Trolley Drops play hokum blues and novelty tunes from the 20s and 30s. Vocally rich, carefree, and infectiously fun, this good time…",
-   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1740027085666-7WEM3UNGIYTIK6886G8Z/Trolley+Drops.jpeg"
+   "info": "Join Peter Thomas and the Trolley Drops Holiday Jug Band for a \"Twistmas Caroling\" show. These “Carols” pair the bands original humorous…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1795309840606-V37UW6W7OULH6LUVEH2K/Twistmas+December+6th.jpg"
   },
   {
    "venue": "Discretion Brewing",
@@ -7480,8 +7500,8 @@
    "time": "18:00",
    "url": "https://abbottsquaremarket.com/events/twistmas",
    "price": null,
-   "info": null,
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6aeea9c0a159305d9aa332e9/1794026043063/"
+   "info": "Join Peter Thomas and the Trolley Drops Holiday Jug Band for a \"Twistmas Caroling\" show. These “Carols” pair the bands original humorous…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1795310096468-PZLTPTVVFB6KSJIRAG3G/IMG_20261121_165312.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -7580,8 +7600,8 @@
    "time": "18:00",
    "url": "https://abbottsquaremarket.com/events/twistmas-carolers",
    "price": null,
-   "info": null,
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6aeeae8df29ba508b98c7ce6/1794030174415/"
+   "info": "Join Peter Thomas and the Trolley Drops Holiday Jug Band for a \"Twistmas Caroling\" show. These “Carols” pair the bands original humorous…",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1795310465006-7E1Z7VT47474J0Q2KYZ8/IMG_20261121_165310.jpg"
   },
   {
    "venue": "Shanty Shack Brewing",
