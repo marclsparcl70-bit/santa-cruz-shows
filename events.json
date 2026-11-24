@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T12:36-08:00",
+ "updated": "2026-11-23T17:30-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -9,17 +9,17 @@
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 33
+   "count": 34
   },
   {
    "venue": "Rio Theatre",
    "ok": true,
-   "count": 22
+   "count": 21
   },
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 88
+   "count": 87
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -34,7 +34,7 @@
   {
    "venue": "Felton Music Hall",
    "ok": true,
-   "count": 61
+   "count": 60
   },
   {
    "venue": "Woodhouse",
@@ -44,12 +44,12 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 21
+   "count": 19
   },
   {
    "venue": "Discretion Brewing",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Mission West",
@@ -64,7 +64,7 @@
   {
    "venue": "Shanty Shack",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "venue": "UCSC Recital Hall",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 5
+   "count": 6
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "Lumos Candlelight",
@@ -5934,6 +5934,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745725872059-JCAHK7F5OZ2DDAZXLHOY/Screenshot%2B2025-01-13%2Bat%2B11.52.46%E2%80%AFAM.png"
   },
   {
+   "venue": "The Sand Bar",
+   "title": "David DaSilva Jam Night",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://thesandbarcapitola.com/event/david-dasilva-jam-night-11/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/01/dave-Dasilva.jpg"
+  },
+  {
    "venue": "UCSC Recital Hall",
    "title": "UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Symphony No. 5 in E minor, Op. 64",
    "date": "2026-11-24",
@@ -6002,6 +6012,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1787254881832-CEX5O58J44UR1IP0W69T/9ec624_747946371fdd4f2599bf5545c5e0fa9b%7Emv2.jpg"
+  },
+  {
+   "venue": "The Sand Bar",
+   "title": "Climbing Trees",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://thesandbarcapitola.com/event/climbing-trees/",
+   "price": null,
+   "info": null,
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/11/IMG_2885.jpeg"
   },
   {
    "venue": "Felton Music Hall",
@@ -6341,7 +6361,7 @@
    "url": "https://thesandbarcapitola.com/event/dennis-dove-open-jam-26/",
    "price": null,
    "info": null,
-   "image": null
+   "image": "https://thesandbarcapitola.com/wp-content/uploads/2025/10/dennis-dove.jpg"
   },
   {
    "venue": "Ugly Mug",
@@ -6641,7 +6661,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 8:00 PM",
-   "image": "https://i.ticketweb.com/i/00/12/95/44/64_Listings.jpg?v=8"
+   "image": "https://i.ticketweb.com/i/00/12/95/44/64_Listings.jpg?v=9"
   },
   {
    "venue": "Felton Music Hall",
@@ -6884,6 +6904,16 @@
    "image": null
   },
   {
+   "venue": "El Vaquero Winery",
+   "title": "Vinny Johnson Band",
+   "date": "2026-12-06",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6b0359ee6aefb6aa2ae6d927",
+   "price": "$10",
+   "info": "Blues ",
+   "image": "https://static.wixstatic.com/media/cc50de_9df05b68c2434d1c9f0dce5bce708402~mv2.png"
+  },
+  {
    "venue": "Woodhouse",
    "title": "Horse Feathers",
    "date": "2026-12-06",
@@ -7010,7 +7040,7 @@
    "time": null,
    "url": "https://www.prekindle.com/event/62732-the-frights-felton",
    "price": "$29",
-   "info": null,
+   "info": "with eSex",
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948967966165"
   },
   {
@@ -7105,13 +7135,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: The Slackers",
+   "title": "Moe's Alley Presents: The Slackers w/ The Hot Takes",
    "date": "2026-12-10",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/00/12/44_Listings.jpg?v=4"
+   "image": "https://i.ticketweb.com/i/00/13/00/12/44_Listings.jpg?v=6"
   },
   {
    "venue": "The Crepe Place",
@@ -7572,6 +7602,16 @@
    "price": null,
    "info": null,
    "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7db1b356f3f21a16f2988/1794628457998/"
+  },
+  {
+   "venue": "Moe's Alley",
+   "title": "Western Wednesday #97: Swell City Opry x The Stregs",
+   "date": "2026-12-16",
+   "time": "19:30",
+   "url": "https://moesalley.com/calendar",
+   "price": null,
+   "info": "Doors 7:00 PM",
+   "image": "https://i.ticketweb.com/i/00/13/66/30/43_Listings.jpg?v=3"
   },
   {
    "venue": "Discretion Brewing",
@@ -8615,13 +8655,13 @@
   },
   {
    "venue": "Moe's Alley",
-   "title": "Moe's Alley Presents: Angela Autumn",
+   "title": "Moe's Alley Presents: Angela Autumn w/ Abbie McAllister",
    "date": "2027-01-27",
    "time": "20:00",
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://i.ticketweb.com/i/00/13/06/80/14_Listings.jpg?v=5"
+   "image": "https://i.ticketweb.com/i/00/13/06/80/14_Listings.jpg?v=8"
   },
   {
    "venue": "The Crepe Place",
@@ -9701,7 +9741,7 @@
    "url": "https://moesalley.com/calendar",
    "price": null,
    "info": "Doors 7:00 PM",
-   "image": "https://ticketweb.site/sharedassets/images/default-event.jpg"
+   "image": "https://i.ticketweb.com/i/00/13/65/67/53_Listings.jpg?v=3"
   },
   {
    "venue": "Rio Theatre",
