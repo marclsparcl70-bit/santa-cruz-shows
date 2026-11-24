@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-23T17:30-08:00",
+ "updated": "2026-11-24T15:24-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 23
+   "count": 24
   },
   {
    "venue": "Moe's Alley",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 87
+   "count": 96
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 68
+   "count": 73
   },
   {
    "venue": "Cat Alley Street",
@@ -39,7 +39,7 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 6
+   "count": 7
   },
   {
    "venue": "Abbott Square",
@@ -94,7 +94,7 @@
   {
    "venue": "Ugly Mug",
    "ok": true,
-   "count": 10
+   "count": 9
   },
   {
    "venue": "The Sand Bar",
@@ -5944,6 +5944,16 @@
    "image": "https://thesandbarcapitola.com/wp-content/uploads/2026/01/dave-Dasilva.jpg"
   },
   {
+   "venue": "Woodhouse",
+   "title": "RORY LYNCH!",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://www.woodhousebrews.com/calendar",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5b823724f93fd456200b626e/1795541326501-2Y7KKMDGSP4U9AHO2O2W/RORY+TUESDAY.jpg?format=750w"
+  },
+  {
    "venue": "UCSC Recital Hall",
    "title": "UCSC Orchestra—Copland’s Billy the Kid and Tchaikovsky’s Symphony No. 5 in E minor, Op. 64",
    "date": "2026-11-24",
@@ -6455,7 +6465,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "Nucleus, Erin Malsbury",
+   "title": "Nucleus, Erin Malsbury And Friends",
    "date": "2026-12-02",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/nucleus-wednesday-december-2-8pm-10",
@@ -6625,7 +6635,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "The Suitcase Junket",
+   "title": "The Suitcase Junket, Hod Hulphurs",
    "date": "2026-12-04",
    "time": "20:00",
    "url": "https://www.ticketweb.com/event/the-suitcase-junket-the-crepe-place-tickets/14316024?pl=thecrepeplace",
@@ -7381,7 +7391,7 @@
    "url": "https://www.ticketweb.com/event/no-brainer-productions-presents-jam-the-crepe-place-tickets/15060153?pl=thecrepeplace",
    "price": "$15",
    "info": null,
-   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795118807515-0UHG3S48PY1LEKRVNF5O/images.jpg"
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795551881495-HAA3XBTB4S66QYBROGWK/JAM+and+the+BB+%281%29.png"
   },
   {
    "venue": "Catalyst Main Room",
@@ -7574,6 +7584,16 @@
    "image": "https://i.ticketweb.com/i/00/13/12/78/84_Listings.jpg?v=6"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Dig It! Funk Night At The Crepe Place With Trianna Feruza And The Heavy Hitters",
+   "date": "2026-12-15",
+   "time": "21:00",
+   "url": "https://www.thecrepeplace.com/shows-list/dig-it-funk-night-at-the-crepe-place-with-trianna-feruza-and-the-heavy-hitters-tuesday-april-19-at-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1773696996371-ALKV90F71LSBBTR9QQON/colorspiralillusion07.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Willi Carlisle",
    "date": "2026-12-15",
@@ -7675,7 +7695,7 @@
   },
   {
    "venue": "The Crepe Place",
-   "title": "The Ooo-Maus",
+   "title": "The Ooo-Maus, Magick Blues Band, Hod & The Helpers",
    "date": "2026-12-17",
    "time": "20:00",
    "url": "https://www.thecrepeplace.com/shows-list/slow-coast-the-ooo-maus-saturday-september-26-8pm-10",
@@ -8054,6 +8074,16 @@
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981082027"
   },
   {
+   "venue": "Catalyst Main Room",
+   "title": "New Year’s Eve Party",
+   "date": "2026-12-31",
+   "time": "19:30",
+   "url": "https://catalystclub.com/event/new-years-eve-party/the-catalyst/santa-cruz-california/",
+   "price": "$85.71 to $609.36",
+   "info": "Dance into 2027 with a live Bruno Mars tribute, the Isaah Picket Band and a midnight champagne toast. · Show: 7:30 pm · Ages 16 and up",
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/new-years-eve-party-1.jpeg"
+  },
+  {
    "venue": "Moe's Alley",
    "title": "Moe's Alley's NYE Bash with Wooster!",
    "date": "2026-12-31",
@@ -8062,6 +8092,16 @@
    "price": null,
    "info": "Doors 8:00 PM",
    "image": "https://i.ticketweb.com/i/00/13/03/10/44_Listings.jpg?v=6"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "New Year's Eve With The It's Good To Be Here Dj Crew",
+   "date": "2026-12-31",
+   "time": "21:00",
+   "url": "https://www.ticketweb.com/event/new-years-eve-party-with-the-crepe-place-tickets/15069103?pl=thecrepeplace",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795544641178-BFZZS3ORB41X4XHLZO10/images.jpg"
   },
   {
    "venue": "Felton Music Hall",
@@ -8122,6 +8162,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1782920950974-FYLH0R5WT8YK9TKAMLLB/394946073_10226430426039449_7643824922107314814_n.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Maxwell Apra",
+   "date": "2027-01-06",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/maxwell-apra-wednesday-january-6-from-530-to-730pm-on-the-garden-stage-free-show",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795538043946-1HGHTMNA6VK38LFVCR3W/Resized_P1027800.webp"
   },
   {
    "venue": "The Crepe Place",
@@ -8195,6 +8245,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Open Mic",
+   "date": "2027-01-11",
+   "time": "19:00",
+   "url": "https://www.thecrepeplace.com/shows-list/open-mic-monday-august-25-7-10pm-free",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1781801615877-CC11SKGD1TDC8CV9JOQO/1781562597006_123_1.jpeg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "Jazz On The Rocks",
    "date": "2027-01-12",
    "time": "17:30",
@@ -8212,6 +8272,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1778298398504-OK881P7SJMHIZ4HY282L/CJB+square+copy.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "The Litch Brothers",
+   "date": "2027-01-13",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/the-litch-brothers-the-crepe-place-tickets/15068523?pl=thecrepeplace",
+   "price": "$15",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795538636648-OZBID2Z09SO63ZU8WSA2/The%2BLitch%2BBrothers.webp"
   },
   {
    "venue": "Discretion Brewing",
@@ -8314,6 +8384,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/arun-ramamurthy-cropped.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Uncle Funky Fest: Dan P & The Bricks, Bad Maps",
+   "date": "2027-01-16",
+   "time": "19:00",
+   "url": "https://www.thecrepeplace.com/shows-list/uncle-funky-fest-dan-p-the-bricks-bad-maps-saturday-january-16-from-7-to-10pm-on-the-garden-stage-15",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795553881318-C0UM31Z40LPNM85YPISE/dan-p-the-bricks11.webp"
+  },
+  {
    "venue": "Catalyst Atrium",
    "title": "COMEDY NIGHT Starring Chad Opitz with Tyrik Woods",
    "date": "2027-01-16",
@@ -8402,6 +8482,16 @@
    "price": "$10",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1793564210729-0D6LMW52NF1VI7HWIOET/images.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Shirley’S Gig: Dave Egan, Patti Maxine, Bob Basa, Paul Tarantino & Bill Bosch",
+   "date": "2027-01-19",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/shirleys-gig-dave-egan-patti-maxine-bob-basa-paul-tarantino-bill-bosch-tuesday-november-17-from-530-to-730pm-on-the-garden-stage-free",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788727800433-SCQTASK6TTPFFVQC0XBX/Shirley%27s+Gig+%28+square+image+%29.jpeg"
   },
   {
    "venue": "The Crepe Place",
@@ -8634,6 +8724,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/05/michel-petrucciani-cropped.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "FUNK NIGHT Featuring REILLY",
+   "date": "2027-01-26",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/funk-night-featuring-reilly-tuesday-january-26-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795537495454-BOIT8MZN9SA3ZXXAYK5F/images.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "City of the Sun",
    "date": "2027-01-26",
@@ -8672,6 +8772,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1792628347937-3Y0P92F0TJM7TXIR36CI/images.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Joshua Cedar and Friends present...A Tribute to Pat Metheny and John Scofield",
+   "date": "2027-01-28",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/d7umksjfweq5h24lnvkkfs6juposbl",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795550475578-6HW6T7ZYN89Z6FWBYJEP/Vibrant+Jazz+Tribute+Concert+Poster.png"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8878,7 +8988,7 @@
    "title": "Where's West",
    "date": "2027-02-06",
    "time": "20:00",
-   "url": "https://www.thecrepeplace.com/shows-list/wheres-west-eternal-wave-friday-june-26-8pm-10",
+   "url": "https://www.ticketweb.com/event/wheres-west-the-crepe-place-tickets/14415334?pl=thecrepeplace",
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1777478757388-8HZCL7X0OL9SFMSU36ZH/Screenshot-at-Nov-18-23-03-19.png"
@@ -9194,6 +9304,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/Claudia-Villela-cropped-1.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Box Of Stars, Lefty Rosa",
+   "date": "2027-02-25",
+   "time": "20:00",
+   "url": "https://www.thecrepeplace.com/shows-list/box-of-stars-lefty-rosa-thursday-february-25-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795557907161-TIA0KJ2YJXEQMDJQG4BK/0041411320_10.jpg"
+  },
+  {
    "venue": "Rio Theatre",
    "title": "Banff Centre Mountain Film Festival World Tour 2027",
    "date": "2027-02-26",
@@ -9231,7 +9351,7 @@
    "url": "https://events.ucsc.edu/event/family-opera/2027-02-27/3/",
    "price": "Free",
    "info": null,
-   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Theater-seats-stage-GettyImages-1001928116.jpg"
+   "image": "https://events.ucsc.edu/wp-content/uploads/2026/11/Placeholder-image-for-family-opera.jpg"
   },
   {
    "venue": "Rio Theatre",
@@ -9775,6 +9895,16 @@
   },
   {
    "venue": "Kuumbwa Jazz",
+   "title": "Sona Jobarteh",
+   "date": "2027-04-12",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/sona-jobarteh-3/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Sona-Jobarteh-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
    "title": "Varijashree Venugopal",
    "date": "2027-04-14",
    "time": "19:00",
@@ -9825,6 +9955,16 @@
   },
   {
    "venue": "Kuumbwa Jazz",
+   "title": "Alfredo Rodriguez Band feat. Pedrito Martinez",
+   "date": "2027-04-26",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/alfredo-rodriguez-band-feat-pedrito-martinez/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Alfredo-Rodriguez-Pedrito-Martinez-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
    "title": "Ekep Nkwelle",
    "date": "2027-04-28",
    "time": "19:00",
@@ -9864,6 +10004,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/550c8816e4b07f1da6705ffa/1794167635036-8D7M8AXQIL8O6GPZ982V/5-6-27_SilversunPickups_Native_V038.5x11.jpg"
   },
   {
+   "venue": "Kuumbwa Jazz",
+   "title": "Sunny Jain’s Wild Wild East",
+   "date": "2027-05-07",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/sunny-jains-wild-wild-east/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Sunny-Jain-cropped.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Earth Tongue",
    "date": "2027-05-07",
@@ -9872,6 +10022,16 @@
    "price": "$18",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948944955176"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Django Festival All-Stars",
+   "date": "2027-05-08",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/django-festival-all-stars/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Django-Allstars-cropped.jpg"
   },
   {
    "venue": "Rio Theatre",
@@ -9915,6 +10075,16 @@
   },
   {
    "venue": "Kuumbwa Jazz",
+   "title": "Michael Mayo",
+   "date": "2027-05-19",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/michael-mayo-2/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Michael-Mayo-2.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
    "title": "Trio Mandili",
    "date": "2027-05-21",
    "time": "19:00",
@@ -9922,6 +10092,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/10/trio-mandili-cropped.jpg"
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Allison Miller’s Boom Tic Boom",
+   "date": "2027-05-27",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/allison-millers-boom-tic-boom/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/Allison-Miller-cropped.jpg"
   },
   {
    "venue": "UCSC Recital Hall",
