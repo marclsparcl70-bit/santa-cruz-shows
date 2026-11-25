@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T15:24-08:00",
+ "updated": "2026-11-25T14:58-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -19,12 +19,12 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 96
+   "count": 94
   },
   {
    "venue": "Kuumbwa Jazz",
    "ok": true,
-   "count": 73
+   "count": 74
   },
   {
    "venue": "Cat Alley Street",
@@ -39,12 +39,12 @@
   {
    "venue": "Woodhouse",
    "ok": true,
-   "count": 7
+   "count": 6
   },
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 19
+   "count": 21
   },
   {
    "venue": "Discretion Brewing",
@@ -59,7 +59,7 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "Shanty Shack",
@@ -69,7 +69,7 @@
   {
    "venue": "UCSC Recital Hall",
    "ok": true,
-   "count": 19
+   "count": 18
   },
   {
    "venue": "Quarry Amphitheater",
@@ -99,7 +99,7 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 6
+   "count": 5
   },
   {
    "venue": "Cork & Fork",
@@ -5974,6 +5974,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1780961099757-SKCRWZT9JXOV8OAZ8V74/istockphoto-539120415-612x612.jpg"
   },
   {
+   "venue": "Abbott Square",
+   "title": "The Joe Blan Band",
+   "date": "2026-11-25",
+   "time": "17:00",
+   "url": "https://abbottsquaremarket.com/events/joe-blan-band",
+   "price": null,
+   "info": "The Joe Blan Band brings soulful tunes to Abbott Square Market. You’ll know the hits and you’d be crazy not to get down to em!",
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1795578365314-NC121KEDFTU4GIL1TK7O/26.11.24+Joe+Blan+Band+2+%2842+of+1%29.jpg"
+  },
+  {
    "venue": "The Crepe Place",
    "title": "Two Of Us, Live Jazz",
    "date": "2026-11-25",
@@ -6042,6 +6052,16 @@
    "price": "$15",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948981082822"
+  },
+  {
+   "venue": "Abbott Square",
+   "title": "CLOSED FOR THANKSGIVING",
+   "date": "2026-11-26",
+   "time": "00:00",
+   "url": "https://abbottsquaremarket.com/events/closed-for-thanksgiving",
+   "price": null,
+   "info": null,
+   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6b065b38ca84fe02d82c7fab/1795578748338/"
   },
   {
    "venue": "Cork & Fork",
@@ -6494,16 +6514,6 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788382269416-PVXK67KQY0DQIGE9S2QO/jug+band+at+crepe+Dec.pages.jpg"
   },
   {
-   "venue": "El Vaquero Winery",
-   "title": "Ted Welty",
-   "date": "2026-12-03",
-   "time": "19:00",
-   "url": "https://reservations.elvaquerowinery.com/events/6affb7e80540c4bf48e6d8e8",
-   "price": "$5",
-   "info": "Solo Spotlight · Food: Corralitos Pizza ",
-   "image": "https://static.wixstatic.com/media/cc50de_52f3fac6935d44ef93e6db584e7eab02~mv2.png"
-  },
-  {
    "venue": "Kuumbwa Jazz",
    "title": "CANCELLED – Isaiah Sharkey",
    "date": "2026-12-03",
@@ -6691,7 +6701,7 @@
    "url": "https://abbottsquaremarket.com/events/be-natural-1",
    "price": null,
    "info": "Youth rock show presented by Be Natural music school.",
-   "image": "https://static1.squarespace.com/static/63fea813188ad81e69c290b6/640d57544b6daa617dc08c86/6af7d6c6767c7133ef3141ab/1794627475371/"
+   "image": "https://images.squarespace-cdn.com/content/v1/63fea813188ad81e69c290b6/1795643075171-ORVP8BF6LI395DZLTDEA/2-4.png"
   },
   {
    "venue": "El Vaquero Winery",
@@ -9842,6 +9852,16 @@
    "price": null,
    "info": "Classical Series Concert 4 · Civic Auditorium",
    "image": null
+  },
+  {
+   "venue": "Kuumbwa Jazz",
+   "title": "Wildflowers: Kurt Elling with Christian Sands",
+   "date": "2027-04-05",
+   "time": "19:00",
+   "url": "https://www.kuumbwajazz.org/calendar/kurt-elling-christian-sands/",
+   "price": null,
+   "info": null,
+   "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/11/kurt-christian-cropped.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
