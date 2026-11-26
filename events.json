@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-25T14:58-08:00",
+ "updated": "2026-11-26T14:51-08:00",
  "sources": [
   {
    "venue": "Catalyst",
    "ok": true,
-   "count": 24
+   "count": 23
   },
   {
    "venue": "Moe's Alley",
    "ok": true,
-   "count": 34
+   "count": 33
   },
   {
    "venue": "Rio Theatre",
@@ -19,7 +19,7 @@
   {
    "venue": "The Crepe Place",
    "ok": true,
-   "count": 94
+   "count": 99
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -44,7 +44,7 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 21
+   "count": 20
   },
   {
    "venue": "Discretion Brewing",
@@ -59,7 +59,7 @@
   {
    "venue": "El Vaquero Winery",
    "ok": true,
-   "count": 12
+   "count": 11
   },
   {
    "venue": "Shanty Shack",
@@ -99,12 +99,12 @@
   {
    "venue": "The Sand Bar",
    "ok": true,
-   "count": 5
+   "count": 4
   },
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 12
+   "count": 13
   },
   {
    "venue": "Lumos Candlelight",
@@ -6514,6 +6514,16 @@
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1788382269416-PVXK67KQY0DQIGE9S2QO/jug+band+at+crepe+Dec.pages.jpg"
   },
   {
+   "venue": "Cork & Fork",
+   "title": "Animal Shelter Adoption Fundraiser",
+   "date": "2026-12-03",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/animal-shelter-adoption-fundraiser",
+   "price": null,
+   "info": null,
+   "image": null
+  },
+  {
    "venue": "Kuumbwa Jazz",
    "title": "CANCELLED – Isaiah Sharkey",
    "date": "2026-12-03",
@@ -6572,6 +6582,16 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1778634055857-BW2NIH5XP5MXOAR0Y9MT/3608.jpg"
+  },
+  {
+   "venue": "Cork & Fork",
+   "title": "Love Creek",
+   "date": "2026-12-04",
+   "time": "18:00",
+   "url": "https://www.corkandforkcapitola.com/event-details-registration/love-creek-3",
+   "price": null,
+   "info": null,
+   "image": null
   },
   {
    "venue": "El Vaquero Winery",
@@ -7454,16 +7474,6 @@
    "image": null
   },
   {
-   "venue": "El Vaquero Winery",
-   "title": "Ripatti Rose Band",
-   "date": "2026-12-13",
-   "time": "16:00",
-   "url": "https://reservations.elvaquerowinery.com/events/6affbdc565e2e1b7aae6d8fc",
-   "price": "$10",
-   "info": "Rock ",
-   "image": "https://static.wixstatic.com/media/cc50de_157dbee960934ccc905016940e11cc62~mv2.png"
-  },
-  {
    "venue": "Abbott Square",
    "title": "Salsa by The Sea Afterparty",
    "date": "2026-12-13",
@@ -7782,6 +7792,16 @@
    "price": null,
    "info": "Doors 7:30 PM",
    "image": "https://i.ticketweb.com/i/00/13/14/59/04_Listings.jpg?v=5"
+  },
+  {
+   "venue": "Felton Music Hall",
+   "title": "Lotus Lab Winter Solstice",
+   "date": "2026-12-18",
+   "time": null,
+   "url": "https://www.prekindle.com/event/59718-lotus-lab-winter-solstice-felton",
+   "price": "$20",
+   "info": null,
+   "image": "http://www.prekindle.com/images/prekindle-logo.png"
   },
   {
    "venue": "Shanty Shack Brewing",
@@ -8215,6 +8235,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Two Of Us, Live Jazz",
+   "date": "2027-01-09",
+   "time": "17:00",
+   "url": "https://www.thecrepeplace.com/shows-list/two-of-us-live-jazz-on-the-garden-stage-saturday-may-30-from-5-to-7pm-free-event",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1775576991487-H05OKF1BYJGRA1F5LO33/E5F87844-822B-4793-B077-CA4BEB581771.png"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "No Brainer Productions Presents: Mark Karan's Budz",
    "date": "2027-01-09",
    "time": "20:00",
@@ -8505,6 +8535,16 @@
   },
   {
    "venue": "The Crepe Place",
+   "title": "Dig It! Funk Night At The Crepe Place With Trianna Feruza And The Heavy Hitters",
+   "date": "2027-01-19",
+   "time": "21:00",
+   "url": "https://www.thecrepeplace.com/shows-list/dig-it-funk-night-at-the-crepe-place-with-trianna-feruza-and-the-heavy-hitters-tuesday-april-21-at-8pm-10",
+   "price": "$10",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1780961099757-SKCRWZT9JXOV8OAZ8V74/istockphoto-539120415-612x612.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
    "title": "Brian Fitzgerald Trio",
    "date": "2027-01-20",
    "time": "17:30",
@@ -8572,6 +8612,16 @@
    "price": "$15",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791916895735-0RHTIJH8S044QZX9I2HP/Nels-Andrews-2020-web-2.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Two Of Us, Live Jazz On The Garden Stage",
+   "date": "2027-01-22",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/two-of-us-live-jazz-on-the-garden-stage-saturday-february-7-from-5-to-7pm-free-event",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1769664576647-EB42LPFUVMCL9I49YWM3/Rebecca+and+Nancy.jpg"
   },
   {
    "venue": "Kuumbwa Jazz",
@@ -8714,6 +8764,16 @@
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/08/camille-thurman-cropped.jpg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Jazz On The Rocks",
+   "date": "2027-01-26",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/jazz-on-the-rocks-530pm-730pm-free-1",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1745725872059-JCAHK7F5OZ2DDAZXLHOY/Screenshot%2B2025-01-13%2Bat%2B11.52.46%E2%80%AFAM.png"
+  },
+  {
    "venue": "UCSC Recital Hall",
    "title": "Martin Luther King Jr. Convocation",
    "date": "2027-01-26",
@@ -8812,6 +8872,16 @@
    "price": "$16",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948929418453"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "Death And Saxes Jazz Band",
+   "date": "2027-01-29",
+   "time": "17:30",
+   "url": "https://www.thecrepeplace.com/shows-list/death-saxes-jazz-band-thursday-april-9-from-530-to-730pm-free-show-on-the-garden-stage",
+   "price": "FREE",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1778517934443-GFVDDVQRX6G3QN5KQWUO/3608.jpg"
   },
   {
    "venue": "Moe's Alley",
@@ -9182,6 +9252,16 @@
    "price": null,
    "info": null,
    "image": "https://www.kuumbwajazz.org/wp-content/uploads/2026/09/CHEF-cropped.jpg"
+  },
+  {
+   "venue": "The Crepe Place",
+   "title": "(((folkYEAH))) and THE CREPE PLACE PRESENT: THE SUN RA ARKESTRA",
+   "date": "2027-02-18",
+   "time": "20:00",
+   "url": "https://www.ticketweb.com/event/folkyeah-and-the-crepe-place-rio-theatre-tickets/15064663?pl=thecrepeplace",
+   "price": null,
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1795722113392-G0I8WT6S1D8ET78ZC2E4/BCN-20250721-SUNRAARKESTRA-02-scaled.webp"
   },
   {
    "venue": "Rio Theatre",
@@ -9574,6 +9654,16 @@
    "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-lemonheads-the-love-chant-tour.jpeg"
   },
   {
+   "venue": "The Crepe Place",
+   "title": "Chum (Winter Warmer Afterparty)",
+   "date": "2027-03-06",
+   "time": "21:00",
+   "url": "https://www.ticketweb.com/event/chum-winter-warmer-after-party-the-crepe-place-tickets/15073933?pl=thecrepeplace",
+   "price": "$20",
+   "info": null,
+   "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1767662356911-8QWZR9A0ORSE4175F1UQ/IMG_0123.jpg"
+  },
+  {
    "venue": "Felton Music Hall",
    "title": "Grateful Shred",
    "date": "2027-03-07",
@@ -9791,7 +9881,7 @@
    "url": "https://catalystclub.com/event/an-evening-with-yt/the-catalyst/santa-cruz-california/",
    "price": "$42.71 to $87.34",
    "info": "Legendary Bay Area Hard Rock, Classic Hits & Blistering Guitar Solos · Doors: 7 pm Show: 8 pm · Ages 16 and up",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/an-evening-with-yt-1.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/an-evening-with-yt.jpeg"
   },
   {
    "venue": "Kuumbwa Jazz",
