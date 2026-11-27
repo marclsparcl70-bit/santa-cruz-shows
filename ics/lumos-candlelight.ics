@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:2906c08a2b3884cd676f@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261023T183000
 DTEND;TZID=America/Los_Angeles:20261023T213000
 SUMMARY:A Queen vs. Elton John Candlelight Experience @ Lumos Candlelight
@@ -39,7 +39,7 @@ URL:https://www.fatsoma.com/e/mil8vdzz/a-queen-vs-elton-john-candlelight-e
 END:VEVENT
 BEGIN:VEVENT
 UID:a9f6cb38cac71694db25@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261204T180000
 DTEND;TZID=America/Los_Angeles:20261204T210000
 SUMMARY:A Classical Christmas Candlelit Experience @ Lumos Candlelight

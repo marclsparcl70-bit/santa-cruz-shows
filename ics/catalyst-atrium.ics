@@ -26,7 +26,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:65ccd89f2442d63d570f@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261017T090000
 DTEND;TZID=America/Los_Angeles:20261017T120000
 SUMMARY:LUMINARIUM.IO PACIFICA @ Catalyst Atrium
@@ -39,7 +39,7 @@ URL:https://catalystclub.com/event/live-in-the-atrium-luminarium-io-pacifi
 END:VEVENT
 BEGIN:VEVENT
 UID:95dbca50584e7312b704@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261113T190000
 DTEND;TZID=America/Los_Angeles:20261113T220000
 SUMMARY:BITE ME (in the atrium) @ Catalyst Atrium
@@ -51,7 +51,7 @@ URL:https://catalystclub.com/event/bite-me-in-the-atrium/the-catalyst-atri
 END:VEVENT
 BEGIN:VEVENT
 UID:0bd992e910b2e663a257@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261121T193000
 DTEND;TZID=America/Los_Angeles:20261121T223000
 SUMMARY:WAVY TRAIN feat. Donald Glaude + Friends @ Catalyst Atrium
@@ -64,7 +64,7 @@ URL:https://catalystclub.com/event/wavy-train-feat-donald-glaude-friends/t
 END:VEVENT
 BEGIN:VEVENT
 UID:272e4ca907041c5ceb5a@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261125T190000
 DTEND;TZID=America/Los_Angeles:20261125T220000
 SUMMARY:BLACKOUT WEDNESDAY with DJ SARDINE @ Catalyst Atrium
@@ -77,7 +77,7 @@ URL:https://catalystclub.com/event/blackout-wednesday-with-dj-sardine/the-
 END:VEVENT
 BEGIN:VEVENT
 UID:a2b974e103bd5e7d6352@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261204T210000
 DTEND;TZID=America/Los_Angeles:20261205T000000
 SUMMARY:BALD & BOUJEE (PITBULL THEMED Y2K NIGHT) @ Catalyst Atrium
@@ -90,7 +90,7 @@ URL:https://catalystclub.com/event/bald-boujee-pitbull-themed-y2k-night/th
 END:VEVENT
 BEGIN:VEVENT
 UID:6e9f201468230d85cb26@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261205T210000
 DTEND;TZID=America/Los_Angeles:20261206T000000
 SUMMARY:DANCE… 4 U (SLAYYYTER & CHARLI XCX THEMED HYPERPOP NIGHT) @ Cata
@@ -104,7 +104,7 @@ URL:https://catalystclub.com/event/dance-4-u-slayyyter-charli-xcx-themed-h
 END:VEVENT
 BEGIN:VEVENT
 UID:cdeb1fb00f57d0407e3a@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20261218T200000
 DTEND;TZID=America/Los_Angeles:20261218T230000
 SUMMARY:Starcrawler with Sluttony @ Catalyst Atrium
@@ -118,7 +118,7 @@ URL:https://catalystclub.com/event/starcrawler-with-sluttony/the-catalyst-
 END:VEVENT
 BEGIN:VEVENT
 UID:5e3c7c7413d0c68dd1cd@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20270116T193000
 DTEND;TZID=America/Los_Angeles:20270116T223000
 SUMMARY:COMEDY NIGHT Starring Chad Opitz with Tyrik Woods @ Catalyst Atriu
@@ -133,7 +133,7 @@ URL:https://catalystclub.com/event/comedy-night-starring-chad-opitz-with-t
 END:VEVENT
 BEGIN:VEVENT
 UID:4dc6e80fc725f82ab6ed@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20270127T200000
 DTEND;TZID=America/Los_Angeles:20270127T230000
 SUMMARY:Youth Fountain with Relate @ Catalyst Atrium
@@ -147,7 +147,7 @@ URL:https://catalystclub.com/event/youth-fountain-with-relate/the-catalyst
 END:VEVENT
 BEGIN:VEVENT
 UID:3e618151ff590e0f8aa1@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20270209T200000
 DTEND;TZID=America/Los_Angeles:20270209T230000
 SUMMARY:Vincen García @ Catalyst Atrium
@@ -160,7 +160,7 @@ URL:https://catalystclub.com/event/vincen-garc%c3%ada/the-catalyst-atrium/
 END:VEVENT
 BEGIN:VEVENT
 UID:d0ca0d2b741b7f84c07c@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20270227T210000
 DTEND;TZID=America/Los_Angeles:20270228T000000
 SUMMARY:Girl Ultra: el Tour de RRRomeo @ Catalyst Atrium
@@ -174,7 +174,7 @@ URL:https://catalystclub.com/event/girl-ultra-el-tour-de-rrromeo/the-catal
 END:VEVENT
 BEGIN:VEVENT
 UID:db3dcc94591ce9cf0bf7@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20270302T200000
 DTEND;TZID=America/Los_Angeles:20270302T230000
 SUMMARY:CODEFENDANTS + Jakob Nowell and THE CASTLE @ Catalyst Atrium
@@ -187,7 +187,7 @@ URL:https://catalystclub.com/event/codefendants-jakob-nowell-and-the-castl
 END:VEVENT
 BEGIN:VEVENT
 UID:99055685fa0d0937dec8@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20270304T203000
 DTEND;TZID=America/Los_Angeles:20270304T233000
 SUMMARY:Tommy Lefroy with Al Olender @ Catalyst Atrium
@@ -201,7 +201,7 @@ URL:https://catalystclub.com/event/tommy-lefroy-with-al-olender/the-cataly
 END:VEVENT
 BEGIN:VEVENT
 UID:64063469040a81aed00b@santa-cruz-shows
-DTSTAMP:20261126T225146Z
+DTSTAMP:20261127T223200Z
 DTSTART;TZID=America/Los_Angeles:20270306T203000
 DTEND;TZID=America/Los_Angeles:20270306T233000
 SUMMARY:The Lemonheads: The Love Chant Tour @ Catalyst Atrium

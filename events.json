@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:51-08:00",
+ "updated": "2026-11-27T14:32-08:00",
  "sources": [
   {
    "venue": "Catalyst",
@@ -44,7 +44,7 @@
   {
    "venue": "Abbott Square",
    "ok": true,
-   "count": 20
+   "count": 19
   },
   {
    "venue": "Discretion Brewing",
@@ -104,7 +104,7 @@
   {
    "venue": "Cork & Fork",
    "ok": true,
-   "count": 13
+   "count": 12
   },
   {
    "venue": "Lumos Candlelight",
@@ -6179,7 +6179,7 @@
    "date": "2026-11-27",
    "time": null,
    "url": "https://www.prekindle.com/event/25867-moonalice-felton",
-   "price": "$20",
+   "price": "$25",
    "info": null,
    "image": "https://d1yf68t7nbxlyn.cloudfront.net/image/id/-2852527948976674293"
   },
@@ -6212,16 +6212,6 @@
    "price": "FREE",
    "info": null,
    "image": "https://images.squarespace-cdn.com/content/v1/5f371a0781c3fe6a3e650a90/1791216928405-R9VRJ9EFZX7XFMB6TCRY/image1.png"
-  },
-  {
-   "venue": "El Vaquero Winery",
-   "title": "Absent Minds",
-   "date": "2026-11-28",
-   "time": "17:30",
-   "url": "https://reservations.elvaquerowinery.com/events/6adb8c9e9224c0cbe7eb45be",
-   "price": "$10",
-   "info": "Rock",
-   "image": "https://static.wixstatic.com/media/cc50de_cd7485b6944d4a6790a1e1a405709b16~mv2.png"
   },
   {
    "venue": "Cork & Fork",
@@ -7472,6 +7462,16 @@
    "price": null,
    "info": null,
    "image": null
+  },
+  {
+   "venue": "El Vaquero Winery",
+   "title": "Ripatti Rose Band",
+   "date": "2026-12-13",
+   "time": "16:00",
+   "url": "https://reservations.elvaquerowinery.com/events/6affbdc565e2e1b7aae6d8fc",
+   "price": "$10",
+   "info": "Rock ",
+   "image": "https://static.wixstatic.com/media/cc50de_8927b0a45cec474c94460a505d6d8bd3~mv2.jpg"
   },
   {
    "venue": "Abbott Square",
@@ -9651,7 +9651,7 @@
    "url": "https://catalystclub.com/event/the-lemonheads-the-love-chant-tour/the-catalyst-atrium/santa-cruz-california/",
    "price": "$45.95",
    "info": "The Love Chant Tour | '90s Alternative Rock Classics, Timeless Hits & New Music · Doors: 7:30 pm Show: 8:30 pm · All Ages",
-   "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-lemonheads-the-love-chant-tour.jpeg"
+   "image": "https://catalystclub.com/wp-content/uploads/2026/11/the-lemonheads-the-love-chant-tour-1.jpeg"
   },
   {
    "venue": "The Crepe Place",
